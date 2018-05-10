@@ -1,3 +1,160 @@
-[
-  
-]
+{
+  "entries":{
+    "42":{
+      "eventId":42, "attributes":[
+        {
+          "eventId":42, "attribute":"pure", "percent":20
+        }
+      ],
+      "characters":[
+        {
+          "eventId":42, "characterId":6, "percent":10
+        },
+        {
+          "eventId":42, "characterId":7, "percent":10
+        },
+        {
+          "eventId":42, "characterId":8, "percent":10
+        },
+        {
+          "eventId":42, "characterId":9, "percent":10
+        },
+        {
+          "eventId":42, "characterId":10, "percent":10
+        }
+      ],
+      "stories":[
+        {
+          "eventId":42, "seq":0, "caption":"オープニング", "title":"ドキワク不足！", "synopsis":"大好きなマンガの連載終了に落ち込むモカ。\nそんなモカを励まそうとしたつぐみは……", "scenarioId":"event42-01", "coverImage":"42_0", "backgroundImage":"176", "releasePt":0, "releaseConditions":"オープニングシナリオ", "rewards":[
+            {
+              "id":599, "eventId":42, "seq":0, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+            },
+            {
+              "id":600, "eventId":42, "seq":0, "rewardType":"star", "rewardQuantity":50
+            }
+          ]
+        },
+        {
+          "eventId":42, "seq":1, "caption":"第１話", "title":"モカってきたかも？", "synopsis":"マンガ作りを始めるも、悩むモカとつぐみ。\nそこへ巴、蘭、ひまりがやってきて――？", "scenarioId":"event42-02", "coverImage":"42_1", "backgroundImage":"176", "releasePt":1500, "releaseConditions":"1500イベントP達成", "rewards":[
+            {
+              "id":601, "eventId":42, "seq":1, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+            },
+            {
+              "id":602, "eventId":42, "seq":1, "rewardType":"star", "rewardQuantity":50
+            }
+          ]
+        },
+        {
+          "eventId":42, "seq":2, "caption":"第２話", "title":"なんか謎っぽい血の末裔", "synopsis":"テニス部所属のひまりは、友希那が\n自分にだけ厳しいことに悩んでいたが……", "scenarioId":"event42-03", "coverImage":"42_2", "backgroundImage":"177", "releasePt":4000, "releaseConditions":"4000イベントP達成", "rewards":[
+            {
+              "id":603, "eventId":42, "seq":2, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+            },
+            {
+              "id":604, "eventId":42, "seq":2, "rewardType":"star", "rewardQuantity":50
+            }
+          ]
+        },
+        {
+          "eventId":42, "seq":3, "caption":"第３話", "title":"あやしい転校生", "synopsis":"転校生のひまりは友達ができず悩んでいた。\nある日、謎めいた転校生がやってきて……", "scenarioId":"event42-04", "coverImage":"42_3", "backgroundImage":"176", "releasePt":9000, "releaseConditions":"9000イベントP達成", "rewards":[
+            {
+              "id":605, "eventId":42, "seq":3, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+            },
+            {
+              "id":606, "eventId":42, "seq":3, "rewardType":"star", "rewardQuantity":50
+            }
+          ]
+        },
+        {
+          "eventId":42, "seq":4, "caption":"第４話", "title":"熱き友情、拳の誓い", "synopsis":"争いが続く２つの学校。決着をつけようと\nトップ同士の戦いが決まっていたが――！？", "scenarioId":"event42-05", "coverImage":"42_4", "backgroundImage":"176", "releasePt":17500, "releaseConditions":"17500イベントP達成", "rewards":[
+            {
+              "id":607, "eventId":42, "seq":4, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+            },
+            {
+              "id":608, "eventId":42, "seq":4, "rewardType":"star", "rewardQuantity":50
+            }
+          ]
+        },
+        {
+          "eventId":42, "seq":5, "caption":"第５話", "title":"マジカル少女ひまり", "synopsis":"偉大なる魔法使いの生まれ変わりである\nひまりは、日夜悪魔と戦っていたが……", "scenarioId":"event42-06", "coverImage":"42_5", "backgroundImage":"176", "releasePt":25000, "releaseConditions":"25000イベントP達成", "rewards":[
+            {
+              "id":609, "eventId":42, "seq":5, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+            },
+            {
+              "id":610, "eventId":42, "seq":5, "rewardType":"star", "rewardQuantity":50
+            }
+          ]
+        },
+        {
+          "eventId":42, "seq":6, "caption":"エンディング", "title":"漫画家への道", "synopsis":"話が決まらず肩を落とすつぐみに、\nモカは思いもよらない言葉を告げる――", "scenarioId":"event42-07", "coverImage":"42_6", "backgroundImage":"176", "releasePt":35000, "releaseConditions":"35000イベントP達成", "rewards":[
+            {
+              "id":611, "eventId":42, "seq":6, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+            },
+            {
+              "id":612, "eventId":42, "seq":6, "rewardType":"star", "rewardQuantity":50
+            }
+          ]
+        }
+      ],
+      "musics":[
+        {
+          "eventId":42, "musicId":117, "seq":1, "musicRankingRewards":[
+            {
+              "id":613, "eventId":42, "musicId":117, "fromRank":1, "toRank":1, "resourceType":"degree", "resourceId":690, "quantity":1, "recommendFlg":0
+            },
+            {
+              "id":614, "eventId":42, "musicId":117, "fromRank":1, "toRank":1, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+            },
+            {
+              "id":615, "eventId":42, "musicId":117, "fromRank":2, "toRank":2, "resourceType":"degree", "resourceId":691, "quantity":1, "recommendFlg":0
+            },
+            {
+              "id":616, "eventId":42, "musicId":117, "fromRank":2, "toRank":2, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+            },
+            {
+              "id":617, "eventId":42, "musicId":117, "fromRank":3, "toRank":3, "resourceType":"degree", "resourceId":692, "quantity":1, "recommendFlg":0
+            },
+            {
+              "id":618, "eventId":42, "musicId":117, "fromRank":3, "toRank":3, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+            },
+            {
+              "id":619, "eventId":42, "musicId":117, "fromRank":4, "toRank":10, "resourceType":"degree", "resourceId":693, "quantity":1, "recommendFlg":0
+            },
+            {
+              "id":620, "eventId":42, "musicId":117, "fromRank":4, "toRank":10, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+            },
+            {
+              "id":621, "eventId":42, "musicId":117, "fromRank":11, "toRank":100, "resourceType":"degree", "resourceId":694, "quantity":1, "recommendFlg":0
+            },
+            {
+              "id":622, "eventId":42, "musicId":117, "fromRank":11, "toRank":100, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+            },
+            {
+              "id":623, "eventId":42, "musicId":117, "fromRank":101, "toRank":1000, "resourceType":"practice_ticket", "resourceId":7, "quantity":5, "recommendFlg":0
+            },
+            {
+              "id":624, "eventId":42, "musicId":117, "fromRank":1001, "toRank":2000, "resourceType":"practice_ticket", "resourceId":7, "quantity":3, "recommendFlg":0
+            },
+            {
+              "id":625, "eventId":42, "musicId":117, "fromRank":2001, "toRank":5000, "resourceType":"practice_ticket", "resourceId":7, "quantity":2, "recommendFlg":0
+            },
+            {
+              "id":626, "eventId":42, "musicId":117, "fromRank":5001, "toRank":10000, "resourceType":"practice_ticket", "resourceId":7, "quantity":1, "recommendFlg":0
+            },
+            {
+              "id":627, "eventId":42, "musicId":117, "fromRank":10001, "toRank":20000, "resourceType":"practice_ticket", "resourceId":6, "quantity":5, "recommendFlg":0
+            },
+            {
+              "id":628, "eventId":42, "musicId":117, "fromRank":20001, "toRank":30000, "resourceType":"practice_ticket", "resourceId":6, "quantity":3, "recommendFlg":0
+            },
+            {
+              "id":629, "eventId":42, "musicId":117, "fromRank":30001, "toRank":50000, "resourceType":"practice_ticket", "resourceId":6, "quantity":2, "recommendFlg":0
+            },
+            {
+              "id":630, "eventId":42, "musicId":117, "fromRank":50001, "toRank":100000, "resourceType":"practice_ticket", "resourceId":6, "quantity":1, "recommendFlg":0
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
