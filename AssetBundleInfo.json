@@ -1,5 +1,5 @@
 {
-  "version":"2.2.0.500", "bundles":{
+  "version":"2.2.0.600", "bundles":{
     " sound/voice/scenario/loginstory13":{
       "bundleName":" sound/voice/scenario/loginstory13", "hash":"84b185094e6fe1883e5a141ccd60f915fdec447c4dfb9bda980a643708640060", "category":"AsNeeded", "crc":293788668, "fileSize":961230
     },
@@ -4588,7 +4588,7 @@
       "bundleName":"comic/comic_singleframe_thumbnail/comic_065", "hash":"51708e8793aec68c33c3ced5f4224eba850036c82cb1736760b5df0de06c0145", "category":"AsNeeded", "crc":3884237380, "fileSize":74581
     },
     "commenthomebanner":{
-      "bundleName":"commenthomebanner", "hash":"1638c0257624cbdd1f1e99c53ec8304af4dada8fe80e61e17c2df08a66b4bf30", "category":"AsNeeded", "crc":2712963155, "fileSize":71574
+      "bundleName":"commenthomebanner", "hash":"1db8eeab987050e5cf45e79f2d32d2b5f4dada8fe80e61e17c2df08a66b4bf30", "category":"AsNeeded", "crc":1711923847, "fileSize":100114
     },
     "effect/common_materials":{
       "bundleName":"effect/common_materials", "hash":"718207b09c46593d2ef33c86f8ec960128f239d9f33706cf5c29231391c24fc1", "category":"StartApp", "crc":369920130, "fileSize":300765
@@ -4877,6 +4877,9 @@
     },
     "event/loginbonus/600man_anniversary":{
       "bundleName":"event/loginbonus/600man_anniversary", "hash":"d8981091d07d893db881a5dc348e5c20286933b389180f3f86f9f4f073e841aa", "category":"AsNeeded", "crc":1756739415, "fileSize":1347777
+    },
+    "event/loginbonus/650man_anniversary":{
+      "bundleName":"event/loginbonus/650man_anniversary", "hash":"b697ff68897598933a0033ea5a5ec999d6af922cfedbd738c911c9fd1f2e8c96", "category":"AsNeeded", "crc":316769408, "fileSize":1292452
     },
     "event/loginbonus/anfang_release":{
       "bundleName":"event/loginbonus/anfang_release", "hash":"f112a86ff3d39a301488fcbd19dbaf20a4ba7ba8567e0648db4ecde287ac3470", "category":"AsNeeded", "crc":2155961078, "fileSize":1343028
@@ -5673,6 +5676,12 @@
       ],
       "fileSize":901330
     },
+    "gacha/screen/gacha243":{
+      "bundleName":"gacha/screen/gacha243", "hash":"cdace03b8114ec0334ad3d77ca4e0990d519c3ccef5b1718f516505b683bd59d", "category":"AsNeeded", "crc":623431401, "dependencies":[
+        "effect/common_materials"
+      ],
+      "fileSize":629100
+    },
     "gacha/screen/gacha4":{
       "bundleName":"gacha/screen/gacha4", "hash":"e28509dffe790305217c7e2ba83fcced45c3d8ff64aea66de399984da2144062", "category":"AsNeeded", "crc":3393184698, "fileSize":524230
     },
@@ -5695,7 +5704,7 @@
       "bundleName":"genericanimation/dream_festival_1803", "hash":"71578eea2cd1d681e2ee0a1d3f776570647693c15b26be902990b9056f4a92d8", "category":"AsNeeded", "crc":2695676115, "fileSize":2114543
     },
     "homebanner":{
-      "bundleName":"homebanner", "hash":"5864f04631e677e26006fd006ab6318d578e1801cf37bea8d19805e333aba690", "category":"StartApp", "crc":303093059, "fileSize":13653427
+      "bundleName":"homebanner", "hash":"ee32221abc9b16637d512ecaefc7fe2b578e1801cf37bea8d19805e333aba690", "category":"StartApp", "crc":2165901682, "fileSize":13724049
     },
     "ingameskin/bgskin/skin00":{
       "bundleName":"ingameskin/bgskin/skin00", "hash":"e4ae3bd54e83d4dfec5198972c631e98bb71af161f99855ea24133093d7e43e7", "category":"StartApp", "crc":2774571557, "fileSize":2025808
@@ -8352,6 +8361,9 @@
     "musicjacket/129_fantastic_future":{
       "bundleName":"musicjacket/129_fantastic_future", "hash":"bfa785e8947b0b19781cf62d2c27da201975afd98e187b2dd9236d5b21af995c", "category":"StartApp", "crc":1944371102, "fileSize":192490
     },
+    "musicjacket/130_saikou":{
+      "bundleName":"musicjacket/130_saikou", "hash":"4dab7685cb33b14b3d60dc684ba3416ab8584c340cac99a62b3f384d28424977", "category":"StartApp", "crc":137505424, "fileSize":108633
+    },
     "musicjacket/alchemy":{
       "bundleName":"musicjacket/alchemy", "hash":"d5172bed8ac4c86517b868067abe77beadcaa4b024217ecfe4cd4bf1a4b3e641", "category":"StartApp", "crc":2185185025, "fileSize":142980
     },
@@ -8876,6 +8888,9 @@
     },
     "musicscore/129":{
       "bundleName":"musicscore/129", "hash":"cad31ba32b5b3ec8e7d6fefe80ef4eceb349464da715bf00db479a6bae423444", "category":"StartApp", "crc":3307156004, "fileSize":8553
+    },
+    "musicscore/130":{
+      "bundleName":"musicscore/130", "hash":"b8e74a704d64734b46d88c2da6b92b61ac2fb8fb58e38690db2106f20aee75eb", "category":"StartApp", "crc":4249787686, "fileSize":9349
     },
     "newsituationintroduction":{
       "bundleName":"newsituationintroduction", "hash":"7ff4d904113ed220bf8dd03d0d69362d371e1cd5a30fa8ec4e930b02e45d6abc", "category":"StartApp", "crc":2361119035, "fileSize":857729
@@ -10929,6 +10944,9 @@
     "sound/bgm129":{
       "bundleName":"sound/bgm129", "hash":"19f12a26340152b20fbc88dad4c836672713941f1f5a545ed408d694fa4f00e7", "category":"AsNeeded", "crc":3834832695, "fileSize":3550995
     },
+    "sound/bgm130":{
+      "bundleName":"sound/bgm130", "hash":"d48f5b25ddc4514791f7d6e7fb63923c3eeef1744fd5c0c800c91595a47539df", "category":"AsNeeded", "crc":1992755004, "fileSize":3585421
+    },
     "sound/chorus001":{
       "bundleName":"sound/chorus001", "hash":"2ffd745cfe3bd7c68ea6b5ea1df2c036c77ae342d74f0196502a3aa62c024725", "category":"StartApp", "crc":39952628, "fileSize":283474
     },
@@ -11315,6 +11333,9 @@
     },
     "sound/chorus129":{
       "bundleName":"sound/chorus129", "hash":"7e35173e09fe856b3a09afe0834393d64d9a02ae35f9cf29bc33a8da9f96bd44", "category":"StartApp", "crc":2633412609, "fileSize":218299
+    },
+    "sound/chorus130":{
+      "bundleName":"sound/chorus130", "hash":"5aee7f17865fcd4c3afda179c26f334845e31196ac9a9e0b1d19e7141d0928b6", "category":"StartApp", "crc":410334815, "fileSize":233474
     },
     "sound/common":{
       "bundleName":"sound/common", "hash":"31666a42d63d67e33e88fb6f0625d1ec976046ccb221619c8fd6c9c66deeaabe", "category":"StartApp", "crc":907257583, "fileSize":1213739
@@ -12300,14 +12321,74 @@
     "sound/voice/scenario/bandstory197":{
       "bundleName":"sound/voice/scenario/bandstory197", "hash":"ce775ce523a4ef2a6201f09a28c785cd68816cb005ff9655a07d9346f3069233", "category":"AsNeeded", "crc":2401480044, "fileSize":1122710
     },
+    "sound/voice/scenario/bandstory198":{
+      "bundleName":"sound/voice/scenario/bandstory198", "hash":"ab19805acd62d5614d548b7bf8c2eb4fe038657b11323fa13aec351530568418", "category":"AsNeeded", "crc":2881239231, "fileSize":1516972
+    },
+    "sound/voice/scenario/bandstory199":{
+      "bundleName":"sound/voice/scenario/bandstory199", "hash":"ad9248ddc37ebe0696c196026a0b976cec4f67903d55ed1aab4da2d918f7f319", "category":"AsNeeded", "crc":1577536974, "fileSize":1947687
+    },
     "sound/voice/scenario/bandstory2":{
       "bundleName":"sound/voice/scenario/bandstory2", "hash":"f0b28354e15bf6aaae92d18b233392c35fd55e28d7318a4b729077f51047ed1d", "category":"AsNeeded", "crc":3735213033, "fileSize":1231255
     },
     "sound/voice/scenario/bandstory20":{
       "bundleName":"sound/voice/scenario/bandstory20", "hash":"90f22cdbdf63f6b1e99bcd80fe13483021e4945eb7917862196ed28135c3a584", "category":"AsNeeded", "crc":1348044322, "fileSize":1088621
     },
+    "sound/voice/scenario/bandstory200":{
+      "bundleName":"sound/voice/scenario/bandstory200", "hash":"b76e7f5c1843971c06fe9239f6057a56c295e5b7455f202d83ea8f8e2f82d7c2", "category":"AsNeeded", "crc":3877067309, "fileSize":1893626
+    },
+    "sound/voice/scenario/bandstory201":{
+      "bundleName":"sound/voice/scenario/bandstory201", "hash":"47bf2614c68e51901b7a13bf2518b03d532e28e430b9af00922d8d7f7ac04d8b", "category":"AsNeeded", "crc":3799459785, "fileSize":919887
+    },
+    "sound/voice/scenario/bandstory202":{
+      "bundleName":"sound/voice/scenario/bandstory202", "hash":"63b05659de13567f1b95a7521b3c91150842b0b14927c33bed45be4e57c81ba1", "category":"AsNeeded", "crc":777609897, "fileSize":1465648
+    },
+    "sound/voice/scenario/bandstory203":{
+      "bundleName":"sound/voice/scenario/bandstory203", "hash":"430269057d19ea006b5fd1cd7a6c992bbd5fadb4b3aebc6d61bb047e144f22df", "category":"AsNeeded", "crc":2240437614, "fileSize":1166447
+    },
+    "sound/voice/scenario/bandstory204":{
+      "bundleName":"sound/voice/scenario/bandstory204", "hash":"74a97c1663202b208919c2c8e49501971625266728a976f08c2b7df17821c71d", "category":"AsNeeded", "crc":1810083065, "fileSize":1376068
+    },
+    "sound/voice/scenario/bandstory205":{
+      "bundleName":"sound/voice/scenario/bandstory205", "hash":"3f758873e97550cd001ca3dbb81556bac9f4c4ba11e0ded72478a7b1317cb217", "category":"AsNeeded", "crc":1280504081, "fileSize":1525842
+    },
+    "sound/voice/scenario/bandstory206":{
+      "bundleName":"sound/voice/scenario/bandstory206", "hash":"c12e65d58083461c16e73826270fa474bb9468bcd7e9f3ed43261a2d7c486d4a", "category":"AsNeeded", "crc":2347288309, "fileSize":1717556
+    },
+    "sound/voice/scenario/bandstory207":{
+      "bundleName":"sound/voice/scenario/bandstory207", "hash":"6a45e0fbc7153f9298623ae609ab15b7514f434474b4de34911d957a2ef81a4c", "category":"AsNeeded", "crc":323666733, "fileSize":893800
+    },
+    "sound/voice/scenario/bandstory208":{
+      "bundleName":"sound/voice/scenario/bandstory208", "hash":"c99aa8a9532a247bcf98670ec5fdf1a8f921cb9fab36a6ac2b41a9f2c9ee6875", "category":"AsNeeded", "crc":4246568248, "fileSize":1888577
+    },
+    "sound/voice/scenario/bandstory209":{
+      "bundleName":"sound/voice/scenario/bandstory209", "hash":"b1341ee84701f1056ccaee5c255577b907656f6d466506e39df153aefa9c3f70", "category":"AsNeeded", "crc":2275350578, "fileSize":1355121
+    },
     "sound/voice/scenario/bandstory21":{
       "bundleName":"sound/voice/scenario/bandstory21", "hash":"c057cc7ae6a07305865e436409335ab5e9d3813685b7cd78088c01f06cded7c5", "category":"AsNeeded", "crc":625352689, "fileSize":1248787
+    },
+    "sound/voice/scenario/bandstory210":{
+      "bundleName":"sound/voice/scenario/bandstory210", "hash":"9b0ddf1e83fe6fda7c4175b3af65359aa00dfd6c217fd9694f6947add89cf363", "category":"AsNeeded", "crc":1431259682, "fileSize":1159238
+    },
+    "sound/voice/scenario/bandstory211":{
+      "bundleName":"sound/voice/scenario/bandstory211", "hash":"aeb91269af628a1c11a07928750d6da57d4d50db60e8e0f9a87b82360e03e8a2", "category":"AsNeeded", "crc":3083310339, "fileSize":1251790
+    },
+    "sound/voice/scenario/bandstory212":{
+      "bundleName":"sound/voice/scenario/bandstory212", "hash":"6f72ee77bd41d72c766d85862f6e795e6663e33c8fef89ca05e2b0169c18d559", "category":"AsNeeded", "crc":2361343828, "fileSize":1178011
+    },
+    "sound/voice/scenario/bandstory213":{
+      "bundleName":"sound/voice/scenario/bandstory213", "hash":"1c38e9a92535501bc500538d6c147df39d72d80d87e5d477953749662c80722b", "category":"AsNeeded", "crc":3897508018, "fileSize":1415181
+    },
+    "sound/voice/scenario/bandstory214":{
+      "bundleName":"sound/voice/scenario/bandstory214", "hash":"b0b65a16ef6902423578bf84d129382c7d47492532e302e1cc1190a783506692", "category":"AsNeeded", "crc":1537149159, "fileSize":789788
+    },
+    "sound/voice/scenario/bandstory215":{
+      "bundleName":"sound/voice/scenario/bandstory215", "hash":"c1d3bf2ab93cd327e570774e93b64ad7d62f954a3bdd8785a97ba6ada2f40680", "category":"AsNeeded", "crc":3470751085, "fileSize":1716518
+    },
+    "sound/voice/scenario/bandstory216":{
+      "bundleName":"sound/voice/scenario/bandstory216", "hash":"f87eb1efefc52b151f8b236feb876c6bf5db17e5cd376e672521133204df7df1", "category":"AsNeeded", "crc":3824372742, "fileSize":1059354
+    },
+    "sound/voice/scenario/bandstory217":{
+      "bundleName":"sound/voice/scenario/bandstory217", "hash":"34e78edb9ddce7f5f78a4cff967fb8a2f8dd24352b1f5032c3535e6c3c0e2af8", "category":"AsNeeded", "crc":2339191556, "fileSize":1663358
     },
     "sound/voice/scenario/bandstory22":{
       "bundleName":"sound/voice/scenario/bandstory22", "hash":"885979793464be1afd7eda69091a703d88d8c01b78894d7db50cc226ee70b9d0", "category":"AsNeeded", "crc":549202321, "fileSize":1233599
@@ -16529,6 +16610,9 @@
     },
     "title/band1_chapter02":{
       "bundleName":"title/band1_chapter02", "hash":"f9a86e3467bf71e7e5fca60d3a405ad0241cbaaddea9f83f7d3c230fd07d2d8e", "category":"AsNeeded", "crc":541647884, "fileSize":2680481
+    },
+    "title/band4_chapter02":{
+      "bundleName":"title/band4_chapter02", "hash":"8e6ad2716b6679a77e05d299d8ff3e7a39ae22da19ed8f61da37a50140d46c6d", "category":"AsNeeded", "crc":2524703941, "fileSize":2704660
     },
     "title/band5_chapter02":{
       "bundleName":"title/band5_chapter02", "hash":"d12ec82337eee70039b3ed84cacc196dc8c697efde75f4510c66ab61248c4ade", "category":"AsNeeded", "crc":866558209, "fileSize":2729885
