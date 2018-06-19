@@ -9,11 +9,23 @@
     "dialog_downloadMV_viewQuality":{
       "name":"dialog_downloadMV_viewQuality", "wording":"MV再生モード画質設定：{0}"
     },
+    "memberList_notExistMessage":{
+      "name":"memberList_notExistMessage", "wording":"絞り込み条件に該当するメンバーがいません。"
+    },
+    "header_subTitle_biographyCharacterAlbum":{
+      "name":"header_subTitle_biographyCharacterAlbum", "wording":"アルバム"
+    },
+    "dialog_liveSettings_liveEffectCaption":{
+      "name":"dialog_liveSettings_liveEffectCaption", "wording":"ライブ演出"
+    },
     "dialog_publishConfig_rejection":{
       "name":"dialog_publishConfig_rejection", "wording":"拒否"
     },
     "dialog_musicSortFilter_soloTitle":{
       "name":"dialog_musicSortFilter_soloTitle", "wording":"フリーライブ絞り込み"
+    },
+    "dialog_liveSettings_liveVolumeCaption":{
+      "name":"dialog_liveSettings_liveVolumeCaption", "wording":"ライブ音量"
     },
     "mvButton_liveMV_label":{
       "name":"mvButton_liveMV_label", "wording":"MVライブ"
@@ -27,11 +39,23 @@
     "dialog_mvGet_description":{
       "name":"dialog_mvGet_description", "wording":"「{0}」\\n\\nMVが解放されました。"
     },
+    "header_subTitle_biographyCharacterProfile":{
+      "name":"header_subTitle_biographyCharacterProfile", "wording":"プロフィール"
+    },
     "dialog_liveTryTargetList_title":{
       "name":"dialog_liveTryTargetList_title", "wording":"トライ目標"
     },
+    "dialog_training_characterAlbum_open":{
+      "name":"dialog_training_characterAlbum_open", "wording":"メンバー詳細へ"
+    },
+    "biography_characterAlbum_notExistMessage":{
+      "name":"biography_characterAlbum_notExistMessage", "wording":"絞り込み条件に該当するメンバーがいません。"
+    },
     "tryLiveEvent_tryLevelReward_cellNormal":{
       "name":"tryLiveEvent_tryLevelReward_cellNormal", "wording":"すべてのトライレベル{0}をクリア"
+    },
+    "dialog_gacha_characterAlbum_text_unable":{
+      "name":"dialog_gacha_characterAlbum_text_unable", "wording":"「{0}」の新メンバーです。\\n現在、開催中のガチャでは出現していません。"
     },
     "tryLiveEvent_tryTargetDialogCell_musicDifficulty":{
       "name":"tryLiveEvent_tryTargetDialogCell_musicDifficulty", "wording":"楽曲レベル"
@@ -45,8 +69,20 @@
     "dialog_confirmViewMV_message":{
       "name":"dialog_confirmViewMV_message", "wording":"[505050]MVを再生します。\\nよろしいですか？[-]\\n\\n[FF3B72]MV再生モード画質設定：{0}[-]"
     },
+    "dialog_liveSettings_standard":{
+      "name":"dialog_liveSettings_standard", "wording":"標準"
+    },
+    "dialog_liveSettings_mvCaption":{
+      "name":"dialog_liveSettings_mvCaption", "wording":"MV"
+    },
     "word_exchangeTimeLimit":{
       "name":"word_exchangeTimeLimit", "wording":"交換期限"
+    },
+    "dialog_liveSettings_coreCharacterCutIn":{
+      "name":"dialog_liveSettings_coreCharacterCutIn", "wording":"メンバーカットイン"
+    },
+    "biography_areaTalk_screenMessage":{
+      "name":"biography_areaTalk_screenMessage", "wording":"見たことがあるエリア会話を振り返ろう！"
     },
     "dialog_friendError_messageAlreadyRelease":{
       "name":"dialog_friendError_messageAlreadyRelease", "wording":"既にフレンドを解除しました。"
@@ -54,11 +90,20 @@
     "dialog_comicSort_bandButton":{
       "name":"dialog_comicSort_bandButton", "wording":"５人を選択"
     },
+    "biography_band":{
+      "name":"biography_band", "wording":"所属バンド:"
+    },
     "comebackLogin_firstDay_periodMessage":{
       "name":"comebackLogin_firstDay_periodMessage", "wording":"14日間以内に7回ログインしてください。"
     },
     "word_alreadyHave":{
       "name":"word_alreadyHave", "wording":"獲得済み"
+    },
+    "dialog_campaign_characterAlbum_text":{
+      "name":"dialog_campaign_characterAlbum_text", "wording":"「{0}」のキャンペーンメンバーです。\\n現在該当のキャンペーンは開催されていません。"
+    },
+    "dialog_exchange_characterAlbum_text_able":{
+      "name":"dialog_exchange_characterAlbum_text_able", "wording":"イベント「{0}」の新メンバーです。\\n現在、シール交換所にてミッシェルシールと交換できます。"
     },
     "birthdayPage_showStoryAgainButton_label":{
       "name":"birthdayPage_showStoryAgainButton_label", "wording":"オープニングを見る"
@@ -78,14 +123,26 @@
     "dialog_liveClearAPIError_notStartedLive":{
       "name":"dialog_liveClearAPIError_notStartedLive", "wording":"通信が切断されました。\\nなお、ライブ結果は正常に反映されております。\\n\\nライブ結果が反映されていない場合は、\\nお問い合わせください。"
     },
+    "dialog_liveSettings_behaviourMode":{
+      "name":"dialog_liveSettings_behaviourMode", "wording":"動作モード"
+    },
     "dialog_areaItemReleaseCondition_mainStory":{
       "name":"dialog_areaItemReleaseCondition_mainStory", "wording":"メインストーリー「{0}」を見ると解放"
     },
     "dialog_sort_captionSkill":{
       "name":"dialog_sort_captionSkill", "wording":"スキル絞り込み"
     },
+    "dialog_sort_characterAlbum_obtained_before":{
+      "name":"dialog_sort_characterAlbum_obtained_before", "wording":"未獲得"
+    },
+    "biography_profile":{
+      "name":"biography_profile", "wording":"プロフィールを見よう"
+    },
     "dialog_musicSortFilter_highScore":{
       "name":"dialog_musicSortFilter_highScore", "wording":"ハイスコア順"
+    },
+    "biography_areaTalk_areaTalk":{
+      "name":"biography_areaTalk_areaTalk", "wording":"エリアアイテム"
     },
     "comicTop_subTitle_comicSelect":{
       "name":"comicTop_subTitle_comicSelect", "wording":"コミック選択"
@@ -99,11 +156,23 @@
     "dialog_comicSort_allButton":{
       "name":"dialog_comicSort_allButton", "wording":"全員を選択"
     },
+    "dialog_storySelectMusicDialog_title":{
+      "name":"dialog_storySelectMusicDialog_title", "wording":"楽曲詳細"
+    },
     "dialog_sort_skillSortConditionedScoreUp":{
       "name":"dialog_sort_skillSortConditionedScoreUp", "wording":"条件付き\\nスコアアップ"
     },
+    "header_mainTitle_memorialStory":{
+      "name":"header_mainTitle_memorialStory", "wording":"思い出のストーリー"
+    },
+    "biography_characterProfile_school":{
+      "name":"biography_characterProfile_school", "wording":"学校"
+    },
     "dialog_exchange_categoryFilterCaption":{
       "name":"dialog_exchange_categoryFilterCaption", "wording":"カテゴリ絞り込み"
+    },
+    "biography_characterProfile_height":{
+      "name":"biography_characterProfile_height", "wording":"身長"
     },
     "dialog_musicSortFilter_notClear":{
       "name":"dialog_musicSortFilter_notClear", "wording":"未クリア"
@@ -126,6 +195,15 @@
     "memorialStory_storyCell_memberEpisodeCaption":{
       "name":"memorialStory_storyCell_memberEpisodeCaption", "wording":"メンバーエピソード"
     },
+    "biography_characterProfile_grade":{
+      "name":"biography_characterProfile_grade", "wording":"学年"
+    },
+    "dialog_sort_characterAlbum_training":{
+      "name":"dialog_sort_characterAlbum_training", "wording":"特訓状態"
+    },
+    "dialog_sort_characterAlbum_filter":{
+      "name":"dialog_sort_characterAlbum_filter", "wording":"絞り込み"
+    },
     "dialog_sealExchange_filterAll":{
       "name":"dialog_sealExchange_filterAll", "wording":"すべて"
     },
@@ -141,11 +219,17 @@
     "tryLiveEvent_tryLevelReward_footer":{
       "name":"tryLiveEvent_tryLevelReward_footer", "wording":"EXトライはすべてのトライレベル{0}をクリアすると挑戦できます。"
     },
+    "biography_characterProfile_hatedFood":{
+      "name":"biography_characterProfile_hatedFood", "wording":"嫌いな食べ物"
+    },
     "word_skip":{
       "name":"word_skip", "wording":"スキップ"
     },
     "word_openPeriod":{
       "name":"word_openPeriod", "wording":"開催期間"
+    },
+    "biography_areaTalk_spawnPoint":{
+      "name":"biography_areaTalk_spawnPoint", "wording":"発生場所"
     },
     "menuList_comic_button":{
       "name":"menuList_comic_button", "wording":"コミック"
@@ -183,17 +267,35 @@
     "dialog_liveSettings_soundTap":{
       "name":"dialog_liveSettings_soundTap", "wording":"タップ音"
     },
+    "biography_characterProfile_hobby":{
+      "name":"biography_characterProfile_hobby", "wording":"趣味"
+    },
     "dialog_liveSetting_MVBrightness":{
       "name":"dialog_liveSetting_MVBrightness", "wording":"MVライブモード明るさ"
     },
+    "biography_characterProfile_class":{
+      "name":"biography_characterProfile_class", "wording":"クラス"
+    },
+    "biography_characterProfile_favoriteFood":{
+      "name":"biography_characterProfile_favoriteFood", "wording":"好きな食べ物"
+    },
+    "dialog_liveSettings_light":{
+      "name":"dialog_liveSettings_light", "wording":"軽量"
+    },
     "comicTop_buttonLabelDescription_fourFrameComic":{
       "name":"comicTop_buttonLabelDescription_fourFrameComic", "wording":"メンバーたちの日常を切り取った４コマコミック"
+    },
+    "word_sort_character":{
+      "name":"word_sort_character", "wording":"キャラクター"
     },
     "dialog_pickupMember_title":{
       "name":"dialog_pickupMember_title", "wording":"ピックアップメンバー"
     },
     "tryLiveEvent_tryTargetDialogCell_life":{
       "name":"tryLiveEvent_tryTargetDialogCell_life", "wording":"ライフ"
+    },
+    "header_subTitle_biographyCharacterDetail":{
+      "name":"header_subTitle_biographyCharacterDetail", "wording":"キャラクターTOP"
     },
     "musicSelect_getCondition_buttonLabelMainStory":{
       "name":"musicSelect_getCondition_buttonLabelMainStory", "wording":"メインストーリー"
@@ -222,6 +324,9 @@
     "tryLiveEvent_tryTargetDialogInfoCell_caption":{
       "name":"tryLiveEvent_tryTargetDialogInfoCell_caption", "wording":"次のトライレベル報酬"
     },
+    "dialog_event_characterAlbum_text_unable":{
+      "name":"dialog_event_characterAlbum_text_unable", "wording":"イベント「{0}」の新メンバーです。\\n現在、開催中のイベント、及びシール交換所では獲得できません。"
+    },
     "dialog_rewardPresentbox_message":{
       "name":"dialog_rewardPresentbox_message", "wording":"報酬がプレゼントに送られました！"
     },
@@ -237,8 +342,14 @@
     "dialog_liveSettings_systemBgmVolume":{
       "name":"dialog_liveSettings_systemBgmVolume", "wording":"BGM音量"
     },
+    "header_subTitle_biographyProfile":{
+      "name":"header_subTitle_biographyProfile", "wording":"プロフィール"
+    },
     "dialog_moviePlayConfirm_downloadInstruction":{
       "name":"dialog_moviePlayConfirm_downloadInstruction", "wording":"※キャンセルした場合、動画を見るためにはもう一度\\nタイトル画面からログインしなおす必要があります。"
+    },
+    "dialog_liveSettings_feverMode":{
+      "name":"dialog_liveSettings_feverMode", "wording":"FEVER演出"
     },
     "pickupMember_footter_message1rarity2":{
       "name":"pickupMember_footter_message1rarity2", "wording":"※各パラメーターは、レベルMAXの値を表示しています。"
@@ -255,6 +366,9 @@
     "dialog_downloadMV_quality":{
       "name":"dialog_downloadMV_quality", "wording":"MVライブモード画質設定：{0}"
     },
+    "band_sortingKind_character":{
+      "name":"band_sortingKind_character", "wording":"キャラクター\n"
+    },
     "musicSelect_getCondition_buttonLabelPresent":{
       "name":"musicSelect_getCondition_buttonLabelPresent", "wording":"プレゼント"
     },
@@ -263,6 +377,9 @@
     },
     "dialog_liveSetting_MVLiveModeQuality":{
       "name":"dialog_liveSetting_MVLiveModeQuality", "wording":"MVライブモード画質"
+    },
+    "header_mainTitle_biography":{
+      "name":"header_mainTitle_biography", "wording":"キャラクター図鑑"
     },
     "gachaTop_button_tryOn":{
       "name":"gachaTop_button_tryOn", "wording":"衣装を試着"
@@ -275,6 +392,9 @@
     },
     "header_title_comicSelectFourFrame":{
       "name":"header_title_comicSelectFourFrame", "wording":"コミック"
+    },
+    "biography_AreaTalk_notExistMessage":{
+      "name":"biography_AreaTalk_notExistMessage", "wording":"エリア会話がありません。"
     },
     "header_subTitle_miracleTicketExchange":{
       "name":"header_subTitle_miracleTicketExchange", "wording":"ミラクルチケット交換所"
@@ -294,8 +414,14 @@
     "musicSelect_musicCell_existMV":{
       "name":"musicSelect_musicCell_existMV", "wording":"MVあり"
     },
+    "header_subTitle_biographyCharacterSelect":{
+      "name":"header_subTitle_biographyCharacterSelect", "wording":"キャラクター選択"
+    },
     "dialog_publishConfig_accepting":{
       "name":"dialog_publishConfig_accepting", "wording":"受付中"
+    },
+    "dialog_sort_characterAlbum_training_after":{
+      "name":"dialog_sort_characterAlbum_training_after", "wording":"特訓前"
     },
     "friendList_sortingType_lastLoginAt":{
       "name":"friendList_sortingType_lastLoginAt", "wording":"最終ログイン"
@@ -308,6 +434,9 @@
     },
     "dialog_musicSortFilter_bandOther":{
       "name":"dialog_musicSortFilter_bandOther", "wording":"その他"
+    },
+    "dialog_event_characterAlbum_text_able":{
+      "name":"dialog_event_characterAlbum_text_able", "wording":"イベント「{0}」の新メンバーです。\\n現在開催中のイベントで登場しています。"
     },
     "gachaTop_button_stopTryOn":{
       "name":"gachaTop_button_stopTryOn", "wording":"試着をやめる"
@@ -323,6 +452,9 @@
     },
     "header_subTitle_comicTop":{
       "name":"header_subTitle_comicTop", "wording":"コミック選択"
+    },
+    "memorialStory_contents_notExistMessage":{
+      "name":"memorialStory_contents_notExistMessage", "wording":"絞り込み条件に該当する思い出のストーリーがありません。"
     },
     "dialog_sealExchange_filterStamp":{
       "name":"dialog_sealExchange_filterStamp", "wording":"スタンプ"
@@ -342,6 +474,12 @@
     "dialog_musicSortFilter_multiTitle":{
       "name":"dialog_musicSortFilter_multiTitle", "wording":"協力ライブ絞り込み"
     },
+    "biography_memorialStory":{
+      "name":"biography_memorialStory", "wording":"思い出の\\nストーリー"
+    },
+    "biography_characterProfile_buttonEpisode":{
+      "name":"biography_characterProfile_buttonEpisode", "wording":"自己紹介エピソード"
+    },
     "dialog_liveSettings_tabLiveSkinSetting":{
       "name":"dialog_liveSettings_tabLiveSkinSetting", "wording":"ライブスキン設定"
     },
@@ -351,8 +489,11 @@
     "mission_transitionButton_lineFriendRegistry":{
       "name":"mission_transitionButton_lineFriendRegistry", "wording":"友だち追加"
     },
+    "dialog_memorialStoryFilter_title":{
+      "name":"dialog_memorialStoryFilter_title", "wording":"思い出のストーリー"
+    },
     "dialog_liveSettings_liveVoiceVolume":{
-      "name":"dialog_liveSettings_liveVoiceVolume", "wording":"ライブボイス音量"
+      "name":"dialog_liveSettings_liveVoiceVolume", "wording":"ライブボイス"
     },
     "dialog_downloadForMVView_title":{
       "name":"dialog_downloadForMVView_title", "wording":"MV再生"
@@ -384,11 +525,17 @@
     "dialog_liveSettings_laneEffect":{
       "name":"dialog_liveSettings_laneEffect", "wording":"レーンエフェクト"
     },
+    "biography_areaTalk_buttonWatch":{
+      "name":"biography_areaTalk_buttonWatch", "wording":"見る"
+    },
     "dialog_friendRequestError_messageOpponentAlredyApplicationCancel":{
       "name":"dialog_friendRequestError_messageOpponentAlredyApplicationCancel", "wording":"この申請は取り消されました。"
     },
     "word_low":{
       "name":"word_low", "wording":"低"
+    },
+    "dialog_sort_characterAlbum_training_all":{
+      "name":"dialog_sort_characterAlbum_training_all", "wording":"すべて"
     },
     "newMusicIntroduction_musicInfo_tagCover":{
       "name":"newMusicIntroduction_musicInfo_tagCover", "wording":"カバー"
@@ -398,6 +545,9 @@
     },
     "dialog_movieLoadError_message":{
       "name":"dialog_movieLoadError_message", "wording":"データの読み込みに失敗しました"
+    },
+    "dialog_liveSettings_standardLightFever":{
+      "name":"dialog_liveSettings_standardLightFever", "wording":"FEVER演出"
     },
     "dialog_sealExchange_filterMember":{
       "name":"dialog_sealExchange_filterMember", "wording":"メンバー"
@@ -417,8 +567,17 @@
     "miracleTicketExchange_list_title":{
       "name":"miracleTicketExchange_list_title", "wording":"交換可能メンバー一覧"
     },
+    "biography_areaTalk":{
+      "name":"biography_areaTalk", "wording":"エリア会話を振り返ろう"
+    },
+    "deckEdit_notExistMessage":{
+      "name":"deckEdit_notExistMessage", "wording":"絞り込み条件に該当するメンバーがいません。"
+    },
     "dialog_resourceLoadError_message":{
       "name":"dialog_resourceLoadError_message", "wording":"データの読み込みに失敗しました"
+    },
+    "waitingRoom_notExistMessage":{
+      "name":"waitingRoom_notExistMessage", "wording":"絞り込み条件に該当するメンバーがいません。"
     },
     "dialog_musicSortFilter_notScoreSS":{
       "name":"dialog_musicSortFilter_notScoreSS", "wording":"未スコアSS"
@@ -426,14 +585,26 @@
     "dialog_musicShopBuyComplete_title":{
       "name":"dialog_musicShopBuyComplete_title", "wording":"購入完了"
     },
+    "dialog_training_characterAlbum_text":{
+      "name":"dialog_training_characterAlbum_text", "wording":"メンバーを特訓すると解放されます。\\nメンバー詳細画面を確認しますか？"
+    },
     "tryLiveEvent_tryTargetDialogCell_combo":{
       "name":"tryLiveEvent_tryTargetDialogCell_combo", "wording":"コンボ"
+    },
+    "dialog_event_characterAlbum_open":{
+      "name":"dialog_event_characterAlbum_open", "wording":"イベントへ"
     },
     "dialog_mvGet_title":{
       "name":"dialog_mvGet_title", "wording":"MV解放"
     },
     "header_subTitle_comicSelectSingleFrame":{
       "name":"header_subTitle_comicSelectSingleFrame", "wording":"ちょこっと！ガルパライフ"
+    },
+    "dialog_gacha_characterAlbum_open":{
+      "name":"dialog_gacha_characterAlbum_open", "wording":"ガチャへ"
+    },
+    "header_subTitle_biographyAreaTalk":{
+      "name":"header_subTitle_biographyAreaTalk", "wording":"エリア会話"
     },
     "comicSelectSingleFrame_contents_notExistMessage":{
       "name":"comicSelectSingleFrame_contents_notExistMessage", "wording":"絞り込み条件に該当するコミックがありません。"
@@ -450,14 +621,26 @@
     "pickupMember_footter_message2":{
       "name":"pickupMember_footter_message2", "wording":"※スキルLv.5の状態を表示しています。"
     },
+    "biography_characterProfile_part":{
+      "name":"biography_characterProfile_part", "wording":"パート"
+    },
+    "dialog_sort_characterAlbum":{
+      "name":"dialog_sort_characterAlbum", "wording":"アルバム並べ替え"
+    },
     "tryLiveEvent_tryTargetDialogCell_titleJudge":{
       "name":"tryLiveEvent_tryTargetDialogCell_titleJudge", "wording":"判定トライ"
+    },
+    "dialog_sort_characterAlbum_obtained_after":{
+      "name":"dialog_sort_characterAlbum_obtained_after", "wording":"獲得済み"
     },
     "dialog_liveSettings_systemSeVolume":{
       "name":"dialog_liveSettings_systemSeVolume", "wording":"SE音量"
     },
     "dialog_playerSearchError_titleMyId":{
       "name":"dialog_playerSearchError_titleMyId", "wording":"自分のプレイヤーIDです。"
+    },
+    "dialog_sort_characterAlbum_obtained_all":{
+      "name":"dialog_sort_characterAlbum_obtained_all", "wording":"すべて"
     },
     "tryLiveEvent_tryTargetDialogCell_score":{
       "name":"tryLiveEvent_tryTargetDialogCell_score", "wording":"スコア"
@@ -471,6 +654,12 @@
     "dialog_movieSkip_message":{
       "name":"dialog_movieSkip_message", "wording":"このムービーをスキップしてもよろしいですか？"
     },
+    "dialog_bandStory_appeal_title":{
+      "name":"dialog_bandStory_appeal_title", "wording":"案内"
+    },
+    "header_subTitle_memorialStorySelect":{
+      "name":"header_subTitle_memorialStorySelect", "wording":"思い出のストーリー選択"
+    },
     "newMusicIntroduction_musicInfo_tagOriginal":{
       "name":"newMusicIntroduction_musicInfo_tagOriginal", "wording":"オリジナル"
     },
@@ -480,11 +669,14 @@
     "tryLiveEvent_tryTargetDialogCell_musicTitle":{
       "name":"tryLiveEvent_tryTargetDialogCell_musicTitle", "wording":"楽曲"
     },
+    "dialog_card_characterAlbum_title":{
+      "name":"dialog_card_characterAlbum_title", "wording":"[{0}]{1}"
+    },
     "tryLiveEvent_tryTargetDialogCell_judge":{
       "name":"tryLiveEvent_tryTargetDialogCell_judge", "wording":"判定"
     },
     "dialog_liveSettings_liveBgmVolume":{
-      "name":"dialog_liveSettings_liveBgmVolume", "wording":"楽曲音量"
+      "name":"dialog_liveSettings_liveBgmVolume", "wording":"楽曲"
     },
     "dialog_downloadForMVLive_message":{
       "name":"dialog_downloadForMVLive_message", "wording":"MVデータのダウンロードを開始します。\\nWi-Fi環境でのダウンロードをおすすめします。"
@@ -513,17 +705,29 @@
     "musicSelect_sortButton_sortEnabled":{
       "name":"musicSelect_sortButton_sortEnabled", "wording":"適用中"
     },
+    "header_subTitle_biographyCharacterAreaTalk":{
+      "name":"header_subTitle_biographyCharacterAreaTalk", "wording":"エリア会話"
+    },
+    "biography_characterProfile_band":{
+      "name":"biography_characterProfile_band", "wording":"バンド"
+    },
     "comicTop_mainTitle_comic":{
       "name":"comicTop_mainTitle_comic", "wording":"コミック"
     },
     "dialog_musicSortFilter_filter":{
       "name":"dialog_musicSortFilter_filter", "wording":"絞り込み"
     },
+    "dialog_gacha_characterAlbum_text_able":{
+      "name":"dialog_gacha_characterAlbum_text_able", "wording":"「{0}」の新メンバーです。\\n以下の現在開催中のガチャで出現しています。"
+    },
     "miracleTicketExchange_list_emptyMessage":{
       "name":"miracleTicketExchange_list_emptyMessage", "wording":"表示可能なメンバーはいません。"
     },
     "dialog_musicSortFilter_default":{
       "name":"dialog_musicSortFilter_default", "wording":"デフォルト"
+    },
+    "biography_characterProfile_constellation":{
+      "name":"biography_characterProfile_constellation", "wording":"星座"
     },
     "dialog_musicFilter_existMV":{
       "name":"dialog_musicFilter_existMV", "wording":"MVあり"
@@ -534,8 +738,17 @@
     "mvButton_playMV_label":{
       "name":"mvButton_playMV_label", "wording":"MV再生"
     },
+    "dialog_exchange_characterAlbum_open":{
+      "name":"dialog_exchange_characterAlbum_open", "wording":"シール交換所へ"
+    },
     "dialog_sort_skillSortJudgeWithScoreUp":{
       "name":"dialog_sort_skillSortJudgeWithScoreUp", "wording":"スコアアップ付き\\n判定強化"
+    },
+    "dialog_sort_characterAlbum_obtained":{
+      "name":"dialog_sort_characterAlbum_obtained", "wording":"獲得状態"
+    },
+    "dialog_story_characterAlbum_text":{
+      "name":"dialog_story_characterAlbum_text", "wording":"{0}の\\nバンドストーリー{1}章で登場したメンバーです。"
     },
     "dialog_miracleTicketExchangeConfirm_title":{
       "name":"dialog_miracleTicketExchangeConfirm_title", "wording":"このメンバーと交換しますか？"
@@ -549,14 +762,23 @@
     "header_title_comicSelectSingleFrame":{
       "name":"header_title_comicSelectSingleFrame", "wording":"コミック"
     },
+    "biography_characterProfile_birthday":{
+      "name":"biography_characterProfile_birthday", "wording":"誕生日"
+    },
     "tryLiveEvent_tryTargetDialogCell_level":{
       "name":"tryLiveEvent_tryTargetDialogCell_level", "wording":"レベル"
+    },
+    "dialog_sort_characterAlbum_training_before":{
+      "name":"dialog_sort_characterAlbum_training_before", "wording":"特訓後"
     },
     "dialog_exchange_alreadyHaveFilterStamp":{
       "name":"dialog_exchange_alreadyHaveFilterStamp", "wording":"スタンプ"
     },
     "tryLiveEvent_tryTargetDialogInfoCell_conditions":{
       "name":"tryLiveEvent_tryTargetDialogInfoCell_conditions", "wording":"すべてのトライレベル{0}をクリア"
+    },
+    "biography_top_comment":{
+      "name":"biography_top_comment", "wording":"{0}の登場するストーリー・コミックをチェック！"
     },
     "dialog_mvViewPause_resumeButton":{
       "name":"dialog_mvViewPause_resumeButton", "wording":"再開"
@@ -570,6 +792,9 @@
     "dialog_musicSortFilter_musicName":{
       "name":"dialog_musicSortFilter_musicName", "wording":"楽曲名順"
     },
+    "biography_characterProfile_heightUnit":{
+      "name":"biography_characterProfile_heightUnit", "wording":"cm"
+    },
     "dialog_liveSetting_MVViewModeQuality":{
       "name":"dialog_liveSetting_MVViewModeQuality", "wording":"MV再生モード画質"
     },
@@ -577,7 +802,10 @@
       "name":"dialog_liveSettings_soundFlick", "wording":"フリック音"
     },
     "dialog_liveSettings_liveSeVolume":{
-      "name":"dialog_liveSettings_liveSeVolume", "wording":"ライブSE音量"
+      "name":"dialog_liveSettings_liveSeVolume", "wording":"ライブSE"
+    },
+    "biography_album":{
+      "name":"biography_album", "wording":"イラストを見よう"
     },
     "word_friendRequestAccept":{
       "name":"word_friendRequestAccept", "wording":"フレンド申請"
