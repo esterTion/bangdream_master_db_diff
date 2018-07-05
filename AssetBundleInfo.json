@@ -1,5 +1,5 @@
 {
-  "version":"2.3.0.300", "bundles":{
+  "version":"2.3.0.400", "bundles":{
     " sound/voice/scenario/loginstory13":{
       "bundleName":" sound/voice/scenario/loginstory13", "hash":"84b185094e6fe1883e5a141ccd60f915fdec447c4dfb9bda980a643708640060", "category":"AsNeeded", "crc":293788668, "fileSize":961230
     },
@@ -280,7 +280,7 @@
       "bundleName":"bg/scenario26", "hash":"5cee0544ddddac2402620948dacc6f3a3e049679ae7d9349a202b739bb163164", "category":"AsNeeded", "crc":181025885, "fileSize":4561938
     },
     "bg/scenario27":{
-      "bundleName":"bg/scenario27", "hash":"3dca18d1a85071d52e83f4a7c08c623b0b756eec3f8fb72cf2d2c88f98ee0b12", "category":"AsNeeded", "crc":187823107, "fileSize":3998655
+      "bundleName":"bg/scenario27", "hash":"a0d2b7251e85e3bad134d8259fbb95740b756eec3f8fb72cf2d2c88f98ee0b12", "category":"AsNeeded", "crc":3972293769, "fileSize":4416333
     },
     "bg/scenario3":{
       "bundleName":"bg/scenario3", "hash":"830b096c2958d598dbe039e5ed0555a2b3482da633bdcb395d85704f0beef652", "category":"AsNeeded", "crc":933230544, "fileSize":4442633
@@ -5262,6 +5262,9 @@
     "event/loginbonus/phantom_thief_release":{
       "bundleName":"event/loginbonus/phantom_thief_release", "hash":"9f8e77c1b71cb42d7dee3417bf68e1670df62f8281af5e665e9c3cfe9815444b", "category":"AsNeeded", "crc":1903493259, "fileSize":1677831
     },
+    "event/loginbonus/pico_on_air":{
+      "bundleName":"event/loginbonus/pico_on_air", "hash":"2bd867830afe0b1bc75b55c3ffa7ca1cdb23353c2a12f0b96aa36d1bc71c555e", "category":"AsNeeded", "crc":322992157, "fileSize":1109729
+    },
     "event/loginbonus/release_anniversary":{
       "bundleName":"event/loginbonus/release_anniversary", "hash":"ad4e4820a4bd6d958a6d86a1b6a4dea713a869dded80597b98f277e79571feda", "category":"AsNeeded", "crc":2530317989, "fileSize":1736636
     },
@@ -8877,6 +8880,9 @@
     "musicjacket/130_saikou":{
       "bundleName":"musicjacket/130_saikou", "hash":"4dab7685cb33b14b3d60dc684ba3416ab8584c340cac99a62b3f384d28424977", "category":"StartApp", "crc":137505424, "fileSize":108633
     },
+    "musicjacket/131_garupapico":{
+      "bundleName":"musicjacket/131_garupapico", "hash":"03fb461abcc9931b13d64ffbe35608106758b3d07450bc2dab76b0e80fb34237", "category":"StartApp", "crc":3416568249, "fileSize":163649
+    },
     "musicjacket/alchemy":{
       "bundleName":"musicjacket/alchemy", "hash":"d5172bed8ac4c86517b868067abe77beadcaa4b024217ecfe4cd4bf1a4b3e641", "category":"StartApp", "crc":2185185025, "fileSize":142980
     },
@@ -9404,6 +9410,9 @@
     },
     "musicscore/130":{
       "bundleName":"musicscore/130", "hash":"b8e74a704d64734b46d88c2da6b92b61ac2fb8fb58e38690db2106f20aee75eb", "category":"StartApp", "crc":4249787686, "fileSize":9349
+    },
+    "musicscore/131":{
+      "bundleName":"musicscore/131", "hash":"2a2303b4e78e34a45cd04f5acb82dd945f96d59fd489482d3d7a13993e6473e6", "category":"StartApp", "crc":2180255312, "fileSize":9693
     },
     "newsituationintroduction":{
       "bundleName":"newsituationintroduction", "hash":"7ff4d904113ed220bf8dd03d0d69362d371e1cd5a30fa8ec4e930b02e45d6abc", "category":"StartApp", "crc":2361119035, "fileSize":857729
@@ -10552,7 +10561,7 @@
       "bundleName":"scenario/afterlivetalk/group4", "hash":"f8a0d0ba690d874d774b7270eaef57fa7301b364ef3fcacc633ebc7b55a3a1d7", "category":"StartApp", "crc":699161624, "fileSize":10634
     },
     "scenario/band/001":{
-      "bundleName":"scenario/band/001", "hash":"73be21d651d26213d9ef4d52e3b20a2c6c76b334e2f4c65e9e47fa2745461848", "category":"StartApp", "crc":1023625027, "fileSize":267316
+      "bundleName":"scenario/band/001", "hash":"83daacf3b67e286862a5a98dbe5740446c76b334e2f4c65e9e47fa2745461848", "category":"StartApp", "crc":3933074828, "fileSize":267317
     },
     "scenario/band/002":{
       "bundleName":"scenario/band/002", "hash":"8c3b861cd864a5b58af7734b3228b4f2eb8153034e9592bcb23ccfa9a44b5574", "category":"StartApp", "crc":1032026854, "fileSize":72631
@@ -10747,7 +10756,7 @@
       "bundleName":"sdchara/00001", "hash":"d53b72b14e04b375a51271dd50933f4c7f93fc03a251eb9c7f0cf7aa327e4576", "category":"StartApp", "crc":1983326810, "fileSize":71071
     },
     "sdchara/00001_casual_summer":{
-      "bundleName":"sdchara/00001_casual_summer", "hash":"96c93eac538b730f30b887e35493a58622453915ab5de1af6fa00545fbff60c0", "category":"StartApp", "crc":3816867455, "fileSize":112469
+      "bundleName":"sdchara/00001_casual_summer", "hash":"0cf8efc335063cd38ada1a1b28abeaa222453915ab5de1af6fa00545fbff60c0", "category":"StartApp", "crc":3816867455, "fileSize":112469
     },
     "sdchara/00001_casual_winter":{
       "bundleName":"sdchara/00001_casual_winter", "hash":"a1845f2cf1b8bd068651df5b38621bb10e28da9e9d11526b5139f9fd5457b4c3", "category":"StartApp", "crc":1975739298, "fileSize":103038
@@ -10756,7 +10765,7 @@
       "bundleName":"sdchara/00002", "hash":"1398db1da93b1e1c9500555caef139cf2aea6d0eb26be0305a43cce9194604d9", "category":"StartApp", "crc":1425270102, "fileSize":66863
     },
     "sdchara/00002_casual_summer":{
-      "bundleName":"sdchara/00002_casual_summer", "hash":"92e0d4ae410ba03a31dcf3504ec0016d87245feec81cdcdcefe13bac299f8a8a", "category":"StartApp", "crc":1788959387, "fileSize":113701
+      "bundleName":"sdchara/00002_casual_summer", "hash":"c793f0d998c389a49fbb5ae821eafabb87245feec81cdcdcefe13bac299f8a8a", "category":"StartApp", "crc":1788959387, "fileSize":113701
     },
     "sdchara/00002_casual_winter":{
       "bundleName":"sdchara/00002_casual_winter", "hash":"11a4a211c22a99df53d85149f8c71e16e01ee2a598b928f97296a61bb92cbf94", "category":"StartApp", "crc":726386272, "fileSize":100614
@@ -10765,7 +10774,7 @@
       "bundleName":"sdchara/00003", "hash":"fc0a0aec7f9b00f77f664d77a018574e67191e86e7cb8d1e4a167ee667d70eec", "category":"StartApp", "crc":2428420508, "fileSize":73136
     },
     "sdchara/00003_casual_summer":{
-      "bundleName":"sdchara/00003_casual_summer", "hash":"470c98cd7e2803f3a67ab36d490735971eff9e5396131d1b8d96fe1811ab6401", "category":"StartApp", "crc":2223994744, "fileSize":124213
+      "bundleName":"sdchara/00003_casual_summer", "hash":"e2e1869c0883d1ffc80957391a856f4e1eff9e5396131d1b8d96fe1811ab6401", "category":"StartApp", "crc":2223994744, "fileSize":124213
     },
     "sdchara/00003_casual_winter":{
       "bundleName":"sdchara/00003_casual_winter", "hash":"898d431c635fc697d55d20778a7feeab383094175e90d1c6269e4a372a686790", "category":"StartApp", "crc":2326795914, "fileSize":105218
@@ -10774,7 +10783,7 @@
       "bundleName":"sdchara/00004", "hash":"7ecef19dda2c794e7dc0a51314ec6850191ba0e3e0957fdf6d45d67b12ccb311", "category":"StartApp", "crc":2729858456, "fileSize":74969
     },
     "sdchara/00004_casual_summer":{
-      "bundleName":"sdchara/00004_casual_summer", "hash":"d2f478605d794c931a6493e48c6ba5128456b3ee6d124f76e251358a051d7608", "category":"StartApp", "crc":2868670268, "fileSize":113591
+      "bundleName":"sdchara/00004_casual_summer", "hash":"3d4c2d091dc43f5a2e6395bd83c29f748456b3ee6d124f76e251358a051d7608", "category":"StartApp", "crc":2868670268, "fileSize":113591
     },
     "sdchara/00004_casual_winter":{
       "bundleName":"sdchara/00004_casual_winter", "hash":"72e79fa6d211023b7a2bdc08e7b903f8692d313d7f79074addf51e3d55203e2e", "category":"StartApp", "crc":597605545, "fileSize":104687
@@ -10783,7 +10792,7 @@
       "bundleName":"sdchara/00005", "hash":"147c66fd6db781ae4c9b5cc3459f9e6ab4c17310711fc03bc0db51aad1b365ea", "category":"StartApp", "crc":1237314328, "fileSize":73107
     },
     "sdchara/00005_casual_summer":{
-      "bundleName":"sdchara/00005_casual_summer", "hash":"eb7340f7e7acbf137476628b67303a5a9658f3c820ba7deac0df936115f78f5b", "category":"StartApp", "crc":2812441738, "fileSize":104688
+      "bundleName":"sdchara/00005_casual_summer", "hash":"5d9af2971daee821f6b3b98350fa16a99658f3c820ba7deac0df936115f78f5b", "category":"StartApp", "crc":2812441738, "fileSize":104688
     },
     "sdchara/00005_casual_winter":{
       "bundleName":"sdchara/00005_casual_winter", "hash":"ec7ca35cd4e03e41c11e578b7dcf82e8136a726fe0703a9fd2b8eb071ea2a1cd", "category":"StartApp", "crc":2021414189, "fileSize":109495
@@ -10792,7 +10801,7 @@
       "bundleName":"sdchara/00006", "hash":"299f3e17c693c5a8cd77df8f41d1c02c947f45613f7e29392879538ff7cab09f", "category":"StartApp", "crc":1926144463, "fileSize":65614
     },
     "sdchara/00006_casual_summer":{
-      "bundleName":"sdchara/00006_casual_summer", "hash":"744657fff9e387f1f9deeb45ff9d7a6f737c19ef064184e6797990d62922d4fa", "category":"StartApp", "crc":1285596996, "fileSize":103269
+      "bundleName":"sdchara/00006_casual_summer", "hash":"4f73572a7570adfaa45b12c7fc29821f737c19ef064184e6797990d62922d4fa", "category":"StartApp", "crc":1285596996, "fileSize":103269
     },
     "sdchara/00006_casual_winter":{
       "bundleName":"sdchara/00006_casual_winter", "hash":"56d5c62cc5ca7d697901f363e6693c7e62545cf38c6895cc550144078f1ad3b2", "category":"StartApp", "crc":4150124377, "fileSize":91547
@@ -10801,7 +10810,7 @@
       "bundleName":"sdchara/00007", "hash":"6d9f3381fef7fc405770339f16e34df99979086da601b2658ffb658d6b59ec69", "category":"StartApp", "crc":4074345200, "fileSize":70729
     },
     "sdchara/00007_casual_summer":{
-      "bundleName":"sdchara/00007_casual_summer", "hash":"a62a61dfe51ae8690347e443641892736bf4b581a952cc536be636ccc024ae53", "category":"StartApp", "crc":1711232172, "fileSize":110300
+      "bundleName":"sdchara/00007_casual_summer", "hash":"109544c644c206d70f0b5f912a5bfcda6bf4b581a952cc536be636ccc024ae53", "category":"StartApp", "crc":1711232172, "fileSize":110300
     },
     "sdchara/00007_casual_winter":{
       "bundleName":"sdchara/00007_casual_winter", "hash":"ba7da84a8982f261fd50daf562a44543886e69aaafc458959e9791af63834416", "category":"StartApp", "crc":548244468, "fileSize":97964
@@ -10810,7 +10819,7 @@
       "bundleName":"sdchara/00008", "hash":"a0a7f187a6506bc97c2c3569c97096a9d0249ee0347bccebc120d800db3f6483", "category":"StartApp", "crc":927097673, "fileSize":69251
     },
     "sdchara/00008_casual_summer":{
-      "bundleName":"sdchara/00008_casual_summer", "hash":"08df3ce5d27cca61091c38e82306bb3507eaf827dca7f133c7578e0b4e5ad9d8", "category":"StartApp", "crc":1851557978, "fileSize":117381
+      "bundleName":"sdchara/00008_casual_summer", "hash":"ded4cc09f25bc3579de19a40f913b36007eaf827dca7f133c7578e0b4e5ad9d8", "category":"StartApp", "crc":1851557978, "fileSize":117381
     },
     "sdchara/00008_casual_winter":{
       "bundleName":"sdchara/00008_casual_winter", "hash":"3e07d67cf16e0765e6e634f81f77ced6c067be63b2c8519b46754196b8dc6ffc", "category":"StartApp", "crc":3054777168, "fileSize":97330
@@ -10819,7 +10828,7 @@
       "bundleName":"sdchara/00009", "hash":"40c98a84a93897a9ae3aa600d75a2e1717c82ddf3235447614fa119fa2e19817", "category":"StartApp", "crc":1102956102, "fileSize":66156
     },
     "sdchara/00009_casual_summer":{
-      "bundleName":"sdchara/00009_casual_summer", "hash":"fcdd382d411cf22d1e755865cbb07e9ba4f1dadbf958b2ab4dbb86052c04a4ac", "category":"StartApp", "crc":1835981642, "fileSize":101882
+      "bundleName":"sdchara/00009_casual_summer", "hash":"66ef79ddee948b90b05e7d7f1f9148f1a4f1dadbf958b2ab4dbb86052c04a4ac", "category":"StartApp", "crc":1835981642, "fileSize":101882
     },
     "sdchara/00009_casual_winter":{
       "bundleName":"sdchara/00009_casual_winter", "hash":"8c024097efc7fce03179c8ee61fa5dfbfa1e055412a052c59ca104bb29a0950c", "category":"StartApp", "crc":1875771764, "fileSize":105916
@@ -10828,7 +10837,7 @@
       "bundleName":"sdchara/00010", "hash":"c0005ebe86eb4e757410dd9394c4081c8f927541bd12b646009229753afe7c4e", "category":"StartApp", "crc":2829074433, "fileSize":63415
     },
     "sdchara/00010_casual_summer":{
-      "bundleName":"sdchara/00010_casual_summer", "hash":"e2a2210b758bc86f463ed9e27bb7bf175d61c78b65c829add65eab1bcda89485", "category":"StartApp", "crc":413484707, "fileSize":92956
+      "bundleName":"sdchara/00010_casual_summer", "hash":"c0321e00a2a42e4d0cc90c6176270d8b5d61c78b65c829add65eab1bcda89485", "category":"StartApp", "crc":413484707, "fileSize":92956
     },
     "sdchara/00010_casual_winter":{
       "bundleName":"sdchara/00010_casual_winter", "hash":"46261b1c7bcc4f0dc42dd9c30ef22db959496723e4dd699d7c9d676db9e64c1b", "category":"StartApp", "crc":1891263837, "fileSize":89900
@@ -10837,7 +10846,7 @@
       "bundleName":"sdchara/00011", "hash":"80f8f14b69600b77d275f0eba7fee060bbeae51e53af8c46f06cf8c79d512173", "category":"StartApp", "crc":2690159940, "fileSize":79055
     },
     "sdchara/00011_casual_summer":{
-      "bundleName":"sdchara/00011_casual_summer", "hash":"5c4b7940b33ebfabe9e08af05129dafd8bee43f8fca5202bbf6265c7010f8ac7", "category":"StartApp", "crc":1384218901, "fileSize":111773
+      "bundleName":"sdchara/00011_casual_summer", "hash":"ba041b765bc9edb4d0781b1b04c5c2408bee43f8fca5202bbf6265c7010f8ac7", "category":"StartApp", "crc":1384218901, "fileSize":111773
     },
     "sdchara/00011_casual_winter":{
       "bundleName":"sdchara/00011_casual_winter", "hash":"940435a50ec040e9c5ae13528cce73c326480f153e8a83b885dd3c6d77f19a43", "category":"StartApp", "crc":3400884617, "fileSize":138455
@@ -10846,7 +10855,7 @@
       "bundleName":"sdchara/00012", "hash":"09d951331554973c5b870f8bf68d0c857cf75d3e188d8d430dd9a6da6e5fc783", "category":"StartApp", "crc":1771593925, "fileSize":72047
     },
     "sdchara/00012_casual_summer":{
-      "bundleName":"sdchara/00012_casual_summer", "hash":"84e011ce5a7340ee3817cd8a899e506b77b5aef33000122ed6547a4e83f14bd9", "category":"StartApp", "crc":1134227658, "fileSize":119496
+      "bundleName":"sdchara/00012_casual_summer", "hash":"7e348b9d0217db8a7e6883a7d4b48bcd77b5aef33000122ed6547a4e83f14bd9", "category":"StartApp", "crc":1134227658, "fileSize":119496
     },
     "sdchara/00012_casual_winter":{
       "bundleName":"sdchara/00012_casual_winter", "hash":"fea265a10fd21b209749b4ac4f1a3b7d2658eb813ed2149062a153aa1c99d4fc", "category":"StartApp", "crc":3226316742, "fileSize":111477
@@ -10855,7 +10864,7 @@
       "bundleName":"sdchara/00013", "hash":"093a07aed562f2ba59e81c623948088c43609a627d0df9f105684f497e931802", "category":"StartApp", "crc":1744390300, "fileSize":64283
     },
     "sdchara/00013_casual_summer":{
-      "bundleName":"sdchara/00013_casual_summer", "hash":"c9564be0014f4718875e1eeaee3406e953f2df54955a599563efebcc83069aff", "category":"StartApp", "crc":840471420, "fileSize":114774
+      "bundleName":"sdchara/00013_casual_summer", "hash":"bbf031eef648bfc2d578ec44e3534cf453f2df54955a599563efebcc83069aff", "category":"StartApp", "crc":840471420, "fileSize":114774
     },
     "sdchara/00013_casual_winter":{
       "bundleName":"sdchara/00013_casual_winter", "hash":"8b2239b901dfc8c1073b545fdebc364209d82aeba724a1d59aa67a6735c8290b", "category":"StartApp", "crc":2257809327, "fileSize":102735
@@ -10864,7 +10873,7 @@
       "bundleName":"sdchara/00014", "hash":"122b018c03deaa6bfee7d02cedb871931d50d2abfed98291101cce3ddc087968", "category":"StartApp", "crc":2741759310, "fileSize":76731
     },
     "sdchara/00014_casual_summer":{
-      "bundleName":"sdchara/00014_casual_summer", "hash":"0789cfafb6c431e9afb8122243c78a945aafcaa23676be77e44c68880e01db75", "category":"StartApp", "crc":1160685995, "fileSize":116211
+      "bundleName":"sdchara/00014_casual_summer", "hash":"8688cce06c2e02ca22d4069fdcc5ae995aafcaa23676be77e44c68880e01db75", "category":"StartApp", "crc":1160685995, "fileSize":116211
     },
     "sdchara/00014_casual_winter":{
       "bundleName":"sdchara/00014_casual_winter", "hash":"62f1e3992b33cf829c317abda6f8e606cccfe13ecab6d08bf15d3f3cf24ce87d", "category":"StartApp", "crc":2079357362, "fileSize":118243
@@ -10873,7 +10882,7 @@
       "bundleName":"sdchara/00015", "hash":"996dac2bf81f8404fcafb950fce80c0b41ee5c56ebcd39ec209b5a7abf9bd1d8", "category":"StartApp", "crc":4020347035, "fileSize":69234
     },
     "sdchara/00015_casual_summer":{
-      "bundleName":"sdchara/00015_casual_summer", "hash":"9c2e284f136a17e1a7c4747182e45f3caa2b9c809a339a6a46a8a4b269a9867f", "category":"StartApp", "crc":923618078, "fileSize":94272
+      "bundleName":"sdchara/00015_casual_summer", "hash":"bf93234467666a178583d4ced416bc27aa2b9c809a339a6a46a8a4b269a9867f", "category":"StartApp", "crc":923618078, "fileSize":94272
     },
     "sdchara/00015_casual_winter":{
       "bundleName":"sdchara/00015_casual_winter", "hash":"0a7770f3fab1d3f60f699f5b37030675555b3f0742a01d4f69160b2213266aa8", "category":"StartApp", "crc":2081669856, "fileSize":106439
@@ -10882,7 +10891,7 @@
       "bundleName":"sdchara/00016", "hash":"dce088abffae5718764ee81087f97b1430e2b8afe8863421c61ad04d3a936d47", "category":"StartApp", "crc":3220809427, "fileSize":74533
     },
     "sdchara/00016_casual_summer":{
-      "bundleName":"sdchara/00016_casual_summer", "hash":"e4b611647415da09bf6e5d05a81088a56d42de7f281ffc64c51e430c0aedf3b2", "category":"StartApp", "crc":2570331834, "fileSize":106402
+      "bundleName":"sdchara/00016_casual_summer", "hash":"3f23622c2b5d37491fa41302834d98e06d42de7f281ffc64c51e430c0aedf3b2", "category":"StartApp", "crc":2570331834, "fileSize":106402
     },
     "sdchara/00016_casual_winter":{
       "bundleName":"sdchara/00016_casual_winter", "hash":"eb5e1c9a52540c9a2a975e3e08426d8397d793593f8a53f3ad2f721d0b470577", "category":"StartApp", "crc":3447047027, "fileSize":106659
@@ -10891,7 +10900,7 @@
       "bundleName":"sdchara/00017", "hash":"6a6a1e2357165bcc38764f5e12e193f791ec5cc8f8adeb65c368b102e050f967", "category":"StartApp", "crc":1178468500, "fileSize":68213
     },
     "sdchara/00017_casual_summer":{
-      "bundleName":"sdchara/00017_casual_summer", "hash":"cfdaa92856beeab5ff6184d68589b351d3c357f02601619607bbad17b2a5e9ac", "category":"StartApp", "crc":278278383, "fileSize":117994
+      "bundleName":"sdchara/00017_casual_summer", "hash":"e02f0bf8bbcb47f05bd995285faa2c97d3c357f02601619607bbad17b2a5e9ac", "category":"StartApp", "crc":278278383, "fileSize":117994
     },
     "sdchara/00017_casual_winter":{
       "bundleName":"sdchara/00017_casual_winter", "hash":"e2633ab533b48a7eb809db1a84142bdad6b4a69536fa13ecbfe9bebefec7418b", "category":"StartApp", "crc":3490485157, "fileSize":109833
@@ -10900,7 +10909,7 @@
       "bundleName":"sdchara/00018", "hash":"12f862ffd1115e9a92a8dd4094dde4909720a21ce4c487ef4f30e599b538e924", "category":"StartApp", "crc":531031357, "fileSize":79282
     },
     "sdchara/00018_casual_summer":{
-      "bundleName":"sdchara/00018_casual_summer", "hash":"e784e2db53b68f7fe912f013a88cbd9d6dfddfa6fffe83a9f7e23edf5563adcb", "category":"StartApp", "crc":2154066717, "fileSize":122147
+      "bundleName":"sdchara/00018_casual_summer", "hash":"26cd7c5e5195cc71809c8473c91eef9d6dfddfa6fffe83a9f7e23edf5563adcb", "category":"StartApp", "crc":2154066717, "fileSize":122147
     },
     "sdchara/00018_casual_winter":{
       "bundleName":"sdchara/00018_casual_winter", "hash":"b989bf86b6e59b9e751873e1a7473e6a5c904fdb492132804ca6d99605ca5196", "category":"StartApp", "crc":2714282431, "fileSize":118507
@@ -10909,7 +10918,7 @@
       "bundleName":"sdchara/00019", "hash":"9d04cf486c9cb3ecfe0b4ba1c970ac545fb2d3bbd2835f8ce7aaee96a09e513d", "category":"StartApp", "crc":255073845, "fileSize":71862
     },
     "sdchara/00019_casual_summer":{
-      "bundleName":"sdchara/00019_casual_summer", "hash":"4b401aa6924aec8190079e78b4065ab70dfac1d2f8e64f47417d2ffc85b95a22", "category":"StartApp", "crc":1813746922, "fileSize":107749
+      "bundleName":"sdchara/00019_casual_summer", "hash":"b0ad2ae5aaccb43a79be27f5b75c1c7b0dfac1d2f8e64f47417d2ffc85b95a22", "category":"StartApp", "crc":1813746922, "fileSize":107749
     },
     "sdchara/00019_casual_winter":{
       "bundleName":"sdchara/00019_casual_winter", "hash":"bfdd3591db33c51e8d0832b5cc57f705f660a220c11948598bdd6175af210d1a", "category":"StartApp", "crc":2512045023, "fileSize":97670
@@ -10918,7 +10927,7 @@
       "bundleName":"sdchara/00020", "hash":"b5d1828ddf8a28b7d12d6c6a3e4378a52cc94976942019655b297007a99b9861", "category":"StartApp", "crc":2855386610, "fileSize":67063
     },
     "sdchara/00020_casual_summer":{
-      "bundleName":"sdchara/00020_casual_summer", "hash":"f14b88668e3c6af080c771a9826387c4579680b70e392c7530e201d7606787e9", "category":"StartApp", "crc":2367720678, "fileSize":102542
+      "bundleName":"sdchara/00020_casual_summer", "hash":"a9e2d3726dd5d2416d352160832567c9579680b70e392c7530e201d7606787e9", "category":"StartApp", "crc":2367720678, "fileSize":102542
     },
     "sdchara/00020_casual_winter":{
       "bundleName":"sdchara/00020_casual_winter", "hash":"29b3401956497979ec8e8c942e089ec6065f0239d6dcad4443350126b34df3d9", "category":"StartApp", "crc":3359296516, "fileSize":104415
@@ -10927,7 +10936,7 @@
       "bundleName":"sdchara/00021", "hash":"7d4d7f2b3231238b43143bb7637cce863e6aff4d1315f21721202afbded47deb", "category":"StartApp", "crc":1028014544, "fileSize":73877
     },
     "sdchara/00021_casual_summer":{
-      "bundleName":"sdchara/00021_casual_summer", "hash":"3af338eec7dd05128d9f8fa178ae0635b1a34873669ca1aa0f9c769f852bbb38", "category":"StartApp", "crc":2310854357, "fileSize":111362
+      "bundleName":"sdchara/00021_casual_summer", "hash":"c00c94415bfde3d86c67fab5308149a5b1a34873669ca1aa0f9c769f852bbb38", "category":"StartApp", "crc":2310854357, "fileSize":111362
     },
     "sdchara/00021_casual_winter":{
       "bundleName":"sdchara/00021_casual_winter", "hash":"3183541b6ce42c31f02f60fe57aaddcdd5b49a54629c0148c8b52018f13408e7", "category":"StartApp", "crc":939871449, "fileSize":106828
@@ -10936,7 +10945,7 @@
       "bundleName":"sdchara/00022", "hash":"67064eaf9ec0f808b452a3723fb9857d9377eb191663f8009a6bee21ccc90ecc", "category":"StartApp", "crc":3005972585, "fileSize":69100
     },
     "sdchara/00022_casual_summer":{
-      "bundleName":"sdchara/00022_casual_summer", "hash":"627f1a270245edd95f938efb50eb7b4fed79f58505deb2f25d5c569657f1ff0a", "category":"StartApp", "crc":1363182453, "fileSize":107943
+      "bundleName":"sdchara/00022_casual_summer", "hash":"f2ead7f396c4f84b52952149dc13174aed79f58505deb2f25d5c569657f1ff0a", "category":"StartApp", "crc":1363182453, "fileSize":107943
     },
     "sdchara/00022_casual_winter":{
       "bundleName":"sdchara/00022_casual_winter", "hash":"72b9e6e0e182264b95cc373d332e9798792fd2b5834d0e0bde46ce7db31239c7", "category":"StartApp", "crc":1643711626, "fileSize":107166
@@ -10945,7 +10954,7 @@
       "bundleName":"sdchara/00023", "hash":"0bf0585b3bd14b6d6a45ee4a2b359da7f8e415a82ca0d7e797d8270dab115d2f", "category":"StartApp", "crc":1416649664, "fileSize":96435
     },
     "sdchara/00023_casual_summer":{
-      "bundleName":"sdchara/00023_casual_summer", "hash":"21829b38aede1d1df14155db5c408f9905b7712211b68a0a9609b4faa9e1c347", "category":"StartApp", "crc":1852444150, "fileSize":146418
+      "bundleName":"sdchara/00023_casual_summer", "hash":"9d08932cc75fd47ed4ed72282850015405b7712211b68a0a9609b4faa9e1c347", "category":"StartApp", "crc":1852444150, "fileSize":146418
     },
     "sdchara/00023_casual_winter":{
       "bundleName":"sdchara/00023_casual_winter", "hash":"5031072afe354cd741c04340a2cddad83946392ee241f72ca46aa96347f65a95", "category":"StartApp", "crc":4136034118, "fileSize":147249
@@ -10954,7 +10963,7 @@
       "bundleName":"sdchara/00024", "hash":"d79f83eadd08c06860e0624b831f0c953392c63c39832e65cd06615f4843c5d1", "category":"StartApp", "crc":1917656324, "fileSize":74880
     },
     "sdchara/00024_casual_summer":{
-      "bundleName":"sdchara/00024_casual_summer", "hash":"ec31efbecf6fbe9d9be91996a3bd42dac59d7bef94f71f42ec22b157addf9914", "category":"StartApp", "crc":701878496, "fileSize":126280
+      "bundleName":"sdchara/00024_casual_summer", "hash":"721322b5bdadb967578fcddfea91cb85c59d7bef94f71f42ec22b157addf9914", "category":"StartApp", "crc":701878496, "fileSize":126280
     },
     "sdchara/00024_casual_winter":{
       "bundleName":"sdchara/00024_casual_winter", "hash":"f4572d9fc8da0bd20d58f880a5db2a451d2144662d327a59ef2f19e1a4adddfa", "category":"StartApp", "crc":2395622692, "fileSize":114521
@@ -10963,7 +10972,7 @@
       "bundleName":"sdchara/00025", "hash":"5b9cdb5dfbf9516904c1df40d6582e5060f2ff3ee64853f4c062f6aacde5e336", "category":"StartApp", "crc":711961090, "fileSize":79274
     },
     "sdchara/00025_casual_summer":{
-      "bundleName":"sdchara/00025_casual_summer", "hash":"f99d7454a1d6b54c79d630161acf781a65b7dfd48995e9d5ebd835d16cbf95dc", "category":"StartApp", "crc":435228982, "fileSize":121180
+      "bundleName":"sdchara/00025_casual_summer", "hash":"1366c5406504f03bac93229793f5868265b7dfd48995e9d5ebd835d16cbf95dc", "category":"StartApp", "crc":435228982, "fileSize":121180
     },
     "sdchara/00025_casual_winter":{
       "bundleName":"sdchara/00025_casual_winter", "hash":"045f430addbdd96da851a0e5fb9dd93a6509495bd491cc4ffcac13ba77a1261b", "category":"StartApp", "crc":3215333772, "fileSize":117799
@@ -10996,7 +11005,7 @@
       "bundleName":"sdchara/00105", "hash":"44ef4ce27106e4ef784efb71767d1bfd83b199a08a7dbd70f8419d7c4f87cf45", "category":"StartApp", "crc":3369096669, "fileSize":71586
     },
     "sdchara/00105_summer":{
-      "bundleName":"sdchara/00105_summer", "hash":"21fac3f2b7e5faf9575fb255ef87d735eeafd69884e1fc919b0561c48128d04f", "category":"StartApp", "crc":562223924, "fileSize":102291
+      "bundleName":"sdchara/00105_summer", "hash":"b2c8dc12f83f2561834d21b1de303bbdeeafd69884e1fc919b0561c48128d04f", "category":"StartApp", "crc":562223924, "fileSize":102291
     },
     "sdchara/00106":{
       "bundleName":"sdchara/00106", "hash":"282e2b5b2948e694ee16341a26eec038c5762c9491850952a6d738478d5ac8ee", "category":"StartApp", "crc":3450720508, "fileSize":63021
@@ -12036,6 +12045,9 @@
     "sound/bgm130":{
       "bundleName":"sound/bgm130", "hash":"d48f5b25ddc4514791f7d6e7fb63923c3eeef1744fd5c0c800c91595a47539df", "category":"AsNeeded", "crc":1992755004, "fileSize":3585421
     },
+    "sound/bgm131":{
+      "bundleName":"sound/bgm131", "hash":"897a360983e90a1a1eaa1d8d53180366291c1a7b60c87a4c897049bd3693373b", "category":"AsNeeded", "crc":1463019199, "fileSize":3579701
+    },
     "sound/chorus001":{
       "bundleName":"sound/chorus001", "hash":"2ffd745cfe3bd7c68ea6b5ea1df2c036c77ae342d74f0196502a3aa62c024725", "category":"StartApp", "crc":39952628, "fileSize":283474
     },
@@ -12425,6 +12437,9 @@
     },
     "sound/chorus130":{
       "bundleName":"sound/chorus130", "hash":"5aee7f17865fcd4c3afda179c26f334845e31196ac9a9e0b1d19e7141d0928b6", "category":"StartApp", "crc":410334815, "fileSize":233474
+    },
+    "sound/chorus131":{
+      "bundleName":"sound/chorus131", "hash":"5b00b4168ddc8d9588b584a7db615fb19a3766a4fa3dcdbac1f7eb6e4e94f407", "category":"StartApp", "crc":1151054463, "fileSize":390614
     },
     "sound/common":{
       "bundleName":"sound/common", "hash":"31666a42d63d67e33e88fb6f0625d1ec976046ccb221619c8fd6c9c66deeaabe", "category":"StartApp", "crc":907257583, "fileSize":1213739
@@ -16159,13 +16174,13 @@
       "bundleName":"sound/voice/system/chara9", "hash":"8556a3a79faee88e8f246f7e36cfd3b4f2b3eefdef782f57dc1c4a0b0d414d38", "category":"AdditionalVoice", "crc":417994132, "fileSize":2025012
     },
     "speciallottery/2018newyearlottery":{
-      "bundleName":"speciallottery/2018newyearlottery", "hash":"1db114d1dc1e6c9ba38d2b06bcf12437c629a408aa9ef6429a32465f36e75c0e", "category":"AsNeeded", "crc":2182297500, "dependencies":[
+      "bundleName":"speciallottery/2018newyearlottery", "hash":"1db114d1dc1e6c9ba38d2b06bcf12437c629a408aa9ef6429a32465f36e75c0e", "category":"AsNeeded", "crc":1849568937, "dependencies":[
         "effect/common_materials"
       ],
-      "fileSize":5585072
+      "fileSize":5629543
     },
     "specialtraining/effect":{
-      "bundleName":"specialtraining/effect", "hash":"9755bea8953ad9339777df3ad045b491e7a20dff29cee187706ce62240e92d4a", "category":"StartApp", "crc":3918547809, "fileSize":4075030
+      "bundleName":"specialtraining/effect", "hash":"9755bea8953ad9339777df3ad045b491e7a20dff29cee187706ce62240e92d4a", "category":"StartApp", "crc":573752790, "fileSize":4122939
     },
     "stamp/01":{
       "bundleName":"stamp/01", "hash":"889670ba52887d8af3fde1270d80fca3b4177963bd21045df2aff8a399646f87", "category":"StartApp", "crc":233118175, "fileSize":2374688
