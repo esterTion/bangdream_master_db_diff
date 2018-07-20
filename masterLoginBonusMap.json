@@ -1908,6 +1908,23 @@
         
       ]
     },
+    "72":{
+      "loginBonusId":72, "loginBonusType":"event", "caption":"ガルパ×『ペルソナ』シリーズ コラボ開催記念ログインキャンペーン", "assetBundleName":"persona5_collabo", "publishedAt":20237911808, "closedAt":21188310808, "details":[
+        {
+          "loginBonusId":72, "days":1, "resourceType":"costume", "resourceId":433, "quantity":1, "seq":1
+        },
+        {
+          "loginBonusId":72, "days":1, "resourceType":"area_item", "resourceId":477, "quantity":1, "seq":2
+        }
+      ],
+      "assetMap":{
+        "entries":{
+          "1":{
+            "loginBonusId":72, "days":1, "resourceName":"persona5_collabo_day1", "voiceId":"eventLoginBonus1"
+          }
+        }
+      }
+    },
     "73":{
       "loginBonusId":73, "loginBonusType":"event", "caption":"衣替えログインキャンペーン！", "assetBundleName":"koromogae_summer_2018", "publishedAt":15917911808, "closedAt":17001510808, "details":[
         {
@@ -1993,6 +2010,80 @@
       "assetMap":[
         
       ]
+    },
+    "82":{
+      "loginBonusId":82, "loginBonusType":"event", "caption":"コラボ開催記念ログインキャンペーン", "assetBundleName":"collabo_kinen", "publishedAt":20237911808, "closedAt":21706710808, "details":[
+        {
+          "loginBonusId":82, "days":1, "resourceType":"live_boost_recovery_item", "resourceId":2, "quantity":1, "seq":1
+        },
+        {
+          "loginBonusId":82, "days":1, "resourceType":"item", "resourceId":13, "quantity":30, "seq":2
+        },
+        {
+          "loginBonusId":82, "days":1, "resourceType":"star", "quantity":150, "seq":3
+        },
+        {
+          "loginBonusId":82, "days":2, "resourceType":"item", "resourceId":9, "quantity":50, "seq":1
+        },
+        {
+          "loginBonusId":82, "days":2, "resourceType":"star", "quantity":50, "seq":2
+        },
+        {
+          "loginBonusId":82, "days":3, "resourceType":"item", "resourceId":10, "quantity":50, "seq":1
+        },
+        {
+          "loginBonusId":82, "days":3, "resourceType":"star", "quantity":50, "seq":2
+        },
+        {
+          "loginBonusId":82, "days":4, "resourceType":"item", "resourceId":11, "quantity":50, "seq":1
+        },
+        {
+          "loginBonusId":82, "days":4, "resourceType":"star", "quantity":50, "seq":2
+        },
+        {
+          "loginBonusId":82, "days":5, "resourceType":"item", "resourceId":12, "quantity":50, "seq":1
+        },
+        {
+          "loginBonusId":82, "days":5, "resourceType":"star", "quantity":50, "seq":2
+        },
+        {
+          "loginBonusId":82, "days":6, "resourceType":"practice_ticket", "resourceId":3, "quantity":5, "seq":1
+        },
+        {
+          "loginBonusId":82, "days":6, "resourceType":"star", "quantity":50, "seq":2
+        },
+        {
+          "loginBonusId":82, "days":7, "resourceType":"item", "resourceId":14, "quantity":10, "seq":1
+        },
+        {
+          "loginBonusId":82, "days":7, "resourceType":"star", "quantity":100, "seq":2
+        }
+      ],
+      "assetMap":{
+        "entries":{
+          "1":{
+            "loginBonusId":82, "days":1, "resourceName":"collabo_kinen_day1", "voiceId":"eventLoginBonus1"
+          },
+          "2":{
+            "loginBonusId":82, "days":2, "resourceName":"collabo_kinen_day2", "voiceId":"eventLoginBonus1"
+          },
+          "3":{
+            "loginBonusId":82, "days":3, "resourceName":"collabo_kinen_day3", "voiceId":"eventLoginBonus1"
+          },
+          "4":{
+            "loginBonusId":82, "days":4, "resourceName":"collabo_kinen_day4", "voiceId":"eventLoginBonus1"
+          },
+          "5":{
+            "loginBonusId":82, "days":5, "resourceName":"collabo_kinen_day5", "voiceId":"eventLoginBonus1"
+          },
+          "6":{
+            "loginBonusId":82, "days":6, "resourceName":"collabo_kinen_day6", "voiceId":"eventLoginBonus1"
+          },
+          "7":{
+            "loginBonusId":82, "days":7, "resourceName":"collabo_kinen_day7", "voiceId":"eventLoginBonus1"
+          }
+        }
+      }
     }
   }
 }

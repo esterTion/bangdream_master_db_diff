@@ -4427,6 +4427,66 @@
     },
     "476":{
       "areaItemId":476, "categoryId":71, "level":1, "areaItemName":"誕生日ケーキ", "areaId":4, "spawnPoint":"spawn-point10", "life":0, "performance":0, "technique":0, "visual":0, "valueType":"none", "resourceId":71, "seq":1, "areaItemCategoryType":"ornament"
+    },
+    "477":{
+      "areaItemId":477, "categoryId":72, "level":1, "areaItemName":"極上コーヒー", "areaId":1, "spawnPoint":"spawn-point12", "life":0, "performance":0.5, "technique":0.5, "visual":0.5, "valueType":"rate", "targetAttributes":[
+        "powerful", "pure", "cool", "happy"
+      ],
+      "resourceId":72, "description":"全てのパラメータが0.5%ＵＰ", "characterIds":[
+        10, 8
+      ],
+      "targetBandIds":[
+        1, 2, 3, 4, 5
+      ],
+      "flavorText":"知る人ぞ知る『あの喫茶店』の名物コーヒー。飲むとコーヒー豆に詳しくなれる……ような気がする。", "seq":6, "areaItemCategoryType":"buff_item"
+    },
+    "478":{
+      "areaItemId":478, "categoryId":72, "level":2, "areaItemName":"極上コーヒー", "areaId":1, "spawnPoint":"spawn-point12", "life":0, "performance":1, "technique":1, "visual":1, "valueType":"rate", "targetAttributes":[
+        "powerful", "pure", "cool", "happy"
+      ],
+      "resourceId":72, "description":"全てのパラメータが1%ＵＰ", "characterIds":[
+        8, 9
+      ],
+      "targetBandIds":[
+        1, 2, 3, 4, 5
+      ],
+      "flavorText":"知る人ぞ知る『あの喫茶店』の名物コーヒー。飲むとコーヒー豆に詳しくなれる……ような気がする。", "seq":6, "areaItemCategoryType":"buff_item"
+    },
+    "479":{
+      "areaItemId":479, "categoryId":72, "level":3, "areaItemName":"極上コーヒー", "areaId":1, "spawnPoint":"spawn-point12", "life":0, "performance":1.5, "technique":1.5, "visual":1.5, "valueType":"rate", "targetAttributes":[
+        "powerful", "pure", "cool", "happy"
+      ],
+      "resourceId":72, "description":"全てのパラメータが1.5%ＵＰ", "characterIds":[
+        7, 9
+      ],
+      "targetBandIds":[
+        1, 2, 3, 4, 5
+      ],
+      "flavorText":"知る人ぞ知る『あの喫茶店』の名物コーヒー。飲むとコーヒー豆に詳しくなれる……ような気がする。", "seq":6, "areaItemCategoryType":"buff_item"
+    },
+    "480":{
+      "areaItemId":480, "categoryId":72, "level":4, "areaItemName":"極上コーヒー", "areaId":1, "spawnPoint":"spawn-point12", "life":0, "performance":2, "technique":2, "visual":2, "valueType":"rate", "targetAttributes":[
+        "powerful", "pure", "cool", "happy"
+      ],
+      "resourceId":72, "description":"全てのパラメータが2%ＵＰ", "characterIds":[
+        6, 7
+      ],
+      "targetBandIds":[
+        1, 2, 3, 4, 5
+      ],
+      "flavorText":"知る人ぞ知る『あの喫茶店』の名物コーヒー。飲むとコーヒー豆に詳しくなれる……ような気がする。", "seq":6, "areaItemCategoryType":"buff_item"
+    },
+    "481":{
+      "areaItemId":481, "categoryId":72, "level":5, "areaItemName":"極上コーヒー", "areaId":1, "spawnPoint":"spawn-point12", "life":0, "performance":2.5, "technique":2.5, "visual":2.5, "valueType":"rate", "targetAttributes":[
+        "powerful", "pure", "cool", "happy"
+      ],
+      "resourceId":72, "description":"全てのパラメータが2.5%ＵＰ", "characterIds":[
+        10, 6
+      ],
+      "targetBandIds":[
+        1, 2, 3, 4, 5
+      ],
+      "flavorText":"知る人ぞ知る『あの喫茶店』の名物コーヒー。飲むとコーヒー豆に詳しくなれる……ような気がする。", "seq":6, "areaItemCategoryType":"buff_item"
     }
   }
 }
