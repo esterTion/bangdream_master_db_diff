@@ -1,5 +1,5 @@
 {
-  "version":"2.5.0.600", "bundles":{
+  "version":"2.5.0.700", "bundles":{
     " sound/voice/scenario/loginstory13":{
       "bundleName":" sound/voice/scenario/loginstory13", "hash":"84b185094e6fe1883e5a141ccd60f915fdec447c4dfb9bda980a643708640060", "category":"AsNeeded", "crc":293788668, "fileSize":961230
     },
@@ -5823,6 +5823,9 @@
     "event/loginbonus/650man_anniversary":{
       "bundleName":"event/loginbonus/650man_anniversary", "hash":"b697ff68897598933a0033ea5a5ec999d6af922cfedbd738c911c9fd1f2e8c96", "category":"AsNeeded", "crc":316769408, "fileSize":1292452
     },
+    "event/loginbonus/750man_anniversary":{
+      "bundleName":"event/loginbonus/750man_anniversary", "hash":"9cf5e1dd647e0b152ff15ae1bca409de6676d1b7f6402510b6084d5fc376b072", "category":"AsNeeded", "crc":2290930154, "fileSize":2668190
+    },
     "event/loginbonus/anfang_release":{
       "bundleName":"event/loginbonus/anfang_release", "hash":"f112a86ff3d39a301488fcbd19dbaf20a4ba7ba8567e0648db4ecde287ac3470", "category":"AsNeeded", "crc":2155961078, "fileSize":1343028
     },
@@ -6840,6 +6843,12 @@
       ],
       "fileSize":1060714
     },
+    "gacha/screen/gacha276":{
+      "bundleName":"gacha/screen/gacha276", "hash":"bc3b693454f22dbc2507408ec92eb47808361a50857005bba4099e35e4ff10e0", "category":"AsNeeded", "crc":2505523774, "dependencies":[
+        "effect/common_materials"
+      ],
+      "fileSize":762398
+    },
     "gacha/screen/gacha4":{
       "bundleName":"gacha/screen/gacha4", "hash":"2d4d08da04062f53230bbdde9684179745c3d8ff64aea66de399984da2144062", "category":"AsNeeded", "crc":1963654076, "fileSize":615054
     },
@@ -6868,7 +6877,7 @@
       "fileSize":1736323
     },
     "homebanner":{
-      "bundleName":"homebanner", "hash":"a4bac0df964904d00e749ccff86709d8578e1801cf37bea8d19805e333aba690", "category":"StartApp", "crc":1922957319, "fileSize":16266418
+      "bundleName":"homebanner", "hash":"542c842f75fd94f9d9034f322b012c12578e1801cf37bea8d19805e333aba690", "category":"StartApp", "crc":213904239, "fileSize":16342042
     },
     "ingameskin/bgskin/skin00":{
       "bundleName":"ingameskin/bgskin/skin00", "hash":"e4ae3bd54e83d4dfec5198972c631e98bb71af161f99855ea24133093d7e43e7", "category":"StartApp", "crc":2774571557, "fileSize":2025808
@@ -10104,6 +10113,9 @@
     "musicjacket/144_soramoyo":{
       "bundleName":"musicjacket/144_soramoyo", "hash":"987f5b62c1d93fff9167bb8a47524acb11e56e554ab767de45b223630883fec7", "category":"StartApp", "crc":460817409, "fileSize":133191
     },
+    "musicjacket/145_discotheque":{
+      "bundleName":"musicjacket/145_discotheque", "hash":"7d82a41641deedbf468f903fc1f1972ce237a46354b7b56bab0961904e1ef671", "category":"StartApp", "crc":1529879991, "fileSize":152901
+    },
     "musicjacket/alchemy":{
       "bundleName":"musicjacket/alchemy", "hash":"d5172bed8ac4c86517b868067abe77beadcaa4b024217ecfe4cd4bf1a4b3e641", "category":"StartApp", "crc":2185185025, "fileSize":142980
     },
@@ -10673,6 +10685,9 @@
     },
     "musicscore/144":{
       "bundleName":"musicscore/144", "hash":"f4b37b23bd6219b1b7b618eb3546175d20d5983e202d091c1cdb0dcb64065483", "category":"StartApp", "crc":1023405255, "fileSize":8561
+    },
+    "musicscore/145":{
+      "bundleName":"musicscore/145", "hash":"b3b4fb69c9cc2b5ba1bdcf0732445c9fc12ba210bc8e2807fb9f65cff9b2589d", "category":"StartApp", "crc":2478108060, "fileSize":8174
     },
     "newsituationintroduction":{
       "bundleName":"newsituationintroduction", "hash":"381d758b747b4d44ab1bc00d4e8631e3371e1cd5a30fa8ec4e930b02e45d6abc", "category":"StartApp", "crc":751037129, "fileSize":860721
@@ -13512,6 +13527,9 @@
     "sound/bgm144":{
       "bundleName":"sound/bgm144", "hash":"1e0eb2b749971cc8dcd9f2e675c0487e0a064baff432d95b710b385dea9987f7", "category":"AsNeeded", "crc":2330458132, "fileSize":3320651
     },
+    "sound/bgm145":{
+      "bundleName":"sound/bgm145", "hash":"6fdcfbd5d880be97d86c97de9b6035147d536871c65f554a2039e3c355867919", "category":"AsNeeded", "crc":2019421688, "fileSize":3134018
+    },
     "sound/chorus001":{
       "bundleName":"sound/chorus001", "hash":"2ffd745cfe3bd7c68ea6b5ea1df2c036c77ae342d74f0196502a3aa62c024725", "category":"StartApp", "crc":39952628, "fileSize":283474
     },
@@ -13943,6 +13961,9 @@
     },
     "sound/chorus144":{
       "bundleName":"sound/chorus144", "hash":"6e6697446bb47fa38513895dc163a6ee159057588e0dcdd52826922088e9df81", "category":"StartApp", "crc":516894429, "fileSize":291425
+    },
+    "sound/chorus145":{
+      "bundleName":"sound/chorus145", "hash":"7b65c1759d7146ea93e61712330bb68b1352b0aeed3707ee49b3e5bdec8b1eb9", "category":"StartApp", "crc":2295572121, "fileSize":229586
     },
     "sound/common":{
       "bundleName":"sound/common", "hash":"31666a42d63d67e33e88fb6f0625d1ec976046ccb221619c8fd6c9c66deeaabe", "category":"StartApp", "crc":907257583, "fileSize":1213739
