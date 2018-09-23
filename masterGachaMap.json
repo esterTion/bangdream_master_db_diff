@@ -782,7 +782,12 @@
         "gachaId":257, "rarityIndex":4, "rate":3, "weightTotal":56
       }
     ],
-    "paymentMethods":null, "description":"1回限定！ ★★★★1人確定の10回ガチャ！ ★★以上のメンバーが出現！※出現メンバーはガチャ詳細をご確認ください。", "seq":20, "resourceName":"gacha257", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢1人★4確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"08/02 14:59 まで", "gachaSubName":"1人★4確定", "priority":3, "viewLive2ds":[
+    "paymentMethods":[
+      {
+        "gachaId":257, "paymentMethod":"paid_star", "quantity":250, "paymentMethodId":474, "count":10, "behavior":"fixed_4_star_once", "pickup":1, "maxSpinLimit":1, "costItemQuantity":2500
+      }
+    ],
+    "description":"1回限定！ ★★★★1人確定の10回ガチャ！ ★★以上のメンバーが出現！※出現メンバーはガチャ詳細をご確認ください。", "seq":20, "resourceName":"gacha257", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢1人★4確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"08/02 14:59 まで", "gachaSubName":"1人★4確定", "priority":3, "viewLive2ds":[
       {
         "gachaId":257, "seq":1, "situationId":432
       },
@@ -1579,7 +1584,12 @@
         "gachaId":258, "rarityIndex":4, "rate":3, "weightTotal":56
       }
     ],
-    "paymentMethods":null, "description":"ゲーム開始から1週間限定！ 1回限定で引ける★★★★1人確定の10回ガチャ！ ★★以上のメンバーが出現！", "seq":10, "resourceName":"gacha120", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢1人★4確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"期限なし", "rookieAt":7, "gachaSubName":"初心者限定", "priority":1, "viewLive2ds":[
+    "paymentMethods":[
+      {
+        "gachaId":258, "paymentMethod":"paid_star", "quantity":250, "paymentMethodId":475, "count":10, "behavior":"fixed_4_star_once", "pickup":1, "maxSpinLimit":1, "costItemQuantity":2500
+      }
+    ],
+    "description":"ゲーム開始から1週間限定！ 1回限定で引ける★★★★1人確定の10回ガチャ！ ★★以上のメンバーが出現！", "seq":10, "resourceName":"gacha120", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢1人★4確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"期限なし", "rookieAt":7, "gachaSubName":"初心者限定", "priority":1, "viewLive2ds":[
       {
         "gachaId":258, "seq":1, "situationId":432
       },
@@ -2920,7 +2930,17 @@
         "gachaId":260, "rarityIndex":4, "rate":6, "weightTotal":59970
       }
     ],
-    "paymentMethods":null, "description":"ドリームフェスティバルガチャと同じく★★★★メンバーの提供割合2倍！3回限定のお得なセットガチャ！", "seq":30, "resourceName":"gacha260", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・「ドリームフェスティバルスペシャルセット10回ガチャ」は、\n★4メンバーのレアリティ別の提供割合が、3%の2倍の6%となります。\n・期間限定メンバーは、今後再登場する場合がございます。\n再登場については現在未定です。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"08/04 14:59 まで", "extras":null, "viewLive2ds":[
+    "paymentMethods":[
+      {
+        "gachaId":260, "paymentMethod":"paid_star", "quantity":200, "paymentMethodId":478, "count":10, "behavior":"over_the_3_star_once", "pickup":1, "maxSpinLimit":3, "costItemQuantity":2000
+      }
+    ],
+    "description":"ドリームフェスティバルガチャと同じく★★★★メンバーの提供割合2倍！3回限定のお得なセットガチャ！", "seq":30, "resourceName":"gacha260", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・「ドリームフェスティバルスペシャルセット10回ガチャ」は、\n★4メンバーのレアリティ別の提供割合が、3%の2倍の6%となります。\n・期間限定メンバーは、今後再登場する場合がございます。\n再登場については現在未定です。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"08/04 14:59 まで", "extras":[
+      {
+        "limit":3, "resourceType":"practice_ticket", "resourceId":8, "resourceQuantity":1, "seq":1
+      }
+    ],
+    "viewLive2ds":[
       {
         "gachaId":260, "seq":1, "situationId":477
       },
@@ -6236,7 +6256,17 @@
         "gachaId":266, "rarityIndex":4, "rate":3, "weightTotal":66
       }
     ],
-    "paymentMethods":null, "description":"3回限定！ 5回ガチャに「ブーストドリンク×2」がついてくる！★★以上のメンバーが出現！", "seq":190, "resourceName":"gacha266", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"08/20 14:59 まで", "extras":null, "viewLive2ds":[
+    "paymentMethods":[
+      {
+        "gachaId":266, "paymentMethod":"free_star", "quantity":200, "paymentMethodId":497, "count":5, "behavior":"over_the_3_star_once", "pickup":0, "maxSpinLimit":3, "costItemQuantity":1000
+      }
+    ],
+    "description":"3回限定！ 5回ガチャに「ブーストドリンク×2」がついてくる！★★以上のメンバーが出現！", "seq":190, "resourceName":"gacha266", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"08/20 14:59 まで", "extras":[
+      {
+        "limit":3, "resourceType":"live_boost_recovery_item", "resourceId":2, "resourceQuantity":2, "seq":1
+      }
+    ],
+    "viewLive2ds":[
       {
         "gachaId":266, "seq":1, "situationId":480
       },
@@ -9276,7 +9306,17 @@
         "gachaId":272, "rarityIndex":4, "rate":3, "weightTotal":68
       }
     ],
-    "paymentMethods":null, "description":"1回限定！ 10回ガチャに「スキル練習チケット(トリプル)×2」がついてくる！★★以上のメンバーが出現！", "seq":190, "resourceName":"gacha272", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"09/10 14:59 まで", "extras":null, "viewLive2ds":[
+    "paymentMethods":[
+      {
+        "gachaId":272, "paymentMethod":"paid_star", "quantity":150, "paymentMethodId":518, "count":10, "behavior":"over_the_3_star_once", "pickup":1, "maxSpinLimit":1, "costItemQuantity":1500
+      }
+    ],
+    "description":"1回限定！ 10回ガチャに「スキル練習チケット(トリプル)×2」がついてくる！★★以上のメンバーが出現！", "seq":190, "resourceName":"gacha272", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"09/10 14:59 まで", "extras":[
+      {
+        "limit":1, "resourceType":"practice_ticket", "resourceId":7, "resourceQuantity":2, "seq":1
+      }
+    ],
+    "viewLive2ds":[
       {
         "gachaId":272, "seq":1, "situationId":490
       },
@@ -11207,7 +11247,12 @@
         "gachaId":276, "rarityIndex":4, "rate":3, "weightTotal":64
       }
     ],
-    "paymentMethods":null, "description":"1回限定！ ★★★★1人確定の10回ガチャ！ ★★以上のメンバーが出現！※出現メンバーはガチャ詳細をご確認ください。", "seq":20, "resourceName":"gacha276", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢1人★4確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"10/02 14:59 まで", "gachaSubName":"1人★4確定", "priority":3, "viewLive2ds":[
+    "paymentMethods":[
+      {
+        "gachaId":276, "paymentMethod":"paid_star", "quantity":250, "paymentMethodId":529, "count":10, "behavior":"fixed_4_star_once", "pickup":1, "maxSpinLimit":1, "costItemQuantity":2500
+      }
+    ],
+    "description":"1回限定！ ★★★★1人確定の10回ガチャ！ ★★以上のメンバーが出現！※出現メンバーはガチャ詳細をご確認ください。", "seq":20, "resourceName":"gacha276", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢1人★4確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"10/02 14:59 まで", "gachaSubName":"1人★4確定", "priority":3, "viewLive2ds":[
       {
         "gachaId":276, "seq":1, "situationId":447
       },
@@ -11848,7 +11893,12 @@
         "gachaId":277, "rarityIndex":4, "rate":3, "weightTotal":64
       }
     ],
-    "paymentMethods":null, "description":"ゲーム開始から1週間限定！ 1回限定で引ける★★★★1人確定の10回ガチャ！ ★★以上のメンバーが出現！", "seq":10, "resourceName":"gacha120", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢1人★4確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"期限なし", "rookieAt":7, "gachaSubName":"初心者限定", "priority":1, "viewLive2ds":[
+    "paymentMethods":[
+      {
+        "gachaId":277, "paymentMethod":"paid_star", "quantity":250, "paymentMethodId":530, "count":10, "behavior":"fixed_4_star_once", "pickup":1, "maxSpinLimit":1, "costItemQuantity":2500
+      }
+    ],
+    "description":"ゲーム開始から1週間限定！ 1回限定で引ける★★★★1人確定の10回ガチャ！ ★★以上のメンバーが出現！", "seq":10, "resourceName":"gacha120", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢1人★4確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"期限なし", "rookieAt":7, "gachaSubName":"初心者限定", "priority":1, "viewLive2ds":[
       {
         "gachaId":277, "seq":1, "situationId":447
       },
@@ -13403,7 +13453,17 @@
         "gachaId":280, "rarityIndex":4, "rate":3, "weightTotal":72
       }
     ],
-    "paymentMethods":null, "description":"3回限定！ 5回ガチャに「ブーストドリンク×2」がついてくる！★★以上のメンバーが出現！", "seq":190, "resourceName":"gacha280", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"09/30 14:59 まで", "extras":null, "viewLive2ds":[
+    "paymentMethods":[
+      {
+        "gachaId":280, "paymentMethod":"free_star", "quantity":200, "paymentMethodId":539, "count":5, "behavior":"over_the_3_star_once", "pickup":0, "maxSpinLimit":3, "costItemQuantity":1000
+      }
+    ],
+    "description":"3回限定！ 5回ガチャに「ブーストドリンク×2」がついてくる！★★以上のメンバーが出現！", "seq":190, "resourceName":"gacha280", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"09/30 14:59 まで", "extras":[
+      {
+        "limit":3, "resourceType":"live_boost_recovery_item", "resourceId":2, "resourceQuantity":2, "seq":1
+      }
+    ],
+    "viewLive2ds":[
       {
         "gachaId":280, "seq":1, "situationId":500
       },
@@ -17308,7 +17368,12 @@
         "gachaId":119, "rarityIndex":4, "rate":1.5, "weightTotal":13
       }
     ],
-    "paymentMethods":null, "description":"1回限定！ ★★★★1人確定の10回ガチャ！ ★★以上のメンバーが出現！※出現メンバーはガチャ詳細をご確認ください。", "seq":9998, "resourceName":"gacha119", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢1人★4確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"07/03 14:59 まで", "gachaSubName":"1人★4確定", "priority":3
+    "paymentMethods":[
+      {
+        "gachaId":119, "paymentMethod":"paid_star", "quantity":250, "paymentMethodId":81, "count":10, "behavior":"fixed_4_star_once", "pickup":1, "maxSpinLimit":1, "costItemQuantity":2500
+      }
+    ],
+    "description":"1回限定！ ★★★★1人確定の10回ガチャ！ ★★以上のメンバーが出現！※出現メンバーはガチャ詳細をご確認ください。", "seq":9998, "resourceName":"gacha119", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢1人★4確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"07/03 14:59 まで", "gachaSubName":"1人★4確定", "priority":3
   },
   "120":{
     "gachaId":120, "gachaName":"スタートダッシュガチャ", "gachaDisplayType":"default", "publishedAt":21592850176, "closedAt":24876049176, "details":[
@@ -17552,7 +17617,12 @@
         "gachaId":120, "rarityIndex":4, "rate":1.5, "weightTotal":13
       }
     ],
-    "paymentMethods":null, "description":"ゲーム開始から1週間限定！ 1回限定で引ける★★★★1人確定の10回ガチャ！ ★★以上のメンバーが出現！", "seq":10, "resourceName":"gacha120", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢1人★4確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"期限なし", "rookieAt":7, "gachaSubName":"初心者限定", "priority":1
+    "paymentMethods":[
+      {
+        "gachaId":120, "paymentMethod":"paid_star", "quantity":250, "paymentMethodId":82, "count":10, "behavior":"fixed_4_star_once", "pickup":1, "maxSpinLimit":1, "costItemQuantity":2500
+      }
+    ],
+    "description":"ゲーム開始から1週間限定！ 1回限定で引ける★★★★1人確定の10回ガチャ！ ★★以上のメンバーが出現！", "seq":10, "resourceName":"gacha120", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢1人★4確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"期限なし", "rookieAt":7, "gachaSubName":"初心者限定", "priority":1
   },
   "121":{
     "gachaId":121, "gachaName":"煌めく天の川ガチャ", "gachaDisplayType":"default", "publishedAt":21333650176, "closedAt":22284049176, "details":[
@@ -20382,7 +20452,12 @@
         "gachaId":130, "rarityIndex":4, "rate":1.5, "weightTotal":17
       }
     ],
-    "paymentMethods":null, "description":"1回限定！ ★★★★1人確定の10回ガチャ！ ★★以上のメンバーが出現！※出現メンバーはガチャ詳細をご確認ください。", "seq":9998, "resourceName":"gacha130", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢1人★4確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"09/03 14:59 まで", "gachaSubName":"1人★4確定", "priority":3
+    "paymentMethods":[
+      {
+        "gachaId":130, "paymentMethod":"paid_star", "quantity":250, "paymentMethodId":117, "count":10, "behavior":"fixed_4_star_once", "pickup":1, "maxSpinLimit":1, "costItemQuantity":2500
+      }
+    ],
+    "description":"1回限定！ ★★★★1人確定の10回ガチャ！ ★★以上のメンバーが出現！※出現メンバーはガチャ詳細をご確認ください。", "seq":9998, "resourceName":"gacha130", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢1人★4確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"09/03 14:59 まで", "gachaSubName":"1人★4確定", "priority":3
   },
   "131":{
     "gachaId":131, "gachaName":"★３以上確定チケットガチャ", "gachaDisplayType":"default", "publishedAt":24876050176, "closedAt":27727249176, "details":[
@@ -22411,7 +22486,12 @@
         "gachaId":137, "rarityIndex":4, "rate":1.5, "weightTotal":17
       }
     ],
-    "paymentMethods":null, "description":"ゲーム開始から1週間限定！ 1回限定で引ける★★★★1人確定の10回ガチャ！ ★★以上のメンバーが出現！", "seq":10, "resourceName":"gacha120", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢1人★4確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"期限なし", "rookieAt":7, "gachaSubName":"初心者限定", "priority":1
+    "paymentMethods":[
+      {
+        "gachaId":137, "paymentMethod":"paid_star", "quantity":250, "paymentMethodId":138, "count":10, "behavior":"fixed_4_star_once", "pickup":1, "maxSpinLimit":1, "costItemQuantity":2500
+      }
+    ],
+    "description":"ゲーム開始から1週間限定！ 1回限定で引ける★★★★1人確定の10回ガチャ！ ★★以上のメンバーが出現！", "seq":10, "resourceName":"gacha120", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢1人★4確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"期限なし", "rookieAt":7, "gachaSubName":"初心者限定", "priority":1
   },
   "138":{
     "gachaId":138, "gachaName":"青と赤の奏鳴曲ガチャ", "gachaDisplayType":"default", "publishedAt":26690450176, "closedAt":27727249176, "details":[
@@ -24923,7 +25003,12 @@
         "gachaId":145, "rarityIndex":4, "rate":1.5, "weightTotal":20
       }
     ],
-    "paymentMethods":null, "description":"1回限定！ ★★★★1人確定の10回ガチャ！ ★★以上のメンバーが出現！※出現メンバーはガチャ詳細をご確認ください。", "seq":9998, "resourceName":"gacha145", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢1人★4確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"10/02 14:59 まで", "gachaSubName":"1人★4確定", "priority":3
+    "paymentMethods":[
+      {
+        "gachaId":145, "paymentMethod":"paid_star", "quantity":250, "paymentMethodId":165, "count":10, "behavior":"fixed_4_star_once", "pickup":1, "maxSpinLimit":1, "costItemQuantity":2500
+      }
+    ],
+    "description":"1回限定！ ★★★★1人確定の10回ガチャ！ ★★以上のメンバーが出現！※出現メンバーはガチャ詳細をご確認ください。", "seq":9998, "resourceName":"gacha145", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢1人★4確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"10/02 14:59 まで", "gachaSubName":"1人★4確定", "priority":3
   },
   "146":{
     "gachaId":146, "gachaName":"ワン・ナイト・マジックガチャ", "gachaDisplayType":"default", "publishedAt":29282450176, "closedAt":30232849176, "details":[
@@ -25926,7 +26011,12 @@
         "gachaId":148, "rarityIndex":4, "rate":1.5, "weightTotal":20
       }
     ],
-    "paymentMethods":null, "description":"ゲーム開始から1週間限定！ 1回限定で引ける★★★★1人確定の10回ガチャ！ ★★以上のメンバーが出現！", "seq":10, "resourceName":"gacha120", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢1人★4確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"期限なし", "rookieAt":7, "gachaSubName":"初心者限定", "priority":1
+    "paymentMethods":[
+      {
+        "gachaId":148, "paymentMethod":"paid_star", "quantity":250, "paymentMethodId":174, "count":10, "behavior":"fixed_4_star_once", "pickup":1, "maxSpinLimit":1, "costItemQuantity":2500
+      }
+    ],
+    "description":"ゲーム開始から1週間限定！ 1回限定で引ける★★★★1人確定の10回ガチャ！ ★★以上のメンバーが出現！", "seq":10, "resourceName":"gacha120", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢1人★4確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"期限なし", "rookieAt":7, "gachaSubName":"初心者限定", "priority":1
   },
   "149":{
     "gachaId":149, "gachaName":"レイニーブルーローズガチャ", "gachaDisplayType":"default", "publishedAt":30232850176, "closedAt":31010449176, "details":[
@@ -29050,7 +29140,16 @@
         "gachaId":157, "rarityIndex":4, "rate":1.5, "weightTotal":28
       }
     ],
-    "paymentMethods":null, "description":"1回限定！ 10回ガチャに「スキル練習チケット(トリプル)x2」がついてくる！★★以上のメンバーが出現！", "seq":190, "resourceName":"gacha157", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"11/10 14:59 まで", "extras":null
+    "paymentMethods":[
+      {
+        "gachaId":157, "paymentMethod":"paid_star", "quantity":150, "paymentMethodId":203, "count":10, "behavior":"over_the_3_star_once", "pickup":1, "maxSpinLimit":1, "costItemQuantity":1500
+      }
+    ],
+    "description":"1回限定！ 10回ガチャに「スキル練習チケット(トリプル)x2」がついてくる！★★以上のメンバーが出現！", "seq":190, "resourceName":"gacha157", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"11/10 14:59 まで", "extras":[
+      {
+        "limit":1, "resourceType":"practice_ticket", "resourceId":7, "resourceQuantity":2, "seq":1
+      }
+    ]
   },
   "158":{
     "gachaId":158, "gachaName":"ナチュラルウィンドガチャ", "gachaDisplayType":"default", "publishedAt":32824850176, "closedAt":33775249176, "details":[
@@ -30407,7 +30506,16 @@
         "gachaId":161, "rarityIndex":4, "rate":1.5, "weightTotal":29
       }
     ],
-    "paymentMethods":null, "description":"3回限定！ 5回ガチャに「ブーストドリンクx2」がついてくる！★★以上のメンバーが出現！", "seq":190, "resourceName":"gacha161", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"11/21 14:59 まで", "extras":null
+    "paymentMethods":[
+      {
+        "gachaId":161, "paymentMethod":"free_star", "quantity":200, "paymentMethodId":214, "count":5, "behavior":"over_the_3_star_once", "pickup":0, "maxSpinLimit":3, "costItemQuantity":1000
+      }
+    ],
+    "description":"3回限定！ 5回ガチャに「ブーストドリンクx2」がついてくる！★★以上のメンバーが出現！", "seq":190, "resourceName":"gacha161", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"11/21 14:59 まで", "extras":[
+      {
+        "limit":3, "resourceType":"live_boost_recovery_item", "resourceId":2, "resourceQuantity":2, "seq":1
+      }
+    ]
   },
   "162":{
     "gachaId":162, "gachaName":"夕映えのスマイルスターガチャ", "gachaDisplayType":"default", "publishedAt":33775250176, "closedAt":193110808, "details":[
@@ -31527,7 +31635,12 @@
         "gachaId":164, "rarityIndex":4, "rate":1.5, "weightTotal":25
       }
     ],
-    "paymentMethods":null, "description":"1回限定！ ★★★★1人確定の10回ガチャ！ ★★以上のメンバーが出現！※出現メンバーはガチャ詳細をご確認ください。", "seq":9998, "resourceName":"gacha164", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢1人★4確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"12/02 14:59 まで", "gachaSubName":"1人★4確定", "priority":3
+    "paymentMethods":[
+      {
+        "gachaId":164, "paymentMethod":"paid_star", "quantity":250, "paymentMethodId":224, "count":10, "behavior":"fixed_4_star_once", "pickup":1, "maxSpinLimit":1, "costItemQuantity":2500
+      }
+    ],
+    "description":"1回限定！ ★★★★1人確定の10回ガチャ！ ★★以上のメンバーが出現！※出現メンバーはガチャ詳細をご確認ください。", "seq":9998, "resourceName":"gacha164", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢1人★4確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"12/02 14:59 まで", "gachaSubName":"1人★4確定", "priority":3
   },
   "165":{
     "gachaId":165, "gachaName":"スタートダッシュガチャ", "gachaDisplayType":"default", "publishedAt":34120850176, "closedAt":2266710808, "details":[
@@ -31861,7 +31974,12 @@
         "gachaId":165, "rarityIndex":4, "rate":1.5, "weightTotal":25
       }
     ],
-    "paymentMethods":null, "description":"ゲーム開始から1週間限定！ 1回限定で引ける★★★★1人確定の10回ガチャ！ ★★以上のメンバーが出現！", "seq":10, "resourceName":"gacha120", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢1人★4確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"期限なし", "rookieAt":7, "gachaSubName":"初心者限定", "priority":1
+    "paymentMethods":[
+      {
+        "gachaId":165, "paymentMethod":"paid_star", "quantity":250, "paymentMethodId":223, "count":10, "behavior":"fixed_4_star_once", "pickup":1, "maxSpinLimit":1, "costItemQuantity":2500
+      }
+    ],
+    "description":"ゲーム開始から1週間限定！ 1回限定で引ける★★★★1人確定の10回ガチャ！ ★★以上のメンバーが出現！", "seq":10, "resourceName":"gacha120", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢1人★4確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"期限なし", "rookieAt":7, "gachaSubName":"初心者限定", "priority":1
   },
   "166":{
     "gachaId":166, "gachaName":"ブライトクリスマスガチャ", "gachaDisplayType":"default", "publishedAt":193111808, "closedAt":970710808, "details":[
@@ -33053,7 +33171,16 @@
         "gachaId":168, "rarityIndex":4, "rate":1.5, "weightTotal":31
       }
     ],
-    "paymentMethods":null, "description":"1回限定！ 10回ガチャに「スキル練習チケット(トリプル)x2」がついてくる！★★以上のメンバーが出現！", "seq":190, "resourceName":"gacha168", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"12/09 14:59 まで", "extras":null
+    "paymentMethods":[
+      {
+        "gachaId":168, "paymentMethod":"paid_star", "quantity":150, "paymentMethodId":233, "count":10, "behavior":"over_the_3_star_once", "pickup":1, "maxSpinLimit":1, "costItemQuantity":1500
+      }
+    ],
+    "description":"1回限定！ 10回ガチャに「スキル練習チケット(トリプル)x2」がついてくる！★★以上のメンバーが出現！", "seq":190, "resourceName":"gacha168", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"12/09 14:59 まで", "extras":[
+      {
+        "limit":1, "resourceType":"practice_ticket", "resourceId":7, "resourceQuantity":2, "seq":1
+      }
+    ]
   },
   "169":{
     "gachaId":169, "gachaName":"霜天のトゥインクルブルーガチャ", "gachaDisplayType":"default", "publishedAt":970711808, "closedAt":1921110808, "details":[
@@ -34482,7 +34609,16 @@
         "gachaId":172, "rarityIndex":4, "rate":1.5, "weightTotal":31
       }
     ],
-    "paymentMethods":null, "description":"3回限定！ 5回ガチャに「ブーストドリンクx2」がついてくる！★★以上のメンバーが出現！", "seq":190, "resourceName":"gacha172", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"12/20 14:59 まで", "extras":null
+    "paymentMethods":[
+      {
+        "gachaId":172, "paymentMethod":"free_star", "quantity":200, "paymentMethodId":244, "count":5, "behavior":"over_the_3_star_once", "pickup":0, "maxSpinLimit":3, "costItemQuantity":1000
+      }
+    ],
+    "description":"3回限定！ 5回ガチャに「ブーストドリンクx2」がついてくる！★★以上のメンバーが出現！", "seq":190, "resourceName":"gacha172", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"12/20 14:59 まで", "extras":[
+      {
+        "limit":3, "resourceType":"live_boost_recovery_item", "resourceId":2, "resourceQuantity":2, "seq":1
+      }
+    ]
   },
   "173":{
     "gachaId":173, "gachaName":"氷極のオーロラガチャ", "gachaDisplayType":"default", "publishedAt":1921111808, "closedAt":2871510808, "details":[
@@ -35665,7 +35801,12 @@
         "gachaId":175, "rarityIndex":4, "rate":1.5, "weightTotal":28
       }
     ],
-    "paymentMethods":null, "description":"1回限定！ ★★★★1人確定の10回ガチャ！ ★★以上のメンバーが出現！※出現メンバーはガチャ詳細をご確認ください。", "seq":9998, "resourceName":"gacha175", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢1人★4確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"01/02 14:59 まで", "gachaSubName":"1人★4確定", "priority":3
+    "paymentMethods":[
+      {
+        "gachaId":175, "paymentMethod":"paid_star", "quantity":250, "paymentMethodId":253, "count":10, "behavior":"fixed_4_star_once", "pickup":1, "maxSpinLimit":1, "costItemQuantity":2500
+      }
+    ],
+    "description":"1回限定！ ★★★★1人確定の10回ガチャ！ ★★以上のメンバーが出現！※出現メンバーはガチャ詳細をご確認ください。", "seq":9998, "resourceName":"gacha175", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢1人★4確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"01/02 14:59 まで", "gachaSubName":"1人★4確定", "priority":3
   },
   "176":{
     "gachaId":176, "gachaName":"スタートダッシュガチャ", "gachaDisplayType":"default", "publishedAt":2266711808, "closedAt":3983910808, "details":[
@@ -36026,7 +36167,12 @@
         "gachaId":176, "rarityIndex":4, "rate":1.5, "weightTotal":28
       }
     ],
-    "paymentMethods":null, "description":"ゲーム開始から1週間限定！ 1回限定で引ける★★★★1人確定の10回ガチャ！ ★★以上のメンバーが出現！", "seq":10, "resourceName":"gacha120", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢1人★4確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"期限なし", "rookieAt":7, "gachaSubName":"初心者限定", "priority":1
+    "paymentMethods":[
+      {
+        "gachaId":176, "paymentMethod":"paid_star", "quantity":250, "paymentMethodId":254, "count":10, "behavior":"fixed_4_star_once", "pickup":1, "maxSpinLimit":1, "costItemQuantity":2500
+      }
+    ],
+    "description":"ゲーム開始から1週間限定！ 1回限定で引ける★★★★1人確定の10回ガチャ！ ★★以上のメンバーが出現！", "seq":10, "resourceName":"gacha120", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢1人★4確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"期限なし", "rookieAt":7, "gachaSubName":"初心者限定", "priority":1
   },
   "177":{
     "gachaId":177, "gachaName":"ドリームフェスティバルガチャ", "gachaDisplayType":"default", "publishedAt":2871511808, "closedAt":3217110808, "details":[
@@ -36858,7 +37004,16 @@
         "gachaId":178, "rarityIndex":4, "rate":3, "weightTotal":29984
       }
     ],
-    "paymentMethods":null, "description":"ドリームフェスティバルガチャと同じく★★★★メンバーの提供割合2倍！3回限定のお得なセットガチャ！", "seq":190, "resourceName":"gacha178", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・「ドリームフェスティバル新春スペシャルセット10回ガチャ」は、\n★4メンバーのレアリティ別の提供割合が、1.5%の2倍の3%となります。\n・期間限定メンバーは、今後再登場する場合がございます。\n再登場については現在未定です。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"01/04 14:59 まで", "extras":null
+    "paymentMethods":[
+      {
+        "gachaId":178, "paymentMethod":"paid_star", "quantity":200, "paymentMethodId":257, "count":10, "behavior":"over_the_3_star_once", "pickup":1, "maxSpinLimit":3, "costItemQuantity":2000
+      }
+    ],
+    "description":"ドリームフェスティバルガチャと同じく★★★★メンバーの提供割合2倍！3回限定のお得なセットガチャ！", "seq":190, "resourceName":"gacha178", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・「ドリームフェスティバル新春スペシャルセット10回ガチャ」は、\n★4メンバーのレアリティ別の提供割合が、1.5%の2倍の3%となります。\n・期間限定メンバーは、今後再登場する場合がございます。\n再登場については現在未定です。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"01/04 14:59 まで", "extras":[
+      {
+        "limit":3, "resourceType":"practice_ticket", "resourceId":8, "resourceQuantity":1, "seq":1
+      }
+    ]
   },
   "179":{
     "gachaId":179, "gachaName":"陽春のサンライズガチャ", "gachaDisplayType":"default", "publishedAt":3217111808, "closedAt":3735510808, "details":[
@@ -37684,7 +37839,16 @@
         "gachaId":180, "rarityIndex":4, "rate":1.5, "weightTotal":14992
       }
     ],
-    "paymentMethods":null, "description":"3回限定！ 5回ガチャに「スキル練習チケット(トリプル)x1」がついてくる！★★以上のメンバーが出現！", "seq":190, "resourceName":"gacha180", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・期間限定メンバーは、今後再登場する場合がございます。\n再登場については現在未定です。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"01/10 14:59 まで", "extras":null
+    "paymentMethods":[
+      {
+        "gachaId":180, "paymentMethod":"free_star", "quantity":200, "paymentMethodId":262, "count":5, "behavior":"over_the_3_star_once", "pickup":0, "maxSpinLimit":3, "costItemQuantity":1000
+      }
+    ],
+    "description":"3回限定！ 5回ガチャに「スキル練習チケット(トリプル)x1」がついてくる！★★以上のメンバーが出現！", "seq":190, "resourceName":"gacha180", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・期間限定メンバーは、今後再登場する場合がございます。\n再登場については現在未定です。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"01/10 14:59 まで", "extras":[
+      {
+        "limit":3, "resourceType":"practice_ticket", "resourceId":7, "resourceQuantity":1, "seq":1
+      }
+    ]
   },
   "181":{
     "gachaId":181, "gachaName":"ピュアタイプ出現率UPガチャ", "gachaDisplayType":"default", "publishedAt":3303511808, "closedAt":3584310808, "details":[
@@ -39323,7 +39487,12 @@
         "gachaId":184, "rarityIndex":4, "rate":1.5, "weightTotal":30
       }
     ],
-    "paymentMethods":null, "description":"1回限定！ ★★★★1人確定の10回ガチャ！ ★★以上のメンバーが出現！※出現メンバーはガチャ詳細をご確認ください。", "seq":20, "resourceName":"gacha184", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢1人★4確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"02/02 14:59 まで", "gachaSubName":"1人★4確定", "priority":3
+    "paymentMethods":[
+      {
+        "gachaId":184, "paymentMethod":"paid_star", "quantity":250, "paymentMethodId":275, "count":10, "behavior":"fixed_4_star_once", "pickup":1, "maxSpinLimit":1, "costItemQuantity":2500
+      }
+    ],
+    "description":"1回限定！ ★★★★1人確定の10回ガチャ！ ★★以上のメンバーが出現！※出現メンバーはガチャ詳細をご確認ください。", "seq":20, "resourceName":"gacha184", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢1人★4確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"02/02 14:59 まで", "gachaSubName":"1人★4確定", "priority":3
   },
   "185":{
     "gachaId":185, "gachaName":"スタートダッシュガチャ", "gachaDisplayType":"default", "publishedAt":3983911808, "closedAt":6759510808, "details":[
@@ -39702,7 +39871,12 @@
         "gachaId":185, "rarityIndex":4, "rate":1.5, "weightTotal":30
       }
     ],
-    "paymentMethods":null, "description":"ゲーム開始から1週間限定！ 1回限定で引ける★★★★1人確定の10回ガチャ！ ★★以上のメンバーが出現！", "seq":10, "resourceName":"gacha120", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢1人★4確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"期限なし", "rookieAt":7, "gachaSubName":"初心者限定", "priority":1
+    "paymentMethods":[
+      {
+        "gachaId":185, "paymentMethod":"paid_star", "quantity":250, "paymentMethodId":276, "count":10, "behavior":"fixed_4_star_once", "pickup":1, "maxSpinLimit":1, "costItemQuantity":2500
+      }
+    ],
+    "description":"ゲーム開始から1週間限定！ 1回限定で引ける★★★★1人確定の10回ガチャ！ ★★以上のメンバーが出現！", "seq":10, "resourceName":"gacha120", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢1人★4確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"期限なし", "rookieAt":7, "gachaSubName":"初心者限定", "priority":1
   },
   "186":{
     "gachaId":186, "gachaName":"★３以上確定チケットガチャ", "gachaDisplayType":"default", "publishedAt":3735511808, "closedAt":6413910808, "details":[
@@ -40357,7 +40531,16 @@
         "gachaId":187, "rarityIndex":4, "rate":1.5, "weightTotal":34
       }
     ],
-    "paymentMethods":null, "description":"3回限定！ 5回ガチャに「ブーストドリンクx2」がついてくる！★★以上のメンバーが出現！", "seq":190, "resourceName":"gacha187", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"01/22 14:59 まで", "extras":null
+    "paymentMethods":[
+      {
+        "gachaId":187, "paymentMethod":"free_star", "quantity":200, "paymentMethodId":279, "count":5, "behavior":"over_the_3_star_once", "pickup":0, "maxSpinLimit":3, "costItemQuantity":1000
+      }
+    ],
+    "description":"3回限定！ 5回ガチャに「ブーストドリンクx2」がついてくる！★★以上のメンバーが出現！", "seq":190, "resourceName":"gacha187", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"01/22 14:59 まで", "extras":[
+      {
+        "limit":3, "resourceType":"live_boost_recovery_item", "resourceId":2, "resourceQuantity":2, "seq":1
+      }
+    ]
   },
   "188":{
     "gachaId":188, "gachaName":"集いし旅の仲間達ガチャ", "gachaDisplayType":"default", "publishedAt":4772311808, "closedAt":5549910808, "details":[
@@ -41855,7 +42038,16 @@
         "gachaId":190, "rarityIndex":4, "rate":1.5, "weightTotal":36
       }
     ],
-    "paymentMethods":null, "description":"1回限定！ 10回ガチャに「スキル練習チケット(トリプル)x2」がついてくる！★★以上のメンバーが出現！", "seq":190, "resourceName":"gacha190", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"01/31 14:59 まで", "extras":null
+    "paymentMethods":[
+      {
+        "gachaId":190, "paymentMethod":"paid_star", "quantity":150, "paymentMethodId":288, "count":10, "behavior":"over_the_3_star_once", "pickup":1, "maxSpinLimit":1, "costItemQuantity":1500
+      }
+    ],
+    "description":"1回限定！ 10回ガチャに「スキル練習チケット(トリプル)x2」がついてくる！★★以上のメンバーが出現！", "seq":190, "resourceName":"gacha190", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"01/31 14:59 まで", "extras":[
+      {
+        "limit":1, "resourceType":"practice_ticket", "resourceId":7, "resourceQuantity":2, "seq":1
+      }
+    ]
   },
   "191":{
     "gachaId":191, "gachaName":"心繋がるチョコレートガチャ", "gachaDisplayType":"default", "publishedAt":5549911808, "closedAt":6413910808, "details":[
@@ -43380,7 +43572,16 @@
         "gachaId":193, "rarityIndex":4, "rate":1.5, "weightTotal":38
       }
     ],
-    "paymentMethods":null, "description":"1回限定！ 10回ガチャに「スキル練習チケット(トリプル)x2」がついてくる！★★以上のメンバーが出現！", "seq":190, "resourceName":"gacha193", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・期間限定メンバーは、今後再登場する場合がございます。\n再登場については現在未定です。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"02/10 14:59 まで", "extras":null
+    "paymentMethods":[
+      {
+        "gachaId":193, "paymentMethod":"paid_star", "quantity":150, "paymentMethodId":297, "count":10, "behavior":"over_the_3_star_once", "pickup":1, "maxSpinLimit":1, "costItemQuantity":1500
+      }
+    ],
+    "description":"1回限定！ 10回ガチャに「スキル練習チケット(トリプル)x2」がついてくる！★★以上のメンバーが出現！", "seq":190, "resourceName":"gacha193", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・期間限定メンバーは、今後再登場する場合がございます。\n再登場については現在未定です。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"02/10 14:59 まで", "extras":[
+      {
+        "limit":1, "resourceType":"practice_ticket", "resourceId":7, "resourceQuantity":2, "seq":1
+      }
+    ]
   },
   "194":{
     "gachaId":194, "gachaName":"ホワイトスノーフェアリーガチャ", "gachaDisplayType":"default", "publishedAt":6413911808, "closedAt":7191510808, "details":[
@@ -45071,7 +45272,12 @@
         "gachaId":197, "rarityIndex":4, "rate":1.5, "weightTotal":32
       }
     ],
-    "paymentMethods":null, "description":"1回限定！ ★★★★1人確定の10回ガチャ！ ★★以上のメンバーが出現！※出現メンバーはガチャ詳細をご確認ください。", "seq":20, "resourceName":"gacha197", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢1人★4確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"03/02 14:59 まで", "gachaSubName":"1人★4確定", "priority":3
+    "paymentMethods":[
+      {
+        "gachaId":197, "paymentMethod":"paid_star", "quantity":250, "paymentMethodId":308, "count":10, "behavior":"fixed_4_star_once", "pickup":1, "maxSpinLimit":1, "costItemQuantity":2500
+      }
+    ],
+    "description":"1回限定！ ★★★★1人確定の10回ガチャ！ ★★以上のメンバーが出現！※出現メンバーはガチャ詳細をご確認ください。", "seq":20, "resourceName":"gacha197", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢1人★4確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"03/02 14:59 まで", "gachaSubName":"1人★4確定", "priority":3
   },
   "198":{
     "gachaId":198, "gachaName":"スタートダッシュガチャ", "gachaDisplayType":"default", "publishedAt":6759511808, "closedAt":8833110808, "details":[
@@ -45468,7 +45674,12 @@
         "gachaId":198, "rarityIndex":4, "rate":1.5, "weightTotal":32
       }
     ],
-    "paymentMethods":null, "description":"ゲーム開始から1週間限定！ 1回限定で引ける★★★★1人確定の10回ガチャ！ ★★以上のメンバーが出現！", "seq":10, "resourceName":"gacha120", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢1人★4確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"期限なし", "rookieAt":7, "gachaSubName":"初心者限定", "priority":1
+    "paymentMethods":[
+      {
+        "gachaId":198, "paymentMethod":"paid_star", "quantity":250, "paymentMethodId":309, "count":10, "behavior":"fixed_4_star_once", "pickup":1, "maxSpinLimit":1, "costItemQuantity":2500
+      }
+    ],
+    "description":"ゲーム開始から1週間限定！ 1回限定で引ける★★★★1人確定の10回ガチャ！ ★★以上のメンバーが出現！", "seq":10, "resourceName":"gacha120", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢1人★4確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"期限なし", "rookieAt":7, "gachaSubName":"初心者限定", "priority":1
   },
   "199":{
     "gachaId":199, "gachaName":"Pastel＊Bloom Girlsガチャ", "gachaDisplayType":"default", "publishedAt":7191511808, "closedAt":7969110808, "details":[
@@ -47011,7 +47222,16 @@
         "gachaId":201, "rarityIndex":4, "rate":1.5, "weightTotal":38
       }
     ],
-    "paymentMethods":null, "description":"3回限定！ 5回ガチャに「ブーストドリンクx2」がついてくる！★★以上のメンバーが出現！", "seq":190, "resourceName":"gacha201", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"02/28 14:59 まで", "extras":null
+    "paymentMethods":[
+      {
+        "gachaId":201, "paymentMethod":"free_star", "quantity":200, "paymentMethodId":318, "count":5, "behavior":"over_the_3_star_once", "pickup":0, "maxSpinLimit":3, "costItemQuantity":1000
+      }
+    ],
+    "description":"3回限定！ 5回ガチャに「ブーストドリンクx2」がついてくる！★★以上のメンバーが出現！", "seq":190, "resourceName":"gacha201", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"02/28 14:59 まで", "extras":[
+      {
+        "limit":3, "resourceType":"live_boost_recovery_item", "resourceId":2, "resourceQuantity":2, "seq":1
+      }
+    ]
   },
   "202":{
     "gachaId":202, "gachaName":"麗しのノーブルホワイトガチャ", "gachaDisplayType":"view_live2d", "publishedAt":7969111808, "closedAt":8833110808, "details":[
@@ -48619,7 +48839,17 @@
         "gachaId":204, "rarityIndex":4, "rate":1.5, "weightTotal":42
       }
     ],
-    "paymentMethods":null, "description":"3回限定！ 5回ガチャに「ブーストドリンクx2」がついてくる！★★以上のメンバーが出現！", "seq":190, "resourceName":"gacha204", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・期間限定メンバーは、今後再登場する場合がございます。\n再登場については現在未定です。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"03/10 14:59 まで", "extras":null, "viewLive2ds":[
+    "paymentMethods":[
+      {
+        "gachaId":204, "paymentMethod":"free_star", "quantity":200, "paymentMethodId":327, "count":5, "behavior":"over_the_3_star_once", "pickup":0, "maxSpinLimit":3, "costItemQuantity":1000
+      }
+    ],
+    "description":"3回限定！ 5回ガチャに「ブーストドリンクx2」がついてくる！★★以上のメンバーが出現！", "seq":190, "resourceName":"gacha204", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・期間限定メンバーは、今後再登場する場合がございます。\n再登場については現在未定です。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"03/10 14:59 まで", "extras":[
+      {
+        "limit":3, "resourceType":"live_boost_recovery_item", "resourceId":2, "resourceQuantity":2, "seq":1
+      }
+    ],
+    "viewLive2ds":[
       {
         "gachaId":204, "seq":1, "situationId":393
       },
@@ -49711,7 +49941,17 @@
         "gachaId":206, "rarityIndex":4, "rate":6, "weightTotal":59984
       }
     ],
-    "paymentMethods":null, "description":"ドリームフェスティバルガチャと同じく★★★★メンバーの提供割合2倍！3回限定のお得なセットガチャ！", "seq":190, "resourceName":"gacha206", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・「ドリームフェスティバルスペシャルセット10回ガチャ」は、\n★4メンバーのレアリティ別の提供割合が、3%の2倍の6%となります。\n・期間限定メンバーは、今後再登場する場合がございます。\n再登場については現在未定です。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"03/13 14:59 まで", "extras":null, "viewLive2ds":[
+    "paymentMethods":[
+      {
+        "gachaId":206, "paymentMethod":"paid_star", "quantity":200, "paymentMethodId":330, "count":10, "behavior":"over_the_3_star_once", "pickup":1, "maxSpinLimit":3, "costItemQuantity":2000
+      }
+    ],
+    "description":"ドリームフェスティバルガチャと同じく★★★★メンバーの提供割合2倍！3回限定のお得なセットガチャ！", "seq":190, "resourceName":"gacha206", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・「ドリームフェスティバルスペシャルセット10回ガチャ」は、\n★4メンバーのレアリティ別の提供割合が、3%の2倍の6%となります。\n・期間限定メンバーは、今後再登場する場合がございます。\n再登場については現在未定です。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"03/13 14:59 まで", "extras":[
+      {
+        "limit":3, "resourceType":"practice_ticket", "resourceId":8, "resourceQuantity":1, "seq":1
+      }
+    ],
+    "viewLive2ds":[
       {
         "gachaId":206, "seq":1, "situationId":403
       },
@@ -50217,7 +50457,12 @@
         "gachaId":207, "rarityIndex":4, "rate":3, "weightTotal":36
       }
     ],
-    "paymentMethods":null, "description":"ゲーム開始から1週間限定！ 1回限定で引ける★★★★1人確定の10回ガチャ！ ★★以上のメンバーが出現！", "seq":10, "resourceName":"gacha120", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢1人★4確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"期限なし", "rookieAt":7, "gachaSubName":"初心者限定", "priority":1, "viewLive2ds":[
+    "paymentMethods":[
+      {
+        "gachaId":207, "paymentMethod":"paid_star", "quantity":250, "paymentMethodId":331, "count":10, "behavior":"fixed_4_star_once", "pickup":1, "maxSpinLimit":1, "costItemQuantity":2500
+      }
+    ],
+    "description":"ゲーム開始から1週間限定！ 1回限定で引ける★★★★1人確定の10回ガチャ！ ★★以上のメンバーが出現！", "seq":10, "resourceName":"gacha120", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢1人★4確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"期限なし", "rookieAt":7, "gachaSubName":"初心者限定", "priority":1, "viewLive2ds":[
       {
         "gachaId":207, "seq":1, "situationId":333
       },
@@ -51460,7 +51705,17 @@
         "gachaId":210, "rarityIndex":4, "rate":3, "weightTotal":42
       }
     ],
-    "paymentMethods":null, "description":"3回限定！ 5回ガチャに「スキル練習チケット(トリプル)x1」がついてくる！★★以上のメンバーが出現！", "seq":190, "resourceName":"gacha210", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・期間限定メンバーは、今後再登場する場合がございます。\n再登場については現在未定です。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"03/21 14:59 まで", "extras":null, "viewLive2ds":[
+    "paymentMethods":[
+      {
+        "gachaId":210, "paymentMethod":"free_star", "quantity":200, "paymentMethodId":342, "count":5, "behavior":"over_the_3_star_once", "pickup":0, "maxSpinLimit":3, "costItemQuantity":1000
+      }
+    ],
+    "description":"3回限定！ 5回ガチャに「スキル練習チケット(トリプル)x1」がついてくる！★★以上のメンバーが出現！", "seq":190, "resourceName":"gacha210", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・期間限定メンバーは、今後再登場する場合がございます。\n再登場については現在未定です。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"03/21 14:59 まで", "extras":[
+      {
+        "limit":3, "resourceType":"practice_ticket", "resourceId":7, "resourceQuantity":1, "seq":1
+      }
+    ],
+    "viewLive2ds":[
       {
         "gachaId":210, "seq":1, "situationId":398
       },
@@ -51960,7 +52215,17 @@
         "gachaId":211, "rarityIndex":4, "rate":3, "weightTotal":36
       }
     ],
-    "paymentMethods":null, "description":"1回限定！ 10回ガチャに「★4ミラクルチケット×1」がついてくる！ ※出現メンバーはガチャ詳細をご確認ください。", "seq":20, "resourceName":"gacha211", "annotation":"・本ガチャで出現するメンバーと\n★4ミラクルチケットで交換できるメンバーは内容が異なります。\n・ガチャは下記提供割合でメンバーが出現します。\n・「★4ミラクルチケット」で交換できるメンバーは、\n「★4ミラクルチケット交換所」にてご確認ください。\n・出現メンバーはすべて特訓前の状態になります。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"04/02 14:59 まで", "gachaSubName":"1人★4選べる", "priority":3, "extras":null, "viewLive2ds":[
+    "paymentMethods":[
+      {
+        "gachaId":211, "paymentMethod":"paid_star", "quantity":250, "paymentMethodId":343, "count":10, "behavior":"over_the_3_star_once", "pickup":1, "maxSpinLimit":1, "costItemQuantity":2500
+      }
+    ],
+    "description":"1回限定！ 10回ガチャに「★4ミラクルチケット×1」がついてくる！ ※出現メンバーはガチャ詳細をご確認ください。", "seq":20, "resourceName":"gacha211", "annotation":"・本ガチャで出現するメンバーと\n★4ミラクルチケットで交換できるメンバーは内容が異なります。\n・ガチャは下記提供割合でメンバーが出現します。\n・「★4ミラクルチケット」で交換できるメンバーは、\n「★4ミラクルチケット交換所」にてご確認ください。\n・出現メンバーはすべて特訓前の状態になります。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"04/02 14:59 まで", "gachaSubName":"1人★4選べる", "priority":3, "extras":[
+      {
+        "limit":1, "resourceType":"miracle_ticket", "resourceId":2, "resourceQuantity":1, "seq":1, "expiredDays":14
+      }
+    ],
+    "viewLive2ds":[
       {
         "gachaId":211, "seq":1, "situationId":4
       },
@@ -53230,7 +53495,17 @@
         "gachaId":214, "rarityIndex":4, "rate":3, "weightTotal":42
       }
     ],
-    "paymentMethods":null, "description":"1回限定！ 10回ガチャに「スキル練習チケット(トリプル)x2」がついてくる！★★以上のメンバーが出現！", "seq":190, "resourceName":"gacha214", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"03/31 14:59 まで", "extras":null, "viewLive2ds":[
+    "paymentMethods":[
+      {
+        "gachaId":214, "paymentMethod":"paid_star", "quantity":150, "paymentMethodId":352, "count":10, "behavior":"over_the_3_star_once", "pickup":1, "maxSpinLimit":1, "costItemQuantity":1500
+      }
+    ],
+    "description":"1回限定！ 10回ガチャに「スキル練習チケット(トリプル)x2」がついてくる！★★以上のメンバーが出現！", "seq":190, "resourceName":"gacha214", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"03/31 14:59 まで", "extras":[
+      {
+        "limit":1, "resourceType":"practice_ticket", "resourceId":7, "resourceQuantity":2, "seq":1
+      }
+    ],
+    "viewLive2ds":[
       {
         "gachaId":214, "seq":1, "situationId":405
       },
@@ -54494,7 +54769,17 @@
         "gachaId":217, "rarityIndex":4, "rate":3, "weightTotal":44
       }
     ],
-    "paymentMethods":null, "description":"1回限定！ 10回ガチャに「スキル練習チケット(トリプル)x2」がついてくる！★★以上のメンバーが出現！", "seq":190, "resourceName":"gacha217", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"04/10 14:59 まで", "extras":null, "viewLive2ds":[
+    "paymentMethods":[
+      {
+        "gachaId":217, "paymentMethod":"paid_star", "quantity":150, "paymentMethodId":361, "count":10, "behavior":"over_the_3_star_once", "pickup":1, "maxSpinLimit":1, "costItemQuantity":1500
+      }
+    ],
+    "description":"1回限定！ 10回ガチャに「スキル練習チケット(トリプル)x2」がついてくる！★★以上のメンバーが出現！", "seq":190, "resourceName":"gacha217", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"04/10 14:59 まで", "extras":[
+      {
+        "limit":1, "resourceType":"practice_ticket", "resourceId":7, "resourceQuantity":2, "seq":1
+      }
+    ],
+    "viewLive2ds":[
       {
         "gachaId":217, "seq":1, "situationId":410
       },
@@ -56080,7 +56365,17 @@
         "gachaId":221, "rarityIndex":4, "rate":3, "weightTotal":46
       }
     ],
-    "paymentMethods":null, "description":"3回限定！ 5回ガチャに「ブーストドリンクx2」がついてくる！★★以上のメンバーが出現！", "seq":190, "resourceName":"gacha221", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"04/20 14:59 まで", "extras":null, "viewLive2ds":[
+    "paymentMethods":[
+      {
+        "gachaId":221, "paymentMethod":"free_star", "quantity":200, "paymentMethodId":370, "count":5, "behavior":"over_the_3_star_once", "pickup":0, "maxSpinLimit":3, "costItemQuantity":1000
+      }
+    ],
+    "description":"3回限定！ 5回ガチャに「ブーストドリンクx2」がついてくる！★★以上のメンバーが出現！", "seq":190, "resourceName":"gacha221", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"04/20 14:59 まで", "extras":[
+      {
+        "limit":3, "resourceType":"live_boost_recovery_item", "resourceId":2, "resourceQuantity":2, "seq":1
+      }
+    ],
+    "viewLive2ds":[
       {
         "gachaId":221, "seq":1, "situationId":415
       },
@@ -57654,7 +57949,12 @@
         "gachaId":225, "rarityIndex":4, "rate":3, "weightTotal":40
       }
     ],
-    "paymentMethods":null, "description":"1回限定！ ★★★★1人確定の10回ガチャ！ ★★以上のメンバーが出現！※出現メンバーはガチャ詳細をご確認ください。", "seq":20, "resourceName":"gacha225", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢1人★4確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"05/07 14:59 まで", "gachaSubName":"1人★4確定", "priority":3, "viewLive2ds":[
+    "paymentMethods":[
+      {
+        "gachaId":225, "paymentMethod":"paid_star", "quantity":250, "paymentMethodId":381, "count":10, "behavior":"fixed_4_star_once", "pickup":1, "maxSpinLimit":1, "costItemQuantity":2500
+      }
+    ],
+    "description":"1回限定！ ★★★★1人確定の10回ガチャ！ ★★以上のメンバーが出現！※出現メンバーはガチャ詳細をご確認ください。", "seq":20, "resourceName":"gacha225", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢1人★4確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"05/07 14:59 まで", "gachaSubName":"1人★4確定", "priority":3, "viewLive2ds":[
       {
         "gachaId":225, "seq":1, "situationId":333
       },
@@ -58187,7 +58487,12 @@
         "gachaId":226, "rarityIndex":4, "rate":3, "weightTotal":40
       }
     ],
-    "paymentMethods":null, "description":"ゲーム開始から1週間限定！ 1回限定で引ける★★★★1人確定の10回ガチャ！ ★★以上のメンバーが出現！", "seq":10, "resourceName":"gacha120", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢1人★4確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"期限なし", "rookieAt":7, "gachaSubName":"初心者限定", "priority":1, "viewLive2ds":[
+    "paymentMethods":[
+      {
+        "gachaId":226, "paymentMethod":"paid_star", "quantity":250, "paymentMethodId":382, "count":10, "behavior":"fixed_4_star_once", "pickup":1, "maxSpinLimit":1, "costItemQuantity":2500
+      }
+    ],
+    "description":"ゲーム開始から1週間限定！ 1回限定で引ける★★★★1人確定の10回ガチャ！ ★★以上のメンバーが出現！", "seq":10, "resourceName":"gacha120", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢1人★4確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"期限なし", "rookieAt":7, "gachaSubName":"初心者限定", "priority":1, "viewLive2ds":[
       {
         "gachaId":226, "seq":1, "situationId":378
       },
@@ -61237,7 +61542,17 @@
         "gachaId":233, "rarityIndex":4, "rate":3, "weightTotal":52
       }
     ],
-    "paymentMethods":null, "description":"3回限定！ 5回ガチャに「ブーストドリンクx2」がついてくる！★★以上のメンバーが出現！", "seq":190, "resourceName":"gacha233", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"05/21 14:59 まで", "extras":null, "viewLive2ds":[
+    "paymentMethods":[
+      {
+        "gachaId":233, "paymentMethod":"free_star", "quantity":200, "paymentMethodId":403, "count":5, "behavior":"over_the_3_star_once", "pickup":0, "maxSpinLimit":3, "costItemQuantity":1000
+      }
+    ],
+    "description":"3回限定！ 5回ガチャに「ブーストドリンクx2」がついてくる！★★以上のメンバーが出現！", "seq":190, "resourceName":"gacha233", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"05/21 14:59 まで", "extras":[
+      {
+        "limit":3, "resourceType":"live_boost_recovery_item", "resourceId":2, "resourceQuantity":2, "seq":1
+      }
+    ],
+    "viewLive2ds":[
       {
         "gachaId":233, "seq":1, "situationId":432
       },
@@ -62630,7 +62945,17 @@
         "gachaId":236, "rarityIndex":4, "rate":3, "weightTotal":54
       }
     ],
-    "paymentMethods":null, "description":"1回限定！ 10回ガチャに「スキル練習チケット(トリプル)x2」がついてくる！★★以上のメンバーが出現！", "seq":190, "resourceName":"gacha236", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"05/31 14:59 まで", "extras":null, "viewLive2ds":[
+    "paymentMethods":[
+      {
+        "gachaId":236, "paymentMethod":"paid_star", "quantity":150, "paymentMethodId":412, "count":10, "behavior":"over_the_3_star_once", "pickup":1, "maxSpinLimit":1, "costItemQuantity":1500
+      }
+    ],
+    "description":"1回限定！ 10回ガチャに「スキル練習チケット(トリプル)x2」がついてくる！★★以上のメンバーが出現！", "seq":190, "resourceName":"gacha236", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"05/31 14:59 まで", "extras":[
+      {
+        "limit":1, "resourceType":"practice_ticket", "resourceId":7, "resourceQuantity":2, "seq":1
+      }
+    ],
+    "viewLive2ds":[
       {
         "gachaId":236, "seq":1, "situationId":437
       },
@@ -64020,7 +64345,17 @@
         "gachaId":239, "rarityIndex":4, "rate":3, "weightTotal":56
       }
     ],
-    "paymentMethods":null, "description":"1回限定！ 10回ガチャに「スキル練習チケット(トリプル)x2」がついてくる！★★以上のメンバーが出現！", "seq":190, "resourceName":"gacha239", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"06/10 14:59 まで", "extras":null, "viewLive2ds":[
+    "paymentMethods":[
+      {
+        "gachaId":239, "paymentMethod":"paid_star", "quantity":150, "paymentMethodId":421, "count":10, "behavior":"over_the_3_star_once", "pickup":1, "maxSpinLimit":1, "costItemQuantity":1500
+      }
+    ],
+    "description":"1回限定！ 10回ガチャに「スキル練習チケット(トリプル)x2」がついてくる！★★以上のメンバーが出現！", "seq":190, "resourceName":"gacha239", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"06/10 14:59 まで", "extras":[
+      {
+        "limit":1, "resourceType":"practice_ticket", "resourceId":7, "resourceQuantity":2, "seq":1
+      }
+    ],
+    "viewLive2ds":[
       {
         "gachaId":239, "seq":1, "situationId":442
       },
@@ -65738,7 +66073,12 @@
         "gachaId":243, "rarityIndex":4, "rate":3, "weightTotal":50
       }
     ],
-    "paymentMethods":null, "description":"1回限定！ ★★★★1人確定の10回ガチャ！ ★★以上のメンバーが出現！※出現メンバーはガチャ詳細をご確認ください。", "seq":20, "resourceName":"gacha243", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢1人★4確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"07/02 14:59 まで", "gachaSubName":"1人★4確定", "priority":3, "viewLive2ds":[
+    "paymentMethods":[
+      {
+        "gachaId":243, "paymentMethod":"paid_star", "quantity":250, "paymentMethodId":432, "count":10, "behavior":"fixed_4_star_once", "pickup":1, "maxSpinLimit":1, "costItemQuantity":2500
+      }
+    ],
+    "description":"1回限定！ ★★★★1人確定の10回ガチャ！ ★★以上のメンバーが出現！※出現メンバーはガチャ詳細をご確認ください。", "seq":20, "resourceName":"gacha243", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢1人★4確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"07/02 14:59 まで", "gachaSubName":"1人★4確定", "priority":3, "viewLive2ds":[
       {
         "gachaId":243, "seq":1, "situationId":405
       },
@@ -66322,7 +66662,12 @@
         "gachaId":244, "rarityIndex":4, "rate":3, "weightTotal":50
       }
     ],
-    "paymentMethods":null, "description":"ゲーム開始から1週間限定！ 1回限定で引ける★★★★1人確定の10回ガチャ！ ★★以上のメンバーが出現！", "seq":10, "resourceName":"gacha120", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢1人★4確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"期限なし", "rookieAt":7, "gachaSubName":"初心者限定", "priority":1, "viewLive2ds":[
+    "paymentMethods":[
+      {
+        "gachaId":244, "paymentMethod":"paid_star", "quantity":250, "paymentMethodId":433, "count":10, "behavior":"fixed_4_star_once", "pickup":1, "maxSpinLimit":1, "costItemQuantity":2500
+      }
+    ],
+    "description":"ゲーム開始から1週間限定！ 1回限定で引ける★★★★1人確定の10回ガチャ！ ★★以上のメンバーが出現！", "seq":10, "resourceName":"gacha120", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢1人★4確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"期限なし", "rookieAt":7, "gachaSubName":"初心者限定", "priority":1, "viewLive2ds":[
       {
         "gachaId":244, "seq":1, "situationId":405
       },
@@ -69275,7 +69620,17 @@
         "gachaId":250, "rarityIndex":4, "rate":3, "weightTotal":62
       }
     ],
-    "paymentMethods":null, "description":"1回限定！ 10回ガチャに「スキル練習チケット(トリプル)×2」がついてくる！★★以上のメンバーが出現！", "seq":190, "resourceName":"gacha250", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"07/10 14:59 まで", "extras":null, "viewLive2ds":[
+    "paymentMethods":[
+      {
+        "gachaId":250, "paymentMethod":"paid_star", "quantity":150, "paymentMethodId":454, "count":10, "behavior":"over_the_3_star_once", "pickup":1, "maxSpinLimit":1, "costItemQuantity":1500
+      }
+    ],
+    "description":"1回限定！ 10回ガチャに「スキル練習チケット(トリプル)×2」がついてくる！★★以上のメンバーが出現！", "seq":190, "resourceName":"gacha250", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"07/10 14:59 まで", "extras":[
+      {
+        "limit":1, "resourceType":"practice_ticket", "resourceId":7, "resourceQuantity":2, "seq":1
+      }
+    ],
+    "viewLive2ds":[
       {
         "gachaId":250, "seq":1, "situationId":457
       },
@@ -71119,7 +71474,17 @@
         "gachaId":254, "rarityIndex":4, "rate":3, "weightTotal":64
       }
     ],
-    "paymentMethods":null, "description":"3回限定！ 5回ガチャに「ブーストドリンク×2」がついてくる！★★以上のメンバーが出現！", "seq":190, "resourceName":"gacha254", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"07/20 14:59 まで", "extras":null, "viewLive2ds":[
+    "paymentMethods":[
+      {
+        "gachaId":254, "paymentMethod":"free_star", "quantity":200, "paymentMethodId":465, "count":5, "behavior":"over_the_3_star_once", "pickup":0, "maxSpinLimit":3, "costItemQuantity":1000
+      }
+    ],
+    "description":"3回限定！ 5回ガチャに「ブーストドリンク×2」がついてくる！★★以上のメンバーが出現！", "seq":190, "resourceName":"gacha254", "annotation":"・下記提供割合でメンバーが出現します。\n・出現メンバーはすべて特訓前の状態になります。\n・｢★3以上1人確定｣は｢確定枠提供割合｣をご確認ください。\n・メンバー毎に表示している提供割合は、\n表示上小数点第4位にて四捨五入しているため、\n全てを合算しても100%にならない場合があります。", "gachaPeriod":"07/20 14:59 まで", "extras":[
+      {
+        "limit":3, "resourceType":"live_boost_recovery_item", "resourceId":2, "resourceQuantity":2, "seq":1
+      }
+    ],
+    "viewLive2ds":[
       {
         "gachaId":254, "seq":1, "situationId":462
       },

@@ -62,7 +62,17 @@
       "missionId":3, "seq":2, "title":"練習を3回しよう", "description":"バンドメニューから練習を3回しよう", "maxProgress":3, "missionConditionTypes":"none", "values":0
     }
   ],
-  "4":null, "5":null, "6":[
+  "4":[
+    {
+      "missionId":4, "seq":1, "title":"ライブブースト消費を3に設定して1回ライブをクリアしよう", "description":"ライブブースト消費を3に設定してライブを1回クリアしよう", "maxProgress":1, "missionConditionTypes":"none", "values":0
+    }
+  ],
+  "5":[
+    {
+      "missionId":5, "seq":1, "title":"フリーライブを1回クリアしよう", "description":"ライブメニューからフリーライブを1回クリアしよう", "maxProgress":1, "missionConditionTypes":"none", "values":0
+    }
+  ],
+  "6":[
     {
       "missionId":6, "seq":1, "title":"バンドストーリーを1回読もう", "description":"ストーリーメニューから新しいバンドストーリーを1回読もう", "maxProgress":1, "missionConditionTypes":"none", "values":0
     },
@@ -89,7 +99,12 @@
       "missionId":8, "seq":3, "title":"エピソードを5回読もう", "description":"メンバーの新しいエピソードを5回読もう", "maxProgress":5, "missionConditionTypes":"none", "values":0
     }
   ],
-  "9":null, "10":[
+  "9":[
+    {
+      "missionId":9, "seq":1, "title":"メモリアルエピソードを1回読もう", "description":"メンバーのメモリアルエピソードを1回読もう", "maxProgress":1, "missionConditionTypes":"none", "values":0
+    }
+  ],
+  "10":[
     {
       "missionId":10, "seq":1, "title":"スキル練習を1回しよう", "description":"バンドメニューからスキル練習を1回しよう", "maxProgress":1, "missionConditionTypes":"none", "values":0
     },
@@ -119,7 +134,22 @@
       "missionId":12, "seq":3, "title":"エリアアイテムを5回レベルアップしよう", "description":"ショップへ行ってエリアアイテムを5回レベルアップしよう", "maxProgress":5, "missionConditionTypes":"none", "values":0
     }
   ],
-  "13":null, "14":null, "15":null, "16":[
+  "13":[
+    {
+      "missionId":13, "seq":1, "title":"ライブ衣装を変更しよう", "description":"バンドメニューからライブ衣装を変更しよう", "maxProgress":1, "missionConditionTypes":"none", "values":0
+    }
+  ],
+  "14":[
+    {
+      "missionId":14, "seq":1, "title":"引き継ぎパスワードを発行しよう", "description":"端末の故障・紛失に備えて、データ引き継ぎ画面から引き継ぎパスワードを発行しよう", "maxProgress":1, "missionConditionTypes":"none", "values":0
+    }
+  ],
+  "15":[
+    {
+      "missionId":15, "seq":1, "title":"称号を変更しよう", "description":"プロフィール画面から称号を変更しよう", "maxProgress":1, "missionConditionTypes":"none", "values":0
+    }
+  ],
+  "16":[
     {
       "missionId":16, "seq":1, "title":"1人とフレンドになろう", "description":"1人とフレンドになろう", "maxProgress":1, "missionConditionTypes":"none", "values":0
     },
@@ -153,5 +183,19 @@
       "missionId":17, "seq":4, "title":"フレンドと協力ライブを10回クリアしよう", "description":"フレンドと協力ライブを10回クリアしよう", "maxProgress":10, "missionConditionTypes":"none", "values":0
     }
   ],
-  "18":null, "19":null, "21":null
+  "18":[
+    {
+      "missionId":18, "seq":1, "title":"公式LINEアカウントを友だち追加しよう", "description":"「バンドリ！ ガールズバンドパーティ！」公式LINEアカウントを友だち追加しよう。すでに追加済みの方は、最新情報を見に行こう！", "maxProgress":1, "missionConditionTypes":"none", "values":0
+    }
+  ],
+  "19":[
+    {
+      "missionId":19, "seq":1, "title":"公式Twitterアカウントをフォローしよう", "description":"「バンドリ！ ガールズバンドパーティ！」公式Twitterアカウントをフォローしよう。すでにフォロー済みの方は、最新情報を見に行こう！", "maxProgress":1, "missionConditionTypes":"none", "values":0
+    }
+  ],
+  "21":[
+    {
+      "missionId":21, "seq":1, "title":"データ引き継ぎ画面から[SNS名]とデータ連携をしよう", "description":"データ引き継ぎ画面から[SNS名]とデータ連携をしよう", "maxProgress":1, "missionConditionTypes":"none", "values":0
+    }
+  ]
 }

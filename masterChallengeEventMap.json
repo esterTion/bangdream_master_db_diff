@@ -1,6 +1,11 @@
 {
   "55":{
-    "eventId":55, "attributes":null, "characters":[
+    "eventId":55, "attributes":[
+      {
+        "eventId":55, "attribute":"powerful", "percent":20
+      }
+    ],
+    "characters":[
       {
         "eventId":55, "characterId":12, "percent":10, "seq":4
       },
@@ -369,6 +374,10 @@
         "eventId":55, "seq":3, "cost":800, "ratio":4
       }
     ],
-    "eventCharacterParameterBonus":null
+    "eventCharacterParameterBonus":[
+      {
+        "eventId":55, "performance":50, "technique":0, "visual":0
+      }
+    ]
   }
 }

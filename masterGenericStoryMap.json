@@ -17,9 +17,17 @@
     "priorityFlg":0, "genericStoryType":"login_story"
   },
   "4":{
-    "genericStoryId":4, "seq":1, "caption":"エイプリルフール前編", "title":"エイプリルフール前編", "synopsis":"エイプリルフール前編", "scenarioId":"loginstory4", "coverImage":"1", "backgroundImage":"1", "releasePlayerRank":1, "releaseConditions":"最初から解放", "startAt":10679911808, "endAt":10766310808, "rewards":null, "priorityFlg":0, "genericStoryType":"login_story"
+    "genericStoryId":4, "seq":1, "caption":"エイプリルフール前編", "title":"エイプリルフール前編", "synopsis":"エイプリルフール前編", "scenarioId":"loginstory4", "coverImage":"1", "backgroundImage":"1", "releasePlayerRank":1, "releaseConditions":"最初から解放", "startAt":10679911808, "endAt":10766310808, "rewards":[
+      {
+        "resourceId":2, "resourceType":"live_boost_recovery_item", "quantity":1, "lbBonus":1
+      }
+    ],
+    "priorityFlg":0, "genericStoryType":"login_story"
   },
   "5":{
     "genericStoryId":5, "seq":1, "caption":"エイプリルフール後編", "title":"エイプリルフール後編", "synopsis":"エイプリルフール後編", "scenarioId":"loginstory5", "coverImage":"1", "backgroundImage":"1", "releasePlayerRank":1, "releaseConditions":"最初から解放", "startAt":10766311808, "endAt":10852710808, "priorityFlg":1, "genericStoryType":"login_story"
+  },
+  "6":{
+    "genericStoryId":6, "seq":1, "caption":"第二回総選挙1位記念ストーリー", "title":"第二回総選挙1位記念ストーリー", "synopsis":"第二回総選挙1位記念ストーリー", "scenarioId":"loginstory6", "coverImage":"1", "backgroundImage":"1", "releasePlayerRank":1, "releaseConditions":"最初から解放", "startAt":25853911808, "endAt":29169510808, "priorityFlg":0, "genericStoryType":"login_story"
   }
 }
