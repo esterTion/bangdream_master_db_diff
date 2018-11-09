@@ -1,3 +1,163 @@
-[
-  
-]
+{
+  "60":{
+    "eventId":60, "attributes":[
+      {
+        "eventId":60, "attribute":"happy", "percent":20
+      }
+    ],
+    "characters":[
+      {
+        "eventId":60, "characterId":21, "percent":10, "seq":1
+      },
+      {
+        "eventId":60, "characterId":22, "percent":10, "seq":3
+      },
+      {
+        "eventId":60, "characterId":23, "percent":10, "seq":5
+      },
+      {
+        "eventId":60, "characterId":24, "percent":10, "seq":2
+      },
+      {
+        "eventId":60, "characterId":25, "percent":10, "seq":4
+      }
+    ],
+    "stories":[
+      {
+        "eventId":60, "seq":0, "caption":"オープニング", "title":"衝突", "synopsis":"Roseliaのライブ終演後。感想を\n言い合うAfterglowだが……？", "scenarioId":"event60-01", "coverImage":"60_0", "backgroundImage":"240", "releasePt":0, "releaseConditions":"オープニングシナリオ", "rewards":[
+          {
+            "id":919, "eventId":60, "seq":0, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":920, "eventId":60, "seq":0, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":60, "seq":1, "caption":"第１話", "title":"友希那の思惑", "synopsis":"Afterglowの挑戦を受けた友希那。\nその狙いは……？", "scenarioId":"event60-02", "coverImage":"60_1", "backgroundImage":"241", "releasePt":1500, "releaseConditions":"1500イベントP達成", "rewards":[
+          {
+            "id":921, "eventId":60, "seq":1, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":922, "eventId":60, "seq":1, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":60, "seq":2, "caption":"第２話", "title":"決戦前〜宇田川あこ〜", "synopsis":"話があると言う巴。あこはRoseliaの\n想いを説明しようと試みるが……？", "scenarioId":"event60-03", "coverImage":"60_2", "backgroundImage":"242", "releasePt":4000, "releaseConditions":"4000イベントP達成", "rewards":[
+          {
+            "id":923, "eventId":60, "seq":2, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":924, "eventId":60, "seq":2, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":60, "seq":3, "caption":"第３話", "title":"決戦前〜今井リサ〜", "synopsis":"そっけない態度をとるひまりに\nリサが告げた言葉は……？", "scenarioId":"event60-04", "coverImage":"60_3", "backgroundImage":"243", "releasePt":9000, "releaseConditions":"9000イベントP達成", "rewards":[
+          {
+            "id":925, "eventId":60, "seq":3, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":926, "eventId":60, "seq":3, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":60, "seq":4, "caption":"第４話", "title":"決戦前〜氷川紗夜＆白金燐子〜", "synopsis":"スタジオで鉢合わせたモカ、つぐみ、紗夜、\n燐子の四人。和やかに挨拶を交わすが……？", "scenarioId":"event60-05", "coverImage":"60_4", "backgroundImage":"244", "releasePt":17500, "releaseConditions":"17500イベントP達成", "rewards":[
+          {
+            "id":927, "eventId":60, "seq":4, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":928, "eventId":60, "seq":4, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":60, "seq":5, "caption":"第５話", "title":"決戦前〜湊友希那〜", "synopsis":"友希那に張り合おうとする蘭。友希那は\n直接その理由を問いただそうと……？", "scenarioId":"event60-06", "coverImage":"60_5", "backgroundImage":"244", "releasePt":25000, "releaseConditions":"25000イベントP達成", "rewards":[
+          {
+            "id":929, "eventId":60, "seq":5, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":930, "eventId":60, "seq":5, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":60, "seq":6, "caption":"エンディング", "title":"vs", "synopsis":"２マンライブ当日、ぶつかり合う両バンド。\n果たして、勝負の結果は……？", "scenarioId":"event60-07", "coverImage":"60_6", "backgroundImage":"240", "releasePt":35000, "releaseConditions":"35000イベントP達成", "rewards":[
+          {
+            "id":931, "eventId":60, "seq":6, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":932, "eventId":60, "seq":6, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      }
+    ],
+    "musics":[
+      {
+        "eventId":60, "musicId":153, "seq":1, "musicRankingRewards":[
+          {
+            "id":955, "eventId":60, "musicId":153, "fromRank":1, "toRank":1, "resourceType":"degree", "resourceId":1022, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":956, "eventId":60, "musicId":153, "fromRank":1, "toRank":1, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":957, "eventId":60, "musicId":153, "fromRank":2, "toRank":2, "resourceType":"degree", "resourceId":1023, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":958, "eventId":60, "musicId":153, "fromRank":2, "toRank":2, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":959, "eventId":60, "musicId":153, "fromRank":3, "toRank":3, "resourceType":"degree", "resourceId":1024, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":960, "eventId":60, "musicId":153, "fromRank":3, "toRank":3, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":961, "eventId":60, "musicId":153, "fromRank":4, "toRank":10, "resourceType":"degree", "resourceId":1025, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":962, "eventId":60, "musicId":153, "fromRank":4, "toRank":10, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":963, "eventId":60, "musicId":153, "fromRank":11, "toRank":100, "resourceType":"degree", "resourceId":1026, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":964, "eventId":60, "musicId":153, "fromRank":11, "toRank":100, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":965, "eventId":60, "musicId":153, "fromRank":101, "toRank":1000, "resourceType":"practice_ticket", "resourceId":7, "quantity":5, "recommendFlg":0
+          },
+          {
+            "id":966, "eventId":60, "musicId":153, "fromRank":1001, "toRank":2000, "resourceType":"practice_ticket", "resourceId":7, "quantity":3, "recommendFlg":0
+          },
+          {
+            "id":967, "eventId":60, "musicId":153, "fromRank":2001, "toRank":5000, "resourceType":"practice_ticket", "resourceId":7, "quantity":2, "recommendFlg":0
+          },
+          {
+            "id":968, "eventId":60, "musicId":153, "fromRank":5001, "toRank":10000, "resourceType":"practice_ticket", "resourceId":7, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":969, "eventId":60, "musicId":153, "fromRank":10001, "toRank":20000, "resourceType":"practice_ticket", "resourceId":6, "quantity":5, "recommendFlg":0
+          },
+          {
+            "id":970, "eventId":60, "musicId":153, "fromRank":20001, "toRank":30000, "resourceType":"practice_ticket", "resourceId":6, "quantity":3, "recommendFlg":0
+          },
+          {
+            "id":971, "eventId":60, "musicId":153, "fromRank":30001, "toRank":50000, "resourceType":"practice_ticket", "resourceId":6, "quantity":2, "recommendFlg":0
+          },
+          {
+            "id":972, "eventId":60, "musicId":153, "fromRank":50001, "toRank":100000, "resourceType":"practice_ticket", "resourceId":6, "quantity":1, "recommendFlg":0
+          }
+        ]
+      }
+    ],
+    "eventCharacterParameterBonus":[
+      {
+        "eventId":60, "performance":50, "technique":0, "visual":0
+      }
+    ]
+  }
+}
