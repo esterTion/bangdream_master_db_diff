@@ -17,8 +17,14 @@
   "dialog_liveSettings_liveEffectCaption":{
     "name":"dialog_liveSettings_liveEffectCaption", "wording":"ライブ演出"
   },
+  "dialog_batteryCaution_description2":{
+    "name":"dialog_batteryCaution_description2", "wording":"端末のバッテリー残量警告が表示されると、\\nライブが中断される場合があります。\\n充電後のプレイをおすすめします。"
+  },
   "deckEdit_noEventBonus":{
     "name":"deckEdit_noEventBonus", "wording":"現在イベント期間外のため\\nボーナスは発生しません"
+  },
+  "mission_liveEvent_receivedLimit_caption":{
+    "name":"mission_liveEvent_receivedLimit_caption", "wording":"受け取り期限 MM/dd HH:mmまで"
   },
   "dialog_publishConfig_rejection":{
     "name":"dialog_publishConfig_rejection", "wording":"拒否"
@@ -52,6 +58,9 @@
   },
   "dialog_mvGet_description":{
     "name":"dialog_mvGet_description", "wording":"「{0}」\\n\\nMVが解放されました。"
+  },
+  "dialog_liveSettings_systemBatteryCaution":{
+    "name":"dialog_liveSettings_systemBatteryCaution", "wording":"バッテリー残量確認"
   },
   "header_subTitle_biographyCharacterProfile":{
     "name":"header_subTitle_biographyCharacterProfile", "wording":"プロフィール"
@@ -95,6 +104,9 @@
   "dialog_liveSettings_mvCaption":{
     "name":"dialog_liveSettings_mvCaption", "wording":"MV"
   },
+  "dialog_batteryCaution_title":{
+    "name":"dialog_batteryCaution_title", "wording":"バッテリー残量確認"
+  },
   "word_exchangeTimeLimit":{
     "name":"word_exchangeTimeLimit", "wording":"交換期限"
   },
@@ -107,6 +119,9 @@
   "dialog_friendError_messageAlreadyRelease":{
     "name":"dialog_friendError_messageAlreadyRelease", "wording":"既にフレンドを解除しました。"
   },
+  "dialog_systemSettings_lbFullRecovered":{
+    "name":"dialog_systemSettings_lbFullRecovered", "wording":"全回復"
+  },
   "dialog_comicSort_bandButton":{
     "name":"dialog_comicSort_bandButton", "wording":"５人を選択"
   },
@@ -114,7 +129,7 @@
     "name":"biography_band", "wording":"所属バンド:"
   },
   "dialog_liveSettings_tabSystemSetting":{
-    "name":"dialog_liveSettings_tabSystemSetting", "wording":"システム設定"
+    "name":"dialog_liveSettings_tabSystemSetting", "wording":"システム・通知設定"
   },
   "comebackLogin_firstDay_periodMessage":{
     "name":"comebackLogin_firstDay_periodMessage", "wording":"14日間以内に7回ログインしてください。"
@@ -125,11 +140,23 @@
   "dialog_campaign_characterAlbum_text":{
     "name":"dialog_campaign_characterAlbum_text", "wording":"「{0}」のキャンペーンメンバーです。"
   },
+  "dialog_deckRecommend_captionBand":{
+    "name":"dialog_deckRecommend_captionBand", "wording":"優先するメンバー"
+  },
   "dialog_exchange_characterAlbum_text_able":{
     "name":"dialog_exchange_characterAlbum_text_able", "wording":"イベント「{0}」の新メンバーです。\\n現在、シール交換所にてミッシェルシールと交換できます。"
   },
   "birthdayPage_showStoryAgainButton_label":{
     "name":"birthdayPage_showStoryAgainButton_label", "wording":"オープニングを見る"
+  },
+  "word_favorite":{
+    "name":"word_favorite", "wording":"お気に入り"
+  },
+  "mission_rewardReceiveFailed_messageOutOfTerm":{
+    "name":"mission_rewardReceiveFailed_messageOutOfTerm", "wording":"受け取り期限が切れているため\\n受け取ることができません。"
+  },
+  "word_removeStamp":{
+    "name":"word_removeStamp", "wording":"外す"
   },
   "multiPlay_abDownloadNotRetryableError_message":{
     "name":"multiPlay_abDownloadNotRetryableError_message", "wording":"通信エラーが発生しました。\\nルーム選択に戻ります。"
@@ -150,7 +177,7 @@
     "name":"dialog_liveSettings_behaviourMode", "wording":"動作モード"
   },
   "dialog_areaItemReleaseCondition_mainStory":{
-    "name":"dialog_areaItemReleaseCondition_mainStory", "wording":"メインストーリー「{0}」を見ると解放"
+    "name":"dialog_areaItemReleaseCondition_mainStory", "wording":"メインストーリー「{0}」を読むと解放"
   },
   "dialog_sort_captionSkill":{
     "name":"dialog_sort_captionSkill", "wording":"スキル絞り込み"
@@ -160,6 +187,9 @@
   },
   "biography_profile":{
     "name":"biography_profile", "wording":"プロフィールを見よう"
+  },
+  "word_favorite_cancel":{
+    "name":"word_favorite_cancel", "wording":"解除"
   },
   "dialog_musicSortFilter_highScore":{
     "name":"dialog_musicSortFilter_highScore", "wording":"ハイスコア順"
@@ -191,11 +221,20 @@
   "header_mainTitle_memorialStory":{
     "name":"header_mainTitle_memorialStory", "wording":"思い出のストーリー"
   },
+  "dialog_batteryCaution_checkBox":{
+    "name":"dialog_batteryCaution_checkBox", "wording":"翌日の{0}時まで表示しない"
+  },
   "biography_characterProfile_school":{
     "name":"biography_characterProfile_school", "wording":"学校"
   },
   "dialog_exchange_categoryFilterCaption":{
     "name":"dialog_exchange_categoryFilterCaption", "wording":"カテゴリ絞り込み"
+  },
+  "dialog_batteryCaution_description1":{
+    "name":"dialog_batteryCaution_description1", "wording":"[505050]端末のバッテリー残量が少なくなっています。\\nバッテリー残量は残り[-][FF3B72]{0}%[-][505050]です。[-]"
+  },
+  "dialog_favoriteStampEdit_notSaveMessage":{
+    "name":"dialog_favoriteStampEdit_notSaveMessage", "wording":"変更されたお気に入りスタンプがあります。\\n設定せずに他の画面へ移動しても\\nよろしいですか？"
   },
   "biography_characterProfile_height":{
     "name":"biography_characterProfile_height", "wording":"身長"
@@ -208,6 +247,9 @@
   },
   "word_alreadyHaveMember":{
     "name":"word_alreadyHaveMember", "wording":"獲得済みメンバー"
+  },
+  "word_valueInvalid":{
+    "name":"word_valueInvalid", "wording":"--"
   },
   "dialog_birthdayStoryReward_title":{
     "name":"dialog_birthdayStoryReward_title", "wording":"{0}誕生日記念プレゼント"
@@ -223,6 +265,9 @@
   },
   "biography_characterProfile_grade":{
     "name":"biography_characterProfile_grade", "wording":"学年"
+  },
+  "dialog_areaItemRecommend_title":{
+    "name":"dialog_areaItemRecommend_title", "wording":"おすすめ一括変更"
   },
   "dialog_sort_characterAlbum_training":{
     "name":"dialog_sort_characterAlbum_training", "wording":"特訓状態"
@@ -257,11 +302,17 @@
   "word_openPeriod":{
     "name":"word_openPeriod", "wording":"開催期間"
   },
+  "mission_liveEvent_period_caption":{
+    "name":"mission_liveEvent_period_caption", "wording":"開催期間 MM/dd HH:mmまで"
+  },
   "biography_areaTalk_spawnPoint":{
     "name":"biography_areaTalk_spawnPoint", "wording":"発生場所"
   },
   "dialog_musicFilter_existSpecial":{
     "name":"dialog_musicFilter_existSpecial", "wording":"SPECIAL"
+  },
+  "dialog_favoriteStampEdit_saveMessage":{
+    "name":"dialog_favoriteStampEdit_saveMessage", "wording":"お気に入りスタンプを設定しました。"
   },
   "menuList_comic_button":{
     "name":"menuList_comic_button", "wording":"コミック"
@@ -283,6 +334,9 @@
   },
   "word_alreadyHaveFilter":{
     "name":"word_alreadyHaveFilter", "wording":"獲得済み絞り込み"
+  },
+  "mission_liveEvent_eventEnd_caption":{
+    "name":"mission_liveEvent_eventEnd_caption", "wording":"イベントは終了しました"
   },
   "comicTop_message_selectComic":{
     "name":"comicTop_message_selectComic", "wording":"見たいコミックを選択してください"
@@ -335,6 +389,9 @@
   "musicSelect_getCondition_buttonLabelMainStory":{
     "name":"musicSelect_getCondition_buttonLabelMainStory", "wording":"メインストーリー"
   },
+  "mission_rewardReceiveFailed_messageNone":{
+    "name":"mission_rewardReceiveFailed_messageNone", "wording":"受け取れるミッション報酬はありません。"
+  },
   "dialog_liveSettings_systemVoiceVolume":{
     "name":"dialog_liveSettings_systemVoiceVolume", "wording":"ボイス音量"
   },
@@ -350,6 +407,9 @@
   "dialog_sealExchange_filterTicket":{
     "name":"dialog_sealExchange_filterTicket", "wording":"チケット"
   },
+  "dialog_few_storage_MV_download":{
+    "name":"dialog_few_storage_MV_download", "wording":"端末の空き容量が不足しているため、\\nMVをダウンロードすることができません。\\n"
+  },
   "area_shop_transitionShopButton":{
     "name":"area_shop_transitionShopButton", "wording":"ショップへ"
   },
@@ -361,6 +421,9 @@
   },
   "dialog_event_characterAlbum_text_unable":{
     "name":"dialog_event_characterAlbum_text_unable", "wording":"イベント「{0}」の新メンバーです。\\n現在、開催中のイベント、及びシール交換所では獲得できません。"
+  },
+  "dialog_systemSettings_captionNotification":{
+    "name":"dialog_systemSettings_captionNotification", "wording":"通知"
   },
   "dialog_rewardPresentbox_message":{
     "name":"dialog_rewardPresentbox_message", "wording":"報酬がプレゼントに送られました！"
@@ -399,7 +462,7 @@
     "name":"dialog_movieSkip_title", "wording":"スキップ"
   },
   "dialog_areaItemReleaseCondition_bandStory":{
-    "name":"dialog_areaItemReleaseCondition_bandStory", "wording":"{0}のバンドストーリー1章「{1}」を見ると解放"
+    "name":"dialog_areaItemReleaseCondition_bandStory", "wording":"{0}のバンドストーリー1章「{1}」を読むと解放"
   },
   "dialog_downloadMV_quality":{
     "name":"dialog_downloadMV_quality", "wording":"MVライブモード画質設定：{0}"
@@ -409,6 +472,9 @@
   },
   "musicSelect_getCondition_buttonLabelPresent":{
     "name":"musicSelect_getCondition_buttonLabelPresent", "wording":"プレゼント"
+  },
+  "local_notification_live_boost":{
+    "name":"local_notification_live_boost", "wording":"ライブブーストが全回復しました。"
   },
   "dialog_miracleTicketExchangeDone_message":{
     "name":"dialog_miracleTicketExchangeDone_message", "wording":"{0}と交換しました。"
@@ -434,6 +500,9 @@
   "biography_AreaTalk_notExistMessage":{
     "name":"biography_AreaTalk_notExistMessage", "wording":"エリア会話がありません。"
   },
+  "local_notification_test_title":{
+    "name":"local_notification_test_title", "wording":"通知タイトル"
+  },
   "header_subTitle_miracleTicketExchange":{
     "name":"header_subTitle_miracleTicketExchange", "wording":"ミラクルチケット交換所"
   },
@@ -447,7 +516,7 @@
     "name":"dialog_confirmOpponentFriendRequestReject_message", "wording":"フレンド申請を拒否します。\\nよろしいですか？"
   },
   "dialog_areaReleaseCondition_mainStory":{
-    "name":"dialog_areaReleaseCondition_mainStory", "wording":"メインストーリー「{0}」を見ると解放"
+    "name":"dialog_areaReleaseCondition_mainStory", "wording":"メインストーリー「{0}」を読むと解放"
   },
   "musicSelect_musicCell_existMV":{
     "name":"musicSelect_musicCell_existMV", "wording":"MVあり"
@@ -475,6 +544,9 @@
   },
   "receive_loginbonus_direct":{
     "name":"receive_loginbonus_direct", "wording":"ログインボーナスを受け取りました。"
+  },
+  "dialog_systyemSettings_notificationDescription":{
+    "name":"dialog_systyemSettings_notificationDescription", "wording":"※端末の設定で通知をOFFにしている場合、アプリからの通知が届きません。\n　ご注意ください。\n※深夜帯にあたる時刻は、0:00〜5:59までです。"
   },
   "dialog_event_characterAlbum_text_able":{
     "name":"dialog_event_characterAlbum_text_able", "wording":"イベント「{0}」の新メンバーです。\\n現在開催中のイベントで登場しています。"
@@ -512,6 +584,9 @@
   "dialog_mvViewPause_title":{
     "name":"dialog_mvViewPause_title", "wording":"一時中断"
   },
+  "dialog_disableDL":{
+    "name":"dialog_disableDL", "wording":"※ライブ終了後、ダウンロードが可能になります。"
+  },
   "storyEvent_eventEnd_label":{
     "name":"storyEvent_eventEnd_label", "wording":"イベントは終了しました"
   },
@@ -535,6 +610,9 @@
   },
   "mission_transitionButton_lineFriendRegistry":{
     "name":"mission_transitionButton_lineFriendRegistry", "wording":"友だち追加"
+  },
+  "mission_liveEvent_complete_notice":{
+    "name":"mission_liveEvent_complete_notice", "wording":"イベントミッション達成！"
   },
   "dialog_memorialStoryFilter_title":{
     "name":"dialog_memorialStoryFilter_title", "wording":"思い出のストーリー"
@@ -605,14 +683,29 @@
   "dialog_downloadForMVLive_title":{
     "name":"dialog_downloadForMVLive_title", "wording":"データダウンロード"
   },
+  "mission_tab_liveEvent":{
+    "name":"mission_tab_liveEvent", "wording":"イベント"
+  },
   "dialog_liveSettings_touchEffect":{
     "name":"dialog_liveSettings_touchEffect", "wording":"タップエフェクト"
+  },
+  "word_getSomething":{
+    "name":"word_getSomething", "wording":"{0}獲得"
+  },
+  "word_favorite_registration":{
+    "name":"word_favorite_registration", "wording":"登録"
   },
   "newMusicIntroduction_musicInfo_tagTitle":{
     "name":"newMusicIntroduction_musicInfo_tagTitle", "wording":"楽曲追加！"
   },
   "dialog_downloadMV_qualityDescription":{
     "name":"dialog_downloadMV_qualityDescription", "wording":"画質の設定はオプションの\\nライブ演出・音量設定から変更できます。"
+  },
+  "word_setting_confirm":{
+    "name":"word_setting_confirm", "wording":"設定完了"
+  },
+  "dialog_sort_alreadyOwn":{
+    "name":"dialog_sort_alreadyOwn", "wording":"獲得済み"
   },
   "miracleTicketExchange_list_title":{
     "name":"miracleTicketExchange_list_title", "wording":"交換可能メンバー一覧"
@@ -644,8 +737,17 @@
   "dialog_event_characterAlbum_open":{
     "name":"dialog_event_characterAlbum_open", "wording":"イベントへ"
   },
+  "word_notSetFavoriteMessage":{
+    "name":"word_notSetFavoriteMessage", "wording":"お気に入りスタンプを設定していません。"
+  },
   "dialog_mvGet_title":{
     "name":"dialog_mvGet_title", "wording":"MV解放"
+  },
+  "dialog_systemSettings_lateNightNotification":{
+    "name":"dialog_systemSettings_lateNightNotification", "wording":"深夜帯の通知"
+  },
+  "dialog_favoriteStampEdit_resetMessage":{
+    "name":"dialog_favoriteStampEdit_resetMessage", "wording":"お気に入りスタンプをリセットします。\\nよろしいですか？"
   },
   "header_subTitle_comicSelectSingleFrame":{
     "name":"header_subTitle_comicSelectSingleFrame", "wording":"ちょこっと！ガルパライフ"
@@ -674,6 +776,9 @@
   "word_liveResource":{
     "name":"word_liveResource", "wording":"ライブデータ"
   },
+  "dialog_few_storage_scenario":{
+    "name":"dialog_few_storage_scenario", "wording":"端末の空き容量が不足しているため、\\nストーリーを再生することができません。\\n"
+  },
   "dialog_musicSortFilter_cover":{
     "name":"dialog_musicSortFilter_cover", "wording":"カバー"
   },
@@ -682,6 +787,9 @@
   },
   "word_episode":{
     "name":"word_episode", "wording":"エピソード"
+  },
+  "word_favoriteStamp":{
+    "name":"word_favoriteStamp", "wording":"お気に入りスタンプ"
   },
   "pickupMember_footter_message2":{
     "name":"pickupMember_footter_message2", "wording":"※スキルLv.5の状態を表示しています。"
@@ -716,6 +824,9 @@
   "tryLiveEvent_tryTargetDialogCell_score":{
     "name":"tryLiveEvent_tryTargetDialogCell_score", "wording":"スコア"
   },
+  "dialog_deckRecommend_bonusCharacter":{
+    "name":"dialog_deckRecommend_bonusCharacter", "wording":"キャラクター\\nボーナス対象"
+  },
   "dialog_moviePlayConfirm_message":{
     "name":"dialog_moviePlayConfirm_message", "wording":"動画データをダウンロードして再生しますか？\\n（Wi-Fi環境でのダウンロードを推奨します）"
   },
@@ -740,6 +851,9 @@
   "tryLiveEvent_tryTargetDialogCell_musicTitle":{
     "name":"tryLiveEvent_tryTargetDialogCell_musicTitle", "wording":"楽曲"
   },
+  "dialog_few_storage_common":{
+    "name":"dialog_few_storage_common", "wording":"端末の空き容量の確認を行ってください。"
+  },
   "dialog_card_characterAlbum_title":{
     "name":"dialog_card_characterAlbum_title", "wording":"[{0}]{1}"
   },
@@ -752,6 +866,9 @@
   "dialog_downloadForMVLive_message":{
     "name":"dialog_downloadForMVLive_message", "wording":"MVデータのダウンロードを開始します。\\nWi-Fi環境でのダウンロードをおすすめします。"
   },
+  "word_stampEdit":{
+    "name":"word_stampEdit", "wording":"スタンプ\\n設定"
+  },
   "header_title_comicTop":{
     "name":"header_title_comicTop", "wording":"コミック"
   },
@@ -760,6 +877,9 @@
   },
   "tryLiveEvent_tryReward":{
     "name":"tryLiveEvent_tryReward", "wording":"トライ達成報酬"
+  },
+  "local_notification_live_boost_body_android":{
+    "name":"local_notification_live_boost_body_android", "wording":"ライブをプレイしよう！"
   },
   "tryLiveEvent_tryTargetDialogCell_multi":{
     "name":"tryLiveEvent_tryTargetDialogCell_multi", "wording":"マルチスコアランク"
@@ -781,6 +901,9 @@
   },
   "biography_characterProfile_band":{
     "name":"biography_characterProfile_band", "wording":"バンド"
+  },
+  "local_notification_test_body":{
+    "name":"local_notification_test_body", "wording":"通知本文"
   },
   "comicTop_mainTitle_comic":{
     "name":"comicTop_mainTitle_comic", "wording":"コミック"
@@ -809,6 +932,12 @@
   "mvButton_playMV_label":{
     "name":"mvButton_playMV_label", "wording":"MV再生"
   },
+  "local_notification_live_boost_title_android":{
+    "name":"local_notification_live_boost_title_android", "wording":"[ガルパ]ライブブーストが全回復しました。"
+  },
+  "mission_completeMissionLiveEvent_message":{
+    "name":"mission_completeMissionLiveEvent_message", "wording":"すべてのイベントミッションを達成しました。"
+  },
   "dialog_exchange_characterAlbum_open":{
     "name":"dialog_exchange_characterAlbum_open", "wording":"シール交換所へ"
   },
@@ -824,8 +953,17 @@
   "dialog_miracleTicketExchangeConfirm_title":{
     "name":"dialog_miracleTicketExchangeConfirm_title", "wording":"このメンバーと交換しますか？"
   },
+  "dialog_few_storage_MV":{
+    "name":"dialog_few_storage_MV", "wording":"端末の空き容量が不足しているため、\\nMVを再生することができません。\\n"
+  },
   "dialog_publishConfig_title":{
     "name":"dialog_publishConfig_title", "wording":"プロフィール情報設定"
+  },
+  "dialog_deckRecommend_priorityMember":{
+    "name":"dialog_deckRecommend_priorityMember", "wording":"メンバー"
+  },
+  "mission_noMissionLiveEvent_message":{
+    "name":"mission_noMissionLiveEvent_message", "wording":"現在挑戦可能なイベントミッションはありません。"
   },
   "costumeSelect_defaultCell_cellContent":{
     "name":"costumeSelect_defaultCell_cellContent", "wording":"※メイン設定で編成されていない場合は\\n「{0}」になります。"
@@ -844,6 +982,9 @@
   },
   "tryLiveEvent_tryTargetDialogCell_level":{
     "name":"tryLiveEvent_tryTargetDialogCell_level", "wording":"レベル"
+  },
+  "dialog_few_storage_need":{
+    "name":"dialog_few_storage_need", "wording":"必要な空き容量：およそ{0}MB以上"
   },
   "dialog_copyConfirm_roomID":{
     "name":"dialog_copyConfirm_roomID", "wording":"ルーム番号をコピーしました。"
@@ -871,6 +1012,9 @@
   },
   "musicSelect_list_notMatchMessage":{
     "name":"musicSelect_list_notMatchMessage", "wording":"絞り込み条件に該当する\\n楽曲がありません。"
+  },
+  "header_mainTitle_favoriteStampEdit":{
+    "name":"header_mainTitle_favoriteStampEdit", "wording":"お気に入りスタンプ設定"
   },
   "dialog_musicSortFilter_musicName":{
     "name":"dialog_musicSortFilter_musicName", "wording":"楽曲名順"
@@ -907,5 +1051,8 @@
   },
   "dialog_musicFilter_difficultyLabel":{
     "name":"dialog_musicFilter_difficultyLabel", "wording":"難易度"
+  },
+  "word_notSetFavoriteMessage_description":{
+    "name":"word_notSetFavoriteMessage_description", "wording":"お気に入りスタンプは協力ライブのルーム選択画面から設定することができます。"
   }
 }
