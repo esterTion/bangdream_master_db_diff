@@ -89,6 +89,9 @@
   "tryLiveEvent_tryTargetDialogCell_musicDifficulty":{
     "name":"tryLiveEvent_tryTargetDialogCell_musicDifficulty", "wording":"楽曲レベル"
   },
+  "dialog_sort_skillSortHealOrScoreUp":{
+    "name":"dialog_sort_skillSortHealOrScoreUp", "wording":"条件付きスコアアップ\\nまたはライフ回復"
+  },
   "musicSelect_getCondition_buttonLabelBandStory":{
     "name":"musicSelect_getCondition_buttonLabelBandStory", "wording":"バンドストーリー"
   },
@@ -109,6 +112,9 @@
   },
   "word_exchangeTimeLimit":{
     "name":"word_exchangeTimeLimit", "wording":"交換期限"
+  },
+  "mission_liveEvent_eventSupportBandButton":{
+    "name":"mission_liveEvent_eventSupportBandButton", "wording":"イベントサポートバンド"
   },
   "dialog_liveSettings_coreCharacterCutIn":{
     "name":"dialog_liveSettings_coreCharacterCutIn", "wording":"メンバーカットイン"
@@ -131,11 +137,17 @@
   "dialog_liveSettings_tabSystemSetting":{
     "name":"dialog_liveSettings_tabSystemSetting", "wording":"システム・通知設定"
   },
+  "dialog_billingPenalty_accountStopWarning":{
+    "name":"dialog_billingPenalty_accountStopWarning", "wording":"※悪質な行為と判断された場合、アカウントの停止措置を実施します。"
+  },
   "comebackLogin_firstDay_periodMessage":{
     "name":"comebackLogin_firstDay_periodMessage", "wording":"14日間以内に7回ログインしてください。"
   },
   "word_alreadyHave":{
     "name":"word_alreadyHave", "wording":"獲得済み"
+  },
+  "dialog_starShop_penalty":{
+    "name":"dialog_starShop_penalty", "wording":"課金停止中です。"
   },
   "dialog_campaign_characterAlbum_text":{
     "name":"dialog_campaign_characterAlbum_text", "wording":"「{0}」のキャンペーンメンバーです。"
@@ -169,6 +181,9 @@
   },
   "tryLiveEvent_tryTargetDialogCell_titleScore":{
     "name":"tryLiveEvent_tryTargetDialogCell_titleScore", "wording":"スコアトライ"
+  },
+  "missionLiveEvent_result_deckBonus":{
+    "name":"missionLiveEvent_result_deckBonus", "wording":"編成ボーナス"
   },
   "dialog_liveClearAPIError_notStartedLive":{
     "name":"dialog_liveClearAPIError_notStartedLive", "wording":"通信が切断されました。\\nなお、ライブ結果は正常に反映されております。\\n\\nライブ結果が反映されていない場合は、\\nお問い合わせください。"
@@ -227,8 +242,14 @@
   "biography_characterProfile_school":{
     "name":"biography_characterProfile_school", "wording":"学校"
   },
+  "missionLiveEvent_result_eventSupportBandTitle":{
+    "name":"missionLiveEvent_result_eventSupportBandTitle", "wording":"イベントサポートバンド"
+  },
   "dialog_exchange_categoryFilterCaption":{
     "name":"dialog_exchange_categoryFilterCaption", "wording":"カテゴリ絞り込み"
+  },
+  "dialog_starShop_penaltyTextTerm":{
+    "name":"dialog_starShop_penaltyTextTerm", "wording":"[FF3B72]停止期限 {0}まで[-]"
   },
   "dialog_batteryCaution_description1":{
     "name":"dialog_batteryCaution_description1", "wording":"[505050]端末のバッテリー残量が少なくなっています。\\nバッテリー残量は残り[-][FF3B72]{0}%[-][505050]です。[-]"
@@ -251,6 +272,9 @@
   "word_valueInvalid":{
     "name":"word_valueInvalid", "wording":"--"
   },
+  "popup_eventSupportBand_totalParam":{
+    "name":"popup_eventSupportBand_totalParam", "wording":"イベントサポートバンド総合力"
+  },
   "dialog_birthdayStoryReward_title":{
     "name":"dialog_birthdayStoryReward_title", "wording":"{0}誕生日記念プレゼント"
   },
@@ -268,6 +292,9 @@
   },
   "dialog_areaItemRecommend_title":{
     "name":"dialog_areaItemRecommend_title", "wording":"おすすめ一括変更"
+  },
+  "dialog_starRecall_contactUsAnnotation":{
+    "name":"dialog_starRecall_contactUsAnnotation", "wording":"※本件について不明な点がございましたら、\\nタイトル画面の「お問い合わせ」よりお問い合わせください。"
   },
   "dialog_sort_characterAlbum_training":{
     "name":"dialog_sort_characterAlbum_training", "wording":"特訓状態"
@@ -314,6 +341,9 @@
   "dialog_favoriteStampEdit_saveMessage":{
     "name":"dialog_favoriteStampEdit_saveMessage", "wording":"お気に入りスタンプを設定しました。"
   },
+  "dialog_billingPenalty_penaltyWarning":{
+    "name":"dialog_billingPenalty_penaltyWarning", "wording":"次回以降も返金処理後に返金分の有償スターが回収できなかった場合、\\n調査のため課金停止措置を実施する場合がございます。"
+  },
   "menuList_comic_button":{
     "name":"menuList_comic_button", "wording":"コミック"
   },
@@ -341,6 +371,9 @@
   "comicTop_message_selectComic":{
     "name":"comicTop_message_selectComic", "wording":"見たいコミックを選択してください"
   },
+  "popup_eventSupportBand_title":{
+    "name":"popup_eventSupportBand_title", "wording":"イベントサポートバンド"
+  },
   "tryLiveEvent_tryTargetDialogCell_titleMulti":{
     "name":"tryLiveEvent_tryTargetDialogCell_titleMulti", "wording":"協力トライ"
   },
@@ -364,6 +397,12 @@
   },
   "dialog_systemSettings_captionSystemVolume":{
     "name":"dialog_systemSettings_captionSystemVolume", "wording":"システム音量"
+  },
+  "dialog_billingPenalty_nextBillingStopWarning":{
+    "name":"dialog_billingPenalty_nextBillingStopWarning", "wording":"※次回以降も返金処理後に返金分の有償スターが回収できなかった場合、\\n再度課金停止措置を実施する場合がございます。"
+  },
+  "dialog_billingPenalty_accountStopTimingWarning":{
+    "name":"dialog_billingPenalty_accountStopTimingWarning", "wording":"※アカウントの停止措置は、\\n予告や実施のアナウンスなく実施される場合がございます。"
   },
   "biography_characterProfile_favoriteFood":{
     "name":"biography_characterProfile_favoriteFood", "wording":"好きな食べ物"
@@ -392,6 +431,9 @@
   "mission_rewardReceiveFailed_messageNone":{
     "name":"mission_rewardReceiveFailed_messageNone", "wording":"受け取れるミッション報酬はありません。"
   },
+  "dialog_starRecall_description":{
+    "name":"dialog_starRecall_description", "wording":"ストアにて返金処理が行われたため、\\n返金分の有償スターを回収いたしました。"
+  },
   "dialog_liveSettings_systemVoiceVolume":{
     "name":"dialog_liveSettings_systemVoiceVolume", "wording":"ボイス音量"
   },
@@ -409,6 +451,9 @@
   },
   "dialog_few_storage_MV_download":{
     "name":"dialog_few_storage_MV_download", "wording":"端末の空き容量が不足しているため、\\nMVをダウンロードすることができません。\\n"
+  },
+  "dialog_billingPenalty_recallFailed":{
+    "name":"dialog_billingPenalty_recallFailed", "wording":"ストアにて返金処理が行われましたが、\\n返金分の有償スターが回収できませんでした。"
   },
   "area_shop_transitionShopButton":{
     "name":"area_shop_transitionShopButton", "wording":"ショップへ"
@@ -515,6 +560,9 @@
   "dialog_confirmOpponentFriendRequestReject_message":{
     "name":"dialog_confirmOpponentFriendRequestReject_message", "wording":"フレンド申請を拒否します。\\nよろしいですか？"
   },
+  "dialog_billingPenalty_executeBillingStop":{
+    "name":"dialog_billingPenalty_executeBillingStop", "wording":"返金分の有償スターが回収できないことが複数回確認され、\\n悪質な行為と判断されたため、課金停止措置を実施しました。"
+  },
   "dialog_areaReleaseCondition_mainStory":{
     "name":"dialog_areaReleaseCondition_mainStory", "wording":"メインストーリー「{0}」を読むと解放"
   },
@@ -617,8 +665,14 @@
   "dialog_memorialStoryFilter_title":{
     "name":"dialog_memorialStoryFilter_title", "wording":"思い出のストーリー"
   },
+  "dialog_billingPenalty_alreadyBillingStop":{
+    "name":"dialog_billingPenalty_alreadyBillingStop", "wording":"返金分の有償スターが回収できないことが複数回確認されたため、\\n課金停止措置を実施中です。"
+  },
   "dialog_liveSettings_liveVoiceVolume":{
     "name":"dialog_liveSettings_liveVoiceVolume", "wording":"ライブボイス"
+  },
+  "missionLiveEvent_result_totalParamBonus":{
+    "name":"missionLiveEvent_result_totalParamBonus", "wording":"総合力ボーナス"
   },
   "dialog_downloadForMVView_title":{
     "name":"dialog_downloadForMVView_title", "wording":"MV再生"
@@ -665,6 +719,9 @@
   "dialog_sort_characterAlbum_training_all":{
     "name":"dialog_sort_characterAlbum_training_all", "wording":"すべて"
   },
+  "dialog_billingPenalty_executeBillingStopForever":{
+    "name":"dialog_billingPenalty_executeBillingStopForever", "wording":"返金分の有償スターが回収できないことが複数回確認され、\\n悪質な行為と判断されたため、無期限の課金停止措置を実施しました。"
+  },
   "newMusicIntroduction_musicInfo_tagCover":{
     "name":"newMusicIntroduction_musicInfo_tagCover", "wording":"カバー"
   },
@@ -701,6 +758,9 @@
   "dialog_downloadMV_qualityDescription":{
     "name":"dialog_downloadMV_qualityDescription", "wording":"画質の設定はオプションの\\nライブ演出・音量設定から変更できます。"
   },
+  "dialog_starRecall_paidStarPossession":{
+    "name":"dialog_starRecall_paidStarPossession", "wording":"所持有償スター"
+  },
   "word_setting_confirm":{
     "name":"word_setting_confirm", "wording":"設定完了"
   },
@@ -709,6 +769,9 @@
   },
   "miracleTicketExchange_list_title":{
     "name":"miracleTicketExchange_list_title", "wording":"交換可能メンバー一覧"
+  },
+  "dialog_billingPenalty_accountStopWarningAfterSecondTime":{
+    "name":"dialog_billingPenalty_accountStopWarningAfterSecondTime", "wording":"※さらに悪質な行為と判断された場合、アカウントの停止措置を実施します。"
   },
   "biography_areaTalk":{
     "name":"biography_areaTalk", "wording":"エリア会話を振り返ろう"
@@ -745,6 +808,9 @@
   },
   "dialog_systemSettings_lateNightNotification":{
     "name":"dialog_systemSettings_lateNightNotification", "wording":"深夜帯の通知"
+  },
+  "missionLiveEvent_result_totalParam":{
+    "name":"missionLiveEvent_result_totalParam", "wording":"総合力"
   },
   "dialog_favoriteStampEdit_resetMessage":{
     "name":"dialog_favoriteStampEdit_resetMessage", "wording":"お気に入りスタンプをリセットします。\\nよろしいですか？"
@@ -839,11 +905,17 @@
   "dialog_bandStory_appeal_title":{
     "name":"dialog_bandStory_appeal_title", "wording":"案内"
   },
+  "dialog_starShop_penaltyAnnotation":{
+    "name":"dialog_starShop_penaltyAnnotation", "wording":"※課金停止措置について不明な点がございましたら、\\nタイトル画面の「お問い合わせ」よりお問い合わせください。"
+  },
   "header_subTitle_memorialStorySelect":{
     "name":"header_subTitle_memorialStorySelect", "wording":"思い出のストーリー選択"
   },
   "newMusicIntroduction_musicInfo_tagOriginal":{
     "name":"newMusicIntroduction_musicInfo_tagOriginal", "wording":"オリジナル"
+  },
+  "dialog_starRecall_paidStarRecall":{
+    "name":"dialog_starRecall_paidStarRecall", "wording":"回収有償スター"
   },
   "comicTop_buttonLabel_singleFrameComic":{
     "name":"comicTop_buttonLabel_singleFrameComic", "wording":"ちょこっと！ガルパライフ"
@@ -878,6 +950,9 @@
   "tryLiveEvent_tryReward":{
     "name":"tryLiveEvent_tryReward", "wording":"トライ達成報酬"
   },
+  "dialog_billingPenalty_titleBillingStop":{
+    "name":"dialog_billingPenalty_titleBillingStop", "wording":"スターショップへの課金停止"
+  },
   "local_notification_live_boost_body_android":{
     "name":"local_notification_live_boost_body_android", "wording":"ライブをプレイしよう！"
   },
@@ -889,6 +964,9 @@
   },
   "musicSelect_getCondition_buttonLabelMusicShop":{
     "name":"musicSelect_getCondition_buttonLabelMusicShop", "wording":"楽曲ショップ"
+  },
+  "dialog_starRecall_title":{
+    "name":"dialog_starRecall_title", "wording":"返金分有償スター回収"
   },
   "band_sortingKind_skillType":{
     "name":"band_sortingKind_skillType", "wording":"スキル順"
@@ -998,6 +1076,9 @@
   "dialog_exchange_alreadyHaveFilterStamp":{
     "name":"dialog_exchange_alreadyHaveFilterStamp", "wording":"スタンプ"
   },
+  "dialog_billingPenalty_titleRecallFailed":{
+    "name":"dialog_billingPenalty_titleRecallFailed", "wording":"返金分有償スター不足警告"
+  },
   "tryLiveEvent_tryTargetDialogInfoCell_conditions":{
     "name":"tryLiveEvent_tryTargetDialogInfoCell_conditions", "wording":"すべてのトライレベル{0}をクリア"
   },
@@ -1006,6 +1087,9 @@
   },
   "dialog_mvViewPause_resumeButton":{
     "name":"dialog_mvViewPause_resumeButton", "wording":"再開"
+  },
+  "popup_eventSupportBand_description":{
+    "name":"popup_eventSupportBand_description", "wording":"イベントサポートバンドは、編成ボーナスを加えた総合力が\n最も高くなるメンバーが自動的に選出されます。\nイベントサポートバンドによって獲得できるイベントPは、\nイベントサポートバンド総合力によって算出されます。"
   },
   "dialog_liveSettings_eventLiveBg":{
     "name":"dialog_liveSettings_eventLiveBg", "wording":"イベントライブ背景"
@@ -1027,6 +1111,9 @@
   },
   "dialog_liveSetting_MVViewModeQuality":{
     "name":"dialog_liveSetting_MVViewModeQuality", "wording":"MV再生モード画質"
+  },
+  "dialog_billingPenalty_accountStopResearchWarning":{
+    "name":"dialog_billingPenalty_accountStopResearchWarning", "wording":"[FF3B72]悪質な行為に関する最終的な調査の後、\\nアカウントの停止措置を実施予定です。[-]"
   },
   "dialog_liveSettings_soundFlick":{
     "name":"dialog_liveSettings_soundFlick", "wording":"フリック音"
