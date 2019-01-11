@@ -315,6 +315,21 @@
     "skillId":22, "skillLevel":5, "duration":7, "simpleDescription":"ライフ600以上で\nスコア80%UP|ライフ600未満の場合\nライフ500回復", "description":"発動時に自分のライフが600以上の場合は、{1}秒間 スコアが80％UPする。ライフが600未満の場合は、ライフを{0}回復する", "skillSortType":"heal_or_score_up"
   },
   {
+    "skillId":23, "skillLevel":1, "duration":3, "simpleDescription":"ライフ減少無効\n＆スコア10％UP", "description":"{0}秒間 BAD以下でもライフが減少しなくなり、スコアが10％UPする", "skillSortType":"damage_guard_with_score_up"
+  },
+  {
+    "skillId":23, "skillLevel":2, "duration":3.5, "simpleDescription":"ライフ減少無効\n＆スコア10％UP", "description":"{0}秒間 BAD以下でもライフが減少しなくなり、スコアが10％UPする", "skillSortType":"damage_guard_with_score_up"
+  },
+  {
+    "skillId":23, "skillLevel":3, "duration":4, "simpleDescription":"ライフ減少無効\n＆スコア10％UP", "description":"{0}秒間 BAD以下でもライフが減少しなくなり、スコアが10％UPする", "skillSortType":"damage_guard_with_score_up"
+  },
+  {
+    "skillId":23, "skillLevel":4, "duration":4.5, "simpleDescription":"ライフ減少無効\n＆スコア10％UP", "description":"{0}秒間 BAD以下でもライフが減少しなくなり、スコアが10％UPする", "skillSortType":"damage_guard_with_score_up"
+  },
+  {
+    "skillId":23, "skillLevel":5, "duration":5, "simpleDescription":"ライフ減少無効\n＆スコア10％UP", "description":"{0}秒間 BAD以下でもライフが減少しなくなり、スコアが10％UPする", "skillSortType":"damage_guard_with_score_up"
+  },
+  {
     "skillId":25, "skillLevel":1, "duration":5, "simpleDescription":"GREAT以下を出すまで\nスコアが65％UP", "description":"{0}秒間 スコアが55％UP、GREAT以下を出すまではスコアが65％UPする", "skillSortType":"conditioned_score_up"
   },
   {
