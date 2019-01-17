@@ -110,6 +110,9 @@
   "dialog_areaReleaseConditionWarehouse_caption":{
     "name":"dialog_areaReleaseConditionWarehouse_caption", "wording":"ショップのあるエリアがロックされています。"
   },
+  "dialog_downloadSize_none":{
+    "name":"dialog_downloadSize_none", "wording":"ダウンロードなし"
+  },
   "newYearCard_preparationDialog_selectPeriodLimit":{
     "name":"newYearCard_preparationDialog_selectPeriodLimit", "wording":"バンド選択期間　{0}まで"
   },
@@ -124,6 +127,9 @@
   },
   "dialog_liveClearAPIError_notStartedLive":{
     "name":"dialog_liveClearAPIError_notStartedLive", "wording":"通信が切断されました。\\nなお、ライブ結果は正常に反映されております。\\n\\nライブ結果が反映されていない場合は、\\nお問い合わせください。"
+  },
+  "dialog_loginDLDataOnlyDownload_description":{
+    "name":"dialog_loginDLDataOnlyDownload_description", "wording":"基本データのみ"
   },
   "dialog_sort_captionSkill":{
     "name":"dialog_sort_captionSkill", "wording":"スキル絞り込み"
@@ -194,8 +200,14 @@
   "newYearCard_bandSelectDialog_title":{
     "name":"newYearCard_bandSelectDialog_title", "wording":"バンドを選択"
   },
+  "dialog_updateLoginDLData_description1":{
+    "name":"dialog_updateLoginDLData_description1", "wording":"追加データをダウンロードします。\\nWi-Fi環境でのダウンロードをおすすめします。"
+  },
   "tryLiveEvent_tryTargetDialogCell_titleCombo":{
     "name":"tryLiveEvent_tryTargetDialogCell_titleCombo", "wording":"コンボトライ"
+  },
+  "dialog_updateLoginDLData_description2":{
+    "name":"dialog_updateLoginDLData_description2", "wording":"※キャンセルを選択した場合、タイトル画面から\\nもう一度選択することができます。"
   },
   "biography_characterProfile_grade":{
     "name":"biography_characterProfile_grade", "wording":"学年"
@@ -365,6 +377,9 @@
   "dialog_sealExchange_filterStamp":{
     "name":"dialog_sealExchange_filterStamp", "wording":"スタンプ"
   },
+  "dialog_loadABFailureAndBackTitle_message":{
+    "name":"dialog_loadABFailureAndBackTitle_message", "wording":"一部データの読み込みに失敗したため、\\nタイトル画面に戻りました。\\n\\n本現象が改善しない場合は、\\nお問い合わせください。"
+  },
   "newYearCard_preparationDialog_bandReselectButton":{
     "name":"newYearCard_preparationDialog_bandReselectButton", "wording":"バンドを\\n選択し直す"
   },
@@ -418,6 +433,9 @@
   },
   "dialog_liveSettings_laneEffect":{
     "name":"dialog_liveSettings_laneEffect", "wording":"レーンエフェクト"
+  },
+  "dialog_downloadSize":{
+    "name":"dialog_downloadSize", "wording":"ダウンロードサイズ"
   },
   "word_low":{
     "name":"word_low", "wording":"低"
@@ -680,11 +698,17 @@
   "dialog_twitter_loginFailed":{
     "name":"dialog_twitter_loginFailed", "wording":"Twitterの認証に失敗しました。"
   },
+  "dialog_loginDLDataDownload_description2":{
+    "name":"dialog_loginDLDataDownload_description2", "wording":"※キャンセルを選択した場合、タイトル画面から\\nもう一度ダウンロード項目を選択することができます。"
+  },
   "tryLiveEvent_tryTargetDialogCell_musicDifficulty":{
     "name":"tryLiveEvent_tryTargetDialogCell_musicDifficulty", "wording":"楽曲レベル"
   },
   "newYearCard_checkCardDialog_campaignDetail":{
     "name":"newYearCard_checkCardDialog_campaignDetail", "wording":"キャンペーン詳細"
+  },
+  "dialog_loginDLDataDownload_description1":{
+    "name":"dialog_loginDLDataDownload_description1", "wording":"ゲームを進行するために基本データのダウンロードが必要です。\\nダウンロード項目を選択してください。\\nWi-Fi環境でのダウンロードをおすすめします。"
   },
   "dialog_sort_skillSortHealOrScoreUp":{
     "name":"dialog_sort_skillSortHealOrScoreUp", "wording":"条件付きスコアアップ\\nまたはライフ回復"
@@ -733,6 +757,9 @@
   },
   "stamp_periodLimited_balloonLabel":{
     "name":"stamp_periodLimited_balloonLabel", "wording":"期間限定"
+  },
+  "dialog_storyConfirm_downloadMessage2":{
+    "name":"dialog_storyConfirm_downloadMessage2", "wording":"ダウンロードサイズが大きい場合は、\nWi-Fi環境でのダウンロードをおすすめします。"
   },
   "dialog_friendApprovalError_messageMyFriendsNumIsFull":{
     "name":"dialog_friendApprovalError_messageMyFriendsNumIsFull", "wording":"フレンド数に空きがありません。"
@@ -791,6 +818,9 @@
   "word_alreadyHaveMember":{
     "name":"word_alreadyHaveMember", "wording":"獲得済みメンバー"
   },
+  "dialog_loginDLDataDownload_title":{
+    "name":"dialog_loginDLDataDownload_title", "wording":"ダウンロード項目を選択"
+  },
   "newYearCard_checkCardDialog_captionMessage":{
     "name":"newYearCard_checkCardDialog_captionMessage", "wording":"年賀状が届きました！"
   },
@@ -829,6 +859,9 @@
   },
   "biography_areaTalk_spawnPoint":{
     "name":"biography_areaTalk_spawnPoint", "wording":"発生場所"
+  },
+  "dialog_downloadSize_withoutVoice":{
+    "name":"dialog_downloadSize_withoutVoice", "wording":"ボイスなし："
   },
   "dialog_musicFilter_existSpecial":{
     "name":"dialog_musicFilter_existSpecial", "wording":"SPECIAL"
@@ -902,6 +935,9 @@
   "area_shop_transitionShopButton":{
     "name":"area_shop_transitionShopButton", "wording":"ショップへ"
   },
+  "dialog_updateLoginDLData_title":{
+    "name":"dialog_updateLoginDLData_title", "wording":"データダウンロード"
+  },
   "word_stampPeriodLimited":{
     "name":"word_stampPeriodLimited", "wording":"期間限定スタンプ"
   },
@@ -940,6 +976,9 @@
   },
   "dialog_liveSetting_MVLiveModeQuality":{
     "name":"dialog_liveSetting_MVLiveModeQuality", "wording":"MVライブモード画質"
+  },
+  "dialog_downloadSize_withVoice":{
+    "name":"dialog_downloadSize_withVoice", "wording":"ボイスあり："
   },
   "header_mainTitle_biography":{
     "name":"header_mainTitle_biography", "wording":"キャラクター図鑑"
@@ -1037,6 +1076,9 @@
   "biography_areaTalk_buttonWatch":{
     "name":"biography_areaTalk_buttonWatch", "wording":"見る"
   },
+  "dialog_loginDLDataAndVoiceDataDownload_description2":{
+    "name":"dialog_loginDLDataAndVoiceDataDownload_description2", "wording":"※キャラクターボイスをダウンロードすることで、\\n　キャラクターたちの会話をフルボイスでお楽しみいただけます。"
+  },
   "dialog_friendRequestError_messageOpponentAlredyApplicationCancel":{
     "name":"dialog_friendRequestError_messageOpponentAlredyApplicationCancel", "wording":"この申請は取り消されました。"
   },
@@ -1045,6 +1087,12 @@
   },
   "newMusicIntroduction_musicInfo_tagCover":{
     "name":"newMusicIntroduction_musicInfo_tagCover", "wording":"カバー"
+  },
+  "dialog_loginDLDataAndVoiceDataDownload_description1":{
+    "name":"dialog_loginDLDataAndVoiceDataDownload_description1", "wording":"[505050]基本データ・キャラクターボイスデータ[-][FF3B72]（おすすめ）[-]"
+  },
+  "dialog_downloadMV_dlSize2":{
+    "name":"dialog_downloadMV_dlSize2", "wording":"ダウンロードサイズ：{0}"
   },
   "mission_tab_liveEvent":{
     "name":"mission_tab_liveEvent", "wording":"イベント"
