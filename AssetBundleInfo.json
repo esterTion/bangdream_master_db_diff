@@ -1,5 +1,5 @@
 {
-  "version":"2.8.0.830", "bundles":{
+  "version":"2.8.0.840", "bundles":{
     " sound/voice/scenario/loginstory13":{
       "bundleName":" sound/voice/scenario/loginstory13", "hash":"e764b9355165ec6bf7c3eb1201a1da6bfdec447c4dfb9bda980a643708640060", "category":"AsNeeded", "crc":3690267331, "fileSize":961193
     },
@@ -7041,6 +7041,9 @@
     "event/loginbonus/pico_release":{
       "bundleName":"event/loginbonus/pico_release", "hash":"8d85a156b4cb7aa1911b14a63719d777f4908ac24bbcd119263c0c8ef3bb76de", "category":"AsNeeded", "crc":2450356274, "fileSize":1801236
     },
+    "event/loginbonus/popinon_release":{
+      "bundleName":"event/loginbonus/popinon_release", "hash":"b09cabdabd79a544282c116a4efbd6f24a23a3f8abb9312fda969ccfdaa7c6df", "category":"AsNeeded", "crc":436186679, "fileSize":1507238
+    },
     "event/loginbonus/r_release":{
       "bundleName":"event/loginbonus/r_release", "hash":"a9fab89545ef7938bd063017fbe8510ea0ab5260b8fb8abb09aead9200131c2f", "category":"AsNeeded", "crc":3358106223, "fileSize":1768724
     },
@@ -8179,10 +8182,16 @@
       "fileSize":826657
     },
     "gacha/screen/gacha325":{
-      "bundleName":"gacha/screen/gacha325", "hash":"44437bc25524cd0bb71ad1a4c1a49916c4ad7315cb893dfe18b2a5271d9485a7", "category":"AsNeeded", "crc":3581181484, "dependencies":[
+      "bundleName":"gacha/screen/gacha325", "hash":"3cecd1675a033d2c368f5c4290067a41c4ad7315cb893dfe18b2a5271d9485a7", "category":"AsNeeded", "crc":7463152, "dependencies":[
         "effect/common_materials"
       ],
-      "fileSize":980355
+      "fileSize":979985
+    },
+    "gacha/screen/gacha327":{
+      "bundleName":"gacha/screen/gacha327", "hash":"05b8ee41e198dc9052a2676b42e70c57a47cef92c6b4086a04cd6e135804cb92", "category":"AsNeeded", "crc":2868382996, "dependencies":[
+        "effect/common_materials"
+      ],
+      "fileSize":1133026
     },
     "gacha/screen/gacha4":{
       "bundleName":"gacha/screen/gacha4", "hash":"83f22b4812f860015771455d5ac46c1145c3d8ff64aea66de399984da2144062", "category":"AsNeeded", "crc":3900927837, "fileSize":622114
@@ -8224,7 +8233,7 @@
       "bundleName":"genericanimation/dream_festival_1812", "hash":"f6d846a7b59488e7712d9f6989693804dcbb4bf8a28c147732eaface4f3fff3d", "category":"AsNeeded", "crc":877190613, "fileSize":1866367
     },
     "homebanner":{
-      "bundleName":"homebanner", "hash":"372546b24f6aee602aace49dee3c0e96578e1801cf37bea8d19805e333aba690", "category":"StartApp", "crc":3380198187, "fileSize":20421061
+      "bundleName":"homebanner", "hash":"a63da711ff8ba07d07cce231c6998bcd578e1801cf37bea8d19805e333aba690", "category":"StartApp", "crc":2711005459, "fileSize":20563238
     },
     "ingameskin/bgskin/skin00":{
       "bundleName":"ingameskin/bgskin/skin00", "hash":"c10e5f3a2bab1b6be55144ec3ca1309dbb71af161f99855ea24133093d7e43e7", "category":"StartApp", "crc":3614049159, "fileSize":2032704
