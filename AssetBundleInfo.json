@@ -1,5 +1,5 @@
 {
-  "version":"2.8.0.870", "bundles":{
+  "version":"2.8.0.880", "bundles":{
     "actionset/group0":{
       "bundleName":"actionset/group0", "hash":"7053c5addbb064a28cbc26db1b5e003ebb9fa2f9e157d254bf4c792a14cb05b9", "category":"StartApp", "crc":819377238, "fileSize":15807
     },
@@ -7080,6 +7080,9 @@
     "event/loginbonus/800man_anniversary":{
       "bundleName":"event/loginbonus/800man_anniversary", "hash":"b191a88a466af03a76c37601861cbbcbeb77a0a915ae28eeda1fa13889902a26", "category":"AsNeeded", "crc":984680846, "fileSize":1839888
     },
+    "event/loginbonus/900man_anniversary":{
+      "bundleName":"event/loginbonus/900man_anniversary", "hash":"34afef6f87b4c165dd97ea4cbef91049f120c35092e72ab4b8605605b3483287", "category":"AsNeeded", "crc":2971336178, "fileSize":2105146
+    },
     "event/loginbonus/anfang_release":{
       "bundleName":"event/loginbonus/anfang_release", "hash":"0149e230236a160d41c1d2ed71509837a4ba7ba8567e0648db4ecde287ac3470", "category":"AsNeeded", "crc":4126039861, "fileSize":469435
     },
@@ -8388,6 +8391,18 @@
       ],
       "fileSize":1093451
     },
+    "gacha/screen/gacha333":{
+      "bundleName":"gacha/screen/gacha333", "hash":"08342b785d7092acd6408695a2e7d2248ec6cb31ac00c2a47880325b94908b42", "category":"AsNeeded", "crc":980276263, "dependencies":[
+        "effect/common_materials"
+      ],
+      "fileSize":748456
+    },
+    "gacha/screen/gacha335":{
+      "bundleName":"gacha/screen/gacha335", "hash":"800bf406ee441ca663d3671e0d05f23d8cf6f2c2ccc26d8147c85a655b84aad6", "category":"AsNeeded", "crc":1036069432, "dependencies":[
+        "effect/common_materials"
+      ],
+      "fileSize":1156786
+    },
     "gacha/screen/gacha4":{
       "bundleName":"gacha/screen/gacha4", "hash":"83f22b4812f860015771455d5ac46c1145c3d8ff64aea66de399984da2144062", "category":"AsNeeded", "crc":3900927837, "fileSize":622114
     },
@@ -8428,7 +8443,7 @@
       "bundleName":"genericanimation/dream_festival_1812", "hash":"f6d846a7b59488e7712d9f6989693804dcbb4bf8a28c147732eaface4f3fff3d", "category":"AsNeeded", "crc":877190613, "fileSize":1866367
     },
     "homebanner":{
-      "bundleName":"homebanner", "hash":"ab687e186362705ee99d29d3bad92d53578e1801cf37bea8d19805e333aba690", "category":"StartApp", "crc":235726765, "fileSize":21006443
+      "bundleName":"homebanner", "hash":"9c93aaa0bab3a9570824d379c4e20f25578e1801cf37bea8d19805e333aba690", "category":"StartApp", "crc":2013708215, "fileSize":21224690
     },
     "ingameskin/bgskin/skin00":{
       "bundleName":"ingameskin/bgskin/skin00", "hash":"c10e5f3a2bab1b6be55144ec3ca1309dbb71af161f99855ea24133093d7e43e7", "category":"StartApp", "crc":3614049159, "fileSize":2032704
@@ -21187,7 +21202,7 @@
       "bundleName":"stamp/01", "hash":"1719c389ae65a3131a750514ba8ef6d7b4177963bd21045df2aff8a399646f87", "category":"StartApp", "crc":552736530, "fileSize":3230897
     },
     "story/banner/memorial":{
-      "bundleName":"story/banner/memorial", "hash":"29c67ec0b6f851b131280ea853cd34f9c108e6210bcbada2528e7713c8e60857", "category":"AsNeeded", "crc":3257523686, "fileSize":3267753
+      "bundleName":"story/banner/memorial", "hash":"a0048079f38bc9ac697fdff80e8a6978c108e6210bcbada2528e7713c8e60857", "category":"AsNeeded", "crc":3162520939, "fileSize":3268843
     },
     "story/bg/background":{
       "bundleName":"story/bg/background", "hash":"25909f459771d6253880c4c04cbe9da9ed69473c82b8ec904f4e12756e6e96d2", "category":"StartApp", "crc":772728451, "fileSize":8343415

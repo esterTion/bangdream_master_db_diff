@@ -371,6 +371,9 @@
   "dialog_systemSettings_captionLiveResource":{
     "name":"dialog_systemSettings_captionLiveResource", "wording":"ライブ中メンバー演出"
   },
+  "dialog_fewStorage_loginMovieDownload":{
+    "name":"dialog_fewStorage_loginMovieDownload", "wording":"端末の空き容量が不足しているため、\\n動画データのダウンロードができません。"
+  },
   "memorialStory_contents_notExistMessage":{
     "name":"memorialStory_contents_notExistMessage", "wording":"絞り込み条件に該当する思い出のストーリーがありません。"
   },
@@ -692,6 +695,9 @@
   "dialog_getStamp_periodLimit":{
     "name":"dialog_getStamp_periodLimit", "wording":"使用期限 {0}まで"
   },
+  "word_requiredStorageSizePlayMovie_format":{
+    "name":"word_requiredStorageSizePlayMovie_format", "wording":"再生に必要な空き容量：{0}以上"
+  },
   "newYearCard_checkCardDialog_expandButton":{
     "name":"newYearCard_checkCardDialog_expandButton", "wording":"拡大"
   },
@@ -736,6 +742,9 @@
   },
   "dialog_comicSort_bandButton":{
     "name":"dialog_comicSort_bandButton", "wording":"５人を選択"
+  },
+  "word_requiredStorageSize_format":{
+    "name":"word_requiredStorageSize_format", "wording":"必要な空き容量：{0}以上"
   },
   "dialog_liveSettings_tabSystemSetting":{
     "name":"dialog_liveSettings_tabSystemSetting", "wording":"システム・通知設定"
@@ -947,6 +956,9 @@
   "dialog_mvViewPause_exitButton":{
     "name":"dialog_mvViewPause_exitButton", "wording":"中断"
   },
+  "word_downloadSize_format":{
+    "name":"word_downloadSize_format", "wording":"ダウンロードサイズ：{0}"
+  },
   "dialog_liveSettings_systemBgmVolume":{
     "name":"dialog_liveSettings_systemBgmVolume", "wording":"BGM音量"
   },
@@ -960,7 +972,7 @@
     "name":"memberList_sortButton_sortEnabled", "wording":"適用中"
   },
   "dialog_moviePlayConfirm_downloadInstruction":{
-    "name":"dialog_moviePlayConfirm_downloadInstruction", "wording":"※キャンセルした場合、動画を見るためにはもう一度\\nタイトル画面からログインしなおす必要があります。"
+    "name":"dialog_moviePlayConfirm_downloadInstruction", "wording":"※キャンセルを選択した場合、\\n動画を見るためにはもう一度タイトル画面から\\nログインしなおす必要があります。"
   },
   "pickupMember_footter_message1rarity2":{
     "name":"pickupMember_footter_message1rarity2", "wording":"※各パラメータは、レベルMAXの値を表示しています。"
@@ -1088,6 +1100,9 @@
   "newMusicIntroduction_musicInfo_tagCover":{
     "name":"newMusicIntroduction_musicInfo_tagCover", "wording":"カバー"
   },
+  "dialog_fewStorage_loginMovieRetryDescription":{
+    "name":"dialog_fewStorage_loginMovieRetryDescription", "wording":"動画データをダウンロードして再生するには、\\n必要な空き容量を確保したあと、もう一度\\nタイトル画面からログインしてください。"
+  },
   "dialog_loginDLDataAndVoiceDataDownload_description1":{
     "name":"dialog_loginDLDataAndVoiceDataDownload_description1", "wording":"[505050]基本データ・キャラクターボイスデータ[-][FF3B72]（おすすめ）[-]"
   },
@@ -1191,7 +1206,7 @@
     "name":"dialog_sort_characterAlbum_obtained_all", "wording":"すべて"
   },
   "dialog_moviePlayConfirm_message":{
-    "name":"dialog_moviePlayConfirm_message", "wording":"動画データをダウンロードして再生しますか？\\n（Wi-Fi環境でのダウンロードを推奨します）"
+    "name":"dialog_moviePlayConfirm_message", "wording":"動画データをダウンロードして再生しますか？\\nWi-Fi環境でのダウンロードをおすすめします。"
   },
   "newYearCard_receivePresentDialog_periodLimit":{
     "name":"newYearCard_receivePresentDialog_periodLimit", "wording":"閲覧期間 {0}まで"
