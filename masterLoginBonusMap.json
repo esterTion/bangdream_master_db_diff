@@ -2765,5 +2765,20 @@
     "assetMap":[
       
     ]
+  },
+  "123":{
+    "loginBonusId":123, "loginBonusType":"event", "caption":"2019年ホワイトデー記念ログインキャンペーン", "assetBundleName":"white_day_2019", "publishedAt":1552489200000, "closedAt":1552575599000, "details":[
+      {
+        "loginBonusId":123, "days":1, "resourceType":"star", "quantity":250, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":123, "days":1, "resourceType":"live_boost_recovery_item", "resourceId":2, "quantity":1, "seq":2, "grantType":"present"
+      }
+    ],
+    "assetMap":{
+      "1":{
+        "loginBonusId":123, "days":1, "resourceName":"no_icon", "voiceId":"eventLoginBonus1"
+      }
+    }
   }
 }
