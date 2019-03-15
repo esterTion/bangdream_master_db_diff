@@ -755,7 +755,7 @@
     ]
   },
   "31":{
-    "loginBonusId":31, "loginBonusType":"comeback", "caption":"カムバックログインキャンペーン", "assetBundleName":"comeback_20171211", "publishedAt":1512972000000, "closedAt":4099575599000, "details":[
+    "loginBonusId":31, "loginBonusType":"comeback", "caption":"カムバックログインキャンペーン", "assetBundleName":"comeback_20190316", "publishedAt":1512972000000, "closedAt":4099575599000, "details":[
       {
         "loginBonusId":31, "days":1, "resourceType":"star", "quantity":50, "seq":1, "grantType":"present"
       },
@@ -2676,6 +2676,64 @@
       
     ]
   },
+  "113":{
+    "loginBonusId":113, "loginBonusType":"event", "caption":"2周年記念ログインキャンペーン", "assetBundleName":"2nd_anniversary_login", "publishedAt":1552676400000, "closedAt":1555527599000, "details":[
+      {
+        "loginBonusId":113, "days":1, "resourceType":"star", "quantity":2500, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":113, "days":2, "resourceType":"star", "quantity":2500, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":113, "days":3, "resourceType":"star", "quantity":50, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":113, "days":4, "resourceType":"star", "quantity":50, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":113, "days":5, "resourceType":"star", "quantity":50, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":113, "days":6, "resourceType":"star", "quantity":50, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":113, "days":7, "resourceType":"star", "quantity":50, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":113, "days":8, "resourceType":"star", "quantity":50, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":113, "days":9, "resourceType":"star", "quantity":50, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":113, "days":10, "resourceType":"star", "quantity":50, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":113, "days":11, "resourceType":"star", "quantity":50, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":113, "days":12, "resourceType":"star", "quantity":50, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":113, "days":13, "resourceType":"star", "quantity":50, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":113, "days":14, "resourceType":"star", "quantity":50, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":113, "days":15, "resourceType":"star", "quantity":50, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":113, "days":16, "resourceType":"star", "quantity":50, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":113, "days":17, "resourceType":"star", "quantity":50, "seq":1, "grantType":"present"
+      }
+    ],
+    "assetMap":[
+      
+    ]
+  },
   "114":{
     "loginBonusId":114, "loginBonusType":"event", "caption":"2周年記念カウントダウンログインキャンペーン", "assetBundleName":"2nd_anniversary_countdown_0307", "publishedAt":1551884400000, "closedAt":1551970799000, "details":[
       {
@@ -2780,5 +2838,165 @@
         "loginBonusId":123, "days":1, "resourceName":"no_icon", "voiceId":"eventLoginBonus1"
       }
     }
+  },
+  "124":{
+    "loginBonusId":124, "loginBonusType":"birthday", "caption":"紗夜誕生日", "assetBundleName":"sayo_2019", "publishedAt":1553007600000, "closedAt":1553093999000, "details":[
+      {
+        "loginBonusId":124, "days":1, "resourceType":"star", "quantity":50, "seq":1, "grantType":"direct"
+      },
+      {
+        "loginBonusId":124, "days":1, "resourceType":"practice_ticket", "resourceId":30, "quantity":1, "seq":2, "grantType":"direct"
+      }
+    ],
+    "assetMap":{
+      "1":{
+        "loginBonusId":124, "days":1, "resourceName":"no_icon", "voiceId":"eventLoginBonus1"
+      }
+    }
+  },
+  "125":{
+    "loginBonusId":125, "loginBonusType":"birthday", "caption":"日菜誕生日", "assetBundleName":"hina_2019", "publishedAt":1553007600000, "closedAt":1553093999000, "details":[
+      {
+        "loginBonusId":125, "days":1, "resourceType":"star", "quantity":50, "seq":1, "grantType":"direct"
+      },
+      {
+        "loginBonusId":125, "days":1, "resourceType":"practice_ticket", "resourceId":25, "quantity":1, "seq":2, "grantType":"direct"
+      }
+    ],
+    "assetMap":{
+      "1":{
+        "loginBonusId":125, "days":1, "resourceName":"no_icon", "voiceId":"eventLoginBonus1"
+      }
+    }
+  },
+  "126":{
+    "loginBonusId":126, "loginBonusType":"rookie", "caption":"スタートダッシュログインキャンペーン", "assetBundleName":"beginner_login_20190316", "publishedAt":1552676400000, "closedAt":4102340399000, "details":[
+      {
+        "loginBonusId":126, "days":1, "resourceType":"miracle_ticket", "resourceId":4, "quantity":1, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":126, "days":1, "resourceType":"item", "resourceId":13, "quantity":100, "seq":2, "grantType":"present"
+      },
+      {
+        "loginBonusId":126, "days":1, "resourceType":"practice_ticket", "resourceId":3, "quantity":5, "seq":3, "grantType":"present"
+      },
+      {
+        "loginBonusId":126, "days":1, "resourceType":"star", "quantity":500, "seq":4, "grantType":"present"
+      },
+      {
+        "loginBonusId":126, "days":2, "resourceType":"item", "resourceId":9, "quantity":50, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":126, "days":2, "resourceType":"item", "resourceId":5, "quantity":800, "seq":2, "grantType":"present"
+      },
+      {
+        "loginBonusId":126, "days":2, "resourceType":"item", "resourceId":1, "quantity":1000, "seq":3, "grantType":"present"
+      },
+      {
+        "loginBonusId":126, "days":2, "resourceType":"item", "resourceId":13, "quantity":10, "seq":4, "grantType":"present"
+      },
+      {
+        "loginBonusId":126, "days":2, "resourceType":"star", "quantity":150, "seq":5, "grantType":"present"
+      },
+      {
+        "loginBonusId":126, "days":3, "resourceType":"item", "resourceId":10, "quantity":50, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":126, "days":3, "resourceType":"item", "resourceId":6, "quantity":800, "seq":2, "grantType":"present"
+      },
+      {
+        "loginBonusId":126, "days":3, "resourceType":"item", "resourceId":2, "quantity":1000, "seq":3, "grantType":"present"
+      },
+      {
+        "loginBonusId":126, "days":3, "resourceType":"item", "resourceId":13, "quantity":10, "seq":4, "grantType":"present"
+      },
+      {
+        "loginBonusId":126, "days":3, "resourceType":"star", "quantity":150, "seq":5, "grantType":"present"
+      },
+      {
+        "loginBonusId":126, "days":4, "resourceType":"item", "resourceId":11, "quantity":50, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":126, "days":4, "resourceType":"item", "resourceId":7, "quantity":800, "seq":2, "grantType":"present"
+      },
+      {
+        "loginBonusId":126, "days":4, "resourceType":"item", "resourceId":3, "quantity":1000, "seq":3, "grantType":"present"
+      },
+      {
+        "loginBonusId":126, "days":4, "resourceType":"item", "resourceId":13, "quantity":10, "seq":4, "grantType":"present"
+      },
+      {
+        "loginBonusId":126, "days":4, "resourceType":"star", "quantity":150, "seq":5, "grantType":"present"
+      },
+      {
+        "loginBonusId":126, "days":5, "resourceType":"item", "resourceId":12, "quantity":50, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":126, "days":5, "resourceType":"item", "resourceId":8, "quantity":800, "seq":2, "grantType":"present"
+      },
+      {
+        "loginBonusId":126, "days":5, "resourceType":"item", "resourceId":4, "quantity":1000, "seq":3, "grantType":"present"
+      },
+      {
+        "loginBonusId":126, "days":5, "resourceType":"item", "resourceId":13, "quantity":10, "seq":4, "grantType":"present"
+      },
+      {
+        "loginBonusId":126, "days":5, "resourceType":"star", "quantity":150, "seq":5, "grantType":"present"
+      },
+      {
+        "loginBonusId":126, "days":6, "resourceType":"item", "resourceId":14, "quantity":20, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":126, "days":6, "resourceType":"item", "resourceId":13, "quantity":10, "seq":2, "grantType":"present"
+      },
+      {
+        "loginBonusId":126, "days":6, "resourceType":"practice_ticket", "resourceId":3, "quantity":5, "seq":3, "grantType":"present"
+      },
+      {
+        "loginBonusId":126, "days":6, "resourceType":"star", "quantity":150, "seq":4, "grantType":"present"
+      },
+      {
+        "loginBonusId":126, "days":7, "resourceType":"gacha_ticket", "resourceId":2, "quantity":1, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":126, "days":7, "resourceType":"item", "resourceId":13, "quantity":10, "seq":2, "grantType":"present"
+      },
+      {
+        "loginBonusId":126, "days":7, "resourceType":"star", "quantity":250, "seq":3, "grantType":"present"
+      }
+    ],
+    "assetMap":{
+      "1":{
+        "loginBonusId":126, "days":1, "resourceName":"beginner_login_20180507_day1", "voiceId":"eventLoginBonus1"
+      },
+      "2":{
+        "loginBonusId":126, "days":2, "resourceName":"comeback_20171211_day5", "voiceId":"eventLoginBonus1"
+      },
+      "3":{
+        "loginBonusId":126, "days":3, "resourceName":"comeback_20171211_day3", "voiceId":"eventLoginBonus1"
+      },
+      "4":{
+        "loginBonusId":126, "days":4, "resourceName":"comeback_20171211_day2", "voiceId":"eventLoginBonus1"
+      },
+      "5":{
+        "loginBonusId":126, "days":5, "resourceName":"comeback_20171211_day4", "voiceId":"eventLoginBonus1"
+      },
+      "6":{
+        "loginBonusId":126, "days":6, "resourceName":"beginner_login_20180507_day6", "voiceId":"eventLoginBonus1"
+      },
+      "7":{
+        "loginBonusId":126, "days":7, "resourceName":"beginner_login_20180507_day7", "voiceId":"eventLoginBonus1"
+      }
+    }
+  },
+  "127":{
+    "loginBonusId":127, "loginBonusType":"event", "caption":"カバーコレクション Vol.2発売記念ログインキャンペーン", "assetBundleName":"cover2_release", "publishedAt":1552716000000, "closedAt":1552975199000, "details":[
+      {
+        "loginBonusId":127, "days":1, "resourceType":"star", "quantity":100, "seq":1, "grantType":"present"
+      }
+    ],
+    "assetMap":[
+      
+    ]
   }
 }

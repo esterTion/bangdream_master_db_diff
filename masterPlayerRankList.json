@@ -2,68 +2,10 @@
   {
     "rank":1, "mainStories":[
       {
-        "mainStoryId":1, "seq":1, "caption":"オープニング１", "title":"はじめてのお仕事", "synopsis":"ライブハウス「CiRCLE」では、目玉となるイベントを企画中。参加資格は……？", "scenarioId":"main001", "releasePlayerRank":1, "releaseConditions":"最初から解放", "publishedAt":1472698800000, "coverImage":"1", "backgroundImage":"1"
-      }
-    ]
-  },
-  {
-    "rank":2, "mainStories":[
+        "mainStoryId":1, "seq":1, "caption":"オープニング１", "title":"はじめてのお仕事", "synopsis":"ライブハウス「CiRCLE」では、目玉となるイベントを企画中。参加資格は……？", "scenarioId":"main001", "releasePlayerRank":1, "releaseConditions":"最初から解放", "publishedAt":1472698800000, "coverImage":"1", "backgroundImage":"1", "seasonType":"season_1"
+      },
       {
-        "mainStoryId":2, "seq":2, "caption":"オープニング２", "title":"ガールズバンドを探そう！", "synopsis":"ポピパはまりなにガールズバンドのスカウトを頼まれる。Roseliaを探しにいくが…？", "scenarioId":"main002-1", "releasePlayerRank":2, "releaseConditions":"プレイヤーランク 2以上で解放", "publishedAt":1472698800000, "rewards":[
-          {
-            "resourceType":"star", "quantity":50, "lbBonus":1
-          },
-          {
-            "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
-          },
-          {
-            "resourceId":25, "resourceType":"music", "quantity":1, "lbBonus":1
-          }
-        ],
-        "coverImage":"2", "backgroundImage":"1"
-      }
-    ]
-  },
-  {
-    "rank":3, "mainStories":[
-      {
-        "mainStoryId":3, "seq":3, "caption":"オープニング３", "title":"注目の高校生バンド", "synopsis":"Roseliaを見つけた香澄たち。早速ライブの出演の誘いをしてみるが…？", "scenarioId":"main002-2", "releasePlayerRank":3, "releaseConditions":"プレイヤーランク 3以上で解放", "publishedAt":1472698800000, "rewards":[
-          {
-            "resourceType":"star", "quantity":50, "lbBonus":1
-          },
-          {
-            "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
-          },
-          {
-            "resourceId":1, "resourceType":"music", "quantity":1, "lbBonus":1
-          }
-        ],
-        "coverImage":"3", "backgroundImage":"1"
-      }
-    ]
-  },
-  {
-    "rank":4, "mainStories":[
-      {
-        "mainStoryId":4, "seq":4, "caption":"第１話", "title":"Afterglow", "synopsis":"Afterglowのスカウトにいく香澄と沙綾。そこにはお互い見知った顔が……？", "scenarioId":"main003", "releasePlayerRank":4, "releaseConditions":"プレイヤーランク 4以上で解放", "publishedAt":1472698800000, "rewards":[
-          {
-            "resourceType":"star", "quantity":50, "lbBonus":1
-          },
-          {
-            "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
-          },
-          {
-            "resourceId":4, "resourceType":"music", "quantity":1, "lbBonus":1
-          }
-        ],
-        "coverImage":"4", "backgroundImage":"1"
-      }
-    ]
-  },
-  {
-    "rank":5, "mainStories":[
-      {
-        "mainStoryId":5, "seq":5, "caption":"第２話", "title":"Pastel＊Palettes", "synopsis":"香澄と有咲は芸能事務所に初潜入。イベントに誘うが、それに対してメンバーは……？", "scenarioId":"main004", "releasePlayerRank":5, "releaseConditions":"プレイヤーランク 5以上で解放", "publishedAt":1472698800000, "rewards":[
+        "mainStoryId":2, "seq":2, "caption":"オープニング２", "title":"ガールズバンドを探そう！", "synopsis":"ポピパはまりなにガールズバンドのスカウトを頼まれる。Roseliaを探しにいくが…？", "scenarioId":"main002-1", "releasePlayerRank":1, "releaseConditions":"前のストーリーを読むと解放", "publishedAt":1472698800000, "rewards":[
           {
             "resourceType":"star", "quantity":50, "lbBonus":1
           },
@@ -71,33 +13,10 @@
             "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
           }
         ],
-        "coverImage":"5", "backgroundImage":"1"
-      }
-    ],
-    "beforeFriendUpperLimit":50, "afterFriendUpperLimit":52
-  },
-  {
-    "rank":6, "mainStories":[
+        "coverImage":"2", "backgroundImage":"1", "seasonType":"season_1"
+      },
       {
-        "mainStoryId":6, "seq":6, "caption":"第３話", "title":"ハロー、ハッピーワールド！", "synopsis":"バンドのスカウトを続ける香澄とりみ。偶然見かけた駅前の騒ぎの元は……？", "scenarioId":"main005", "releasePlayerRank":6, "releaseConditions":"プレイヤーランク 6以上で解放", "publishedAt":1472698800000, "rewards":[
-          {
-            "resourceType":"star", "quantity":50, "lbBonus":1
-          },
-          {
-            "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
-          },
-          {
-            "resourceId":3, "resourceType":"music", "quantity":1, "lbBonus":1
-          }
-        ],
-        "coverImage":"6", "backgroundImage":"1"
-      }
-    ]
-  },
-  {
-    "rank":8, "mainStories":[
-      {
-        "mainStoryId":7, "seq":7, "caption":"第４話", "title":"音楽で自己紹介", "synopsis":"全バンドが揃い、それぞれ自己紹介をする。香澄が思いつきであることを提案し!?", "scenarioId":"main006", "releasePlayerRank":8, "releaseConditions":"プレイヤーランク 8以上で解放", "publishedAt":1477969200000, "rewards":[
+        "mainStoryId":3, "seq":3, "caption":"オープニング３", "title":"注目の高校生バンド", "synopsis":"Roseliaを見つけた香澄たち。早速ライブの出演の誘いをしてみるが…？", "scenarioId":"main002-2", "releasePlayerRank":1, "releaseConditions":"前のストーリーを読むと解放", "publishedAt":1472698800000, "rewards":[
           {
             "resourceType":"star", "quantity":50, "lbBonus":1
           },
@@ -105,33 +24,10 @@
             "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
           }
         ],
-        "coverImage":"7", "backgroundImage":"1"
-      }
-    ]
-  },
-  {
-    "rank":10, "mainStories":[
+        "coverImage":"3", "backgroundImage":"1", "seasonType":"season_1"
+      },
       {
-        "mainStoryId":8, "seq":8, "caption":"第５話", "title":"初めての合同練習", "synopsis":"ポピパがパスパレの前で演奏を披露すると、意外な誉め言葉をもらって――？", "scenarioId":"main007", "releasePlayerRank":10, "releaseConditions":"プレイヤーランク 10以上で解放", "publishedAt":1477969200000, "rewards":[
-          {
-            "resourceType":"star", "quantity":50, "lbBonus":1
-          },
-          {
-            "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
-          },
-          {
-            "resourceId":2, "resourceType":"music", "quantity":1, "lbBonus":1
-          }
-        ],
-        "coverImage":"8", "backgroundImage":"1"
-      }
-    ],
-    "beforeFriendUpperLimit":52, "afterFriendUpperLimit":54
-  },
-  {
-    "rank":12, "mainStories":[
-      {
-        "mainStoryId":9, "seq":9, "caption":"第６話", "title":"私たちの音楽が一番", "synopsis":"合同練習を始めたRoseliaとAfterglow。方向性の違いでケンカに!?", "scenarioId":"main008", "releasePlayerRank":12, "releaseConditions":"プレイヤーランク 12以上で解放", "publishedAt":1477969200000, "rewards":[
+        "mainStoryId":4, "seq":4, "caption":"第１話", "title":"Afterglow", "synopsis":"Afterglowのスカウトにいく香澄と沙綾。そこにはお互い見知った顔が……？", "scenarioId":"main003", "releasePlayerRank":1, "releaseConditions":"前のストーリーを読むと解放", "publishedAt":1472698800000, "rewards":[
           {
             "resourceType":"star", "quantity":50, "lbBonus":1
           },
@@ -139,35 +35,10 @@
             "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
           }
         ],
-        "coverImage":"9", "backgroundImage":"1"
-      }
-    ]
-  },
-  {
-    "rank":14, "mainStories":[
+        "coverImage":"4", "backgroundImage":"1", "seasonType":"season_1"
+      },
       {
-        "mainStoryId":10, "seq":10, "caption":"第７話", "title":"お知り合いなんですか？", "synopsis":"パスパレとハロハピの合同練習。個性的なメンバーがそろう中、意外な事実が発覚……？", "scenarioId":"main009", "releasePlayerRank":14, "releaseConditions":"プレイヤーランク 14以上で解放", "publishedAt":1477969200000, "rewards":[
-          {
-            "resourceType":"star", "quantity":50, "lbBonus":1
-          },
-          {
-            "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
-          },
-          {
-            "resourceId":5, "resourceType":"music", "quantity":1, "lbBonus":1
-          }
-        ],
-        "coverImage":"10", "backgroundImage":"1"
-      }
-    ]
-  },
-  {
-    "rank":15, "beforeFriendUpperLimit":54, "afterFriendUpperLimit":56
-  },
-  {
-    "rank":16, "mainStories":[
-      {
-        "mainStoryId":11, "seq":11, "caption":"第８話", "title":"みんな、自由すぎ〜！！", "synopsis":"合同練習を始めたAfterglowとハロハピ。ハロハピに感化されたAfterglowは――？", "scenarioId":"main010", "releasePlayerRank":16, "releaseConditions":"プレイヤーランク 16以上で解放", "publishedAt":1477969200000, "rewards":[
+        "mainStoryId":5, "seq":5, "caption":"第２話", "title":"Pastel＊Palettes", "synopsis":"香澄と有咲は芸能事務所に初潜入。イベントに誘うが、それに対してメンバーは……？", "scenarioId":"main004", "releasePlayerRank":1, "releaseConditions":"前のストーリーを読むと解放", "publishedAt":1472698800000, "rewards":[
           {
             "resourceType":"star", "quantity":50, "lbBonus":1
           },
@@ -175,32 +46,10 @@
             "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
           }
         ],
-        "coverImage":"11", "backgroundImage":"1"
-      }
-    ]
-  },
-  {
-    "rank":18, "mainStories":[
+        "coverImage":"5", "backgroundImage":"1", "seasonType":"season_1"
+      },
       {
-        "mainStoryId":12, "seq":12, "caption":"第９話", "title":"友希那のスパルタレッスン", "synopsis":"Roseliaとポピパは合同練習を開始。友希那の熱血指導に刺激を受けた香澄は？", "scenarioId":"main011", "releasePlayerRank":18, "releaseConditions":"プレイヤーランク 18以上で解放", "publishedAt":1477969200000, "rewards":[
-          {
-            "resourceType":"star", "quantity":50, "lbBonus":1
-          },
-          {
-            "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
-          },
-          {
-            "resourceId":12, "resourceType":"music", "quantity":1, "lbBonus":1
-          }
-        ],
-        "coverImage":"12", "backgroundImage":"1"
-      }
-    ]
-  },
-  {
-    "rank":20, "mainStories":[
-      {
-        "mainStoryId":13, "seq":13, "caption":"第１０話", "title":"待ちに待った初ライブ", "synopsis":"ミニライブ当日を迎え、やる気十分な各バンドのメンバー達。観客の反応は……？", "scenarioId":"main012", "releasePlayerRank":20, "releaseConditions":"プレイヤーランク 20以上で解放", "publishedAt":1477969200000, "rewards":[
+        "mainStoryId":6, "seq":6, "caption":"第３話", "title":"ハロー、ハッピーワールド！", "synopsis":"バンドのスカウトを続ける香澄とりみ。偶然見かけた駅前の騒ぎの元は……？", "scenarioId":"main005", "releasePlayerRank":1, "releaseConditions":"前のストーリーを読むと解放", "publishedAt":1472698800000, "rewards":[
           {
             "resourceType":"star", "quantity":50, "lbBonus":1
           },
@@ -208,33 +57,10 @@
             "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
           }
         ],
-        "coverImage":"13", "backgroundImage":"1"
-      }
-    ],
-    "beforeFriendUpperLimit":56, "afterFriendUpperLimit":58
-  },
-  {
-    "rank":22, "mainStories":[
+        "coverImage":"6", "backgroundImage":"1", "seasonType":"season_1"
+      },
       {
-        "mainStoryId":14, "seq":14, "caption":"第１１話", "title":"色とりどりなパーティ！", "synopsis":"ライブを終えて、盛り上がる各バンドのメンバー。次のイベントの話になり……？", "scenarioId":"main013", "releasePlayerRank":22, "releaseConditions":"プレイヤーランク 22以上で解放", "publishedAt":1477969200000, "rewards":[
-          {
-            "resourceType":"star", "quantity":50, "lbBonus":1
-          },
-          {
-            "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
-          },
-          {
-            "resourceId":13, "resourceType":"music", "quantity":1, "lbBonus":1
-          }
-        ],
-        "coverImage":"14", "backgroundImage":"1"
-      }
-    ]
-  },
-  {
-    "rank":23, "mainStories":[
-      {
-        "mainStoryId":15, "seq":15, "caption":"第１２話", "title":"ガールズバンドパーティ！", "synopsis":"ファミレスで話し合う各バンドのメンバー。まとまりが段々なくなっていって……？", "scenarioId":"main014", "releasePlayerRank":23, "releaseConditions":"プレイヤーランク 23以上で解放", "publishedAt":1494396000000, "rewards":[
+        "mainStoryId":7, "seq":7, "caption":"第４話", "title":"音楽で自己紹介", "synopsis":"全バンドが揃い、それぞれ自己紹介をする。香澄が思いつきであることを提案し!?", "scenarioId":"main006", "releasePlayerRank":1, "releaseConditions":"前のストーリーを読むと解放", "publishedAt":1477969200000, "rewards":[
           {
             "resourceType":"star", "quantity":50, "lbBonus":1
           },
@@ -242,33 +68,10 @@
             "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
           }
         ],
-        "coverImage":"15", "backgroundImage":"1"
-      }
-    ]
-  },
-  {
-    "rank":25, "mainStories":[
+        "coverImage":"7", "backgroundImage":"1", "seasonType":"season_1"
+      },
       {
-        "mainStoryId":16, "seq":16, "caption":"第１３話", "title":"５バンドの共通点", "synopsis":"意見が合わず、合同練習は中止に。ポピパの５人はどうしたらまとまるか考えるが？", "scenarioId":"main015", "releasePlayerRank":25, "releaseConditions":"プレイヤーランク 25以上で解放", "publishedAt":1496631600000, "rewards":[
-          {
-            "resourceType":"star", "quantity":50, "lbBonus":1
-          },
-          {
-            "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
-          },
-          {
-            "resourceId":51, "resourceType":"music", "quantity":1, "lbBonus":1
-          }
-        ],
-        "coverImage":"16", "backgroundImage":"1"
-      }
-    ],
-    "beforeFriendUpperLimit":58, "afterFriendUpperLimit":60
-  },
-  {
-    "rank":28, "mainStories":[
-      {
-        "mainStoryId":17, "seq":17, "caption":"第１４話", "title":"芯があるからこそ", "synopsis":"合同練習に誰も来ないことに落ち込む香澄。香澄とたえが出した答えとは――？", "scenarioId":"main016", "releasePlayerRank":28, "releaseConditions":"プレイヤーランク 28以上で解放", "publishedAt":1498446000000, "rewards":[
+        "mainStoryId":8, "seq":8, "caption":"第５話", "title":"初めての合同練習", "synopsis":"ポピパがパスパレの前で演奏を披露すると、意外な誉め言葉をもらって――？", "scenarioId":"main007", "releasePlayerRank":1, "releaseConditions":"前のストーリーを読むと解放", "publishedAt":1477969200000, "rewards":[
           {
             "resourceType":"star", "quantity":50, "lbBonus":1
           },
@@ -276,35 +79,10 @@
             "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
           }
         ],
-        "coverImage":"17", "backgroundImage":"1"
-      }
-    ]
-  },
-  {
-    "rank":30, "beforeFriendUpperLimit":60, "afterFriendUpperLimit":62
-  },
-  {
-    "rank":31, "mainStories":[
+        "coverImage":"8", "backgroundImage":"1", "seasonType":"season_1"
+      },
       {
-        "mainStoryId":18, "seq":18, "caption":"第１５話", "title":"笑顔のおすそ分け", "synopsis":"各バンドをスタジオに無理やり連れてきたポピパの５人。香澄がお願いしたこととは？", "scenarioId":"main017", "releasePlayerRank":31, "releaseConditions":"プレイヤーランク 31以上で解放", "publishedAt":1500433200000, "rewards":[
-          {
-            "resourceType":"star", "quantity":50, "lbBonus":1
-          },
-          {
-            "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
-          },
-          {
-            "resourceId":57, "resourceType":"music", "quantity":1, "lbBonus":1
-          }
-        ],
-        "coverImage":"18", "backgroundImage":"1"
-      }
-    ]
-  },
-  {
-    "rank":35, "mainStories":[
-      {
-        "mainStoryId":19, "seq":19, "caption":"第１６話", "title":"作ればいいんだっ！！！！", "synopsis":"イベント内容を話し合うポピパの５人。まりなのアドバイスを受けた香澄は――？", "scenarioId":"main018", "releasePlayerRank":35, "releaseConditions":"プレイヤーランク 35以上で解放", "publishedAt":1501815600000, "rewards":[
+        "mainStoryId":9, "seq":9, "caption":"第６話", "title":"私たちの音楽が一番", "synopsis":"合同練習を始めたRoseliaとAfterglow。方向性の違いでケンカに!?", "scenarioId":"main008", "releasePlayerRank":1, "releaseConditions":"前のストーリーを読むと解放", "publishedAt":1477969200000, "rewards":[
           {
             "resourceType":"star", "quantity":50, "lbBonus":1
           },
@@ -312,36 +90,10 @@
             "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
           }
         ],
-        "coverImage":"19", "backgroundImage":"1"
-      }
-    ],
-    "beforeFriendUpperLimit":62, "afterFriendUpperLimit":64
-  },
-  {
-    "rank":39, "mainStories":[
+        "coverImage":"9", "backgroundImage":"1", "seasonType":"season_1"
+      },
       {
-        "mainStoryId":20, "seq":20, "caption":"第１７話", "title":"バラバラの感性がぶつかって", "synopsis":"合作の曲を作ろうと提案した香澄。各バンドメンバーの反応は……？", "scenarioId":"main019", "releasePlayerRank":39, "releaseConditions":"プレイヤーランク 39以上で解放", "publishedAt":1503889200000, "rewards":[
-          {
-            "resourceType":"star", "quantity":50, "lbBonus":1
-          },
-          {
-            "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
-          },
-          {
-            "resourceId":58, "resourceType":"music", "quantity":1, "lbBonus":1
-          }
-        ],
-        "coverImage":"20", "backgroundImage":"1"
-      }
-    ]
-  },
-  {
-    "rank":40, "beforeFriendUpperLimit":64, "afterFriendUpperLimit":66
-  },
-  {
-    "rank":44, "mainStories":[
-      {
-        "mainStoryId":21, "seq":21, "caption":"第１８話", "title":"おそろいのイクサショーゾク", "synopsis":"各バンドメンバーは分担してオリジナルドリンクやTシャツを考案していって――？", "scenarioId":"main020", "releasePlayerRank":44, "releaseConditions":"プレイヤーランク 44以上で解放", "publishedAt":1504494000000, "rewards":[
+        "mainStoryId":10, "seq":10, "caption":"第７話", "title":"お知り合いなんですか？", "synopsis":"パスパレとハロハピの合同練習。個性的なメンバーがそろう中、意外な事実が発覚……？", "scenarioId":"main009", "releasePlayerRank":1, "releaseConditions":"前のストーリーを読むと解放", "publishedAt":1477969200000, "rewards":[
           {
             "resourceType":"star", "quantity":50, "lbBonus":1
           },
@@ -349,60 +101,10 @@
             "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
           }
         ],
-        "coverImage":"21", "backgroundImage":"1"
-      }
-    ]
-  },
-  {
-    "rank":45, "beforeFriendUpperLimit":66, "afterFriendUpperLimit":68
-  },
-  {
-    "rank":49, "mainStories":[
+        "coverImage":"10", "backgroundImage":"1", "seasonType":"season_1"
+      },
       {
-        "mainStoryId":22, "seq":22, "caption":"第１９話", "title":"最後の歌詞", "synopsis":"チラシ配りをするメンバーの裏で、各バンドのボーカルは歌詞作りに没頭していて？", "scenarioId":"main021", "releasePlayerRank":49, "releaseConditions":"プレイヤーランク 49以上で解放", "publishedAt":1507086000000, "rewards":[
-          {
-            "resourceType":"star", "quantity":50, "lbBonus":1
-          },
-          {
-            "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
-          },
-          {
-            "resourceId":74, "resourceType":"music", "quantity":1, "lbBonus":1
-          }
-        ],
-        "coverImage":"22", "backgroundImage":"1"
-      }
-    ]
-  },
-  {
-    "rank":50, "beforeFriendUpperLimit":68, "afterFriendUpperLimit":70
-  },
-  {
-    "rank":55, "mainStories":[
-      {
-        "mainStoryId":23, "seq":23, "caption":"第２０話", "title":"みんなが１つに", "synopsis":"合作の曲が完成し、喜ぶメンバー達。衣装も決まり、一丸となって練習していくが？", "scenarioId":"main022", "releasePlayerRank":55, "releaseConditions":"プレイヤーランク 55以上で解放", "publishedAt":1509937200000, "rewards":[
-          {
-            "resourceType":"star", "quantity":50, "lbBonus":1
-          },
-          {
-            "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
-          },
-          {
-            "resourceId":80, "resourceType":"music", "quantity":1, "lbBonus":1
-          }
-        ],
-        "coverImage":"23", "backgroundImage":"1"
-      }
-    ],
-    "beforeFriendUpperLimit":70, "afterFriendUpperLimit":71
-  },
-  {
-    "rank":60, "beforeFriendUpperLimit":71, "afterFriendUpperLimit":72
-  },
-  {
-    "rank":61, "mainStories":[
-      {
-        "mainStoryId":24, "seq":24, "caption":"第２１話", "title":"全体ミーティング！", "synopsis":"本番当日、急遽タイムスケジュールに変更が入るが――？", "scenarioId":"main023", "releasePlayerRank":61, "releaseConditions":"プレイヤーランク 61以上で解放", "publishedAt":1513134000000, "rewards":[
+        "mainStoryId":11, "seq":11, "caption":"第８話", "title":"みんな、自由すぎ〜！！", "synopsis":"合同練習を始めたAfterglowとハロハピ。ハロハピに感化されたAfterglowは――？", "scenarioId":"main010", "releasePlayerRank":1, "releaseConditions":"前のストーリーを読むと解放", "publishedAt":1477969200000, "rewards":[
           {
             "resourceType":"star", "quantity":50, "lbBonus":1
           },
@@ -410,17 +112,153 @@
             "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
           }
         ],
-        "coverImage":"24", "backgroundImage":"1"
-      }
-    ]
-  },
-  {
-    "rank":65, "beforeFriendUpperLimit":72, "afterFriendUpperLimit":73
-  },
-  {
-    "rank":68, "mainStories":[
+        "coverImage":"11", "backgroundImage":"1", "seasonType":"season_1"
+      },
       {
-        "mainStoryId":25, "seq":25, "caption":"第２２話", "title":"ミュージック、スタートっ！！！", "synopsis":"香澄が決めた最後の歌詞とは一体……？そして、打ち上げの行方は――", "scenarioId":"main024", "releasePlayerRank":68, "releaseConditions":"プレイヤーランク 68以上で解放", "publishedAt":1515726000000, "rewards":[
+        "mainStoryId":12, "seq":12, "caption":"第９話", "title":"友希那のスパルタレッスン", "synopsis":"Roseliaとポピパは合同練習を開始。友希那の熱血指導に刺激を受けた香澄は？", "scenarioId":"main011", "releasePlayerRank":1, "releaseConditions":"前のストーリーを読むと解放", "publishedAt":1477969200000, "rewards":[
+          {
+            "resourceType":"star", "quantity":50, "lbBonus":1
+          },
+          {
+            "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
+          }
+        ],
+        "coverImage":"12", "backgroundImage":"1", "seasonType":"season_1"
+      },
+      {
+        "mainStoryId":13, "seq":13, "caption":"第１０話", "title":"待ちに待った初ライブ", "synopsis":"ミニライブ当日を迎え、やる気十分な各バンドのメンバー達。観客の反応は……？", "scenarioId":"main012", "releasePlayerRank":1, "releaseConditions":"前のストーリーを読むと解放", "publishedAt":1477969200000, "rewards":[
+          {
+            "resourceType":"star", "quantity":50, "lbBonus":1
+          },
+          {
+            "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
+          }
+        ],
+        "coverImage":"13", "backgroundImage":"1", "seasonType":"season_1"
+      },
+      {
+        "mainStoryId":14, "seq":14, "caption":"第１１話", "title":"色とりどりなパーティ！", "synopsis":"ライブを終えて、盛り上がる各バンドのメンバー。次のイベントの話になり……？", "scenarioId":"main013", "releasePlayerRank":1, "releaseConditions":"前のストーリーを読むと解放", "publishedAt":1477969200000, "rewards":[
+          {
+            "resourceType":"star", "quantity":50, "lbBonus":1
+          },
+          {
+            "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
+          }
+        ],
+        "coverImage":"14", "backgroundImage":"1", "seasonType":"season_1"
+      },
+      {
+        "mainStoryId":15, "seq":15, "caption":"第１２話", "title":"ガールズバンドパーティ！", "synopsis":"ファミレスで話し合う各バンドのメンバー。まとまりが段々なくなっていって……？", "scenarioId":"main014", "releasePlayerRank":1, "releaseConditions":"前のストーリーを読むと解放", "publishedAt":1494396000000, "rewards":[
+          {
+            "resourceType":"star", "quantity":50, "lbBonus":1
+          },
+          {
+            "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
+          }
+        ],
+        "coverImage":"15", "backgroundImage":"1", "seasonType":"season_1"
+      },
+      {
+        "mainStoryId":16, "seq":16, "caption":"第１３話", "title":"５バンドの共通点", "synopsis":"意見が合わず、合同練習は中止に。ポピパの５人はどうしたらまとまるか考えるが？", "scenarioId":"main015", "releasePlayerRank":1, "releaseConditions":"前のストーリーを読むと解放", "publishedAt":1496631600000, "rewards":[
+          {
+            "resourceType":"star", "quantity":50, "lbBonus":1
+          },
+          {
+            "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
+          }
+        ],
+        "coverImage":"16", "backgroundImage":"1", "seasonType":"season_1"
+      },
+      {
+        "mainStoryId":17, "seq":17, "caption":"第１４話", "title":"芯があるからこそ", "synopsis":"合同練習に誰も来ないことに落ち込む香澄。香澄とたえが出した答えとは――？", "scenarioId":"main016", "releasePlayerRank":1, "releaseConditions":"前のストーリーを読むと解放", "publishedAt":1498446000000, "rewards":[
+          {
+            "resourceType":"star", "quantity":50, "lbBonus":1
+          },
+          {
+            "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
+          }
+        ],
+        "coverImage":"17", "backgroundImage":"1", "seasonType":"season_1"
+      },
+      {
+        "mainStoryId":18, "seq":18, "caption":"第１５話", "title":"笑顔のおすそ分け", "synopsis":"各バンドをスタジオに無理やり連れてきたポピパの５人。香澄がお願いしたこととは？", "scenarioId":"main017", "releasePlayerRank":1, "releaseConditions":"前のストーリーを読むと解放", "publishedAt":1500433200000, "rewards":[
+          {
+            "resourceType":"star", "quantity":50, "lbBonus":1
+          },
+          {
+            "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
+          }
+        ],
+        "coverImage":"18", "backgroundImage":"1", "seasonType":"season_1"
+      },
+      {
+        "mainStoryId":19, "seq":19, "caption":"第１６話", "title":"作ればいいんだっ！！！！", "synopsis":"イベント内容を話し合うポピパの５人。まりなのアドバイスを受けた香澄は――？", "scenarioId":"main018", "releasePlayerRank":1, "releaseConditions":"前のストーリーを読むと解放", "publishedAt":1501815600000, "rewards":[
+          {
+            "resourceType":"star", "quantity":50, "lbBonus":1
+          },
+          {
+            "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
+          }
+        ],
+        "coverImage":"19", "backgroundImage":"1", "seasonType":"season_1"
+      },
+      {
+        "mainStoryId":20, "seq":20, "caption":"第１７話", "title":"バラバラの感性がぶつかって", "synopsis":"合作の曲を作ろうと提案した香澄。各バンドメンバーの反応は……？", "scenarioId":"main019", "releasePlayerRank":1, "releaseConditions":"前のストーリーを読むと解放", "publishedAt":1503889200000, "rewards":[
+          {
+            "resourceType":"star", "quantity":50, "lbBonus":1
+          },
+          {
+            "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
+          }
+        ],
+        "coverImage":"20", "backgroundImage":"1", "seasonType":"season_1"
+      },
+      {
+        "mainStoryId":21, "seq":21, "caption":"第１８話", "title":"おそろいのイクサショーゾク", "synopsis":"各バンドメンバーは分担してオリジナルドリンクやTシャツを考案していって――？", "scenarioId":"main020", "releasePlayerRank":1, "releaseConditions":"前のストーリーを読むと解放", "publishedAt":1504494000000, "rewards":[
+          {
+            "resourceType":"star", "quantity":50, "lbBonus":1
+          },
+          {
+            "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
+          }
+        ],
+        "coverImage":"21", "backgroundImage":"1", "seasonType":"season_1"
+      },
+      {
+        "mainStoryId":22, "seq":22, "caption":"第１９話", "title":"最後の歌詞", "synopsis":"チラシ配りをするメンバーの裏で、各バンドのボーカルは歌詞作りに没頭していて？", "scenarioId":"main021", "releasePlayerRank":1, "releaseConditions":"前のストーリーを読むと解放", "publishedAt":1507086000000, "rewards":[
+          {
+            "resourceType":"star", "quantity":50, "lbBonus":1
+          },
+          {
+            "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
+          }
+        ],
+        "coverImage":"22", "backgroundImage":"1", "seasonType":"season_1"
+      },
+      {
+        "mainStoryId":23, "seq":23, "caption":"第２０話", "title":"みんなが１つに", "synopsis":"合作の曲が完成し、喜ぶメンバー達。衣装も決まり、一丸となって練習していくが？", "scenarioId":"main022", "releasePlayerRank":1, "releaseConditions":"前のストーリーを読むと解放", "publishedAt":1509937200000, "rewards":[
+          {
+            "resourceType":"star", "quantity":50, "lbBonus":1
+          },
+          {
+            "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
+          }
+        ],
+        "coverImage":"23", "backgroundImage":"1", "seasonType":"season_1"
+      },
+      {
+        "mainStoryId":24, "seq":24, "caption":"第２１話", "title":"全体ミーティング！", "synopsis":"本番当日、急遽タイムスケジュールに変更が入るが――？", "scenarioId":"main023", "releasePlayerRank":1, "releaseConditions":"前のストーリーを読むと解放", "publishedAt":1513134000000, "rewards":[
+          {
+            "resourceType":"star", "quantity":50, "lbBonus":1
+          },
+          {
+            "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
+          }
+        ],
+        "coverImage":"24", "backgroundImage":"1", "seasonType":"season_1"
+      },
+      {
+        "mainStoryId":25, "seq":25, "caption":"第２２話", "title":"ミュージック、スタートっ！！！", "synopsis":"香澄が決めた最後の歌詞とは一体……？そして、打ち上げの行方は――", "scenarioId":"main024", "releasePlayerRank":1, "releaseConditions":"前のストーリーを読むと解放", "publishedAt":1515726000000, "rewards":[
           {
             "resourceType":"star", "quantity":50, "lbBonus":1
           },
@@ -431,9 +269,270 @@
             "resourceId":90, "resourceType":"music", "quantity":1, "lbBonus":1
           }
         ],
-        "coverImage":"25", "backgroundImage":"1"
+        "coverImage":"25", "backgroundImage":"1", "seasonType":"season_1"
+      },
+      {
+        "mainStoryId":26, "seq":1, "caption":"オープニング１", "title":"新しい私達！", "synopsis":"ライブの思い出を振り返るまりな達の\nもとに現れたのは……！？", "scenarioId":"main026", "releasePlayerRank":1, "releaseConditions":"最初から解放", "publishedAt":1546268400000, "coverImage":"26", "backgroundImage":"1", "seasonType":"season_2"
       }
     ]
+  },
+  {
+    "rank":2, "mainStories":[
+      {
+        "mainStoryId":27, "seq":2, "caption":"オープニング２", "title":"声をかけてみよう", "synopsis":"スタジオでの演奏を楽しむ香澄達。\nとある二人を見かけるが……", "scenarioId":"main027", "releasePlayerRank":2, "releaseConditions":"プレイヤーランク 2以上で解放", "publishedAt":1546268400000, "rewards":[
+          {
+            "resourceType":"star", "quantity":50, "lbBonus":1
+          },
+          {
+            "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
+          },
+          {
+            "resourceId":25, "resourceType":"music", "quantity":1, "lbBonus":1
+          }
+        ],
+        "coverImage":"27", "backgroundImage":"1", "seasonType":"season_2"
+      }
+    ],
+    "areaList":[
+      {
+        "areaId":1, "areaType":"common", "areaName":"カフェテリア", "description":"ゲームオリジナルのライブハウス外のカフェ", "releasePlayerRank":2
+      }
+    ]
+  },
+  {
+    "rank":3, "mainStories":[
+      {
+        "mainStoryId":28, "seq":3, "caption":"オープニング３", "title":"ノートに寄せて", "synopsis":"まりなに寄せ書きノートへの一言を\n求められたRoselia一同だったが……", "scenarioId":"main028", "releasePlayerRank":3, "releaseConditions":"プレイヤーランク 3以上で解放", "publishedAt":1546268400000, "rewards":[
+          {
+            "resourceType":"star", "quantity":50, "lbBonus":1
+          },
+          {
+            "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
+          },
+          {
+            "resourceId":1, "resourceType":"music", "quantity":1, "lbBonus":1
+          }
+        ],
+        "coverImage":"28", "backgroundImage":"1", "seasonType":"season_2"
+      }
+    ]
+  },
+  {
+    "rank":4, "mainStories":[
+      {
+        "mainStoryId":29, "seq":4, "caption":"第１話", "title":"私達の新学校生活１", "synopsis":"新しい学校生活がスタート。\n羽丘女子学園の様子は？", "scenarioId":"main029", "releasePlayerRank":4, "releaseConditions":"プレイヤーランク 4以上で解放", "publishedAt":1546268400000, "rewards":[
+          {
+            "resourceType":"star", "quantity":50, "lbBonus":1
+          },
+          {
+            "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
+          }
+        ],
+        "coverImage":"29", "backgroundImage":"1", "seasonType":"season_2"
+      }
+    ]
+  },
+  {
+    "rank":5, "mainStories":[
+      {
+        "mainStoryId":30, "seq":5, "caption":"第２話", "title":"私達の新学校生活２", "synopsis":"新しい学校生活がスタート。\n花咲川女子学園の様子は？", "scenarioId":"main030", "releasePlayerRank":5, "releaseConditions":"プレイヤーランク 5以上で解放", "publishedAt":1546268400000, "rewards":[
+          {
+            "resourceType":"star", "quantity":50, "lbBonus":1
+          },
+          {
+            "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
+          }
+        ],
+        "coverImage":"30", "backgroundImage":"1", "seasonType":"season_2"
+      }
+    ],
+    "beforeFriendUpperLimit":50, "afterFriendUpperLimit":52, "rewards":[
+      {
+        "resourceId":4, "resourceType":"music", "quantity":1, "lbBonus":1
+      }
+    ]
+  },
+  {
+    "rank":6, "mainStories":[
+      {
+        "mainStoryId":31, "seq":6, "caption":"第３話", "title":"まりなからのお願い", "synopsis":"まりなからの連絡でCiRCLEに\n集められた一同。その理由は……", "scenarioId":"main031", "releasePlayerRank":6, "releaseConditions":"プレイヤーランク 6以上で解放", "publishedAt":1546268400000, "rewards":[
+          {
+            "resourceType":"star", "quantity":50, "lbBonus":1
+          },
+          {
+            "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
+          }
+        ],
+        "coverImage":"31", "backgroundImage":"1", "seasonType":"season_2"
+      }
+    ]
+  },
+  {
+    "rank":7, "rewards":[
+      {
+        "resourceId":3, "resourceType":"music", "quantity":1, "lbBonus":1
+      }
+    ]
+  },
+  {
+    "rank":8, "mainStories":[
+      {
+        "mainStoryId":32, "seq":7, "caption":"第４話", "title":"これからのCiRCLE", "synopsis":"第二回ガールズバンドパーティの開催を\n決めた一同。今回の目的は……？", "scenarioId":"main032", "releasePlayerRank":8, "releaseConditions":"プレイヤーランク 8以上で解放", "publishedAt":1546268400000, "rewards":[
+          {
+            "resourceType":"star", "quantity":50, "lbBonus":1
+          },
+          {
+            "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
+          }
+        ],
+        "coverImage":"32", "backgroundImage":"1", "seasonType":"season_2"
+      }
+    ]
+  },
+  {
+    "rank":9, "areaList":[
+      {
+        "areaId":8, "areaType":"common", "areaName":"商店街", "description":"原作に出てくる商店街", "releasePlayerRank":9
+      }
+    ]
+  },
+  {
+    "rank":10, "mainStories":[
+      {
+        "mainStoryId":33, "seq":8, "caption":"第５話", "title":"順調、順調！", "synopsis":"問題なくライブの準備を進めていく一同。\nその順調さを見て、有咲が感じたことは？", "scenarioId":"main033", "releasePlayerRank":10, "releaseConditions":"プレイヤーランク 10以上で解放", "publishedAt":1546268400000, "rewards":[
+          {
+            "resourceType":"star", "quantity":50, "lbBonus":1
+          },
+          {
+            "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
+          }
+        ],
+        "coverImage":"33", "backgroundImage":"1", "seasonType":"season_2"
+      }
+    ],
+    "beforeFriendUpperLimit":52, "afterFriendUpperLimit":54
+  },
+  {
+    "rank":11, "rewards":[
+      {
+        "resourceId":2, "resourceType":"music", "quantity":1, "lbBonus":1
+      }
+    ]
+  },
+  {
+    "rank":12, "mainStories":[
+      {
+        "mainStoryId":34, "seq":9, "caption":"第６話", "title":"背中を押すライブ", "synopsis":"いよいよミニライブ本番！\nそれぞれの感じた手応えは？", "scenarioId":"main034", "releasePlayerRank":12, "releaseConditions":"プレイヤーランク 12以上で解放", "publishedAt":1546268400000, "rewards":[
+          {
+            "resourceType":"star", "quantity":50, "lbBonus":1
+          },
+          {
+            "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
+          }
+        ],
+        "coverImage":"34", "backgroundImage":"1", "seasonType":"season_2"
+      }
+    ]
+  },
+  {
+    "rank":13, "areaList":[
+      {
+        "areaId":2, "areaType":"common", "areaName":"流星堂", "description":"旧商店街（流星堂/蔵にする予定）", "releasePlayerRank":13
+      }
+    ]
+  },
+  {
+    "rank":14, "mainStories":[
+      {
+        "mainStoryId":35, "seq":10, "caption":"第７話", "title":"スカウト開始！", "synopsis":"ミニライブの大成功を受けて、\nまりなはとある提案をする", "scenarioId":"main035", "releasePlayerRank":14, "releaseConditions":"プレイヤーランク 14以上で解放", "publishedAt":1546268400000, "rewards":[
+          {
+            "resourceType":"star", "quantity":50, "lbBonus":1
+          },
+          {
+            "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
+          }
+        ],
+        "coverImage":"35", "backgroundImage":"1", "seasonType":"season_2"
+      }
+    ]
+  },
+  {
+    "rank":15, "beforeFriendUpperLimit":54, "afterFriendUpperLimit":56, "rewards":[
+      {
+        "resourceId":5, "resourceType":"music", "quantity":1, "lbBonus":1
+      }
+    ]
+  },
+  {
+    "rank":16, "mainStories":[
+      {
+        "mainStoryId":36, "seq":11, "caption":"第８話", "title":"もうバンドはやらない", "synopsis":"ライブの出演者探しが難航する香澄達。\nそこに現れたのは……", "scenarioId":"main036", "releasePlayerRank":16, "releaseConditions":"プレイヤーランク 16以上で解放", "publishedAt":1546268400000, "rewards":[
+          {
+            "resourceType":"star", "quantity":50, "lbBonus":1
+          },
+          {
+            "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
+          }
+        ],
+        "coverImage":"36", "backgroundImage":"1", "seasonType":"season_2"
+      }
+    ]
+  },
+  {
+    "rank":19, "rewards":[
+      {
+        "resourceId":12, "resourceType":"music", "quantity":1, "lbBonus":1
+      }
+    ]
+  },
+  {
+    "rank":20, "beforeFriendUpperLimit":56, "afterFriendUpperLimit":58
+  },
+  {
+    "rank":21, "areaList":[
+      {
+        "areaId":5, "areaType":"common", "areaName":"ショッピングモール", "description":"ゲームオリジナルのショッピングモール", "releasePlayerRank":21
+      }
+    ]
+  },
+  {
+    "rank":23, "rewards":[
+      {
+        "resourceId":13, "resourceType":"music", "quantity":1, "lbBonus":1
+      }
+    ],
+    "areaList":[
+      {
+        "areaId":6, "areaType":"common", "areaName":"ファーストフード店", "description":"ゲームオリジナルのファーストフード店", "releasePlayerRank":23
+      }
+    ]
+  },
+  {
+    "rank":25, "beforeFriendUpperLimit":58, "afterFriendUpperLimit":60
+  },
+  {
+    "rank":30, "beforeFriendUpperLimit":60, "afterFriendUpperLimit":62
+  },
+  {
+    "rank":35, "beforeFriendUpperLimit":62, "afterFriendUpperLimit":64
+  },
+  {
+    "rank":40, "beforeFriendUpperLimit":64, "afterFriendUpperLimit":66
+  },
+  {
+    "rank":45, "beforeFriendUpperLimit":66, "afterFriendUpperLimit":68
+  },
+  {
+    "rank":50, "beforeFriendUpperLimit":68, "afterFriendUpperLimit":70
+  },
+  {
+    "rank":55, "beforeFriendUpperLimit":70, "afterFriendUpperLimit":71
+  },
+  {
+    "rank":60, "beforeFriendUpperLimit":71, "afterFriendUpperLimit":72
+  },
+  {
+    "rank":65, "beforeFriendUpperLimit":72, "afterFriendUpperLimit":73
   },
   {
     "rank":70, "beforeFriendUpperLimit":73, "afterFriendUpperLimit":74
