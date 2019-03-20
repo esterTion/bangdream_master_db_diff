@@ -2998,5 +2998,20 @@
     "assetMap":[
       
     ]
+  },
+  "128":{
+    "loginBonusId":128, "loginBonusType":"birthday", "caption":"りみ誕生日", "assetBundleName":"rimi_2019", "publishedAt":1553266800000, "closedAt":1553353199000, "details":[
+      {
+        "loginBonusId":128, "days":1, "resourceType":"star", "quantity":50, "seq":1, "grantType":"direct"
+      },
+      {
+        "loginBonusId":128, "days":1, "resourceType":"practice_ticket", "resourceId":11, "quantity":1, "seq":2, "grantType":"direct"
+      }
+    ],
+    "assetMap":{
+      "1":{
+        "loginBonusId":128, "days":1, "resourceName":"no_icon", "voiceId":"eventLoginBonus1"
+      }
+    }
   }
 }
