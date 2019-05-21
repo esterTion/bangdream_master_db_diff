@@ -1,3 +1,98 @@
-[
-  
-]
+{
+  "79":{
+    "eventId":79, "attributes":[
+      {
+        "eventId":79, "attribute":"happy", "percent":20
+      }
+    ],
+    "characters":[
+      {
+        "eventId":79, "characterId":11, "percent":10, "seq":1
+      },
+      {
+        "eventId":79, "characterId":12, "percent":10, "seq":4
+      },
+      {
+        "eventId":79, "characterId":13, "percent":10, "seq":2
+      },
+      {
+        "eventId":79, "characterId":14, "percent":10, "seq":3
+      },
+      {
+        "eventId":79, "characterId":15, "percent":10, "seq":5
+      }
+    ],
+    "stories":[
+      {
+        "eventId":79, "seq":0, "caption":"オープニング", "title":"結成！　笑顔パトロール隊！", "synopsis":"こころはハロハピメンバーに、今日は\n音楽以外のバンド活動をすると宣言する。", "scenarioId":"event79-01", "coverImage":"79_0", "backgroundImage":"285", "releasePt":0, "releaseConditions":"オープニングシナリオ", "rewards":[
+          {
+            "id":1191, "eventId":79, "seq":0, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1192, "eventId":79, "seq":0, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":79, "seq":1, "caption":"第１話", "title":"ただいまパトロール中！", "synopsis":"笑顔パトロール隊としてゴミ拾いをする\nハロハピ。そこで会ったのは……？", "scenarioId":"event79-02", "coverImage":"79_1", "backgroundImage":"290", "releasePt":3000, "releaseConditions":"3000イベントP達成", "rewards":[
+          {
+            "id":1193, "eventId":79, "seq":1, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1194, "eventId":79, "seq":1, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":79, "seq":2, "caption":"第２話", "title":"公園に異常あり！", "synopsis":"ゴミ拾いの最中、ビー玉を見つけた一同。\n次なる目的地、公園にいたのは――", "scenarioId":"event79-03", "coverImage":"79_2", "backgroundImage":"290", "releasePt":6000, "releaseConditions":"6000イベントP達成", "rewards":[
+          {
+            "id":1195, "eventId":79, "seq":2, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1196, "eventId":79, "seq":2, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":79, "seq":3, "caption":"第３話", "title":"広がる笑顔の輪", "synopsis":"ビー玉遊びを始めたハロハピメンバー。\nすると先ほどの寂しそうな子どもが……？", "scenarioId":"event79-04", "coverImage":"79_3", "backgroundImage":"288", "releasePt":15000, "releaseConditions":"15000イベントP達成", "rewards":[
+          {
+            "id":1197, "eventId":79, "seq":3, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1198, "eventId":79, "seq":3, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":79, "seq":4, "caption":"第４話", "title":"わらしべ長者？", "synopsis":"もらった漫画をきっかけに、こころ達は\n順調に笑顔パトロールを続けていく。", "scenarioId":"event79-05", "coverImage":"79_4", "backgroundImage":"301", "releasePt":28000, "releaseConditions":"28000イベントP達成", "rewards":[
+          {
+            "id":1199, "eventId":79, "seq":4, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1200, "eventId":79, "seq":4, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":79, "seq":5, "caption":"第５話", "title":"別動隊からの応援要請", "synopsis":"物々交換の結果、手に入れたのはコロッケ。\nみんなで食べようと、向かったのは――", "scenarioId":"event79-06", "coverImage":"79_5", "backgroundImage":"301", "releasePt":40000, "releaseConditions":"40000イベントP達成", "rewards":[
+          {
+            "id":1201, "eventId":79, "seq":5, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1202, "eventId":79, "seq":5, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":79, "seq":6, "caption":"エンディング", "title":"笑顔の力", "synopsis":"急遽頼まれたライブを終えたハロハピ。\n翌日の公園で見たのは――", "scenarioId":"event79-07", "coverImage":"79_6", "backgroundImage":"288", "releasePt":55000, "releaseConditions":"55000イベントP達成", "rewards":[
+          {
+            "id":1203, "eventId":79, "seq":6, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1204, "eventId":79, "seq":6, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      }
+    ]
+  }
+}
