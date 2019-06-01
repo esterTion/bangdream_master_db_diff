@@ -100659,6 +100659,1007 @@
       }
     }
   },
+  "686":{
+    "situationId":686, "characterId":1, "rarity":4, "gachaText":"えっへへ〜♪\nどうかな、ドレスで来たよ〜！", "attribute":"powerful", "situationSkillId":686, "prefix":"愛の花舞う瞬間に", "levelLimit":50, "resourceSetName":"res001034", "sdResourceName":"sd001034", "episodes":[
+      {
+        "episodeId":1109, "episodeType":"standard", "situationId":686, "scenarioId":"episode686", "appendPerformance":250, "appendTechnique":250, "appendVisual":250, "releaseLevel":1, "costs":[
+          {
+            "resourceId":3, "resourceType":"item", "quantity":500, "lbBonus":1
+          },
+          {
+            "resourceId":7, "resourceType":"item", "quantity":300, "lbBonus":1
+          }
+        ],
+        "rewards":[
+          {
+            "resourceType":"star", "quantity":25, "lbBonus":1
+          }
+        ],
+        "title":"似合う？　似合わない？"
+      },
+      {
+        "episodeId":1110, "episodeType":"memorial", "situationId":686, "scenarioId":"memorial686", "appendPerformance":600, "appendTechnique":600, "appendVisual":600, "releaseLevel":60, "costs":[
+          {
+            "resourceId":3, "resourceType":"item", "quantity":2400, "lbBonus":1
+          },
+          {
+            "resourceId":7, "resourceType":"item", "quantity":1600, "lbBonus":1
+          },
+          {
+            "resourceId":11, "resourceType":"item", "quantity":400, "lbBonus":1
+          }
+        ],
+        "rewards":[
+          {
+            "resourceType":"star", "quantity":50, "lbBonus":1
+          }
+        ],
+        "title":"ウェディングをもう一度"
+      }
+    ],
+    "training":{
+      "situationId":686, "trainingCostumeId":637, "trainingLevelLimit":10, "trainingPerformance":400, "trainingTechnique":400, "trainingVisual":400, "costs":[
+        {
+          "resourceId":7, "resourceType":"item", "quantity":500, "lbBonus":1
+        },
+        {
+          "resourceId":11, "resourceType":"item", "quantity":50, "lbBonus":1
+        },
+        {
+          "resourceId":14, "resourceType":"item", "quantity":10, "lbBonus":1
+        }
+      ]
+    },
+    "costumeId":637, "releasedAt":1559282400000, "parameterMap":{
+      "1":{
+        "situationId":686, "level":1, "performance":2883, "technique":4667, "visual":2631
+      },
+      "2":{
+        "situationId":686, "level":2, "performance":2913, "technique":4715, "visual":2658
+      },
+      "3":{
+        "situationId":686, "level":3, "performance":2944, "technique":4765, "visual":2686
+      },
+      "4":{
+        "situationId":686, "level":4, "performance":2976, "technique":4817, "visual":2715
+      },
+      "5":{
+        "situationId":686, "level":5, "performance":3009, "technique":4871, "visual":2745
+      },
+      "6":{
+        "situationId":686, "level":6, "performance":3043, "technique":4927, "visual":2776
+      },
+      "7":{
+        "situationId":686, "level":7, "performance":3079, "technique":4985, "visual":2809
+      },
+      "8":{
+        "situationId":686, "level":8, "performance":3116, "technique":5045, "visual":2843
+      },
+      "9":{
+        "situationId":686, "level":9, "performance":3154, "technique":5107, "visual":2878
+      },
+      "10":{
+        "situationId":686, "level":10, "performance":3193, "technique":5171, "visual":2914
+      },
+      "11":{
+        "situationId":686, "level":11, "performance":3233, "technique":5236, "visual":2951
+      },
+      "12":{
+        "situationId":686, "level":12, "performance":3275, "technique":5303, "visual":2989
+      },
+      "13":{
+        "situationId":686, "level":13, "performance":3318, "technique":5372, "visual":3028
+      },
+      "14":{
+        "situationId":686, "level":14, "performance":3362, "technique":5443, "visual":3068
+      },
+      "15":{
+        "situationId":686, "level":15, "performance":3407, "technique":5516, "visual":3109
+      },
+      "16":{
+        "situationId":686, "level":16, "performance":3453, "technique":5591, "visual":3151
+      },
+      "17":{
+        "situationId":686, "level":17, "performance":3501, "technique":5668, "visual":3194
+      },
+      "18":{
+        "situationId":686, "level":18, "performance":3550, "technique":5747, "visual":3238
+      },
+      "19":{
+        "situationId":686, "level":19, "performance":3600, "technique":5828, "visual":3284
+      },
+      "20":{
+        "situationId":686, "level":20, "performance":3651, "technique":5911, "visual":3331
+      },
+      "21":{
+        "situationId":686, "level":21, "performance":3703, "technique":5996, "visual":3379
+      },
+      "22":{
+        "situationId":686, "level":22, "performance":3756, "technique":6083, "visual":3428
+      },
+      "23":{
+        "situationId":686, "level":23, "performance":3811, "technique":6172, "visual":3478
+      },
+      "24":{
+        "situationId":686, "level":24, "performance":3867, "technique":6262, "visual":3529
+      },
+      "25":{
+        "situationId":686, "level":25, "performance":3924, "technique":6354, "visual":3581
+      },
+      "26":{
+        "situationId":686, "level":26, "performance":3982, "technique":6448, "visual":3634
+      },
+      "27":{
+        "situationId":686, "level":27, "performance":4041, "technique":6544, "visual":3688
+      },
+      "28":{
+        "situationId":686, "level":28, "performance":4102, "technique":6642, "visual":3743
+      },
+      "29":{
+        "situationId":686, "level":29, "performance":4164, "technique":6742, "visual":3799
+      },
+      "30":{
+        "situationId":686, "level":30, "performance":4227, "technique":6844, "visual":3857
+      },
+      "31":{
+        "situationId":686, "level":31, "performance":4291, "technique":6948, "visual":3916
+      },
+      "32":{
+        "situationId":686, "level":32, "performance":4356, "technique":7054, "visual":3976
+      },
+      "33":{
+        "situationId":686, "level":33, "performance":4423, "technique":7162, "visual":4037
+      },
+      "34":{
+        "situationId":686, "level":34, "performance":4491, "technique":7272, "visual":4099
+      },
+      "35":{
+        "situationId":686, "level":35, "performance":4560, "technique":7384, "visual":4162
+      },
+      "36":{
+        "situationId":686, "level":36, "performance":4630, "technique":7498, "visual":4226
+      },
+      "37":{
+        "situationId":686, "level":37, "performance":4701, "technique":7613, "visual":4291
+      },
+      "38":{
+        "situationId":686, "level":38, "performance":4774, "technique":7730, "visual":4357
+      },
+      "39":{
+        "situationId":686, "level":39, "performance":4848, "technique":7849, "visual":4424
+      },
+      "40":{
+        "situationId":686, "level":40, "performance":4923, "technique":7970, "visual":4492
+      },
+      "41":{
+        "situationId":686, "level":41, "performance":4999, "technique":8093, "visual":4561
+      },
+      "42":{
+        "situationId":686, "level":42, "performance":5076, "technique":8218, "visual":4632
+      },
+      "43":{
+        "situationId":686, "level":43, "performance":5154, "technique":8345, "visual":4704
+      },
+      "44":{
+        "situationId":686, "level":44, "performance":5234, "technique":8474, "visual":4777
+      },
+      "45":{
+        "situationId":686, "level":45, "performance":5315, "technique":8605, "visual":4851
+      },
+      "46":{
+        "situationId":686, "level":46, "performance":5397, "technique":8738, "visual":4926
+      },
+      "47":{
+        "situationId":686, "level":47, "performance":5480, "technique":8873, "visual":5002
+      },
+      "48":{
+        "situationId":686, "level":48, "performance":5564, "technique":9010, "visual":5079
+      },
+      "49":{
+        "situationId":686, "level":49, "performance":5650, "technique":9149, "visual":5157
+      },
+      "50":{
+        "situationId":686, "level":50, "performance":5737, "technique":9289, "visual":5236
+      },
+      "51":{
+        "situationId":686, "level":51, "performance":5895, "technique":9545, "visual":5380
+      },
+      "52":{
+        "situationId":686, "level":52, "performance":6081, "technique":9847, "visual":5550
+      },
+      "53":{
+        "situationId":686, "level":53, "performance":6296, "technique":10195, "visual":5746
+      },
+      "54":{
+        "situationId":686, "level":54, "performance":6539, "technique":10588, "visual":5968
+      },
+      "55":{
+        "situationId":686, "level":55, "performance":6810, "technique":11027, "visual":6215
+      },
+      "56":{
+        "situationId":686, "level":56, "performance":7110, "technique":11512, "visual":6488
+      },
+      "57":{
+        "situationId":686, "level":57, "performance":7438, "technique":12043, "visual":6787
+      },
+      "58":{
+        "situationId":686, "level":58, "performance":7794, "technique":12620, "visual":7112
+      },
+      "59":{
+        "situationId":686, "level":59, "performance":8178, "technique":13242, "visual":7463
+      },
+      "60":{
+        "situationId":686, "level":60, "performance":8591, "technique":13910, "visual":7840
+      }
+    }
+  },
+  "687":{
+    "situationId":687, "characterId":20, "rarity":4, "gachaText":"みなさんといっしょに過ごす、\n幸せな結婚式を！", "attribute":"powerful", "situationSkillId":687, "prefix":"花嫁の手に咲く幸せ", "levelLimit":50, "resourceSetName":"res020032", "sdResourceName":"sd020032", "episodes":[
+      {
+        "episodeId":1111, "episodeType":"standard", "situationId":687, "scenarioId":"episode687", "appendPerformance":250, "appendTechnique":250, "appendVisual":250, "releaseLevel":1, "costs":[
+          {
+            "resourceId":3, "resourceType":"item", "quantity":500, "lbBonus":1
+          },
+          {
+            "resourceId":7, "resourceType":"item", "quantity":300, "lbBonus":1
+          }
+        ],
+        "rewards":[
+          {
+            "resourceType":"star", "quantity":25, "lbBonus":1
+          }
+        ],
+        "title":"お祝いビデオレター"
+      },
+      {
+        "episodeId":1112, "episodeType":"memorial", "situationId":687, "scenarioId":"memorial687", "appendPerformance":600, "appendTechnique":600, "appendVisual":600, "releaseLevel":60, "costs":[
+          {
+            "resourceId":3, "resourceType":"item", "quantity":2400, "lbBonus":1
+          },
+          {
+            "resourceId":7, "resourceType":"item", "quantity":1600, "lbBonus":1
+          },
+          {
+            "resourceId":11, "resourceType":"item", "quantity":400, "lbBonus":1
+          }
+        ],
+        "rewards":[
+          {
+            "resourceType":"star", "quantity":50, "lbBonus":1
+          }
+        ],
+        "title":"迷信・オブ・結婚式"
+      }
+    ],
+    "training":{
+      "situationId":687, "trainingCostumeId":638, "trainingLevelLimit":10, "trainingPerformance":400, "trainingTechnique":400, "trainingVisual":400, "costs":[
+        {
+          "resourceId":7, "resourceType":"item", "quantity":500, "lbBonus":1
+        },
+        {
+          "resourceId":11, "resourceType":"item", "quantity":50, "lbBonus":1
+        },
+        {
+          "resourceId":14, "resourceType":"item", "quantity":10, "lbBonus":1
+        }
+      ]
+    },
+    "costumeId":638, "releasedAt":1559282400000, "parameterMap":{
+      "1":{
+        "situationId":687, "level":1, "performance":2964, "technique":4637, "visual":2681
+      },
+      "2":{
+        "situationId":687, "level":2, "performance":2995, "technique":4685, "visual":2709
+      },
+      "3":{
+        "situationId":687, "level":3, "performance":3027, "technique":4735, "visual":2738
+      },
+      "4":{
+        "situationId":687, "level":4, "performance":3060, "technique":4787, "visual":2768
+      },
+      "5":{
+        "situationId":687, "level":5, "performance":3094, "technique":4841, "visual":2799
+      },
+      "6":{
+        "situationId":687, "level":6, "performance":3129, "technique":4896, "visual":2831
+      },
+      "7":{
+        "situationId":687, "level":7, "performance":3166, "technique":4953, "visual":2864
+      },
+      "8":{
+        "situationId":687, "level":8, "performance":3204, "technique":5012, "visual":2898
+      },
+      "9":{
+        "situationId":687, "level":9, "performance":3243, "technique":5073, "visual":2933
+      },
+      "10":{
+        "situationId":687, "level":10, "performance":3283, "technique":5136, "visual":2969
+      },
+      "11":{
+        "situationId":687, "level":11, "performance":3325, "technique":5201, "visual":3007
+      },
+      "12":{
+        "situationId":687, "level":12, "performance":3368, "technique":5268, "visual":3046
+      },
+      "13":{
+        "situationId":687, "level":13, "performance":3412, "technique":5337, "visual":3086
+      },
+      "14":{
+        "situationId":687, "level":14, "performance":3457, "technique":5408, "visual":3127
+      },
+      "15":{
+        "situationId":687, "level":15, "performance":3503, "technique":5481, "visual":3169
+      },
+      "16":{
+        "situationId":687, "level":16, "performance":3551, "technique":5556, "visual":3212
+      },
+      "17":{
+        "situationId":687, "level":17, "performance":3600, "technique":5632, "visual":3256
+      },
+      "18":{
+        "situationId":687, "level":18, "performance":3650, "technique":5710, "visual":3301
+      },
+      "19":{
+        "situationId":687, "level":19, "performance":3701, "technique":5790, "visual":3347
+      },
+      "20":{
+        "situationId":687, "level":20, "performance":3754, "technique":5872, "visual":3395
+      },
+      "21":{
+        "situationId":687, "level":21, "performance":3808, "technique":5956, "visual":3444
+      },
+      "22":{
+        "situationId":687, "level":22, "performance":3863, "technique":6042, "visual":3494
+      },
+      "23":{
+        "situationId":687, "level":23, "performance":3919, "technique":6130, "visual":3545
+      },
+      "24":{
+        "situationId":687, "level":24, "performance":3976, "technique":6220, "visual":3597
+      },
+      "25":{
+        "situationId":687, "level":25, "performance":4035, "technique":6312, "visual":3650
+      },
+      "26":{
+        "situationId":687, "level":26, "performance":4095, "technique":6406, "visual":3704
+      },
+      "27":{
+        "situationId":687, "level":27, "performance":4156, "technique":6502, "visual":3759
+      },
+      "28":{
+        "situationId":687, "level":28, "performance":4218, "technique":6600, "visual":3815
+      },
+      "29":{
+        "situationId":687, "level":29, "performance":4282, "technique":6699, "visual":3872
+      },
+      "30":{
+        "situationId":687, "level":30, "performance":4347, "technique":6800, "visual":3931
+      },
+      "31":{
+        "situationId":687, "level":31, "performance":4413, "technique":6903, "visual":3991
+      },
+      "32":{
+        "situationId":687, "level":32, "performance":4480, "technique":7008, "visual":4052
+      },
+      "33":{
+        "situationId":687, "level":33, "performance":4548, "technique":7115, "visual":4114
+      },
+      "34":{
+        "situationId":687, "level":34, "performance":4618, "technique":7224, "visual":4177
+      },
+      "35":{
+        "situationId":687, "level":35, "performance":4689, "technique":7335, "visual":4241
+      },
+      "36":{
+        "situationId":687, "level":36, "performance":4761, "technique":7448, "visual":4306
+      },
+      "37":{
+        "situationId":687, "level":37, "performance":4834, "technique":7563, "visual":4372
+      },
+      "38":{
+        "situationId":687, "level":38, "performance":4909, "technique":7680, "visual":4439
+      },
+      "39":{
+        "situationId":687, "level":39, "performance":4985, "technique":7799, "visual":4508
+      },
+      "40":{
+        "situationId":687, "level":40, "performance":5062, "technique":7919, "visual":4578
+      },
+      "41":{
+        "situationId":687, "level":41, "performance":5140, "technique":8041, "visual":4649
+      },
+      "42":{
+        "situationId":687, "level":42, "performance":5219, "technique":8165, "visual":4721
+      },
+      "43":{
+        "situationId":687, "level":43, "performance":5300, "technique":8291, "visual":4794
+      },
+      "44":{
+        "situationId":687, "level":44, "performance":5382, "technique":8419, "visual":4868
+      },
+      "45":{
+        "situationId":687, "level":45, "performance":5465, "technique":8549, "visual":4943
+      },
+      "46":{
+        "situationId":687, "level":46, "performance":5549, "technique":8681, "visual":5019
+      },
+      "47":{
+        "situationId":687, "level":47, "performance":5635, "technique":8815, "visual":5096
+      },
+      "48":{
+        "situationId":687, "level":48, "performance":5722, "technique":8951, "visual":5174
+      },
+      "49":{
+        "situationId":687, "level":49, "performance":5810, "technique":9089, "visual":5254
+      },
+      "50":{
+        "situationId":687, "level":50, "performance":5899, "technique":9229, "visual":5335
+      },
+      "51":{
+        "situationId":687, "level":51, "performance":6062, "technique":9483, "visual":5482
+      },
+      "52":{
+        "situationId":687, "level":52, "performance":6254, "technique":9783, "visual":5655
+      },
+      "53":{
+        "situationId":687, "level":53, "performance":6475, "technique":10128, "visual":5855
+      },
+      "54":{
+        "situationId":687, "level":54, "performance":6725, "technique":10519, "visual":6081
+      },
+      "55":{
+        "situationId":687, "level":55, "performance":7004, "technique":10955, "visual":6333
+      },
+      "56":{
+        "situationId":687, "level":56, "performance":7312, "technique":11437, "visual":6612
+      },
+      "57":{
+        "situationId":687, "level":57, "performance":7649, "technique":11964, "visual":6917
+      },
+      "58":{
+        "situationId":687, "level":58, "performance":8015, "technique":12537, "visual":7248
+      },
+      "59":{
+        "situationId":687, "level":59, "performance":8410, "technique":13155, "visual":7606
+      },
+      "60":{
+        "situationId":687, "level":60, "performance":8834, "technique":13819, "visual":7990
+      }
+    }
+  },
+  "688":{
+    "situationId":688, "characterId":5, "rarity":3, "attribute":"cool", "situationSkillId":688, "prefix":"花色ドレスアップ", "levelLimit":40, "resourceSetName":"res005033", "sdResourceName":"sd005033", "episodes":[
+      {
+        "episodeId":1113, "episodeType":"standard", "situationId":688, "scenarioId":"episode688", "appendPerformance":200, "appendTechnique":200, "appendVisual":200, "releaseLevel":1, "costs":[
+          {
+            "resourceId":2, "resourceType":"item", "quantity":300, "lbBonus":1
+          },
+          {
+            "resourceId":6, "resourceType":"item", "quantity":100, "lbBonus":1
+          }
+        ],
+        "rewards":[
+          {
+            "resourceType":"star", "quantity":25, "lbBonus":1
+          }
+        ],
+        "title":"ドレスコードは難しい"
+      },
+      {
+        "episodeId":1114, "episodeType":"memorial", "situationId":688, "scenarioId":"memorial688", "appendPerformance":500, "appendTechnique":500, "appendVisual":500, "releaseLevel":50, "costs":[
+          {
+            "resourceId":2, "resourceType":"item", "quantity":1800, "lbBonus":1
+          },
+          {
+            "resourceId":6, "resourceType":"item", "quantity":1200, "lbBonus":1
+          },
+          {
+            "resourceId":10, "resourceType":"item", "quantity":300, "lbBonus":1
+          }
+        ],
+        "rewards":[
+          {
+            "resourceType":"star", "quantity":50, "lbBonus":1
+          }
+        ],
+        "title":"浮かれた空気の帰り道"
+      }
+    ],
+    "training":{
+      "situationId":688, "trainingCostumeId":639, "trainingLevelLimit":10, "trainingPerformance":300, "trainingTechnique":300, "trainingVisual":300, "costs":[
+        {
+          "resourceId":2, "resourceType":"item", "quantity":1000, "lbBonus":1
+        },
+        {
+          "resourceId":6, "resourceType":"item", "quantity":300, "lbBonus":1
+        },
+        {
+          "resourceId":14, "resourceType":"item", "quantity":3, "lbBonus":1
+        }
+      ]
+    },
+    "costumeId":639, "releasedAt":1559282400000, "parameterMap":{
+      "1":{
+        "situationId":688, "level":1, "performance":3429, "technique":2664, "visual":2727
+      },
+      "2":{
+        "situationId":688, "level":2, "performance":3475, "technique":2699, "visual":2763
+      },
+      "3":{
+        "situationId":688, "level":3, "performance":3523, "technique":2736, "visual":2801
+      },
+      "4":{
+        "situationId":688, "level":4, "performance":3573, "technique":2775, "visual":2841
+      },
+      "5":{
+        "situationId":688, "level":5, "performance":3625, "technique":2816, "visual":2883
+      },
+      "6":{
+        "situationId":688, "level":6, "performance":3680, "technique":2858, "visual":2926
+      },
+      "7":{
+        "situationId":688, "level":7, "performance":3737, "technique":2902, "visual":2971
+      },
+      "8":{
+        "situationId":688, "level":8, "performance":3796, "technique":2948, "visual":3018
+      },
+      "9":{
+        "situationId":688, "level":9, "performance":3857, "technique":2996, "visual":3067
+      },
+      "10":{
+        "situationId":688, "level":10, "performance":3921, "technique":3046, "visual":3118
+      },
+      "11":{
+        "situationId":688, "level":11, "performance":3987, "technique":3097, "visual":3171
+      },
+      "12":{
+        "situationId":688, "level":12, "performance":4055, "technique":3150, "visual":3225
+      },
+      "13":{
+        "situationId":688, "level":13, "performance":4126, "technique":3205, "visual":3281
+      },
+      "14":{
+        "situationId":688, "level":14, "performance":4199, "technique":3262, "visual":3339
+      },
+      "15":{
+        "situationId":688, "level":15, "performance":4274, "technique":3320, "visual":3399
+      },
+      "16":{
+        "situationId":688, "level":16, "performance":4351, "technique":3380, "visual":3461
+      },
+      "17":{
+        "situationId":688, "level":17, "performance":4431, "technique":3442, "visual":3524
+      },
+      "18":{
+        "situationId":688, "level":18, "performance":4513, "technique":3506, "visual":3589
+      },
+      "19":{
+        "situationId":688, "level":19, "performance":4597, "technique":3571, "visual":3656
+      },
+      "20":{
+        "situationId":688, "level":20, "performance":4684, "technique":3638, "visual":3725
+      },
+      "21":{
+        "situationId":688, "level":21, "performance":4773, "technique":3707, "visual":3796
+      },
+      "22":{
+        "situationId":688, "level":22, "performance":4864, "technique":3778, "visual":3868
+      },
+      "23":{
+        "situationId":688, "level":23, "performance":4957, "technique":3851, "visual":3942
+      },
+      "24":{
+        "situationId":688, "level":24, "performance":5053, "technique":3925, "visual":4018
+      },
+      "25":{
+        "situationId":688, "level":25, "performance":5151, "technique":4001, "visual":4096
+      },
+      "26":{
+        "situationId":688, "level":26, "performance":5251, "technique":4079, "visual":4176
+      },
+      "27":{
+        "situationId":688, "level":27, "performance":5353, "technique":4159, "visual":4257
+      },
+      "28":{
+        "situationId":688, "level":28, "performance":5458, "technique":4240, "visual":4340
+      },
+      "29":{
+        "situationId":688, "level":29, "performance":5565, "technique":4323, "visual":4425
+      },
+      "30":{
+        "situationId":688, "level":30, "performance":5674, "technique":4408, "visual":4512
+      },
+      "31":{
+        "situationId":688, "level":31, "performance":5786, "technique":4495, "visual":4601
+      },
+      "32":{
+        "situationId":688, "level":32, "performance":5900, "technique":4583, "visual":4692
+      },
+      "33":{
+        "situationId":688, "level":33, "performance":6016, "technique":4673, "visual":4784
+      },
+      "34":{
+        "situationId":688, "level":34, "performance":6134, "technique":4765, "visual":4878
+      },
+      "35":{
+        "situationId":688, "level":35, "performance":6255, "technique":4859, "visual":4974
+      },
+      "36":{
+        "situationId":688, "level":36, "performance":6378, "technique":4955, "visual":5072
+      },
+      "37":{
+        "situationId":688, "level":37, "performance":6503, "technique":5052, "visual":5172
+      },
+      "38":{
+        "situationId":688, "level":38, "performance":6630, "technique":5151, "visual":5273
+      },
+      "39":{
+        "situationId":688, "level":39, "performance":6760, "technique":5252, "visual":5376
+      },
+      "40":{
+        "situationId":688, "level":40, "performance":6892, "technique":5355, "visual":5481
+      },
+      "41":{
+        "situationId":688, "level":41, "performance":7084, "technique":5504, "visual":5634
+      },
+      "42":{
+        "situationId":688, "level":42, "performance":7310, "technique":5680, "visual":5814
+      },
+      "43":{
+        "situationId":688, "level":43, "performance":7571, "technique":5882, "visual":6021
+      },
+      "44":{
+        "situationId":688, "level":44, "performance":7866, "technique":6111, "visual":6256
+      },
+      "45":{
+        "situationId":688, "level":45, "performance":8195, "technique":6367, "visual":6518
+      },
+      "46":{
+        "situationId":688, "level":46, "performance":8559, "technique":6649, "visual":6807
+      },
+      "47":{
+        "situationId":688, "level":47, "performance":8957, "technique":6958, "visual":7123
+      },
+      "48":{
+        "situationId":688, "level":48, "performance":9389, "technique":7294, "visual":7467
+      },
+      "49":{
+        "situationId":688, "level":49, "performance":9856, "technique":7656, "visual":7838
+      },
+      "50":{
+        "situationId":688, "level":50, "performance":10357, "technique":8045, "visual":8236
+      }
+    }
+  },
+  "689":{
+    "situationId":689, "characterId":6, "rarity":2, "attribute":"powerful", "situationSkillId":689, "prefix":"ブライズメイド", "levelLimit":30, "resourceSetName":"res006035", "sdResourceName":"sd006035", "episodes":[
+      {
+        "episodeId":1115, "episodeType":"standard", "situationId":689, "scenarioId":"episode689", "appendPerformance":150, "appendTechnique":150, "appendVisual":150, "releaseLevel":1, "costs":[
+          {
+            "resourceId":3, "resourceType":"item", "quantity":100, "lbBonus":1
+          }
+        ],
+        "rewards":[
+          {
+            "resourceType":"star", "quantity":25, "lbBonus":1
+          }
+        ],
+        "title":"放課後の予定は…"
+      },
+      {
+        "episodeId":1116, "episodeType":"memorial", "situationId":689, "scenarioId":"memorial689", "appendPerformance":300, "appendTechnique":300, "appendVisual":300, "releaseLevel":30, "costs":[
+          {
+            "resourceId":3, "resourceType":"item", "quantity":400, "lbBonus":1
+          },
+          {
+            "resourceId":7, "resourceType":"item", "quantity":150, "lbBonus":1
+          }
+        ],
+        "rewards":[
+          {
+            "resourceType":"star", "quantity":50, "lbBonus":1
+          }
+        ],
+        "title":"スタジオに花を"
+      }
+    ],
+    "costumeId":640, "releasedAt":1559282400000, "parameterMap":{
+      "1":{
+        "situationId":689, "level":1, "performance":1872, "technique":1728, "visual":2280
+      },
+      "2":{
+        "situationId":689, "level":2, "performance":1922, "technique":1775, "visual":2341
+      },
+      "3":{
+        "situationId":689, "level":3, "performance":1976, "technique":1825, "visual":2407
+      },
+      "4":{
+        "situationId":689, "level":4, "performance":2033, "technique":1878, "visual":2477
+      },
+      "5":{
+        "situationId":689, "level":5, "performance":2094, "technique":1934, "visual":2551
+      },
+      "6":{
+        "situationId":689, "level":6, "performance":2158, "technique":1993, "visual":2629
+      },
+      "7":{
+        "situationId":689, "level":7, "performance":2225, "technique":2055, "visual":2711
+      },
+      "8":{
+        "situationId":689, "level":8, "performance":2296, "technique":2120, "visual":2797
+      },
+      "9":{
+        "situationId":689, "level":9, "performance":2370, "technique":2188, "visual":2887
+      },
+      "10":{
+        "situationId":689, "level":10, "performance":2447, "technique":2259, "visual":2981
+      },
+      "11":{
+        "situationId":689, "level":11, "performance":2528, "technique":2333, "visual":3079
+      },
+      "12":{
+        "situationId":689, "level":12, "performance":2612, "technique":2411, "visual":3181
+      },
+      "13":{
+        "situationId":689, "level":13, "performance":2699, "technique":2492, "visual":3287
+      },
+      "14":{
+        "situationId":689, "level":14, "performance":2790, "technique":2576, "visual":3398
+      },
+      "15":{
+        "situationId":689, "level":15, "performance":2884, "technique":2663, "visual":3513
+      },
+      "16":{
+        "situationId":689, "level":16, "performance":2981, "technique":2753, "visual":3632
+      },
+      "17":{
+        "situationId":689, "level":17, "performance":3082, "technique":2846, "visual":3755
+      },
+      "18":{
+        "situationId":689, "level":18, "performance":3186, "technique":2942, "visual":3882
+      },
+      "19":{
+        "situationId":689, "level":19, "performance":3294, "technique":3041, "visual":4013
+      },
+      "20":{
+        "situationId":689, "level":20, "performance":3405, "technique":3143, "visual":4148
+      },
+      "21":{
+        "situationId":689, "level":21, "performance":3519, "technique":3248, "visual":4287
+      },
+      "22":{
+        "situationId":689, "level":22, "performance":3637, "technique":3357, "visual":4430
+      },
+      "23":{
+        "situationId":689, "level":23, "performance":3758, "technique":3469, "visual":4577
+      },
+      "24":{
+        "situationId":689, "level":24, "performance":3882, "technique":3584, "visual":4728
+      },
+      "25":{
+        "situationId":689, "level":25, "performance":4010, "technique":3702, "visual":4884
+      },
+      "26":{
+        "situationId":689, "level":26, "performance":4141, "technique":3823, "visual":5044
+      },
+      "27":{
+        "situationId":689, "level":27, "performance":4275, "technique":3947, "visual":5208
+      },
+      "28":{
+        "situationId":689, "level":28, "performance":4413, "technique":4074, "visual":5376
+      },
+      "29":{
+        "situationId":689, "level":29, "performance":4554, "technique":4204, "visual":5548
+      },
+      "30":{
+        "situationId":689, "level":30, "performance":4698, "technique":4337, "visual":5724
+      }
+    }
+  },
+  "690":{
+    "situationId":690, "characterId":10, "rarity":3, "gachaText":"イヴちゃん、もう大丈夫？\n緊張したり、不安はない？", "attribute":"powerful", "situationSkillId":690, "prefix":"はにかみベールガール", "levelLimit":40, "resourceSetName":"res010034", "sdResourceName":"sd010034", "episodes":[
+      {
+        "episodeId":1117, "episodeType":"standard", "situationId":690, "scenarioId":"episode690", "appendPerformance":200, "appendTechnique":200, "appendVisual":200, "releaseLevel":1, "costs":[
+          {
+            "resourceId":3, "resourceType":"item", "quantity":300, "lbBonus":1
+          },
+          {
+            "resourceId":7, "resourceType":"item", "quantity":100, "lbBonus":1
+          }
+        ],
+        "rewards":[
+          {
+            "resourceType":"star", "quantity":25, "lbBonus":1
+          }
+        ],
+        "title":"憧れの二次会計画"
+      },
+      {
+        "episodeId":1118, "episodeType":"memorial", "situationId":690, "scenarioId":"memorial690", "appendPerformance":500, "appendTechnique":500, "appendVisual":500, "releaseLevel":50, "costs":[
+          {
+            "resourceId":3, "resourceType":"item", "quantity":1800, "lbBonus":1
+          },
+          {
+            "resourceId":7, "resourceType":"item", "quantity":1200, "lbBonus":1
+          },
+          {
+            "resourceId":11, "resourceType":"item", "quantity":300, "lbBonus":1
+          }
+        ],
+        "rewards":[
+          {
+            "resourceType":"star", "quantity":50, "lbBonus":1
+          }
+        ],
+        "title":"二次会へご招待"
+      }
+    ],
+    "training":{
+      "situationId":690, "trainingCostumeId":641, "trainingLevelLimit":10, "trainingPerformance":300, "trainingTechnique":300, "trainingVisual":300, "costs":[
+        {
+          "resourceId":3, "resourceType":"item", "quantity":1000, "lbBonus":1
+        },
+        {
+          "resourceId":7, "resourceType":"item", "quantity":300, "lbBonus":1
+        },
+        {
+          "resourceId":14, "resourceType":"item", "quantity":3, "lbBonus":1
+        }
+      ]
+    },
+    "costumeId":641, "releasedAt":1559282400000, "parameterMap":{
+      "1":{
+        "situationId":690, "level":1, "performance":2853, "technique":2970, "visual":3267
+      },
+      "2":{
+        "situationId":690, "level":2, "performance":2890, "technique":3009, "visual":3310
+      },
+      "3":{
+        "situationId":690, "level":3, "performance":2929, "technique":3050, "visual":3355
+      },
+      "4":{
+        "situationId":690, "level":4, "performance":2970, "technique":3093, "visual":3402
+      },
+      "5":{
+        "situationId":690, "level":5, "performance":3013, "technique":3137, "visual":3451
+      },
+      "6":{
+        "situationId":690, "level":6, "performance":3058, "technique":3183, "visual":3502
+      },
+      "7":{
+        "situationId":690, "level":7, "performance":3104, "technique":3231, "visual":3555
+      },
+      "8":{
+        "situationId":690, "level":8, "performance":3152, "technique":3281, "visual":3610
+      },
+      "9":{
+        "situationId":690, "level":9, "performance":3202, "technique":3333, "visual":3667
+      },
+      "10":{
+        "situationId":690, "level":10, "performance":3254, "technique":3387, "visual":3727
+      },
+      "11":{
+        "situationId":690, "level":11, "performance":3308, "technique":3443, "visual":3789
+      },
+      "12":{
+        "situationId":690, "level":12, "performance":3364, "technique":3501, "visual":3853
+      },
+      "13":{
+        "situationId":690, "level":13, "performance":3422, "technique":3561, "visual":3919
+      },
+      "14":{
+        "situationId":690, "level":14, "performance":3481, "technique":3623, "visual":3987
+      },
+      "15":{
+        "situationId":690, "level":15, "performance":3542, "technique":3687, "visual":4057
+      },
+      "16":{
+        "situationId":690, "level":16, "performance":3605, "technique":3753, "visual":4129
+      },
+      "17":{
+        "situationId":690, "level":17, "performance":3670, "technique":3821, "visual":4203
+      },
+      "18":{
+        "situationId":690, "level":18, "performance":3737, "technique":3891, "visual":4280
+      },
+      "19":{
+        "situationId":690, "level":19, "performance":3806, "technique":3963, "visual":4359
+      },
+      "20":{
+        "situationId":690, "level":20, "performance":3877, "technique":4036, "visual":4440
+      },
+      "21":{
+        "situationId":690, "level":21, "performance":3949, "technique":4111, "visual":4523
+      },
+      "22":{
+        "situationId":690, "level":22, "performance":4023, "technique":4188, "visual":4608
+      },
+      "23":{
+        "situationId":690, "level":23, "performance":4099, "technique":4267, "visual":4695
+      },
+      "24":{
+        "situationId":690, "level":24, "performance":4177, "technique":4348, "visual":4784
+      },
+      "25":{
+        "situationId":690, "level":25, "performance":4257, "technique":4431, "visual":4875
+      },
+      "26":{
+        "situationId":690, "level":26, "performance":4339, "technique":4516, "visual":4969
+      },
+      "27":{
+        "situationId":690, "level":27, "performance":4423, "technique":4603, "visual":5065
+      },
+      "28":{
+        "situationId":690, "level":28, "performance":4508, "technique":4692, "visual":5163
+      },
+      "29":{
+        "situationId":690, "level":29, "performance":4595, "technique":4783, "visual":5263
+      },
+      "30":{
+        "situationId":690, "level":30, "performance":4684, "technique":4876, "visual":5365
+      },
+      "31":{
+        "situationId":690, "level":31, "performance":4775, "technique":4971, "visual":5469
+      },
+      "32":{
+        "situationId":690, "level":32, "performance":4868, "technique":5068, "visual":5575
+      },
+      "33":{
+        "situationId":690, "level":33, "performance":4963, "technique":5167, "visual":5683
+      },
+      "34":{
+        "situationId":690, "level":34, "performance":5060, "technique":5267, "visual":5794
+      },
+      "35":{
+        "situationId":690, "level":35, "performance":5158, "technique":5369, "visual":5907
+      },
+      "36":{
+        "situationId":690, "level":36, "performance":5258, "technique":5473, "visual":6022
+      },
+      "37":{
+        "situationId":690, "level":37, "performance":5360, "technique":5579, "visual":6139
+      },
+      "38":{
+        "situationId":690, "level":38, "performance":5464, "technique":5687, "visual":6258
+      },
+      "39":{
+        "situationId":690, "level":39, "performance":5570, "technique":5797, "visual":6379
+      },
+      "40":{
+        "situationId":690, "level":40, "performance":5678, "technique":5909, "visual":6502
+      },
+      "41":{
+        "situationId":690, "level":41, "performance":5834, "technique":6072, "visual":6681
+      },
+      "42":{
+        "situationId":690, "level":42, "performance":6018, "technique":6264, "visual":6892
+      },
+      "43":{
+        "situationId":690, "level":43, "performance":6230, "technique":6485, "visual":7135
+      },
+      "44":{
+        "situationId":690, "level":44, "performance":6470, "technique":6735, "visual":7410
+      },
+      "45":{
+        "situationId":690, "level":45, "performance":6738, "technique":7015, "visual":7717
+      },
+      "46":{
+        "situationId":690, "level":46, "performance":7035, "technique":7324, "visual":8057
+      },
+      "47":{
+        "situationId":690, "level":47, "performance":7360, "technique":7662, "visual":8429
+      },
+      "48":{
+        "situationId":690, "level":48, "performance":7713, "technique":8029, "visual":8833
+      },
+      "49":{
+        "situationId":690, "level":49, "performance":8094, "technique":8425, "visual":9269
+      },
+      "50":{
+        "situationId":690, "level":50, "performance":8503, "technique":8850, "visual":9737
+      }
+    }
+  },
   "691":{
     "situationId":691, "characterId":4, "rarity":4, "gachaText":"はい、お疲れ様って\nことで差し入れ", "attribute":"powerful", "situationSkillId":691, "prefix":"CiRCLEパン祭り", "levelLimit":50, "resourceSetName":"res004027", "sdResourceName":"sd004027", "episodes":[
       {
