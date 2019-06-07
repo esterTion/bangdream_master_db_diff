@@ -1,5 +1,5 @@
 {
-  "version":"3.2.0.200", "bundles":{
+  "version":"3.2.0.300", "bundles":{
     "actionset/group0":{
       "bundleName":"actionset/group0", "hash":"7053c5addbb064a28cbc26db1b5e003ebb9fa2f9e157d254bf4c792a14cb05b9", "category":"StartApp", "crc":819377238, "fileSize":15807
     },
@@ -5461,7 +5461,7 @@
       "bundleName":"characters/resourceset/res007003", "hash":"65d6b79ce1f9ac564bd7bcccf5044a323dcd636ca21ef2a6bca1de887306a0e4", "category":"AsNeeded", "crc":1458781876, "fileSize":2505542
     },
     "characters/resourceset/res007005":{
-      "bundleName":"characters/resourceset/res007005", "hash":"07b2685afb4b2e5dbde569f0443e359ea8a0ed187f19555beeb3f3b95d4d1fac", "category":"AsNeeded", "crc":114039306, "fileSize":2639425
+      "bundleName":"characters/resourceset/res007005", "hash":"9471a29e88c41b29a1c069fc4181474ea8a0ed187f19555beeb3f3b95d4d1fac", "category":"AsNeeded", "crc":3306918254, "fileSize":2652608
     },
     "characters/resourceset/res007006":{
       "bundleName":"characters/resourceset/res007006", "hash":"f57706a535efd59052eeea97770245daeff22616d8f8d85fe39efab2b5be995d", "category":"AsNeeded", "crc":2790167348, "fileSize":2224547
@@ -8904,6 +8904,9 @@
     "event/loginbonus/election_first_place":{
       "bundleName":"event/loginbonus/election_first_place", "hash":"7e5f2320cef488f13b5fca23b8dbf795aaaa746aad32647b817ef910cfb8deb4", "category":"AsNeeded", "crc":1068040620, "fileSize":460390
     },
+    "event/loginbonus/galsta2019_anniversary":{
+      "bundleName":"event/loginbonus/galsta2019_anniversary", "hash":"b40a7d09eaa4ce4d812f064c9e05b4a1f358baf8bfbcb014486a1b9b543902ae", "category":"AsNeeded", "crc":79516035, "fileSize":535017
+    },
     "event/loginbonus/garupacup_2018_first":{
       "bundleName":"event/loginbonus/garupacup_2018_first", "hash":"a93d2d0be524ab3ebcb9da69dea6d60a144b69300c87c0a9c0375e77bc4124ee", "category":"AsNeeded", "crc":1683882124, "fileSize":476431
     },
@@ -10428,6 +10431,18 @@
       ],
       "fileSize":1737822
     },
+    "gacha/screen/gacha382":{
+      "bundleName":"gacha/screen/gacha382", "hash":"65558d315f8b41ef15405ea9a25f4088b3b3473268091a0cf6bf6c18291bc08b", "category":"AsNeeded", "crc":2498639240, "dependencies":[
+        "effect/common_materials"
+      ],
+      "fileSize":1581067
+    },
+    "gacha/screen/gacha383":{
+      "bundleName":"gacha/screen/gacha383", "hash":"1b779c5eb05dd6a13fbb8ba5b7fb40bdf33db09f07f4f9822c0e7473048e566a", "category":"AsNeeded", "crc":2873705992, "dependencies":[
+        "effect/common_materials"
+      ],
+      "fileSize":2397711
+    },
     "gacha/screen/gacha4":{
       "bundleName":"gacha/screen/gacha4", "hash":"6651277b461e110997252f217ceb114b45c3d8ff64aea66de399984da2144062", "category":"AsNeeded", "crc":1585188884, "dependencies":[
         "effect/common_materials"
@@ -10477,7 +10492,7 @@
       "fileSize":2033924
     },
     "homebanner":{
-      "bundleName":"homebanner", "hash":"a317c24ed65159bda6b0d5baff018854578e1801cf37bea8d19805e333aba690", "category":"StartApp", "crc":3464496577, "fileSize":25952465
+      "bundleName":"homebanner", "hash":"ffa50e133ed84e59df01448655e615fb578e1801cf37bea8d19805e333aba690", "category":"StartApp", "crc":3944358586, "fileSize":26095228
     },
     "ingameskin/bgskin/skin00":{
       "bundleName":"ingameskin/bgskin/skin00", "hash":"16cf3821245a8519e18a39c2edc1f675bb71af161f99855ea24133093d7e43e7", "category":"Tutorial", "crc":1321457343, "fileSize":2032706
@@ -11728,7 +11743,7 @@
       "bundleName":"live2d/chara/010_dream_festival", "hash":"8865ed7065b272b888d34b53a93d8dace5fb8e30ee51399a7327eed1fdcae130", "category":"AsNeeded", "crc":437364957, "fileSize":1427420
     },
     "live2d/chara/010_event_06_story":{
-      "bundleName":"live2d/chara/010_event_06_story", "hash":"4f31d553b5099704a2acd23a4d33ba6da10aee6ea0ed34a96640d873ec17b655", "category":"AsNeeded", "crc":4210373440, "fileSize":458275
+      "bundleName":"live2d/chara/010_event_06_story", "hash":"86cfc316f5fdeaa25e94dddb671111cda10aee6ea0ed34a96640d873ec17b655", "category":"AsNeeded", "crc":3205741216, "fileSize":689178
     },
     "live2d/chara/010_event_49_story_01":{
       "bundleName":"live2d/chara/010_event_49_story_01", "hash":"38343ce9891b8f37424bb42dcee4887cb5115d8f8d8a54b963eac24394398a64", "category":"AsNeeded", "crc":2670183539, "fileSize":509774
@@ -14760,6 +14775,9 @@
     "musicjacket/198_harumodoki":{
       "bundleName":"musicjacket/198_harumodoki", "hash":"3483f2db2513ab0ea8f9c174a7d57967eb82b15550fd48579047e3d0bff1be8b", "category":"StartApp", "crc":2192701629, "fileSize":182342
     },
+    "musicjacket/199_discovery":{
+      "bundleName":"musicjacket/199_discovery", "hash":"32a7d1b1637ac0755adf0d9772a035bbe39b58488b3e02b9394d92d3455c4bf3", "category":"StartApp", "crc":2701614505, "fileSize":209773
+    },
     "musicjacket/alchemy":{
       "bundleName":"musicjacket/alchemy", "hash":"16ed237ed28158eb7b9158e0fb6a4c0cadcaa4b024217ecfe4cd4bf1a4b3e641", "category":"StartApp", "crc":2759267200, "fileSize":143143
     },
@@ -15515,6 +15533,9 @@
     },
     "musicscore/198":{
       "bundleName":"musicscore/198", "hash":"3c0c789cb0d4fd1a3673163a2cdf58b27ad3f04616b013e4c0543da2218a8990", "category":"StartApp", "crc":1066173950, "fileSize":250728
+    },
+    "musicscore/199":{
+      "bundleName":"musicscore/199", "hash":"f93091e3fe99eab975db2aeb8b3c26df5728d9a6b55939b763fb0d52c0e1e1fc", "category":"StartApp", "crc":2132813138, "fileSize":267759
     },
     "newsituationintroduction":{
       "bundleName":"newsituationintroduction", "hash":"e719531101541e9c0917096522d02c82371e1cd5a30fa8ec4e930b02e45d6abc", "category":"StartApp", "crc":2314160723, "fileSize":896574
@@ -19409,6 +19430,9 @@
     },
     "sound/bgm198":{
       "bundleName":"sound/bgm198", "hash":"91754ce0e85463a22c9d4357b3e22e56341091f04e4fe0232181b7699381c88f", "category":"AsNeeded", "crc":12758391, "fileSize":3224387
+    },
+    "sound/bgm199":{
+      "bundleName":"sound/bgm199", "hash":"ea6479a393ec6f39fb12a08f0e5772d01df1c1f33b538967f837172c1f85ed2c", "category":"AsNeeded", "crc":3415135328, "fileSize":3503950
     },
     "sound/common":{
       "bundleName":"sound/common", "hash":"c7e5c5b8c4023af120b0f5df80b7342f976046ccb221619c8fd6c9c66deeaabe", "category":"Tutorial", "crc":2705520576, "fileSize":1213739
@@ -27271,7 +27295,7 @@
       "bundleName":"story/bg/event/eventstory6_3", "hash":"7062036fb68519d5c9f2020e9209dc1d48649f12f93be5f03f92776fe5f9a46c", "category":"AsNeeded", "crc":655805256, "fileSize":109085
     },
     "story/bg/event/eventstory6_4":{
-      "bundleName":"story/bg/event/eventstory6_4", "hash":"d98f4394157fff6a4e620338809cc290f9691da647c4353f8d0692eeb1afe20d", "category":"AsNeeded", "crc":910704464, "fileSize":103845
+      "bundleName":"story/bg/event/eventstory6_4", "hash":"5fa5c8403575bd9ba648ff1a469782bbf9691da647c4353f8d0692eeb1afe20d", "category":"AsNeeded", "crc":2716684707, "fileSize":103767
     },
     "story/bg/event/eventstory6_5":{
       "bundleName":"story/bg/event/eventstory6_5", "hash":"964c4af7366f2e814562923bbd88a93c0013a00f04e2ef206eda9b996bdc31e1", "category":"AsNeeded", "crc":4068778218, "fileSize":112534
@@ -27793,7 +27817,7 @@
       "bundleName":"thumb/costume/group9", "hash":"8b7288fc0e759521462fdc45e8eb90164a1b4290fc04d53e6af5e510f82cda52", "category":"StartApp", "crc":2725875901, "fileSize":900905
     },
     "thumb/degree":{
-      "bundleName":"thumb/degree", "hash":"2f8142e016833deb33f159ddebeee858648c817e9312e03f87482718238ba937", "category":"StartApp", "crc":1580206313, "fileSize":1150916
+      "bundleName":"thumb/degree", "hash":"dcb3f3ef7d9707ee5c152a0a844c70f6648c817e9312e03f87482718238ba937", "category":"StartApp", "crc":2527513717, "fileSize":1198275
     },
     "thumb/eventbadge":{
       "bundleName":"thumb/eventbadge", "hash":"79e112c41348b765ef0cb5be821e5e9a302a37176595477e17bf40120992fccf", "category":"StartApp", "crc":1913762493, "fileSize":39441
