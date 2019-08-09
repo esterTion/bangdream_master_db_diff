@@ -564,7 +564,20 @@
     ]
   },
   {
-    "rank":25, "beforeFriendUpperLimit":58, "afterFriendUpperLimit":60
+    "rank":25, "mainStories":[
+      {
+        "mainStoryId":41, "seq":16, "caption":"第１３話", "title":"期待膨らむメッセージ", "synopsis":"昼休み――。香澄は意気揚々と全メンバーに\nメッセージを送る。その内容は……？", "scenarioId":"main041", "releasePlayerRank":25, "releaseConditions":"プレイヤーランク 25以上で解放", "publishedAt":1565848800000, "rewards":[
+          {
+            "resourceType":"star", "quantity":50, "lbBonus":1
+          },
+          {
+            "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
+          }
+        ],
+        "coverImage":"41", "backgroundImage":"1", "seasonType":"season_2"
+      }
+    ],
+    "beforeFriendUpperLimit":58, "afterFriendUpperLimit":60
   },
   {
     "rank":30, "beforeFriendUpperLimit":60, "afterFriendUpperLimit":62
