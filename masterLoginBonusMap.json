@@ -505,6 +505,31 @@
       }
     }
   },
+  "151":{
+    "loginBonusId":151, "loginBonusType":"event", "caption":"「えがお･シング･あ･ソング」発売記念ログインキャンペーン", "assetBundleName":"singasong_release", "publishedAt":1566367200000, "closedAt":1566626399000, "details":[
+      {
+        "loginBonusId":151, "days":1, "resourceType":"star", "quantity":100, "seq":1, "grantType":"present"
+      }
+    ],
+    "assetMap":[
+      
+    ]
+  },
+  "152":{
+    "loginBonusId":152, "loginBonusType":"birthday", "caption":"リサ誕生日", "assetBundleName":"lisa_2019", "publishedAt":1566658800000, "closedAt":1566745199000, "details":[
+      {
+        "loginBonusId":152, "days":1, "resourceType":"star", "quantity":50, "seq":1, "grantType":"direct"
+      },
+      {
+        "loginBonusId":152, "days":1, "resourceType":"practice_ticket", "resourceId":31, "quantity":1, "seq":2, "grantType":"direct"
+      }
+    ],
+    "assetMap":{
+      "1":{
+        "loginBonusId":152, "days":1, "resourceName":"no_icon", "voiceId":"eventLoginBonus1"
+      }
+    }
+  },
   "31":{
     "loginBonusId":31, "loginBonusType":"comeback", "caption":"カムバックログインキャンペーン", "assetBundleName":"comeback_20190316", "publishedAt":1512972000000, "closedAt":4099575599000, "details":[
       {
