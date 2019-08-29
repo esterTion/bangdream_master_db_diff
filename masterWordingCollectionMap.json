@@ -1,9 +1,1122 @@
 {
+  "dialog_degree_notSaveMessage":{
+    "name":"dialog_degree_notSaveMessage", "wording":"変更された称号があります。\\n設定せずに他の画面へ移動しても\\nよろしいですか？"
+  },
+  "dialog_publishConfig_rejection":{
+    "name":"dialog_publishConfig_rejection", "wording":"拒否"
+  },
+  "word_ticket":{
+    "name":"word_ticket", "wording":"チケット"
+  },
+  "dialog_unlockAreaItemList_contentsText":{
+    "name":"dialog_unlockAreaItemList_contentsText", "wording":"「{0}」の{1}に\\n以下のエリアアイテムが入荷しました！"
+  },
+  "biography_areaTalk_screenMessage_memorial":{
+    "name":"biography_areaTalk_screenMessage_memorial", "wording":"思い出のエリア会話を見よう！"
+  },
+  "dialog_liveSettings_liveVolumeCaption":{
+    "name":"dialog_liveSettings_liveVolumeCaption", "wording":"ライブ音量"
+  },
+  "dialog_profileIllustConfig_caption":{
+    "name":"dialog_profileIllustConfig_caption", "wording":"プロフィールイラスト"
+  },
+  "screen_profileDesignSelect_notHaveMessage":{
+    "name":"screen_profileDesignSelect_notHaveMessage", "wording":"このピンズは所持していません。"
+  },
+  "header_subTitle_profileDesignSetting":{
+    "name":"header_subTitle_profileDesignSetting", "wording":"フレーム・ピンズ設定"
+  },
+  "word_periodLimitedArea":{
+    "name":"word_periodLimitedArea", "wording":"期間限定エリア"
+  },
+  "generalElection_time_period":{
+    "name":"generalElection_time_period", "wording":"{0} 〜 {1}"
+  },
+  "dialog_productBuyableCountOverError_title":{
+    "name":"dialog_productBuyableCountOverError_title", "wording":"購入エラー"
+  },
+  "dialog_liveSettings_systemBatteryCaution":{
+    "name":"dialog_liveSettings_systemBatteryCaution", "wording":"バッテリー残量確認"
+  },
+  "biography_characterAlbum_notExistMessage":{
+    "name":"biography_characterAlbum_notExistMessage", "wording":"絞り込み条件に該当するメンバーがいません。"
+  },
+  "dialog_liveSetting_specialSkin":{
+    "name":"dialog_liveSetting_specialSkin", "wording":"期間限定スキン"
+  },
+  "generalElection_commentBanner_preOpen":{
+    "name":"generalElection_commentBanner_preOpen", "wording":"7/23より投票開始！"
+  },
+  "dialog_confirmViewMV_message":{
+    "name":"dialog_confirmViewMV_message", "wording":"[505050]MVを再生します。\\nよろしいですか？[-]\\n\\n[FF3B72]MV再生モード画質設定：{0}[-]"
+  },
+  "dialog_areaTalkFilter_caption_character":{
+    "name":"dialog_areaTalkFilter_caption_character", "wording":"キャラクター"
+  },
+  "dialog_gachaSealExchangeGuide_description1":{
+    "name":"dialog_gachaSealExchangeGuide_description1", "wording":"{0}"
+  },
+  "musicSelect_musicNameFilter_columnKA":{
+    "name":"musicSelect_musicNameFilter_columnKA", "wording":"か行"
+  },
+  "dialog_gachaSealExchangeGuide_description4":{
+    "name":"dialog_gachaSealExchangeGuide_description4", "wording":"※交換完了後、再びガチャをご利用いただけます。"
+  },
+  "dialog_mvSelect_caption":{
+    "name":"dialog_mvSelect_caption", "wording":"MV選択"
+  },
+  "dialog_gachaSealExchangeGuide_description2":{
+    "name":"dialog_gachaSealExchangeGuide_description2", "wording":"[505050]ガチャシールの所持枚数が[-][FF3B72]{0}[-][505050]枚以上です。[-]"
+  },
+  "dialog_gachaSealExchangeGuide_description3":{
+    "name":"dialog_gachaSealExchangeGuide_description3", "wording":"交換所にて対象のメンバーやアイテムと\\n交換できます。"
+  },
+  "word_filter":{
+    "name":"word_filter", "wording":"絞り込み"
+  },
+  "musicSelect_musicNameFilter_columnMA":{
+    "name":"musicSelect_musicNameFilter_columnMA", "wording":"ま行"
+  },
+  "starShop_itemSet_reachedLimitCount":{
+    "name":"starShop_itemSet_reachedLimitCount", "wording":"購入可能回数の\\n上限に達しました"
+  },
+  "dialog_starShop_penalty":{
+    "name":"dialog_starShop_penalty", "wording":"課金停止中です。"
+  },
+  "menuList_privacyPolicy_button":{
+    "name":"menuList_privacyPolicy_button", "wording":"プライバシーポリシー"
+  },
+  "mission_rewardReceiveFailed_messageOutOfTerm":{
+    "name":"mission_rewardReceiveFailed_messageOutOfTerm", "wording":"受け取り期限が切れているため\\n受け取ることができません。"
+  },
+  "multiPlay_abDownloadNotRetryableError_message":{
+    "name":"multiPlay_abDownloadNotRetryableError_message", "wording":"通信エラーが発生しました。\\nルーム選択に戻ります。"
+  },
+  "dialog_areaReleaseConditionWarehouse_caption":{
+    "name":"dialog_areaReleaseConditionWarehouse_caption", "wording":"ショップのあるエリアがロックされています。"
+  },
+  "dialog_downloadSize_none":{
+    "name":"dialog_downloadSize_none", "wording":"ダウンロードなし"
+  },
+  "dialog_ageAuthPurchaseError_upperMessage16":{
+    "name":"dialog_ageAuthPurchaseError_upperMessage16", "wording":"[505050]今月の課金上限に達しました。\\n\\nあなたの課金上限\\n[-][FE2349]16歳以上20歳未満\\n月額10,800円(税込)まで[-]"
+  },
+  "dialog_ageAuthPurchaseError_upperMessage15":{
+    "name":"dialog_ageAuthPurchaseError_upperMessage15", "wording":"[505050]今月の課金上限に達しました。\\n\\nあなたの課金上限\\n[-][FE2349]16歳未満\\n月額5,400円(税込)まで[-]"
+  },
+  "generalElection_snsShare_message_pastelPalettes":{
+    "name":"generalElection_snsShare_message_pastelPalettes", "wording":"「第3回ガールズバンド総選挙」開催中___4pyo___\\nPastel＊Palettesに投票したよ♪みんなと一緒にとびっきりかわいいライブをしよう___4p2j___"
+  },
+  "missionLiveEvent_result_deckBonus":{
+    "name":"missionLiveEvent_result_deckBonus", "wording":"編成ボーナス"
+  },
+  "dialog_sort_skillSortDamageGuardWithScoreUp":{
+    "name":"dialog_sort_skillSortDamageGuardWithScoreUp", "wording":"スコアアップ付き\\nライフ減少無効"
+  },
+  "dialog_liveClearAPIError_notStartedLive":{
+    "name":"dialog_liveClearAPIError_notStartedLive", "wording":"通信が切断されました。\\nなお、ライブ結果は正常に反映されております。\\n\\nライブ結果が反映されていない場合は、\\nお問い合わせください。"
+  },
+  "dialog_sort_captionSkill":{
+    "name":"dialog_sort_captionSkill", "wording":"スキル絞り込み"
+  },
+  "biography_profile":{
+    "name":"biography_profile", "wording":"プロフィールを見よう"
+  },
+  "dialog_button_share":{
+    "name":"dialog_button_share", "wording":"シェア"
+  },
+  "newYearCard_preparationDialog_twitterShare":{
+    "name":"newYearCard_preparationDialog_twitterShare", "wording":"シェア"
+  },
+  "musicSelect_musicNameFilter_columnNA":{
+    "name":"musicSelect_musicNameFilter_columnNA", "wording":"な行"
+  },
+  "dialog_lackItemGainMethod_button_toLive":{
+    "name":"dialog_lackItemGainMethod_button_toLive", "wording":"ライブ"
+  },
+  "dialog_downloadForMVView_message":{
+    "name":"dialog_downloadForMVView_message", "wording":"データダウンロード後、MVを再生します。\\nWi-Fi環境でのダウンロードをおすすめします。"
+  },
+  "dialog_storySelectMusicDialog_title":{
+    "name":"dialog_storySelectMusicDialog_title", "wording":"楽曲詳細"
+  },
+  "biography_characterProfile_school":{
+    "name":"biography_characterProfile_school", "wording":"学校"
+  },
+  "albumMission_complete_notice":{
+    "name":"albumMission_complete_notice", "wording":"アルバムミッション達成！"
+  },
+  "twitter_newYearCard_tweetText_reading":{
+    "name":"twitter_newYearCard_tweetText_reading", "wording":"___4pyS___年賀状キャンペーン開催中___4pyo___\\n{0}から年賀状が届いたよ___4p2j___\\nログインして届いた年賀状を見よう♪\\nスター×100___4q2Q___もプレゼント！\\n https://bang-dream-gbp.onelink.me/qbvS/12d92f8 \\n"
+  },
+  "generalElection_errorMessage_outsideElection":{
+    "name":"generalElection_errorMessage_outsideElection", "wording":"総選挙イベントは終了しました。"
+  },
+  "word_exMission":{
+    "name":"word_exMission", "wording":"EXミッション"
+  },
+  "biography_characterProfile_height":{
+    "name":"biography_characterProfile_height", "wording":"身長"
+  },
+  "dialog_profileDesignSelect_changedCaution":{
+    "name":"dialog_profileDesignSelect_changedCaution", "wording":"変更されたデコレーションがあります。\\n設定せずに他の画面へ移動しても\\nよろしいですか？"
+  },
+  "dialog_twitter_tweetComplete":{
+    "name":"dialog_twitter_tweetComplete", "wording":"Twitterでシェアが完了しました。"
+  },
+  "generalElection_snsShare_message_helloHappyWorld":{
+    "name":"generalElection_snsShare_message_helloHappyWorld", "wording":"「第3回ガールズバンド総選挙」開催中___4pyo___\\nハロー、ハッピーワールド！に投票したよ♪みんなと一緒に世界を笑顔にするライブをしよう___4p2j___"
+  },
+  "dialog_profileConfig_tabProfileDesignSettings_tabTitle":{
+    "name":"dialog_profileConfig_tabProfileDesignSettings_tabTitle", "wording":"デコレーション設定"
+  },
+  "word_valueInvalid":{
+    "name":"word_valueInvalid", "wording":"--"
+  },
+  "popup_eventSupportBand_totalParam":{
+    "name":"popup_eventSupportBand_totalParam", "wording":"イベントサポートバンド総合力"
+  },
+  "newYearCard_bandSelectDialog_title":{
+    "name":"newYearCard_bandSelectDialog_title", "wording":"バンドを選択"
+  },
+  "dialog_lackItemGainMethod_button_toExchange":{
+    "name":"dialog_lackItemGainMethod_button_toExchange", "wording":"交換所"
+  },
+  "tryLiveEvent_tryTargetDialogCell_titleCombo":{
+    "name":"tryLiveEvent_tryTargetDialogCell_titleCombo", "wording":"コンボトライ"
+  },
+  "header_subTitle_gachaSeal":{
+    "name":"header_subTitle_gachaSeal", "wording":"ガチャシール交換所"
+  },
+  "storyEvent_story_appeal":{
+    "name":"storyEvent_story_appeal", "wording":"限定ストーリーをみよう!"
+  },
+  "tryLiveEvent_tryTargetDialogInfoCell_exCaption":{
+    "name":"tryLiveEvent_tryTargetDialogInfoCell_exCaption", "wording":"次のEXトライレベル報酬"
+  },
+  "tryLiveEvent_tryLevelReward_footer":{
+    "name":"tryLiveEvent_tryLevelReward_footer", "wording":"EXトライはすべてのトライレベル{0}をクリアすると挑戦できます。"
+  },
+  "word_skip":{
+    "name":"word_skip", "wording":"スキップ"
+  },
+  "dialog_favoriteStampEdit_saveMessage":{
+    "name":"dialog_favoriteStampEdit_saveMessage", "wording":"スタンプを設定しました。\\nルーム選択画面に戻ります。"
+  },
+  "tryLiveEvent_tryLevelReward_cellExtra":{
+    "name":"tryLiveEvent_tryLevelReward_cellExtra", "wording":"すべてのEXトライレベル{0}をクリア"
+  },
+  "event_tryLevel_reward":{
+    "name":"event_tryLevel_reward", "wording":"トライレベル報酬"
+  },
+  "dialog_exMissionFilter_filterFragment":{
+    "name":"dialog_exMissionFilter_filterFragment", "wording":"かけら"
+  },
+  "dialog_musicSortFilter_toDefault":{
+    "name":"dialog_musicSortFilter_toDefault", "wording":"デフォルトに戻す"
+  },
+  "dialog_copyConfirm_garupaCup2ndEntryPlayerIdCopy":{
+    "name":"dialog_copyConfirm_garupaCup2ndEntryPlayerIdCopy", "wording":"エントリー用プレイヤーIDをコピーしました。"
+  },
+  "musicSelect_getCondition_buttonLabelMainStory":{
+    "name":"musicSelect_getCondition_buttonLabelMainStory", "wording":"メインストーリー"
+  },
+  "dialog_starRecall_description":{
+    "name":"dialog_starRecall_description", "wording":"ストアにて返金処理が行われたため、\\n返金分の有償スターを回収いたしました。"
+  },
+  "word_high":{
+    "name":"word_high", "wording":"高"
+  },
+  "dialog_liveSettings_toDefault":{
+    "name":"dialog_liveSettings_toDefault", "wording":"デフォルトに戻す"
+  },
+  "dialog_sealExchange_filterTicket":{
+    "name":"dialog_sealExchange_filterTicket", "wording":"チケット"
+  },
+  "dialog_few_storage_MV_download":{
+    "name":"dialog_few_storage_MV_download", "wording":"端末の空き容量が不足しているため、\\nMVをダウンロードすることができません。\\n"
+  },
+  "dialog_lackItemGainMethod_title":{
+    "name":"dialog_lackItemGainMethod_title", "wording":"不足アイテムの獲得先"
+  },
+  "dialog_event_characterAlbum_text_unable":{
+    "name":"dialog_event_characterAlbum_text_unable", "wording":"イベント「{0}」の新メンバーです。\\n現在、開催中のイベント、及び\\nミッシェルシール交換所では獲得できません。"
+  },
+  "tryLiveEvent_tryTargetDialogCell_levelDiv":{
+    "name":"tryLiveEvent_tryTargetDialogCell_levelDiv", "wording":"/"
+  },
+  "dialog_liveSettings_feverMode":{
+    "name":"dialog_liveSettings_feverMode", "wording":"FEVER演出"
+  },
+  "dialog_gachaSealDetailInformation_titleCost":{
+    "name":"dialog_gachaSealDetailInformation_titleCost", "wording":"交換に必要な枚数"
+  },
+  "dialog_movieSkip_title":{
+    "name":"dialog_movieSkip_title", "wording":"スキップ"
+  },
+  "gachaTop_haveStar":{
+    "name":"gachaTop_haveStar", "wording":"所持スター"
+  },
+  "musicSelect_musicNameFilter_columnHA":{
+    "name":"musicSelect_musicNameFilter_columnHA", "wording":"は行"
+  },
+  "gachaTop_button_tryOn":{
+    "name":"gachaTop_button_tryOn", "wording":"衣装を試着"
+  },
+  "speciallottery_2018newyearButton":{
+    "name":"speciallottery_2018newyearButton", "wording":"おみくじを引く"
+  },
+  "word_limitedTime":{
+    "name":"word_limitedTime", "wording":"期間限定"
+  },
+  "twitter_newYearCard_hashTag_choice":{
+    "name":"twitter_newYearCard_hashTag_choice", "wording":"#バンドリ,#ガルパ,#ガルパ年賀状"
+  },
+  "dialog_liveSettings_vibrationCaption":{
+    "name":"dialog_liveSettings_vibrationCaption", "wording":"ライブ振動"
+  },
+  "friendList_sortingType_lastLoginAt":{
+    "name":"friendList_sortingType_lastLoginAt", "wording":"最終ログイン"
+  },
+  "dialog_systyemSettings_notificationDescription":{
+    "name":"dialog_systyemSettings_notificationDescription", "wording":"※端末の設定で通知をOFFにしている場合、アプリからの通知が届きません。\n　ご注意ください。\n※深夜帯にあたる時刻は、0:00〜5:59までです。"
+  },
+  "dialog_generalElection_voteBandSelect_voteCountSelect":{
+    "name":"dialog_generalElection_voteBandSelect_voteCountSelect", "wording":"投票枚数選択"
+  },
+  "dialog_event_characterAlbum_text_able":{
+    "name":"dialog_event_characterAlbum_text_able", "wording":"イベント「{0}」の新メンバーです。\\n現在開催中のイベントで登場しています。"
+  },
+  "dialog_exchange_alreadyHaveFilterMember":{
+    "name":"dialog_exchange_alreadyHaveFilterMember", "wording":"メンバー"
+  },
+  "generalElection_interimReportTime":{
+    "name":"generalElection_interimReportTime", "wording":"中間発表"
+  },
+  "musicSelect_musicNameFilter_columnSA":{
+    "name":"musicSelect_musicNameFilter_columnSA", "wording":"さ行"
+  },
+  "dialog_specialSkinDetailSetting_judge":{
+    "name":"dialog_specialSkinDetailSetting_judge", "wording":"期間限定判定テキスト"
+  },
+  "dialog_exMissionFilter_filterDecoParts":{
+    "name":"dialog_exMissionFilter_filterDecoParts", "wording":"デコパーツ"
+  },
+  "newYearCard_preparationDialog_bandReselectButton":{
+    "name":"newYearCard_preparationDialog_bandReselectButton", "wording":"バンドを\\n選択し直す"
+  },
+  "dialog_mvViewPause_title":{
+    "name":"dialog_mvViewPause_title", "wording":"一時中断"
+  },
+  "dialog_disableDL":{
+    "name":"dialog_disableDL", "wording":"※ライブ終了後、ダウンロードが可能になります。"
+  },
+  "gachaTop_haveGachaSeal":{
+    "name":"gachaTop_haveGachaSeal", "wording":"所持ガチャシール"
+  },
+  "biography_memorialStory":{
+    "name":"biography_memorialStory", "wording":"イベント\\nストーリー"
+  },
+  "dialog_liveSettings_tabLiveSkinSetting":{
+    "name":"dialog_liveSettings_tabLiveSkinSetting", "wording":"ライブスキン設定"
+  },
+  "word_sort_paramPublished":{
+    "name":"word_sort_paramPublished", "wording":"登場順"
+  },
+  "dialog_bandSelectConfirm_selectedBand":{
+    "name":"dialog_bandSelectConfirm_selectedBand", "wording":"{0}の\\nメンバーのみが出現します。"
+  },
+  "dialog_profileIllustConfig_selectIllustButton":{
+    "name":"dialog_profileIllustConfig_selectIllustButton", "wording":"イラストを選択"
+  },
+  "dialog_friendRequestError_messageOpponentNotAccept":{
+    "name":"dialog_friendRequestError_messageOpponentNotAccept", "wording":"相手がフレンド申請の設定を\\n拒否にしています。"
+  },
+  "dialog_profileConfig_tabProfileDesignSettings_frameTitle":{
+    "name":"dialog_profileConfig_tabProfileDesignSettings_frameTitle", "wording":"フレーム"
+  },
+  "dialog_sealExchange_title":{
+    "name":"dialog_sealExchange_title", "wording":"交換所絞り込み"
+  },
+  "dialog_itemSetReceiveMiracleTicket_description":{
+    "name":"dialog_itemSetReceiveMiracleTicket_description", "wording":"「{0}」は\\n「メニュー」から「交換所」で\\n対象メンバーと交換できます。"
+  },
+  "dialog_musicSortFilter_original":{
+    "name":"dialog_musicSortFilter_original", "wording":"オリジナル"
+  },
+  "musicSelect_musicNameFilter_columnTA":{
+    "name":"musicSelect_musicNameFilter_columnTA", "wording":"た行"
+  },
+  "dialog_liveSettings_laneEffect":{
+    "name":"dialog_liveSettings_laneEffect", "wording":"レーンエフェクト"
+  },
+  "dialog_downloadSize":{
+    "name":"dialog_downloadSize", "wording":"ダウンロードサイズ"
+  },
+  "dialog_sort_characterAlbum_training_all":{
+    "name":"dialog_sort_characterAlbum_training_all", "wording":"すべて"
+  },
+  "dialog_profileDesignSelect_clearPins":{
+    "name":"dialog_profileDesignSelect_clearPins", "wording":"フレームを変更すると設定している\\nピンズはすべて外れますがよろしいですか？"
+  },
+  "dialog_billingPenalty_executeBillingStopForever":{
+    "name":"dialog_billingPenalty_executeBillingStopForever", "wording":"返金分の有償スターが回収できないことが複数回確認され、\\n悪質な行為と判断されたため、無期限の課金停止措置を実施しました。"
+  },
+  "dialog_liveSettings_rhythmIcon":{
+    "name":"dialog_liveSettings_rhythmIcon", "wording":"リズムアイコン"
+  },
+  "dialog_exMissionFilter_captionMissionFilter":{
+    "name":"dialog_exMissionFilter_captionMissionFilter", "wording":"ミッション絞り込み"
+  },
+  "cell_exMission_unlockConditions":{
+    "name":"cell_exMission_unlockConditions", "wording":"解放条件"
+  },
+  "dialog_starRecall_paidStarPossession":{
+    "name":"dialog_starRecall_paidStarPossession", "wording":"所持有償スター"
+  },
+  "word_toApply":{
+    "name":"word_toApply", "wording":"適用する"
+  },
+  "dialog_sort_alreadyOwn":{
+    "name":"dialog_sort_alreadyOwn", "wording":"獲得済み"
+  },
+  "dialog_billingPenalty_accountStopWarningAfterSecondTime":{
+    "name":"dialog_billingPenalty_accountStopWarningAfterSecondTime", "wording":"※さらに悪質な行為と判断された場合、アカウントの停止措置を実施します。"
+  },
+  "newYearCard_bandSelect_notSet":{
+    "name":"newYearCard_bandSelect_notSet", "wording":"指定なし"
+  },
+  "caption_exchange_gachaName":{
+    "name":"caption_exchange_gachaName", "wording":"[{0}]"
+  },
+  "word_comment":{
+    "name":"word_comment", "wording":"コメント"
+  },
+  "dialog_exchangetitle_seal":{
+    "name":"dialog_exchangetitle_seal", "wording":"このアイテムと交換しますか？"
+  },
+  "word_notSetFavoriteMessage":{
+    "name":"word_notSetFavoriteMessage", "wording":"お気に入りスタンプを設定していません。"
+  },
+  "generalElection_snsShare_hashTag":{
+    "name":"generalElection_snsShare_hashTag", "wording":"#バンドリ #ガルパ #第3回ガールズバンド総選挙"
+  },
+  "biography_characterProfile_buttonEpisode1":{
+    "name":"biography_characterProfile_buttonEpisode1", "wording":"自己紹介エピソード1"
+  },
+  "dialog_systemSettings_captionSystem":{
+    "name":"dialog_systemSettings_captionSystem", "wording":"システム"
+  },
+  "biography_characterProfile_buttonEpisode2":{
+    "name":"biography_characterProfile_buttonEpisode2", "wording":"自己紹介エピソード2"
+  },
+  "share_birthdayCard_message":{
+    "name":"share_birthdayCard_message", "wording":"本日{0}は、{1}の{2}担当、{3}の誕生日___4p2j___\\n{4}に贈られたバースデーカードはこちら___4pyo___\\nお誕生日おめでとう___4pi6___‼"
+  },
+  "dialog_generalElection_voteBandSelect_title":{
+    "name":"dialog_generalElection_voteBandSelect_title", "wording":"投票選択"
+  },
+  "word_favoriteStamp":{
+    "name":"word_favoriteStamp", "wording":"お気に入りスタンプ"
+  },
+  "dialog_liveSettings_tapVibration":{
+    "name":"dialog_liveSettings_tapVibration", "wording":"タップ時振動"
+  },
+  "dialog_sort_characterAlbum_obtained_after":{
+    "name":"dialog_sort_characterAlbum_obtained_after", "wording":"獲得済み"
+  },
+  "dialog_liveBoostRecoverItem_message2":{
+    "name":"dialog_liveBoostRecoverItem_message2", "wording":"ブーストドリンクまたはスターを使って、\\nライブブーストを回復しますか？"
+  },
+  "tryLiveEvent_tryTargetDialogCell_score":{
+    "name":"tryLiveEvent_tryTargetDialogCell_score", "wording":"スコア"
+  },
+  "tryLiveEvent_tryTargetDialogCell_titleLife":{
+    "name":"tryLiveEvent_tryTargetDialogCell_titleLife", "wording":"ライフトライ"
+  },
+  "dialog_selectableLackItem_lackItemLabel":{
+    "name":"dialog_selectableLackItem_lackItemLabel", "wording":"必要アイテムが不足しています。"
+  },
+  "dialog_bandStory_appeal_title":{
+    "name":"dialog_bandStory_appeal_title", "wording":"案内"
+  },
+  "dialog_profileIllustConfig_selectMySelf":{
+    "name":"dialog_profileIllustConfig_selectMySelf", "wording":"自分で選ぶ"
+  },
+  "dialog_itemSetReceiveMiracleTicket_title":{
+    "name":"dialog_itemSetReceiveMiracleTicket_title", "wording":"期限付きアイテム入手"
+  },
+  "dialog_few_storage_common":{
+    "name":"dialog_few_storage_common", "wording":"端末の空き容量の確認を行ってください。"
+  },
+  "tryLiveEvent_tryTargetDialogCell_judge":{
+    "name":"tryLiveEvent_tryTargetDialogCell_judge", "wording":"判定"
+  },
+  "dialog_downloadForMVLive_message":{
+    "name":"dialog_downloadForMVLive_message", "wording":"データダウンロード後、ライブを開始します。\\nWi-Fi環境でのダウンロードをおすすめします。"
+  },
+  "dialog_profileFrameSettings_radio_band":{
+    "name":"dialog_profileFrameSettings_radio_band", "wording":"バンド"
+  },
+  "generalElection_voteUnit":{
+    "name":"generalElection_voteUnit", "wording":"票"
+  },
+  "dialog_rhythmgamePause_garupaCup2ndBody":{
+    "name":"dialog_rhythmgamePause_garupaCup2ndBody", "wording":"{0}ライブを中断して\\nガルパ杯TOPページに戻りますか？[-]\\n{1}消費した挑戦可能回数は戻りません。[-]"
+  },
+  "dialog_starRecall_title":{
+    "name":"dialog_starRecall_title", "wording":"返金分有償スター回収"
+  },
+  "dialog_garupaCup2ndEntry_descriptionResult":{
+    "name":"dialog_garupaCup2ndEntry_descriptionResult", "wording":"[505050]1次予選ライブはエントリーしなくてもプレイできます。\\n第2回ガルパ杯参加希望の方はエントリーする必要があります。\\n１次予選終了後、合計予選ハイスコアをもとに、\\n地方2次予選の出場者の選出を行います。[-]"
+  },
+  "dialog_generalElection_voteComplete_descriptionShare":{
+    "name":"dialog_generalElection_voteComplete_descriptionShare", "wording":"投票内容をシェアできます。"
+  },
+  "screen_profileDesignSelect_space_count":{
+    "name":"screen_profileDesignSelect_space_count", "wording":"残りスペース"
+  },
+  "biography_areaTalk_tab_memorial":{
+    "name":"biography_areaTalk_tab_memorial", "wording":"思い出の会話"
+  },
+  "biography_characterProfile_constellation":{
+    "name":"biography_characterProfile_constellation", "wording":"星座"
+  },
+  "generalElection_commentBanner_open1st":{
+    "name":"generalElection_commentBanner_open1st", "wording":"投票受付中！"
+  },
+  "dialog_musicFilter_existMV":{
+    "name":"dialog_musicFilter_existMV", "wording":"MVあり"
+  },
+  "gachaResult_disableCeilingAlert_buttonLabel":{
+    "name":"gachaResult_disableCeilingAlert_buttonLabel", "wording":"ガチャシールの交換完了後\\n再びご利用いただけます"
+  },
+  "dialog_miracleTicketExchangeConfirm_title":{
+    "name":"dialog_miracleTicketExchangeConfirm_title", "wording":"このメンバーと交換しますか？"
+  },
+  "header_mainTitle_april2019":{
+    "name":"header_mainTitle_april2019", "wording":"モカランド"
+  },
+  "dialog_few_storage_MV":{
+    "name":"dialog_few_storage_MV", "wording":"端末の空き容量が不足しているため、\\nMVを再生することができません。\\n"
+  },
+  "dialog_publishConfig_title":{
+    "name":"dialog_publishConfig_title", "wording":"プロフィール情報設定"
+  },
+  "dialog_profileConfig_tabProfileIllustSettings":{
+    "name":"dialog_profileConfig_tabProfileIllustSettings", "wording":"プロフィールイラスト設定"
+  },
+  "starShop_itemSet_onThePeriod":{
+    "name":"starShop_itemSet_onThePeriod", "wording":"販売期間　{0}まで"
+  },
+  "dialog_deckRecommend_priorityMember":{
+    "name":"dialog_deckRecommend_priorityMember", "wording":"メンバー"
+  },
+  "costumeSelect_defaultCell_cellContent":{
+    "name":"costumeSelect_defaultCell_cellContent", "wording":"※メイン設定で編成されていない場合は\\n「{0}」になります。"
+  },
+  "dialog_copyConfirm_roomID":{
+    "name":"dialog_copyConfirm_roomID", "wording":"ルーム番号をコピーしました。"
+  },
+  "michelleSeal_description":{
+    "name":"michelleSeal_description", "wording":"ミッシェルの顔が描かれたシール。ミッシェルシール交換所で各種アイテム等と交換できる。"
+  },
+  "biography_top_comment":{
+    "name":"biography_top_comment", "wording":"{0}の登場するストーリー・コミックをチェック！"
+  },
+  "april2019_storyList_footer":{
+    "name":"april2019_storyList_footer", "wording":"本日限定！　期間限定エリアで特別なお話を見よう！"
+  },
+  "dialog_generalElection_voteConfirm_description":{
+    "name":"dialog_generalElection_voteConfirm_description", "wording":"上記の内容で投票します。\\nよろしいですか？"
+  },
+  "dialog_specialSkinDetailSetting_soundEffect":{
+    "name":"dialog_specialSkinDetailSetting_soundEffect", "wording":"期間限定SE"
+  },
+  "musicSelect_musicNameFilter_columnRA":{
+    "name":"musicSelect_musicNameFilter_columnRA", "wording":"ら行"
+  },
+  "biography_characterProfile_heightUnit":{
+    "name":"biography_characterProfile_heightUnit", "wording":"cm"
+  },
+  "garupaCup_top_finished":{
+    "name":"garupaCup_top_finished", "wording":"終了しました"
+  },
+  "dialog_exMissionFilter_title":{
+    "name":"dialog_exMissionFilter_title", "wording":"EXミッション絞り込み"
+  },
+  "tryLiveEvent_tryTargetDialogCell_ex":{
+    "name":"tryLiveEvent_tryTargetDialogCell_ex", "wording":"EX"
+  },
+  "memberList_notExistMessage":{
+    "name":"memberList_notExistMessage", "wording":"絞り込み条件に該当するメンバーがいません。"
+  },
+  "header_subTitle_biographyCharacterAlbum":{
+    "name":"header_subTitle_biographyCharacterAlbum", "wording":"アルバム"
+  },
+  "mission_liveEvent_receivedLimit_caption":{
+    "name":"mission_liveEvent_receivedLimit_caption", "wording":"受け取り期限 MM/dd HH:mmまで"
+  },
+  "generalElection_balloon_interimReport":{
+    "name":"generalElection_balloon_interimReport", "wording":"中間結果\\n発表中！"
+  },
+  "footer_caution_gachaSeal":{
+    "name":"footer_caution_gachaSeal", "wording":"ガチャシールが交換可能枚数に達した場合、全てのガチャが一時的にご利用できなくなりますが、交換完了後にご利用できるようになります。"
+  },
+  "dialog_musicSortFilter_soloTitle":{
+    "name":"dialog_musicSortFilter_soloTitle", "wording":"フリーライブ絞り込み"
+  },
+  "twitter_newYearCard_tweetText_choice":{
+    "name":"twitter_newYearCard_tweetText_choice", "wording":"___4pyS___年賀状キャンペーン開催中___4pyo___\\nお正月に選んだバンドからの年賀状を見よう___4pyJ___\\n{0}を選んだよ___4p2j___\\nみんなも年賀状を見たいバンドを選ぼう♪\\nhttps://bang-dream-gbp.onelink.me/qbvS/12d92f8 \\n"
+  },
+  "dialog_mvGet_description":{
+    "name":"dialog_mvGet_description", "wording":"「{0}」\\n\\n{1}を獲得しました。"
+  },
+  "dialog_generalElection_snsShareReward_description":{
+    "name":"dialog_generalElection_snsShareReward_description", "wording":"初回シェアボーナスを受け取りました！"
+  },
+  "header_subTitle_starShop":{
+    "name":"header_subTitle_starShop", "wording":"スターショップ"
+  },
+  "dialog_button_detail":{
+    "name":"dialog_button_detail", "wording":"詳細"
+  },
+  "generalElection_time_interimReport":{
+    "name":"generalElection_time_interimReport", "wording":"{0} 頃"
+  },
+  "dialog_twitter_loginFailed":{
+    "name":"dialog_twitter_loginFailed", "wording":"Twitterの認証に失敗しました。"
+  },
+  "newYearCard_checkCardDialog_campaignDetail":{
+    "name":"newYearCard_checkCardDialog_campaignDetail", "wording":"キャンペーン詳細"
+  },
+  "dialog_liveSettings_standard":{
+    "name":"dialog_liveSettings_standard", "wording":"標準"
+  },
+  "dialog_liveSettings_mvCaption":{
+    "name":"dialog_liveSettings_mvCaption", "wording":"MV"
+  },
+  "word_exchangeTimeLimit":{
+    "name":"word_exchangeTimeLimit", "wording":"交換期限"
+  },
+  "mission_liveEvent_eventSupportBandButton":{
+    "name":"mission_liveEvent_eventSupportBandButton", "wording":"イベントサポートバンド"
+  },
+  "generalElection_snsShare_message_roselia":{
+    "name":"generalElection_snsShare_message_roselia", "wording":"「第3回ガールズバンド総選挙」開催中___4pyo___\\nRoseliaに投票したよ♪みんなと一緒に高みを目指すライブをしよう___4p2j___"
+  },
+  "dialog_specialSkinDetailSetting_rhythmIcon":{
+    "name":"dialog_specialSkinDetailSetting_rhythmIcon", "wording":"期間限定リズムアイコン"
+  },
+  "generalElection_resultPeriod":{
+    "name":"generalElection_resultPeriod", "wording":"最終結果発表期間"
+  },
+  "word_type":{
+    "name":"word_type", "wording":"タイプ"
+  },
+  "dialog_liveSettings_tabSystemSetting":{
+    "name":"dialog_liveSettings_tabSystemSetting", "wording":"システム・通知設定"
+  },
+  "dialog_specialSkinDetailSetting_laneAndJudgeLine":{
+    "name":"dialog_specialSkinDetailSetting_laneAndJudgeLine", "wording":"期間限定レーン・判定ライン"
+  },
+  "april2019_storyListCell_infoConditions":{
+    "name":"april2019_storyListCell_infoConditions", "wording":"[FF3B72]{0}[-][505050]を見ると、期間限定エリアに出現！[-]"
+  },
+  "word_removeStamp":{
+    "name":"word_removeStamp", "wording":"外す"
+  },
+  "garupaCup_musicSelectCell_quoteSource":{
+    "name":"garupaCup_musicSelectCell_quoteSource", "wording":"ガルパ杯１次予選楽曲"
+  },
+  "stamp_periodLimited_balloonLabel":{
+    "name":"stamp_periodLimited_balloonLabel", "wording":"期間限定"
+  },
+  "dialog_storyConfirm_downloadMessage2":{
+    "name":"dialog_storyConfirm_downloadMessage2", "wording":"ダウンロードサイズが大きい場合は、\nWi-Fi環境でのダウンロードをおすすめします。"
+  },
+  "dialog_friendApprovalError_messageMyFriendsNumIsFull":{
+    "name":"dialog_friendApprovalError_messageMyFriendsNumIsFull", "wording":"フレンド数に空きがありません。"
+  },
+  "newYearCard_preparationDialog_bandSelectButton":{
+    "name":"newYearCard_preparationDialog_bandSelectButton", "wording":"バンドを\\n選択"
+  },
+  "word_mainItem":{
+    "name":"word_mainItem", "wording":"主要アイテム"
+  },
+  "dialog_liveSettings_behaviourMode":{
+    "name":"dialog_liveSettings_behaviourMode", "wording":"動作モード"
+  },
+  "dialog_areaItemReleaseCondition_mainStory":{
+    "name":"dialog_areaItemReleaseCondition_mainStory", "wording":"シーズン{0} メインストーリー「{1}」を\\n読むと解放"
+  },
+  "generalElection_rankUnit":{
+    "name":"generalElection_rankUnit", "wording":"位"
+  },
+  "dialog_exMissionFilter_captionRewardFilter":{
+    "name":"dialog_exMissionFilter_captionRewardFilter", "wording":"報酬絞り込み"
+  },
+  "gachaTop_changeStar":{
+    "name":"gachaTop_changeStar", "wording":"スターで引く"
+  },
+  "dialog_productBuyableCountOverError_messageProductName":{
+    "name":"dialog_productBuyableCountOverError_messageProductName", "wording":"{0}は\\n"
+  },
+  "newYearCard_preparationDialog_description2":{
+    "name":"newYearCard_preparationDialog_description2", "wording":"※バンド選択期間内にバンドを選択しなかった場合は、\\n5つのバンドのうちランダムで1つのバンドが選択され、\\nそのバンドの年賀状を見ることができます。"
+  },
+  "newYearCard_preparationDialog_description3":{
+    "name":"newYearCard_preparationDialog_description3", "wording":"※バンド選択期間内であれば、バンドを選択し直すことができます。"
+  },
+  "april2019_dialog_complete_story_title":{
+    "name":"april2019_dialog_complete_story_title", "wording":"全てのお話を読み終わりました"
+  },
+  "dialog_areaItemDetail_talkEmpty":{
+    "name":"dialog_areaItemDetail_talkEmpty", "wording":"発生する会話はありません。"
+  },
+  "newYearCard_preparationDialog_campaignDetail":{
+    "name":"newYearCard_preparationDialog_campaignDetail", "wording":"キャンペーン詳細"
+  },
+  "newYearCard_preparationDialog_description1":{
+    "name":"newYearCard_preparationDialog_description1", "wording":"※バンド選択期間を過ぎた場合は、バンドを選択できなくなります。"
+  },
+  "dialog_liveSettings_longNotesAlpha":{
+    "name":"dialog_liveSettings_longNotesAlpha", "wording":"長押しラインの濃さ"
+  },
+  "specialSkinDetail_button_title":{
+    "name":"specialSkinDetail_button_title", "wording":"個別設定"
+  },
+  "balloon_mvLiveOn_text":{
+    "name":"balloon_mvLiveOn_text", "wording":"MVライブ ON"
+  },
+  "dialog_profileDesign_setting_done_title":{
+    "name":"dialog_profileDesign_setting_done_title", "wording":"設定完了"
+  },
+  "dialog_birthdayStoryReward_title":{
+    "name":"dialog_birthdayStoryReward_title", "wording":"{0}誕生日記念プレゼント"
+  },
+  "screen_profileDesignSelect_tab_all":{
+    "name":"screen_profileDesignSelect_tab_all", "wording":"すべて"
+  },
+  "tryLiveEvent_tryTargetDialogCell_gotAllRewards":{
+    "name":"tryLiveEvent_tryTargetDialogCell_gotAllRewards", "wording":"すべての報酬を獲得しました"
+  },
+  "memorialStory_storyCell_memberEpisodeCaption":{
+    "name":"memorialStory_storyCell_memberEpisodeCaption", "wording":"メンバーエピソード"
+  },
+  "dialog_sort_characterAlbum_training":{
+    "name":"dialog_sort_characterAlbum_training", "wording":"特訓状態"
+  },
+  "dialog_deckRecommend_captionParameter":{
+    "name":"dialog_deckRecommend_captionParameter", "wording":"優先するパラメータ"
+  },
+  "biography_characterProfile_hatedFood":{
+    "name":"biography_characterProfile_hatedFood", "wording":"嫌いな食べ物"
+  },
+  "deckEdit_parameterBonus":{
+    "name":"deckEdit_parameterBonus", "wording":"さらに両方一致で"
+  },
+  "biography_areaTalk_spawnPoint":{
+    "name":"biography_areaTalk_spawnPoint", "wording":"発生場所"
+  },
+  "dialog_purchaseFailed_promotedIAPError":{
+    "name":"dialog_purchaseFailed_promotedIAPError", "wording":"購入に失敗しました。\\n再度、ストアからの購入もしくは\\nスターショップから購入をしてください。"
+  },
+  "dialog_musicFilter_existSpecial":{
+    "name":"dialog_musicFilter_existSpecial", "wording":"SPECIAL"
+  },
+  "screen_profileDesignSelect_tab_other":{
+    "name":"screen_profileDesignSelect_tab_other", "wording":"その他"
+  },
+  "dialog_billingPenalty_penaltyWarning":{
+    "name":"dialog_billingPenalty_penaltyWarning", "wording":"次回以降も返金処理後に返金分の有償スターが回収できなかった場合、\\n調査のため課金停止措置を実施する場合がございます。"
+  },
+  "tryLiveEvent_tryTargetDialogInfoCell_exConditions":{
+    "name":"tryLiveEvent_tryTargetDialogInfoCell_exConditions", "wording":"すべてのEXトライレベル{0}をクリア"
+  },
+  "word_alreadyHaveFilter":{
+    "name":"word_alreadyHaveFilter", "wording":"獲得済み絞り込み"
+  },
+  "generalElection_commentBanner_aggregate":{
+    "name":"generalElection_commentBanner_aggregate", "wording":"集計中"
+  },
+  "dialog_backstageFilter_caption_character":{
+    "name":"dialog_backstageFilter_caption_character", "wording":"キャラクター"
+  },
+  "tryLiveEvent_tryTargetDialogCell_titleMulti":{
+    "name":"tryLiveEvent_tryTargetDialogCell_titleMulti", "wording":"協力トライ"
+  },
+  "dialog_liveSettings_soundTap":{
+    "name":"dialog_liveSettings_soundTap", "wording":"タップ音"
+  },
+  "dialog_liveSetting_MVBrightness":{
+    "name":"dialog_liveSetting_MVBrightness", "wording":"MVライブモード明るさ"
+  },
+  "biography_characterProfile_class":{
+    "name":"biography_characterProfile_class", "wording":"クラス"
+  },
+  "dialog_billingPenalty_nextBillingStopWarning":{
+    "name":"dialog_billingPenalty_nextBillingStopWarning", "wording":"※次回以降も返金処理後に返金分の有償スターが回収できなかった場合、\\n再度課金停止措置を実施する場合がございます。"
+  },
+  "dialog_billingPenalty_accountStopTimingWarning":{
+    "name":"dialog_billingPenalty_accountStopTimingWarning", "wording":"※アカウントの停止措置は、\\n予告や実施のアナウンスなく実施される場合がございます。"
+  },
+  "biography_characterProfile_favoriteFood":{
+    "name":"biography_characterProfile_favoriteFood", "wording":"好きな食べ物"
+  },
+  "comicTop_buttonLabelDescription_fourFrameComic":{
+    "name":"comicTop_buttonLabelDescription_fourFrameComic", "wording":"メンバーたちの日常を切り取った４コマコミック"
+  },
+  "button_profile_friendRequest":{
+    "name":"button_profile_friendRequest", "wording":"フレンド\\n申請"
+  },
+  "tryLiveEvent_tryTargetDialogCell_life":{
+    "name":"tryLiveEvent_tryTargetDialogCell_life", "wording":"ライフ"
+  },
+  "dialog_liveSettings_systemVoiceVolume":{
+    "name":"dialog_liveSettings_systemVoiceVolume", "wording":"ボイス音量"
+  },
+  "dialog_billingPenalty_recallFailed":{
+    "name":"dialog_billingPenalty_recallFailed", "wording":"ストアにて返金処理が行われましたが、\\n返金分の有償スターが回収できませんでした。"
+  },
+  "dialog_gachaSealInheritDIalog_captionMessage2":{
+    "name":"dialog_gachaSealInheritDIalog_captionMessage2", "wording":"ガチャシールが\\n以下のように引き継がれました。"
+  },
+  "dialog_updateLoginDLData_title":{
+    "name":"dialog_updateLoginDLData_title", "wording":"データダウンロード"
+  },
+  "dialog_gachaSealInheritDIalog_captionMessage1":{
+    "name":"dialog_gachaSealInheritDIalog_captionMessage1", "wording":"{0}枚を超えたガチャシールが\\n以下のように引き継がれました。"
+  },
+  "word_stampPeriodLimited":{
+    "name":"word_stampPeriodLimited", "wording":"期間限定スタンプ"
+  },
+  "dialog_mvViewPause_exitButton":{
+    "name":"dialog_mvViewPause_exitButton", "wording":"中断"
+  },
+  "newYearCard_preparationDialog_captionBandSelect":{
+    "name":"newYearCard_preparationDialog_captionBandSelect", "wording":"選択したバンド"
+  },
+  "memberList_sortButton_sortEnabled":{
+    "name":"memberList_sortButton_sortEnabled", "wording":"適用中"
+  },
+  "word_michelleSealCount":{
+    "name":"word_michelleSealCount", "wording":"ミッシェルシールx{0}"
+  },
+  "dialog_downloadSize_withVoice":{
+    "name":"dialog_downloadSize_withVoice", "wording":"ボイスあり："
+  },
+  "header_mainTitle_biography":{
+    "name":"header_mainTitle_biography", "wording":"キャラクター図鑑"
+  },
+  "word_exchangeCell_alreadyGet":{
+    "name":"word_exchangeCell_alreadyGet", "wording":"獲得済み"
+  },
+  "dialog_profileFrameSettings_radio_normal":{
+    "name":"dialog_profileFrameSettings_radio_normal", "wording":"通常"
+  },
+  "pickupMember_changeImageButton_toAfter":{
+    "name":"pickupMember_changeImageButton_toAfter", "wording":"特訓後に変更"
+  },
+  "header_subTitle_miracleTicketExchange":{
+    "name":"header_subTitle_miracleTicketExchange", "wording":"ミラクルチケット交換所"
+  },
+  "generalElection_snsShare_message_afterglow":{
+    "name":"generalElection_snsShare_message_afterglow", "wording":"「第3回ガールズバンド総選挙」開催中___4pyo___\\nAfterglowに投票したよ♪みんなと一緒にいつも通りロックなライブをしよう___4p2j___"
+  },
+  "dialog_confirmOpponentFriendRequestReject_message":{
+    "name":"dialog_confirmOpponentFriendRequestReject_message", "wording":"フレンド申請を拒否します。\\nよろしいですか？"
+  },
+  "dialog_billingPenalty_executeBillingStop":{
+    "name":"dialog_billingPenalty_executeBillingStop", "wording":"返金分の有償スターが回収できないことが複数回確認され、\\n悪質な行為と判断されたため、課金停止措置を実施しました。"
+  },
+  "dialog_productBuyableCountOverError_message":{
+    "name":"dialog_productBuyableCountOverError_message", "wording":"購入できる回数を超えております。"
+  },
+  "header_mainTitle_profileDesignSetting":{
+    "name":"header_mainTitle_profileDesignSetting", "wording":"デコレーション設定"
+  },
+  "dialog_gachaSealDetailInformation_titleDescription":{
+    "name":"dialog_gachaSealDetailInformation_titleDescription", "wording":"ガチャシール概要"
+  },
+  "dialog_pendingPurchaseExist_message":{
+    "name":"dialog_pendingPurchaseExist_message", "wording":"前回の購入が正常に終了していません。\\nサポートよりお問い合わせください。"
+  },
+  "newYearCard_preparationDialog_title":{
+    "name":"newYearCard_preparationDialog_title", "wording":"年賀状キャンペーン"
+  },
+  "dialog_generalElection_voteComplete_description":{
+    "name":"dialog_generalElection_voteComplete_description", "wording":"投票しました。"
+  },
+  "dialog_musicSortFilter_bandAll":{
+    "name":"dialog_musicSortFilter_bandAll", "wording":"すべて"
+  },
+  "receive_loginbonus_direct":{
+    "name":"receive_loginbonus_direct", "wording":"ログインボーナスを受け取りました。"
+  },
+  "gachaTop_button_stopTryOn":{
+    "name":"gachaTop_button_stopTryOn", "wording":"試着をやめる"
+  },
+  "word_sort_skillType":{
+    "name":"word_sort_skillType", "wording":"スキル順"
+  },
+  "header_subTitle_comicTop":{
+    "name":"header_subTitle_comicTop", "wording":"コミック選択"
+  },
+  "dialog_musicSortFilter_notFullCombo":{
+    "name":"dialog_musicSortFilter_notFullCombo", "wording":"未フルコンボ"
+  },
+  "area_shop_notHaveMessage":{
+    "name":"area_shop_notHaveMessage", "wording":"購入できません"
+  },
+  "dialog_musicSortFilter_multiTitle":{
+    "name":"dialog_musicSortFilter_multiTitle", "wording":"協力ライブ絞り込み"
+  },
+  "dialog_memorialStoryFilter_title":{
+    "name":"dialog_memorialStoryFilter_title", "wording":"イベントストーリー"
+  },
+  "event_menu_fullScreenAuto":{
+    "name":"event_menu_fullScreenAuto", "wording":"全画面オート"
+  },
+  "dialog_exMissionFilter_filterTicket":{
+    "name":"dialog_exMissionFilter_filterTicket", "wording":"練習チケット"
+  },
+  "dialog_exMissionFilter_filterOther":{
+    "name":"dialog_exMissionFilter_filterOther", "wording":"その他"
+  },
+  "dialog_miracleTicketExchangeConfirm_alreadyHave":{
+    "name":"dialog_miracleTicketExchangeConfirm_alreadyHave", "wording":"このメンバーは獲得済みです"
+  },
+  "generalElection_commentBanner_openingDay":{
+    "name":"generalElection_commentBanner_openingDay", "wording":"本日より投票受付中！"
+  },
+  "biography_areaTalk_buttonWatch":{
+    "name":"biography_areaTalk_buttonWatch", "wording":"見る"
+  },
+  "dialog_loginDLDataAndVoiceDataDownload_description2":{
+    "name":"dialog_loginDLDataAndVoiceDataDownload_description2", "wording":"※キャラクターボイスをダウンロードすることで、\\n　キャラクターたちの会話をフルボイスでお楽しみいただけます。"
+  },
+  "dialog_friendRequestError_messageOpponentAlredyApplicationCancel":{
+    "name":"dialog_friendRequestError_messageOpponentAlredyApplicationCancel", "wording":"この申請は取り消されました。"
+  },
+  "gachaResult_headerCeilingAlert_message":{
+    "name":"gachaResult_headerCeilingAlert_message", "wording":"交換可能枚数に達しました"
+  },
+  "dialog_loginDLDataAndVoiceDataDownload_description1":{
+    "name":"dialog_loginDLDataAndVoiceDataDownload_description1", "wording":"[505050]基本データ・キャラクターボイスデータ[-][FF3B72]（おすすめ）[-]"
+  },
+  "april2019_storyListCell_infoRandom":{
+    "name":"april2019_storyListCell_infoRandom", "wording":"期間限定エリアにランダムで出現中！"
+  },
+  "screen_profileDesignSelect_tab_member":{
+    "name":"screen_profileDesignSelect_tab_member", "wording":"メンバー"
+  },
+  "exMission_complete_notice":{
+    "name":"exMission_complete_notice", "wording":"EXミッション達成！"
+  },
+  "dialog_twitter_cancel_warning":{
+    "name":"dialog_twitter_cancel_warning", "wording":"※シェアをするTwitterアカウントを変更したい場合、\\n一度アカウント連携を解除した上で、\\n再度アカウント連携が必要となります。"
+  },
+  "deckEdit_notExistMessage":{
+    "name":"deckEdit_notExistMessage", "wording":"絞り込み条件に該当するメンバーがいません。"
+  },
+  "dialog_gachaSealDetailInformation_titleExpiredChangeResource":{
+    "name":"dialog_gachaSealDetailInformation_titleExpiredChangeResource", "wording":"今回のガチャシール変換について"
+  },
+  "waitingRoom_notExistMessage":{
+    "name":"waitingRoom_notExistMessage", "wording":"絞り込み条件に該当するメンバーがいません。"
+  },
+  "word_album":{
+    "name":"word_album", "wording":"アルバム"
+  },
+  "tryLiveEvent_tryTargetDialogCell_combo":{
+    "name":"tryLiveEvent_tryTargetDialogCell_combo", "wording":"コンボ"
+  },
+  "dialog_generalElection_voteComplete_title":{
+    "name":"dialog_generalElection_voteComplete_title", "wording":"投票完了"
+  },
+  "dialog_userRankReward_musicDescription":{
+    "name":"dialog_userRankReward_musicDescription", "wording":"楽曲「{0}」"
+  },
+  "dialog_systemSettings_lateNightNotification":{
+    "name":"dialog_systemSettings_lateNightNotification", "wording":"深夜帯の通知"
+  },
+  "dialog_garupaCup2ndEntry_title":{
+    "name":"dialog_garupaCup2ndEntry_title", "wording":"第2回ガルパ杯エントリー"
+  },
+  "comicSelectSingleFrame_contents_notExistMessage":{
+    "name":"comicSelectSingleFrame_contents_notExistMessage", "wording":"絞り込み条件に該当するコミックがありません。"
+  },
+  "dialog_bandParam":{
+    "name":"dialog_bandParam", "wording":"バンドパラメータ"
+  },
+  "dialog_gachaSealDetailInformation_titleGachaSealInheritInfo":{
+    "name":"dialog_gachaSealDetailInformation_titleGachaSealInheritInfo", "wording":"今回のガチャシール引き継ぎについて"
+  },
+  "costumeSelect_hideDescription":{
+    "name":"costumeSelect_hideDescription", "wording":"この範囲をタップすると全画面モードが解除されます"
+  },
+  "dialog_mvLiveSelect_title":{
+    "name":"dialog_mvLiveSelect_title", "wording":"MVライブ選択"
+  },
+  "generalElection_description_result":{
+    "name":"generalElection_description_result", "wording":"投票期間は終了しました。"
+  },
+  "limitedAreaApper":{
+    "name":"limitedAreaApper", "wording":"期間限定エリア出現中！"
+  },
+  "dialog_twitter_error_description2":{
+    "name":"dialog_twitter_error_description2", "wording":"本現象が改善しない場合は、\\n画面右上「メニュー」>「サポート」より\\nお問い合わせください。"
+  },
+  "dialog_twitter_error_description1":{
+    "name":"dialog_twitter_error_description1", "wording":"Twitterアプリの起動に失敗しました。"
+  },
+  "tryLiveEvent_tryTargetDialogCell_titleJudge":{
+    "name":"tryLiveEvent_tryTargetDialogCell_titleJudge", "wording":"判定トライ"
+  },
+  "dialog_itemSetDetail_itemCount":{
+    "name":"dialog_itemSetDetail_itemCount", "wording":"×{0}"
+  },
+  "dialog_profileDesignSelect_dontHave":{
+    "name":"dialog_profileDesignSelect_dontHave", "wording":"未所持のフレームが選択されています。\\n以前の設定が適用されますがよろしいですか？"
+  },
+  "newYearCard_receivePresentDialog_periodLimit":{
+    "name":"newYearCard_receivePresentDialog_periodLimit", "wording":"閲覧期間 {0}まで"
+  },
+  "header_subTitle_memorialStorySelect":{
+    "name":"header_subTitle_memorialStorySelect", "wording":"イベントストーリー選択"
+  },
+  "newMusicIntroduction_musicInfo_tagOriginal":{
+    "name":"newMusicIntroduction_musicInfo_tagOriginal", "wording":"オリジナル"
+  },
+  "dialog_starRecall_paidStarRecall":{
+    "name":"dialog_starRecall_paidStarRecall", "wording":"回収有償スター"
+  },
+  "dialog_billingPenalty_titleBillingStop":{
+    "name":"dialog_billingPenalty_titleBillingStop", "wording":"スターショップへの課金停止"
+  },
+  "local_notification_live_boost_body_android":{
+    "name":"local_notification_live_boost_body_android", "wording":"ライブをプレイしよう！"
+  },
+  "dialog_exMissionFilter_filterMonaka":{
+    "name":"dialog_exMissionFilter_filterMonaka", "wording":"花咲屋の\nミッシェル最中"
+  },
+  "word_mvLive":{
+    "name":"word_mvLive", "wording":"MVライブ"
+  },
+  "dialog_profileCharacterIllustConfirm_title":{
+    "name":"dialog_profileCharacterIllustConfirm_title", "wording":"イラスト確認"
+  },
+  "header_subTitle_biographyCharacterAreaTalk":{
+    "name":"header_subTitle_biographyCharacterAreaTalk", "wording":"エリア会話"
+  },
+  "biography_characterProfile_band":{
+    "name":"biography_characterProfile_band", "wording":"バンド"
+  },
+  "local_notification_test_body":{
+    "name":"local_notification_test_body", "wording":"通知本文"
+  },
+  "comicTop_mainTitle_comic":{
+    "name":"comicTop_mainTitle_comic", "wording":"コミック"
+  },
+  "music_shop_cell_none_text":{
+    "name":"music_shop_cell_none_text", "wording":"絞り込み条件に該当する楽曲がありません。"
+  },
+  "dialog_gacha_characterAlbum_text_able":{
+    "name":"dialog_gacha_characterAlbum_text_able", "wording":"「{0}」の新メンバーです。\\n以下の現在開催中のガチャで出現しています。"
+  },
+  "dialog_backstageFilter_title":{
+    "name":"dialog_backstageFilter_title", "wording":"ラウンジ会話絞り込み"
+  },
+  "newYearCard_checkCardDialog_periodLimit":{
+    "name":"newYearCard_checkCardDialog_periodLimit", "wording":"閲覧期間\\n{0}まで"
+  },
+  "dialog_exchange_characterAlbum_open":{
+    "name":"dialog_exchange_characterAlbum_open", "wording":"ミッシェルシール交換所へ"
+  },
+  "gachaTop_selectBandInfo_checkBandLabel":{
+    "name":"gachaTop_selectBandInfo_checkBandLabel", "wording":"選択したバンド"
+  },
+  "dialog_sort_skillSortJudgeWithScoreUp":{
+    "name":"dialog_sort_skillSortJudgeWithScoreUp", "wording":"スコアアップ付き\\n判定強化"
+  },
+  "dialog_seasonSelect_description_season1":{
+    "name":"dialog_seasonSelect_description_season1", "wording":"香澄と仲間たちが出会った一年目の物語"
+  },
+  "dialog_sort_characterAlbum_obtained":{
+    "name":"dialog_sort_characterAlbum_obtained", "wording":"獲得状態"
+  },
+  "dialog_seasonSelect_description_season2":{
+    "name":"dialog_seasonSelect_description_season2", "wording":"香澄と仲間たちが過ごす二年目の物語"
+  },
+  "dialog_lackItemGainMethod_description_toMission":{
+    "name":"dialog_lackItemGainMethod_description_toMission", "wording":"ミッションをクリアして\\n獲得する"
+  },
+  "dialog_story_characterAlbum_text":{
+    "name":"dialog_story_characterAlbum_text", "wording":"{0}の\\nバンドストーリー{1}章で登場したメンバーです。"
+  },
+  "mission_transitionButton_album":{
+    "name":"mission_transitionButton_album", "wording":"アルバム"
+  },
+  "dialog_miracleTicket_description":{
+    "name":"dialog_miracleTicket_description", "wording":"※{0}は「メニュー」から\\n「交換所」で対象メンバーと交換できます。"
+  },
+  "header_title_comicSelectSingleFrame":{
+    "name":"header_title_comicSelectSingleFrame", "wording":"コミック"
+  },
+  "generalElection_totalVoteCounts":{
+    "name":"generalElection_totalVoteCounts", "wording":"総投票数"
+  },
+  "dialog_sort_characterAlbum_training_before":{
+    "name":"dialog_sort_characterAlbum_training_before", "wording":"特訓後"
+  },
+  "tryLiveEvent_tryTargetDialogInfoCell_conditions":{
+    "name":"tryLiveEvent_tryTargetDialogInfoCell_conditions", "wording":"すべてのトライレベル{0}をクリア"
+  },
+  "dialog_mvViewPause_resumeButton":{
+    "name":"dialog_mvViewPause_resumeButton", "wording":"再開"
+  },
+  "dialog_musicDetailInfo_mv_text":{
+    "name":"dialog_musicDetailInfo_mv_text", "wording":"MVあり"
+  },
+  "musicSelect_list_notMatchMessage":{
+    "name":"musicSelect_list_notMatchMessage", "wording":"絞り込み条件に該当する\\n楽曲がありません。"
+  },
+  "header_mainTitle_favoriteStampEdit":{
+    "name":"header_mainTitle_favoriteStampEdit", "wording":"お気に入りスタンプ設定"
+  },
+  "biography_backstage_screenMessage":{
+    "name":"biography_backstage_screenMessage", "wording":"見たことがあるラウンジ会話を振り返ろう！"
+  },
+  "dialog_musicFilter_difficultyNone":{
+    "name":"dialog_musicFilter_difficultyNone", "wording":"指定なし"
+  },
+  "dialog_lackItemGainMethod_button_toMission":{
+    "name":"dialog_lackItemGainMethod_button_toMission", "wording":"ミッション"
+  },
+  "dialog_gachaSealExchangeItemNotify_title":{
+    "name":"dialog_gachaSealExchangeItemNotify_title", "wording":"ガチャシール変換"
+  },
+  "biography_album":{
+    "name":"biography_album", "wording":"イラストを見よう"
+  },
+  "dialog_miracleTicketExchangeDone_title":{
+    "name":"dialog_miracleTicketExchangeDone_title", "wording":"交換完了"
+  },
+  "dialog_confirmViewMV_title":{
+    "name":"dialog_confirmViewMV_title", "wording":"MV再生"
+  },
+  "dialog_downloadMV_needDiskSpace":{
+    "name":"dialog_downloadMV_needDiskSpace", "wording":"※再生に必要な空き容量：{0}"
+  },
+  "word_notSetFavoriteMessage_description":{
+    "name":"word_notSetFavoriteMessage_description", "wording":"お気に入りスタンプは協力ライブのルーム選択画面から設定することができます。"
+  },
   "tryLiveEvent_tryTargetDialogInfoCell_eventFinish":{
     "name":"tryLiveEvent_tryTargetDialogInfoCell_eventFinish", "wording":"イベントは終了いたしました。\\n残りのトライ目標に挑戦することはできません。"
   },
-  "dialog_degree_notSaveMessage":{
-    "name":"dialog_degree_notSaveMessage", "wording":"変更された称号があります。\\n設定せずに他の画面へ移動しても\\nよろしいですか？"
+  "music_shop_tabText_default":{
+    "name":"music_shop_tabText_default", "wording":"試聴中の楽曲名が表示されます"
   },
   "newYearCard_receivePresentDialog_message2":{
     "name":"newYearCard_receivePresentDialog_message2", "wording":"届いた年賀状は、ホーム画面左下の\\n「年賀状キャンペーン」より確認できます。"
@@ -17,26 +1130,14 @@
   "newYearCard_receivePresentDialog_message1":{
     "name":"newYearCard_receivePresentDialog_message1", "wording":"{0}から\\n年賀状が届きました。"
   },
-  "dialog_publishConfig_rejection":{
-    "name":"dialog_publishConfig_rejection", "wording":"拒否"
-  },
-  "word_ticket":{
-    "name":"word_ticket", "wording":"チケット"
-  },
-  "biography_areaTalk_screenMessage_memorial":{
-    "name":"biography_areaTalk_screenMessage_memorial", "wording":"思い出のエリア会話を見よう！"
-  },
-  "dialog_liveSettings_liveVolumeCaption":{
-    "name":"dialog_liveSettings_liveVolumeCaption", "wording":"ライブ音量"
+  "dialog_rhythmGameSettings_selectable_goToExMission":{
+    "name":"dialog_rhythmGameSettings_selectable_goToExMission", "wording":"未所持のライブスキンが設定されています。\\n以前の設定が適用されますが\\nEXミッションへ行きますか？"
   },
   "word_liveDownload":{
     "name":"word_liveDownload", "wording":"事前ダウンロード"
   },
   "mvButton_liveMV_label":{
     "name":"mvButton_liveMV_label", "wording":"MVライブ"
-  },
-  "dialog_profileIllustConfig_caption":{
-    "name":"dialog_profileIllustConfig_caption", "wording":"プロフィールイラスト"
   },
   "dialog_garupaCup2ndEntry_descriptionTop":{
     "name":"dialog_garupaCup2ndEntry_descriptionTop", "wording":"[505050]1次予選ライブはエントリーしなくてもプレイできます。\\n第2回ガルパ杯参加希望の方は[-][FF3B72]1次予選ライブを1回以上プレイした上で、\\nエントリー[-][505050]する必要があります。\\n1次予選終了後、合計予選ハイスコアをもとに、\\n地方2次予選の出場者の選出を行います。[-]"
@@ -46,18 +1147,6 @@
   },
   "dialog_friendApprovalError_messageOpponentAlredyApprovalCancel":{
     "name":"dialog_friendApprovalError_messageOpponentAlredyApprovalCancel", "wording":"既に承認を取り消し済みです。"
-  },
-  "word_periodLimitedArea":{
-    "name":"word_periodLimitedArea", "wording":"期間限定エリア"
-  },
-  "generalElection_time_period":{
-    "name":"generalElection_time_period", "wording":"{0} 〜 {1}"
-  },
-  "dialog_productBuyableCountOverError_title":{
-    "name":"dialog_productBuyableCountOverError_title", "wording":"購入エラー"
-  },
-  "dialog_liveSettings_systemBatteryCaution":{
-    "name":"dialog_liveSettings_systemBatteryCaution", "wording":"バッテリー残量確認"
   },
   "header_subTitle_biographyCharacterProfile":{
     "name":"header_subTitle_biographyCharacterProfile", "wording":"プロフィール"
@@ -77,17 +1166,11 @@
   "dialog_garupaCup2ndEntry_confirm":{
     "name":"dialog_garupaCup2ndEntry_confirm", "wording":"第2回ガルパ杯にエントリーしますか？"
   },
-  "biography_characterAlbum_notExistMessage":{
-    "name":"biography_characterAlbum_notExistMessage", "wording":"絞り込み条件に該当するメンバーがいません。"
-  },
   "tryLiveEvent_tryLevelReward_cellNormal":{
     "name":"tryLiveEvent_tryLevelReward_cellNormal", "wording":"すべてのトライレベル{0}をクリア"
   },
   "word_liveDownloadAlready":{
     "name":"word_liveDownloadAlready", "wording":"現在追加データは\\nありません"
-  },
-  "dialog_liveSetting_specialSkin":{
-    "name":"dialog_liveSetting_specialSkin", "wording":"期間限定スキン"
   },
   "dialog_gacha_characterAlbum_text_unable":{
     "name":"dialog_gacha_characterAlbum_text_unable", "wording":"「{0}」の新メンバーです。\\n現在、開催中のガチャでは出現していません。"
@@ -98,44 +1181,29 @@
   "musicSelect_getCondition_buttonLabelBandStory":{
     "name":"musicSelect_getCondition_buttonLabelBandStory", "wording":"バンドストーリー"
   },
-  "generalElection_commentBanner_preOpen":{
-    "name":"generalElection_commentBanner_preOpen", "wording":"7/23より投票開始！"
-  },
   "caption_exchange_gachaSeal":{
     "name":"caption_exchange_gachaSeal", "wording":"交換可能対象一覧"
   },
   "dialog_friendApprovalError_messageOpponentFriendsNumIsFull":{
     "name":"dialog_friendApprovalError_messageOpponentFriendsNumIsFull", "wording":"相手のフレンド数に空きがありません。"
   },
-  "dialog_confirmViewMV_message":{
-    "name":"dialog_confirmViewMV_message", "wording":"[505050]MVを再生します。\\nよろしいですか？[-]\\n\\n[FF3B72]MV再生モード画質設定：{0}[-]"
-  },
-  "dialog_areaTalkFilter_caption_character":{
-    "name":"dialog_areaTalkFilter_caption_character", "wording":"キャラクター"
-  },
   "dialog_gachaSealInheritDialog_title":{
     "name":"dialog_gachaSealInheritDialog_title", "wording":"ガチャシール引き継ぎ"
   },
-  "dialog_gachaSealExchangeGuide_description1":{
-    "name":"dialog_gachaSealExchangeGuide_description1", "wording":"{0}"
-  },
-  "dialog_gachaSealExchangeGuide_description4":{
-    "name":"dialog_gachaSealExchangeGuide_description4", "wording":"※交換完了後、再びガチャをご利用いただけます。"
+  "musicSelect_musicNameFilter_menuName":{
+    "name":"musicSelect_musicNameFilter_menuName", "wording":"50音別"
   },
   "dialog_friendError_messageAlreadyRelease":{
     "name":"dialog_friendError_messageAlreadyRelease", "wording":"既にフレンドを解除しました。"
   },
-  "dialog_gachaSealExchangeGuide_description2":{
-    "name":"dialog_gachaSealExchangeGuide_description2", "wording":"[505050]ガチャシールの所持枚数が[-][FF3B72]{0}[-][505050]枚以上です。[-]"
-  },
   "newYearCard_errorDialog_messageOutOfTerm":{
     "name":"newYearCard_errorDialog_messageOutOfTerm", "wording":"バンド選択期間は終了しました。"
   },
-  "dialog_gachaSealExchangeGuide_description3":{
-    "name":"dialog_gachaSealExchangeGuide_description3", "wording":"交換所にて対象のメンバーやアイテムと\\n交換できます。"
-  },
   "dialog_systemSettings_lbFullRecovered":{
     "name":"dialog_systemSettings_lbFullRecovered", "wording":"全回復"
+  },
+  "dialog_rhythmGameSettings_liveSkin_missionButtonLabel":{
+    "name":"dialog_rhythmGameSettings_liveSkin_missionButtonLabel", "wording":"EXミッション"
   },
   "biography_band":{
     "name":"biography_band", "wording":"所属バンド:"
@@ -146,9 +1214,6 @@
   "word_alreadyHave":{
     "name":"word_alreadyHave", "wording":"獲得済み"
   },
-  "dialog_starShop_penalty":{
-    "name":"dialog_starShop_penalty", "wording":"課金停止中です。"
-  },
   "dialog_generalElection_voteComplete_balloonShare":{
     "name":"dialog_generalElection_voteComplete_balloonShare", "wording":"[FF3B72]初回シェア時[-]\\n[505050]投票券プレゼント[-]"
   },
@@ -158,17 +1223,8 @@
   "word_favorite":{
     "name":"word_favorite", "wording":"お気に入り"
   },
-  "mission_rewardReceiveFailed_messageOutOfTerm":{
-    "name":"mission_rewardReceiveFailed_messageOutOfTerm", "wording":"受け取り期限が切れているため\\n受け取ることができません。"
-  },
-  "multiPlay_abDownloadNotRetryableError_message":{
-    "name":"multiPlay_abDownloadNotRetryableError_message", "wording":"通信エラーが発生しました。\\nルーム選択に戻ります。"
-  },
-  "dialog_areaReleaseConditionWarehouse_caption":{
-    "name":"dialog_areaReleaseConditionWarehouse_caption", "wording":"ショップのあるエリアがロックされています。"
-  },
-  "dialog_downloadSize_none":{
-    "name":"dialog_downloadSize_none", "wording":"ダウンロードなし"
+  "dialog_liveBoostLackStar_title":{
+    "name":"dialog_liveBoostLackStar_title", "wording":"所持スター不足"
   },
   "newYearCard_preparationDialog_selectPeriodLimit":{
     "name":"newYearCard_preparationDialog_selectPeriodLimit", "wording":"バンド選択期間　{0}まで"
@@ -176,17 +1232,8 @@
   "tryLiveEvent_tryTargetDialogCell_titleScore":{
     "name":"tryLiveEvent_tryTargetDialogCell_titleScore", "wording":"スコアトライ"
   },
-  "generalElection_snsShare_message_pastelPalettes":{
-    "name":"generalElection_snsShare_message_pastelPalettes", "wording":"「第3回ガールズバンド総選挙」開催中___4pyo___\\nPastel＊Palettesに投票したよ♪みんなと一緒にとびっきりかわいいライブをしよう___4p2j___"
-  },
-  "missionLiveEvent_result_deckBonus":{
-    "name":"missionLiveEvent_result_deckBonus", "wording":"編成ボーナス"
-  },
-  "dialog_sort_skillSortDamageGuardWithScoreUp":{
-    "name":"dialog_sort_skillSortDamageGuardWithScoreUp", "wording":"スコアアップ付き\\nライフ減少無効"
-  },
-  "dialog_liveClearAPIError_notStartedLive":{
-    "name":"dialog_liveClearAPIError_notStartedLive", "wording":"通信が切断されました。\\nなお、ライブ結果は正常に反映されております。\\n\\nライブ結果が反映されていない場合は、\\nお問い合わせください。"
+  "dialog_profileDesignSelect_mission_description":{
+    "name":"dialog_profileDesignSelect_mission_description", "wording":"このフレームは\\nEXミッションで獲得できます。"
   },
   "dialog_profileCharacterIllustConfirm_message":{
     "name":"dialog_profileCharacterIllustConfirm_message", "wording":"[{0}] {1}をプロフィールイラストに設定しますか？"
@@ -194,20 +1241,11 @@
   "dialog_loginDLDataOnlyDownload_description":{
     "name":"dialog_loginDLDataOnlyDownload_description", "wording":"基本データのみ"
   },
-  "dialog_sort_captionSkill":{
-    "name":"dialog_sort_captionSkill", "wording":"スキル絞り込み"
-  },
   "dialog_sort_characterAlbum_obtained_before":{
     "name":"dialog_sort_characterAlbum_obtained_before", "wording":"未獲得"
   },
-  "biography_profile":{
-    "name":"biography_profile", "wording":"プロフィールを見よう"
-  },
-  "dialog_button_share":{
-    "name":"dialog_button_share", "wording":"シェア"
-  },
-  "newYearCard_preparationDialog_twitterShare":{
-    "name":"newYearCard_preparationDialog_twitterShare", "wording":"シェア"
+  "dialog_privacyPolicy_title":{
+    "name":"dialog_privacyPolicy_title", "wording":"プライバシーポリシー"
   },
   "comicTop_subTitle_comicSelect":{
     "name":"comicTop_subTitle_comicSelect", "wording":"コミック選択"
@@ -215,14 +1253,8 @@
   "dialog_musicSortFilter_none":{
     "name":"dialog_musicSortFilter_none", "wording":"指定なし"
   },
-  "dialog_downloadForMVView_message":{
-    "name":"dialog_downloadForMVView_message", "wording":"データダウンロード後、MVを再生します。\\nWi-Fi環境でのダウンロードをおすすめします。"
-  },
   "dialog_comicSort_allButton":{
     "name":"dialog_comicSort_allButton", "wording":"全員を選択"
-  },
-  "dialog_storySelectMusicDialog_title":{
-    "name":"dialog_storySelectMusicDialog_title", "wording":"楽曲詳細"
   },
   "dialog_sort_skillSortConditionedScoreUp":{
     "name":"dialog_sort_skillSortConditionedScoreUp", "wording":"条件付き\\nスコアアップ"
@@ -230,20 +1262,8 @@
   "header_mainTitle_memorialStory":{
     "name":"header_mainTitle_memorialStory", "wording":"イベントストーリー"
   },
-  "biography_characterProfile_school":{
-    "name":"biography_characterProfile_school", "wording":"学校"
-  },
-  "albumMission_complete_notice":{
-    "name":"albumMission_complete_notice", "wording":"アルバムミッション達成！"
-  },
   "missionLiveEvent_result_eventSupportBandTitle":{
     "name":"missionLiveEvent_result_eventSupportBandTitle", "wording":"イベントサポートバンド"
-  },
-  "twitter_newYearCard_tweetText_reading":{
-    "name":"twitter_newYearCard_tweetText_reading", "wording":"___4pyS___年賀状キャンペーン開催中___4pyo___\\n{0}から年賀状が届いたよ___4p2j___\\nログインして届いた年賀状を見よう♪\\nスター×100___4q2Q___もプレゼント！\\n https://bang-dream-gbp.onelink.me/qbvS/12d92f8 \\n"
-  },
-  "generalElection_errorMessage_outsideElection":{
-    "name":"generalElection_errorMessage_outsideElection", "wording":"総選挙イベントは終了しました。"
   },
   "generalElection_description_aggregate":{
     "name":"generalElection_description_aggregate", "wording":"投票期間は終了しました。\\n結果発表をお待ち下さい。"
@@ -260,26 +1280,11 @@
   "dialog_favoriteStampEdit_notSaveMessage":{
     "name":"dialog_favoriteStampEdit_notSaveMessage", "wording":"変更されたお気に入りスタンプがあります。\\n設定せずに他の画面へ移動しても\\nよろしいですか？"
   },
-  "biography_characterProfile_height":{
-    "name":"biography_characterProfile_height", "wording":"身長"
-  },
   "dialog_musicSortFilter_notClear":{
     "name":"dialog_musicSortFilter_notClear", "wording":"未クリア"
   },
-  "dialog_twitter_tweetComplete":{
-    "name":"dialog_twitter_tweetComplete", "wording":"Twitterでシェアが完了しました。"
-  },
-  "generalElection_snsShare_message_helloHappyWorld":{
-    "name":"generalElection_snsShare_message_helloHappyWorld", "wording":"「第3回ガールズバンド総選挙」開催中___4pyo___\\nハロー、ハッピーワールド！に投票したよ♪みんなと一緒に世界を笑顔にするライブをしよう___4p2j___"
-  },
-  "word_valueInvalid":{
-    "name":"word_valueInvalid", "wording":"--"
-  },
-  "popup_eventSupportBand_totalParam":{
-    "name":"popup_eventSupportBand_totalParam", "wording":"イベントサポートバンド総合力"
-  },
-  "newYearCard_bandSelectDialog_title":{
-    "name":"newYearCard_bandSelectDialog_title", "wording":"バンドを選択"
+  "mission_noMissionEX_message":{
+    "name":"mission_noMissionEX_message", "wording":"現在挑戦可能なEXミッションはありません。"
   },
   "dialog_updateLoginDLData_description1":{
     "name":"dialog_updateLoginDLData_description1", "wording":"追加データをダウンロードします。\\nWi-Fi環境でのダウンロードをおすすめします。"
@@ -287,17 +1292,11 @@
   "generalElection_commentBanner_open2nd":{
     "name":"generalElection_commentBanner_open2nd", "wording":"中間結果発表中！"
   },
-  "tryLiveEvent_tryTargetDialogCell_titleCombo":{
-    "name":"tryLiveEvent_tryTargetDialogCell_titleCombo", "wording":"コンボトライ"
-  },
   "header_subTitle_illustList":{
     "name":"header_subTitle_illustList", "wording":"イラスト一覧"
   },
   "dialog_updateLoginDLData_description2":{
     "name":"dialog_updateLoginDLData_description2", "wording":"※キャンセルを選択した場合、タイトル画面から\\nもう一度選択することができます。"
-  },
-  "header_subTitle_gachaSeal":{
-    "name":"header_subTitle_gachaSeal", "wording":"ガチャシール交換所"
   },
   "biography_characterProfile_grade":{
     "name":"biography_characterProfile_grade", "wording":"学年"
@@ -308,20 +1307,14 @@
   "dialog_sort_characterAlbum_filter":{
     "name":"dialog_sort_characterAlbum_filter", "wording":"絞り込み"
   },
-  "storyEvent_story_appeal":{
-    "name":"storyEvent_story_appeal", "wording":"限定ストーリーをみよう!"
+  "dialog_ageAuthDone_message15":{
+    "name":"dialog_ageAuthDone_message15", "wording":"[505050]年齢を確認しました。\\n\\nあなたの課金上限\\n[-][FE2349]16歳未満\\n月額5,400円(税込)まで[-]"
   },
-  "tryLiveEvent_tryTargetDialogInfoCell_exCaption":{
-    "name":"tryLiveEvent_tryTargetDialogInfoCell_exCaption", "wording":"次のEXトライレベル報酬"
-  },
-  "tryLiveEvent_tryLevelReward_footer":{
-    "name":"tryLiveEvent_tryLevelReward_footer", "wording":"EXトライはすべてのトライレベル{0}をクリアすると挑戦できます。"
+  "dialog_ageAuthDone_message16":{
+    "name":"dialog_ageAuthDone_message16", "wording":"[505050]年齢を確認しました。\\n\\nあなたの課金上限\\n[-][FE2349]16歳以上20歳未満\\n月額10,800円(税込)まで[-]"
   },
   "dialog_areaReleaseCondition_userRank":{
     "name":"dialog_areaReleaseCondition_userRank", "wording":"プレイヤーランク {0} 以上で解放"
-  },
-  "word_skip":{
-    "name":"word_skip", "wording":"スキップ"
   },
   "mission_liveEvent_period_caption":{
     "name":"mission_liveEvent_period_caption", "wording":"開催期間 MM/dd HH:mmまで"
@@ -329,20 +1322,14 @@
   "dialog_profileCharacterIllustSortFilter_title":{
     "name":"dialog_profileCharacterIllustSortFilter_title", "wording":"イラスト並べ替え"
   },
-  "dialog_favoriteStampEdit_saveMessage":{
-    "name":"dialog_favoriteStampEdit_saveMessage", "wording":"スタンプを設定しました。\\nルーム選択画面に戻ります。"
-  },
   "dialog_twitter_tweetCancel":{
     "name":"dialog_twitter_tweetCancel", "wording":"Twitterでのシェアをキャンセルしました。\\n\\nTwitterアカウントの連携は\\n以下のボタンより解除できます。"
   },
+  "dialog_areaItemRecommend_allType":{
+    "name":"dialog_areaItemRecommend_allType", "wording":"すべてのタイプ"
+  },
   "dialog_gachaResultSituationAlreadyHave":{
     "name":"dialog_gachaResultSituationAlreadyHave", "wording":"獲得済みのメンバーは控え室に送られました"
-  },
-  "tryLiveEvent_tryLevelReward_cellExtra":{
-    "name":"tryLiveEvent_tryLevelReward_cellExtra", "wording":"すべてのEXトライレベル{0}をクリア"
-  },
-  "event_tryLevel_reward":{
-    "name":"event_tryLevel_reward", "wording":"トライレベル報酬"
   },
   "comicTop_buttonLabelDescription_singleFrameComic":{
     "name":"comicTop_buttonLabelDescription_singleFrameComic", "wording":"メンバーたちの日常を切り取った１コマコミック"
@@ -356,17 +1343,11 @@
   "header_subTitle_comicSelectFourFrame":{
     "name":"header_subTitle_comicSelectFourFrame", "wording":"もっと！ガルパライフ"
   },
-  "dialog_musicSortFilter_toDefault":{
-    "name":"dialog_musicSortFilter_toDefault", "wording":"デフォルトに戻す"
-  },
   "header_subTitle_exchange":{
     "name":"header_subTitle_exchange", "wording":"ミッシェルシール交換所"
   },
   "dialog_liveSettings_light":{
     "name":"dialog_liveSettings_light", "wording":"軽量"
-  },
-  "dialog_copyConfirm_garupaCup2ndEntryPlayerIdCopy":{
-    "name":"dialog_copyConfirm_garupaCup2ndEntryPlayerIdCopy", "wording":"エントリー用プレイヤーIDをコピーしました。"
   },
   "gachaTop_changeTicket":{
     "name":"gachaTop_changeTicket", "wording":"チケットで引く"
@@ -374,14 +1355,8 @@
   "dialog_pickupMember_title":{
     "name":"dialog_pickupMember_title", "wording":"ピックアップメンバー"
   },
-  "musicSelect_getCondition_buttonLabelMainStory":{
-    "name":"musicSelect_getCondition_buttonLabelMainStory", "wording":"メインストーリー"
-  },
   "mission_rewardReceiveFailed_messageNone":{
     "name":"mission_rewardReceiveFailed_messageNone", "wording":"受け取れるミッション報酬はありません。"
-  },
-  "dialog_starRecall_description":{
-    "name":"dialog_starRecall_description", "wording":"ストアにて返金処理が行われたため、\\n返金分の有償スターを回収いたしました。"
   },
   "dialog_pendingPurchaseExist_title":{
     "name":"dialog_pendingPurchaseExist_title", "wording":"現在の購入ステータス"
@@ -389,23 +1364,11 @@
   "dialog_gachaSealDetailInformation_titleAttention":{
     "name":"dialog_gachaSealDetailInformation_titleAttention", "wording":"注意事項"
   },
-  "word_high":{
-    "name":"word_high", "wording":"高"
-  },
   "word_friendRequestRelease":{
     "name":"word_friendRequestRelease", "wording":"申請\\n取り消し"
   },
   "pickupMember_changeImageButton_toBefore":{
     "name":"pickupMember_changeImageButton_toBefore", "wording":"特訓前に変更"
-  },
-  "dialog_liveSettings_toDefault":{
-    "name":"dialog_liveSettings_toDefault", "wording":"デフォルトに戻す"
-  },
-  "dialog_sealExchange_filterTicket":{
-    "name":"dialog_sealExchange_filterTicket", "wording":"チケット"
-  },
-  "dialog_few_storage_MV_download":{
-    "name":"dialog_few_storage_MV_download", "wording":"端末の空き容量が不足しているため、\\nMVをダウンロードすることができません。\\n"
   },
   "dialog_musicSortFilter_musicLevel":{
     "name":"dialog_musicSortFilter_musicLevel", "wording":"楽曲レベル順"
@@ -413,20 +1376,17 @@
   "tryLiveEvent_tryTargetDialogInfoCell_caption":{
     "name":"tryLiveEvent_tryTargetDialogInfoCell_caption", "wording":"次のトライレベル報酬"
   },
-  "dialog_event_characterAlbum_text_unable":{
-    "name":"dialog_event_characterAlbum_text_unable", "wording":"イベント「{0}」の新メンバーです。\\n現在、開催中のイベント、及び\\nミッシェルシール交換所では獲得できません。"
-  },
   "word_backstage":{
     "name":"word_backstage", "wording":"ラウンジ会話"
   },
   "dialog_systemSettings_captionNotification":{
     "name":"dialog_systemSettings_captionNotification", "wording":"通知"
   },
-  "dialog_starShop_premiumPassExpiredDays":{
-    "name":"dialog_starShop_premiumPassExpiredDays", "wording":"購入後{0}日間以内に最大{1}回プレゼントを\\n受け取ることができます。"
+  "dialog_lackItemGainMethod_description_toExchange":{
+    "name":"dialog_lackItemGainMethod_description_toExchange", "wording":"ミッシェルシールと\\n交換して獲得する"
   },
-  "tryLiveEvent_tryTargetDialogCell_levelDiv":{
-    "name":"tryLiveEvent_tryTargetDialogCell_levelDiv", "wording":"/"
+  "dialog_starShop_premiumPassExpiredDays":{
+    "name":"dialog_starShop_premiumPassExpiredDays", "wording":"購入後{0}日間以内に最大{1}回\\nプレゼントを受け取ることができます。"
   },
   "dialog_moviePlayConfirm_title":{
     "name":"dialog_moviePlayConfirm_title", "wording":"確認"
@@ -434,23 +1394,14 @@
   "dialog_degree_saveMessage":{
     "name":"dialog_degree_saveMessage", "wording":"称号を設定しました。\\nプロフィール画面に戻ります。"
   },
-  "dialog_liveSettings_feverMode":{
-    "name":"dialog_liveSettings_feverMode", "wording":"FEVER演出"
-  },
-  "dialog_gachaSealDetailInformation_titleCost":{
-    "name":"dialog_gachaSealDetailInformation_titleCost", "wording":"交換に必要な枚数"
-  },
   "dialog_musicSortFilter_category":{
     "name":"dialog_musicSortFilter_category", "wording":"カテゴリ"
-  },
-  "dialog_movieSkip_title":{
-    "name":"dialog_movieSkip_title", "wording":"スキップ"
   },
   "generalElection_description_preOpen":{
     "name":"generalElection_description_preOpen", "wording":"投票期間開始まで\\nしばらくお待ち下さい。"
   },
-  "gachaTop_haveStar":{
-    "name":"gachaTop_haveStar", "wording":"所持スター"
+  "word_playSimple":{
+    "name":"word_playSimple", "wording":"再生"
   },
   "word_exchangeCell_remain":{
     "name":"word_exchangeCell_remain", "wording":"残り"
@@ -467,14 +1418,8 @@
   "dialog_miracleTicketExchangeDone_message":{
     "name":"dialog_miracleTicketExchangeDone_message", "wording":"{0}と交換しました。"
   },
-  "gachaTop_button_tryOn":{
-    "name":"gachaTop_button_tryOn", "wording":"衣装を試着"
-  },
   "dialog_profileIllustConfig_mainBandLeader":{
     "name":"dialog_profileIllustConfig_mainBandLeader", "wording":"メインバンドのリーダー"
-  },
-  "speciallottery_2018newyearButton":{
-    "name":"speciallottery_2018newyearButton", "wording":"おみくじを引く"
   },
   "header_title_comicSelectFourFrame":{
     "name":"header_title_comicSelectFourFrame", "wording":"コミック"
@@ -482,14 +1427,11 @@
   "local_notification_test_title":{
     "name":"local_notification_test_title", "wording":"通知タイトル"
   },
-  "word_limitedTime":{
-    "name":"word_limitedTime", "wording":"期間限定"
-  },
   "dialog_liveSettings_tabLiveStagingVolumeSetting":{
     "name":"dialog_liveSettings_tabLiveStagingVolumeSetting", "wording":"ライブ演出・音量設定"
   },
-  "twitter_newYearCard_hashTag_choice":{
-    "name":"twitter_newYearCard_hashTag_choice", "wording":"#バンドリ,#ガルパ,#ガルパ年賀状"
+  "dialog_liveBoostLack_caption2":{
+    "name":"dialog_liveBoostLack_caption2", "wording":"所持ライブブースト"
   },
   "dialog_generalElection_voteConfirm_title":{
     "name":"dialog_generalElection_voteConfirm_title", "wording":"投票確認"
@@ -503,17 +1445,14 @@
   "dialog_publishConfig_accepting":{
     "name":"dialog_publishConfig_accepting", "wording":"受付中"
   },
+  "dialog_musicSortFilter_versusTitle":{
+    "name":"dialog_musicSortFilter_versusTitle", "wording":"対バンライブ絞り込み"
+  },
   "dialog_gachaSealDetailInformation_titleExchangeTargets":{
     "name":"dialog_gachaSealDetailInformation_titleExchangeTargets", "wording":"交換対象"
   },
   "dialog_button_savePicture":{
     "name":"dialog_button_savePicture", "wording":"画像を保存"
-  },
-  "dialog_liveSettings_vibrationCaption":{
-    "name":"dialog_liveSettings_vibrationCaption", "wording":"ライブ振動"
-  },
-  "friendList_sortingType_lastLoginAt":{
-    "name":"friendList_sortingType_lastLoginAt", "wording":"最終ログイン"
   },
   "dialog_musicSortFilter_bandOther":{
     "name":"dialog_musicSortFilter_bandOther", "wording":"その他"
@@ -524,23 +1463,8 @@
   "generalElection_tutorialSlide_title":{
     "name":"generalElection_tutorialSlide_title", "wording":"総選挙について"
   },
-  "dialog_systyemSettings_notificationDescription":{
-    "name":"dialog_systyemSettings_notificationDescription", "wording":"※端末の設定で通知をOFFにしている場合、アプリからの通知が届きません。\n　ご注意ください。\n※深夜帯にあたる時刻は、0:00〜5:59までです。"
-  },
-  "dialog_generalElection_voteBandSelect_voteCountSelect":{
-    "name":"dialog_generalElection_voteBandSelect_voteCountSelect", "wording":"投票枚数選択"
-  },
-  "dialog_event_characterAlbum_text_able":{
-    "name":"dialog_event_characterAlbum_text_able", "wording":"イベント「{0}」の新メンバーです。\\n現在開催中のイベントで登場しています。"
-  },
-  "dialog_exchange_alreadyHaveFilterMember":{
-    "name":"dialog_exchange_alreadyHaveFilterMember", "wording":"メンバー"
-  },
   "dialog_systemSettings_captionLiveResource":{
     "name":"dialog_systemSettings_captionLiveResource", "wording":"ライブ中メンバー演出"
-  },
-  "generalElection_interimReportTime":{
-    "name":"generalElection_interimReportTime", "wording":"中間発表"
   },
   "dialog_fewStorage_loginMovieDownload":{
     "name":"dialog_fewStorage_loginMovieDownload", "wording":"端末の空き容量が不足しているため、\\n動画データのダウンロードができません。"
@@ -548,11 +1472,11 @@
   "memorialStory_contents_notExistMessage":{
     "name":"memorialStory_contents_notExistMessage", "wording":"絞り込み条件に該当するイベントストーリーがありません。"
   },
-  "dialog_specialSkinDetailSetting_judge":{
-    "name":"dialog_specialSkinDetailSetting_judge", "wording":"期間限定判定テキスト"
-  },
   "dialog_sealExchange_filterStamp":{
     "name":"dialog_sealExchange_filterStamp", "wording":"スタンプ"
+  },
+  "item_profileDesignSelect_frameDontHave":{
+    "name":"item_profileDesignSelect_frameDontHave", "wording":"未所持"
   },
   "header_subTitle_april2019":{
     "name":"header_subTitle_april2019", "wording":"お話一覧"
@@ -560,35 +1484,17 @@
   "dialog_loadABFailureAndBackTitle_message":{
     "name":"dialog_loadABFailureAndBackTitle_message", "wording":"一部データの読み込みに失敗したため、\\nタイトル画面に戻りました。\\n\\n本現象が改善しない場合は、\\nお問い合わせください。"
   },
-  "newYearCard_preparationDialog_bandReselectButton":{
-    "name":"newYearCard_preparationDialog_bandReselectButton", "wording":"バンドを\\n選択し直す"
+  "dialog_exMissionFilter_filterCoin":{
+    "name":"dialog_exMissionFilter_filterCoin", "wording":"コイン"
   },
   "caption_exchange_gachaSealName":{
     "name":"caption_exchange_gachaSealName", "wording":"{0}ガチャシール"
   },
-  "dialog_mvViewPause_title":{
-    "name":"dialog_mvViewPause_title", "wording":"一時中断"
-  },
-  "dialog_disableDL":{
-    "name":"dialog_disableDL", "wording":"※ライブ終了後、ダウンロードが可能になります。"
-  },
   "pickupMember_footter_message1":{
     "name":"pickupMember_footter_message1", "wording":"※各パラメータは特訓後、レベルMAXの値を表示しています。"
   },
-  "gachaTop_haveGachaSeal":{
-    "name":"gachaTop_haveGachaSeal", "wording":"所持ガチャシール"
-  },
-  "biography_memorialStory":{
-    "name":"biography_memorialStory", "wording":"イベント\\nストーリー"
-  },
   "biography_characterProfile_buttonEpisode":{
     "name":"biography_characterProfile_buttonEpisode", "wording":"自己紹介エピソード"
-  },
-  "dialog_liveSettings_tabLiveSkinSetting":{
-    "name":"dialog_liveSettings_tabLiveSkinSetting", "wording":"ライブスキン設定"
-  },
-  "word_sort_paramPublished":{
-    "name":"word_sort_paramPublished", "wording":"登場順"
   },
   "mission_transitionButton_lineFriendRegistry":{
     "name":"mission_transitionButton_lineFriendRegistry", "wording":"友だち追加"
@@ -608,44 +1514,17 @@
   "dialog_downloadForMVView_title":{
     "name":"dialog_downloadForMVView_title", "wording":"MV再生"
   },
-  "dialog_bandSelectConfirm_selectedBand":{
-    "name":"dialog_bandSelectConfirm_selectedBand", "wording":"{0}の\\nメンバーのみが出現します。"
-  },
-  "dialog_profileIllustConfig_selectIllustButton":{
-    "name":"dialog_profileIllustConfig_selectIllustButton", "wording":"イラストを選択"
-  },
-  "dialog_friendRequestError_messageOpponentNotAccept":{
-    "name":"dialog_friendRequestError_messageOpponentNotAccept", "wording":"相手がフレンド申請の設定を\\n拒否にしています。"
-  },
-  "dialog_sealExchange_title":{
-    "name":"dialog_sealExchange_title", "wording":"交換所絞り込み"
+  "dialog_decoFrameLevelUp_pinsSpace":{
+    "name":"dialog_decoFrameLevelUp_pinsSpace", "wording":"ピンズスペース"
   },
   "dialog_musicShopBuyConfirm_title":{
     "name":"dialog_musicShopBuyConfirm_title", "wording":"購入確認"
-  },
-  "dialog_musicSortFilter_original":{
-    "name":"dialog_musicSortFilter_original", "wording":"オリジナル"
-  },
-  "dialog_liveSettings_laneEffect":{
-    "name":"dialog_liveSettings_laneEffect", "wording":"レーンエフェクト"
-  },
-  "dialog_downloadSize":{
-    "name":"dialog_downloadSize", "wording":"ダウンロードサイズ"
   },
   "tutorial_slideTitle_gachaCeiling":{
     "name":"tutorial_slideTitle_gachaCeiling", "wording":"ガチャシールについて"
   },
   "word_low":{
     "name":"word_low", "wording":"低"
-  },
-  "dialog_sort_characterAlbum_training_all":{
-    "name":"dialog_sort_characterAlbum_training_all", "wording":"すべて"
-  },
-  "dialog_billingPenalty_executeBillingStopForever":{
-    "name":"dialog_billingPenalty_executeBillingStopForever", "wording":"返金分の有償スターが回収できないことが複数回確認され、\\n悪質な行為と判断されたため、無期限の課金停止措置を実施しました。"
-  },
-  "dialog_liveSettings_rhythmIcon":{
-    "name":"dialog_liveSettings_rhythmIcon", "wording":"リズムアイコン"
   },
   "dialog_generalElection_snsShareReward_title":{
     "name":"dialog_generalElection_snsShareReward_title", "wording":"初回シェアボーナス"
@@ -665,29 +1544,14 @@
   "mission_albumMission_noExist":{
     "name":"mission_albumMission_noExist", "wording":"現在挑戦可能な\\nアルバムミッションはありません。"
   },
-  "dialog_starRecall_paidStarPossession":{
-    "name":"dialog_starRecall_paidStarPossession", "wording":"所持有償スター"
-  },
-  "word_toApply":{
-    "name":"word_toApply", "wording":"適用する"
+  "dialog_lackItemGainMethod_description_toLive":{
+    "name":"dialog_lackItemGainMethod_description_toLive", "wording":"ライブ報酬で獲得する"
   },
   "word_setting_confirm":{
     "name":"word_setting_confirm", "wording":"設定完了"
   },
-  "dialog_sort_alreadyOwn":{
-    "name":"dialog_sort_alreadyOwn", "wording":"獲得済み"
-  },
-  "dialog_billingPenalty_accountStopWarningAfterSecondTime":{
-    "name":"dialog_billingPenalty_accountStopWarningAfterSecondTime", "wording":"※さらに悪質な行為と判断された場合、アカウントの停止措置を実施します。"
-  },
-  "newYearCard_bandSelect_notSet":{
-    "name":"newYearCard_bandSelect_notSet", "wording":"指定なし"
-  },
-  "caption_exchange_gachaName":{
-    "name":"caption_exchange_gachaName", "wording":"[{0}]"
-  },
-  "word_comment":{
-    "name":"word_comment", "wording":"コメント"
+  "dialog_exMissionFilter_filterStar":{
+    "name":"dialog_exMissionFilter_filterStar", "wording":"スター"
   },
   "dialog_resourceLoadError_message":{
     "name":"dialog_resourceLoadError_message", "wording":"データの読み込みに失敗しました"
@@ -701,20 +1565,11 @@
   "dialog_musicShopBuyComplete_title":{
     "name":"dialog_musicShopBuyComplete_title", "wording":"購入完了"
   },
-  "dialog_exchangetitle_seal":{
-    "name":"dialog_exchangetitle_seal", "wording":"このアイテムと交換しますか？"
-  },
-  "word_notSetFavoriteMessage":{
-    "name":"word_notSetFavoriteMessage", "wording":"お気に入りスタンプを設定していません。"
-  },
-  "generalElection_snsShare_hashTag":{
-    "name":"generalElection_snsShare_hashTag", "wording":"#バンドリ #ガルパ #第3回ガールズバンド総選挙"
-  },
   "dialog_favoriteStampEdit_resetMessage":{
     "name":"dialog_favoriteStampEdit_resetMessage", "wording":"お気に入りスタンプをリセットします。\\nよろしいですか？"
   },
-  "biography_characterProfile_buttonEpisode1":{
-    "name":"biography_characterProfile_buttonEpisode1", "wording":"自己紹介エピソード1"
+  "button_mvLiveSelect_text":{
+    "name":"button_mvLiveSelect_text", "wording":"MVライブ選択"
   },
   "header_subTitle_comicSelectSingleFrame":{
     "name":"header_subTitle_comicSelectSingleFrame", "wording":"ちょこっと！ガルパライフ"
@@ -722,29 +1577,17 @@
   "header_subTitle_biographyAreaTalk":{
     "name":"header_subTitle_biographyAreaTalk", "wording":"エリア会話"
   },
-  "dialog_systemSettings_captionSystem":{
-    "name":"dialog_systemSettings_captionSystem", "wording":"システム"
-  },
-  "biography_characterProfile_buttonEpisode2":{
-    "name":"biography_characterProfile_buttonEpisode2", "wording":"自己紹介エピソード2"
-  },
   "dialog_decksort_filter":{
     "name":"dialog_decksort_filter", "wording":"絞り込み"
-  },
-  "share_birthdayCard_message":{
-    "name":"share_birthdayCard_message", "wording":"本日{0}は、{1}の{2}担当、{3}の誕生日___4p2j___\\n{4}に贈られたバースデーカードはこちら___4pyo___\\nお誕生日おめでとう___4pi6___‼"
   },
   "dialog_sealExchange_filterMainItem":{
     "name":"dialog_sealExchange_filterMainItem", "wording":"主要アイテム"
   },
-  "dialog_generalElection_voteBandSelect_title":{
-    "name":"dialog_generalElection_voteBandSelect_title", "wording":"投票選択"
+  "musicSelect_musicNameFilter_columnA":{
+    "name":"musicSelect_musicNameFilter_columnA", "wording":"あ行"
   },
   "word_gachaSealUnit":{
     "name":"word_gachaSealUnit", "wording":"{0}枚"
-  },
-  "word_favoriteStamp":{
-    "name":"word_favoriteStamp", "wording":"お気に入りスタンプ"
   },
   "pickupMember_footter_message2":{
     "name":"pickupMember_footter_message2", "wording":"※スキルLv.5の状態を表示しています。"
@@ -755,32 +1598,14 @@
   "dialog_sort_characterAlbum":{
     "name":"dialog_sort_characterAlbum", "wording":"アルバム並べ替え"
   },
-  "dialog_liveSettings_tapVibration":{
-    "name":"dialog_liveSettings_tapVibration", "wording":"タップ時振動"
-  },
-  "dialog_sort_characterAlbum_obtained_after":{
-    "name":"dialog_sort_characterAlbum_obtained_after", "wording":"獲得済み"
-  },
-  "tryLiveEvent_tryTargetDialogCell_score":{
-    "name":"tryLiveEvent_tryTargetDialogCell_score", "wording":"スコア"
-  },
   "dialog_deckRecommend_bonusCharacter":{
     "name":"dialog_deckRecommend_bonusCharacter", "wording":"キャラクター\\nボーナス対象"
-  },
-  "tryLiveEvent_tryTargetDialogCell_titleLife":{
-    "name":"tryLiveEvent_tryTargetDialogCell_titleLife", "wording":"ライフトライ"
   },
   "dialog_movieSkip_message":{
     "name":"dialog_movieSkip_message", "wording":"このムービーをスキップしてもよろしいですか？"
   },
-  "dialog_bandStory_appeal_title":{
-    "name":"dialog_bandStory_appeal_title", "wording":"案内"
-  },
   "dialog_starShop_penaltyAnnotation":{
     "name":"dialog_starShop_penaltyAnnotation", "wording":"※課金停止措置について不明な点がございましたら、\\nタイトル画面の「お問い合わせ」よりお問い合わせください。"
-  },
-  "dialog_profileIllustConfig_selectMySelf":{
-    "name":"dialog_profileIllustConfig_selectMySelf", "wording":"自分で選ぶ"
   },
   "dialog_profileIllustConfig_description":{
     "name":"dialog_profileIllustConfig_description", "wording":"※「自分で選ぶ」を選択した場合でも、協力ライブや対バンライブのマッチング画面など\n　  一部の画面では、メインバンドのリーダーのイラストが表示されます。"
@@ -791,17 +1616,11 @@
   "comicTop_buttonLabel_singleFrameComic":{
     "name":"comicTop_buttonLabel_singleFrameComic", "wording":"ちょこっと！ガルパライフ"
   },
-  "dialog_few_storage_common":{
-    "name":"dialog_few_storage_common", "wording":"端末の空き容量の確認を行ってください。"
-  },
-  "tryLiveEvent_tryTargetDialogCell_judge":{
-    "name":"tryLiveEvent_tryTargetDialogCell_judge", "wording":"判定"
+  "dialog_musicSortFilter_musicNameFilterCaution":{
+    "name":"dialog_musicSortFilter_musicNameFilterCaution", "wording":"※50音別絞り込みを適用している間は、ソート順が「{0}」となります。"
   },
   "dialog_liveSettings_liveBgmVolume":{
     "name":"dialog_liveSettings_liveBgmVolume", "wording":"楽曲"
-  },
-  "dialog_downloadForMVLive_message":{
-    "name":"dialog_downloadForMVLive_message", "wording":"MVデータのダウンロードを開始します。\\nWi-Fi環境でのダウンロードをおすすめします。"
   },
   "tutorial_slideTitle_bandSelectGacha":{
     "name":"tutorial_slideTitle_bandSelectGacha", "wording":"バンド別１人★４確定ガチャについて"
@@ -809,41 +1628,20 @@
   "dialog_sort_skillSortScoreUp":{
     "name":"dialog_sort_skillSortScoreUp", "wording":"スコアアップ"
   },
-  "generalElection_voteUnit":{
-    "name":"generalElection_voteUnit", "wording":"票"
-  },
-  "dialog_rhythmgamePause_garupaCup2ndBody":{
-    "name":"dialog_rhythmgamePause_garupaCup2ndBody", "wording":"{0}ライブを中断して\\nガルパ杯TOPページに戻りますか？[-]\\n{1}消費した挑戦可能回数は戻りません。[-]"
+  "musicSelect_musicNameFilter_notSpecified":{
+    "name":"musicSelect_musicNameFilter_notSpecified", "wording":"指定なし"
   },
   "dialog_mvViewPause_message":{
     "name":"dialog_mvViewPause_message", "wording":"MVの再生を中断してホームに戻りますか？"
   },
-  "dialog_starRecall_title":{
-    "name":"dialog_starRecall_title", "wording":"返金分有償スター回収"
-  },
-  "dialog_garupaCup2ndEntry_descriptionResult":{
-    "name":"dialog_garupaCup2ndEntry_descriptionResult", "wording":"[505050]1次予選ライブはエントリーしなくてもプレイできます。\\n第2回ガルパ杯参加希望の方はエントリーする必要があります。\\n１次予選終了後、合計予選ハイスコアをもとに、\\n地方2次予選の出場者の選出を行います。[-]"
+  "dialog_mvViewSelect_title":{
+    "name":"dialog_mvViewSelect_title", "wording":"MV再生"
   },
   "musicSelect_sortButton_sortEnabled":{
     "name":"musicSelect_sortButton_sortEnabled", "wording":"適用中"
   },
-  "dialog_generalElection_voteComplete_descriptionShare":{
-    "name":"dialog_generalElection_voteComplete_descriptionShare", "wording":"投票内容をシェアできます。"
-  },
-  "biography_areaTalk_tab_memorial":{
-    "name":"biography_areaTalk_tab_memorial", "wording":"思い出の会話"
-  },
-  "biography_characterProfile_constellation":{
-    "name":"biography_characterProfile_constellation", "wording":"星座"
-  },
-  "generalElection_commentBanner_open1st":{
-    "name":"generalElection_commentBanner_open1st", "wording":"投票受付中！"
-  },
-  "dialog_musicFilter_existMV":{
-    "name":"dialog_musicFilter_existMV", "wording":"MVあり"
-  },
   "dialog_downloadMV_dlSize":{
-    "name":"dialog_downloadMV_dlSize", "wording":"ダウンロードサイズ：およそ{0}MB"
+    "name":"dialog_downloadMV_dlSize", "wording":"※ダウンロードサイズ：{0}"
   },
   "mvButton_playMV_label":{
     "name":"mvButton_playMV_label", "wording":"MV再生"
@@ -860,9 +1658,6 @@
   "mission_completeMissionLiveEvent_message":{
     "name":"mission_completeMissionLiveEvent_message", "wording":"すべてのイベントミッションを達成しました。"
   },
-  "gachaResult_disableCeilingAlert_buttonLabel":{
-    "name":"gachaResult_disableCeilingAlert_buttonLabel", "wording":"ガチャシールの交換完了後\\n再びご利用いただけます"
-  },
   "dialog_areaTalkFilter_caption_area":{
     "name":"dialog_areaTalkFilter_caption_area", "wording":"エリア"
   },
@@ -872,47 +1667,20 @@
   "dialog_twitter_logout_button":{
     "name":"dialog_twitter_logout_button", "wording":"アカウント連携を解除"
   },
-  "dialog_miracleTicketExchangeConfirm_title":{
-    "name":"dialog_miracleTicketExchangeConfirm_title", "wording":"このメンバーと交換しますか？"
-  },
   "dialog_specialSkinDetailSetting_title":{
     "name":"dialog_specialSkinDetailSetting_title", "wording":"期間限定スキン個別設定"
-  },
-  "header_mainTitle_april2019":{
-    "name":"header_mainTitle_april2019", "wording":"モカランド"
-  },
-  "dialog_few_storage_MV":{
-    "name":"dialog_few_storage_MV", "wording":"端末の空き容量が不足しているため、\\nMVを再生することができません。\\n"
   },
   "dialog_areaTalkFilter_description":{
     "name":"dialog_areaTalkFilter_description", "wording":"※選択したキャラクターのみ、またはキャラクター同士のみが登場している\\nエリア会話が表示されます。"
   },
-  "dialog_publishConfig_title":{
-    "name":"dialog_publishConfig_title", "wording":"プロフィール情報設定"
-  },
-  "dialog_profileConfig_tabProfileIllustSettings":{
-    "name":"dialog_profileConfig_tabProfileIllustSettings", "wording":"プロフィールイラスト設定"
-  },
-  "dialog_deckRecommend_priorityMember":{
-    "name":"dialog_deckRecommend_priorityMember", "wording":"メンバー"
-  },
   "mission_noMissionLiveEvent_message":{
     "name":"mission_noMissionLiveEvent_message", "wording":"現在挑戦可能な\\nイベントミッションはありません。"
-  },
-  "costumeSelect_defaultCell_cellContent":{
-    "name":"costumeSelect_defaultCell_cellContent", "wording":"※メイン設定で編成されていない場合は\\n「{0}」になります。"
   },
   "tryLiveEvent_tryTargetDialogCell_level":{
     "name":"tryLiveEvent_tryTargetDialogCell_level", "wording":"レベル"
   },
   "dialog_few_storage_need":{
     "name":"dialog_few_storage_need", "wording":"必要な空き容量：およそ{0}MB以上"
-  },
-  "dialog_copyConfirm_roomID":{
-    "name":"dialog_copyConfirm_roomID", "wording":"ルーム番号をコピーしました。"
-  },
-  "michelleSeal_description":{
-    "name":"michelleSeal_description", "wording":"ミッシェルの顔が描かれたシール。ミッシェルシール交換所で各種アイテム等と交換できる。"
   },
   "dialog_twitter_not_install_description1":{
     "name":"dialog_twitter_not_install_description1", "wording":"公式のTwitterアプリが\\nインストールされていません。"
@@ -923,29 +1691,14 @@
   "dialog_billingPenalty_titleRecallFailed":{
     "name":"dialog_billingPenalty_titleRecallFailed", "wording":"返金分有償スター不足警告"
   },
-  "biography_top_comment":{
-    "name":"biography_top_comment", "wording":"{0}の登場するストーリー・コミックをチェック！"
-  },
-  "april2019_storyList_footer":{
-    "name":"april2019_storyList_footer", "wording":"本日限定！　期間限定エリアで特別なお話を見よう！"
-  },
-  "dialog_generalElection_voteConfirm_description":{
-    "name":"dialog_generalElection_voteConfirm_description", "wording":"上記の内容で投票します。\\nよろしいですか？"
-  },
   "word_gachaSeal":{
     "name":"word_gachaSeal", "wording":"ガチャシール"
-  },
-  "dialog_specialSkinDetailSetting_soundEffect":{
-    "name":"dialog_specialSkinDetailSetting_soundEffect", "wording":"期間限定SE"
   },
   "dialog_liveSettings_eventLiveBg":{
     "name":"dialog_liveSettings_eventLiveBg", "wording":"イベントライブ背景"
   },
   "dialog_musicSortFilter_musicName":{
     "name":"dialog_musicSortFilter_musicName", "wording":"楽曲名順"
-  },
-  "biography_characterProfile_heightUnit":{
-    "name":"biography_characterProfile_heightUnit", "wording":"cm"
   },
   "inventory_empty_message":{
     "name":"inventory_empty_message", "wording":"該当のアイテムがありません。"
@@ -955,9 +1708,6 @@
   },
   "generalElection_commentBanner_rankShortage":{
     "name":"generalElection_commentBanner_rankShortage", "wording":"ランク{0}以上で投票可能！"
-  },
-  "garupaCup_top_finished":{
-    "name":"garupaCup_top_finished", "wording":"終了しました"
   },
   "dialog_liveSettings_liveSeVolume":{
     "name":"dialog_liveSettings_liveSeVolume", "wording":"ライブSE"
@@ -979,6 +1729,9 @@
   },
   "dialog_specialSkinDetailSetting_cutIn":{
     "name":"dialog_specialSkinDetailSetting_cutIn", "wording":"期間限定カットイン"
+  },
+  "dialog_profileDesignSelect_mission_transition":{
+    "name":"dialog_profileDesignSelect_mission_transition", "wording":"現在のデコパーツの変更は適用されません。\\nEXミッションへ行きますか？"
   },
   "april2019_storyList_tabD":{
     "name":"april2019_storyList_tabD", "wording":"救世主トモエ"
@@ -1004,41 +1757,20 @@
   "april2019_storyList_tabA":{
     "name":"april2019_storyList_tabA", "wording":"パンVSクッキー"
   },
-  "tryLiveEvent_tryTargetDialogCell_ex":{
-    "name":"tryLiveEvent_tryTargetDialogCell_ex", "wording":"EX"
-  },
   "dialog_specialSkinDetailSetting_description":{
     "name":"dialog_specialSkinDetailSetting_description", "wording":"「適用しない」を選択することで、該当項目のライブスキンを\n　個別に設定することができます。"
   },
   "dialog_downloadMV_viewQuality":{
     "name":"dialog_downloadMV_viewQuality", "wording":"MV再生モード画質設定：{0}"
   },
-  "memberList_notExistMessage":{
-    "name":"memberList_notExistMessage", "wording":"絞り込み条件に該当するメンバーがいません。"
-  },
-  "header_subTitle_biographyCharacterAlbum":{
-    "name":"header_subTitle_biographyCharacterAlbum", "wording":"アルバム"
+  "word_player_index":{
+    "name":"word_player_index", "wording":"P"
   },
   "deckEdit_noEventBonus":{
     "name":"deckEdit_noEventBonus", "wording":"現在イベント期間外のため\\nボーナスは発生しません"
   },
-  "mission_liveEvent_receivedLimit_caption":{
-    "name":"mission_liveEvent_receivedLimit_caption", "wording":"受け取り期限 MM/dd HH:mmまで"
-  },
-  "generalElection_balloon_interimReport":{
-    "name":"generalElection_balloon_interimReport", "wording":"中間結果\\n発表中！"
-  },
-  "footer_caution_gachaSeal":{
-    "name":"footer_caution_gachaSeal", "wording":"ガチャシールが交換可能枚数に達した場合、全てのガチャが一時的にご利用できなくなりますが、交換完了後にご利用できるようになります。"
-  },
-  "dialog_musicSortFilter_soloTitle":{
-    "name":"dialog_musicSortFilter_soloTitle", "wording":"フリーライブ絞り込み"
-  },
   "newYearCard_preparationDialog_availableLimit":{
     "name":"newYearCard_preparationDialog_availableLimit", "wording":"年賀状閲覧期間　{0}　〜　{1}"
-  },
-  "twitter_newYearCard_tweetText_choice":{
-    "name":"twitter_newYearCard_tweetText_choice", "wording":"___4pyS___年賀状キャンペーン開催中___4pyo___\\nお正月に選んだバンドからの年賀状を見よう___4pyJ___\\n{0}を選んだよ___4p2j___\\nみんなも年賀状を見たいバンドを選ぼう♪\\nhttps://bang-dream-gbp.onelink.me/qbvS/12d92f8 \\n"
   },
   "dialog_starShop_premiumPassAllReceived":{
     "name":"dialog_starShop_premiumPassAllReceived", "wording":"プレゼントを全て\\n受け取りました"
@@ -1052,23 +1784,14 @@
   "dialog_copyConfirm_playerID":{
     "name":"dialog_copyConfirm_playerID", "wording":"プレイヤーIDをコピーしました。"
   },
-  "dialog_mvGet_description":{
-    "name":"dialog_mvGet_description", "wording":"「{0}」\\n\\nMVが解放されました。"
-  },
-  "dialog_generalElection_snsShareReward_description":{
-    "name":"dialog_generalElection_snsShareReward_description", "wording":"初回シェアボーナスを受け取りました！"
-  },
   "dialog_birthdayCard_title":{
     "name":"dialog_birthdayCard_title", "wording":"バースデーカード"
   },
-  "dialog_button_detail":{
-    "name":"dialog_button_detail", "wording":"詳細"
+  "dialog_unlockAreaItem_contentsText":{
+    "name":"dialog_unlockAreaItem_contentsText", "wording":"「{0}」の{1}で\\n「{2}」が\\n購入できるようになりました！"
   },
   "dialog_storyConfirm_downloadMessage":{
     "name":"dialog_storyConfirm_downloadMessage", "wording":"※続けて読むを選択した場合、\n事前ダウンロードに時間がかかる事があります。\nWi-Fi環境でのダウンロードをおすすめします。"
-  },
-  "generalElection_time_interimReport":{
-    "name":"generalElection_time_interimReport", "wording":"{0} 頃"
   },
   "dialog_getStamp_periodLimit":{
     "name":"dialog_getStamp_periodLimit", "wording":"使用期限 {0}まで"
@@ -1082,11 +1805,11 @@
   "newYearCard_checkCardDialog_expandButton":{
     "name":"newYearCard_checkCardDialog_expandButton", "wording":"拡大"
   },
-  "dialog_twitter_loginFailed":{
-    "name":"dialog_twitter_loginFailed", "wording":"Twitterの認証に失敗しました。"
-  },
   "biography_AreaTalk_notExistMessage_filtering":{
     "name":"biography_AreaTalk_notExistMessage_filtering", "wording":"絞り込み条件に該当するエリア会話がありません。"
+  },
+  "starShop_itemSet_purchase":{
+    "name":"starShop_itemSet_purchase", "wording":"購入する"
   },
   "dialog_loginDLDataDownload_description2":{
     "name":"dialog_loginDLDataDownload_description2", "wording":"※キャンセルを選択した場合、タイトル画面から\\nもう一度ダウンロード項目を選択することができます。"
@@ -1094,44 +1817,20 @@
   "tryLiveEvent_tryTargetDialogCell_musicDifficulty":{
     "name":"tryLiveEvent_tryTargetDialogCell_musicDifficulty", "wording":"楽曲レベル"
   },
-  "newYearCard_checkCardDialog_campaignDetail":{
-    "name":"newYearCard_checkCardDialog_campaignDetail", "wording":"キャンペーン詳細"
-  },
   "dialog_loginDLDataDownload_description1":{
     "name":"dialog_loginDLDataDownload_description1", "wording":"ゲームを進行するために基本データのダウンロードが必要です。\\nダウンロード項目を選択してください。\\nWi-Fi環境でのダウンロードをおすすめします。"
   },
   "dialog_sort_skillSortHealOrScoreUp":{
     "name":"dialog_sort_skillSortHealOrScoreUp", "wording":"条件付きスコアアップ\\nまたはライフ回復"
   },
-  "dialog_liveSettings_standard":{
-    "name":"dialog_liveSettings_standard", "wording":"標準"
-  },
-  "dialog_liveSettings_mvCaption":{
-    "name":"dialog_liveSettings_mvCaption", "wording":"MV"
-  },
   "dialog_batteryCaution_title":{
     "name":"dialog_batteryCaution_title", "wording":"バッテリー残量確認"
-  },
-  "word_exchangeTimeLimit":{
-    "name":"word_exchangeTimeLimit", "wording":"交換期限"
-  },
-  "mission_liveEvent_eventSupportBandButton":{
-    "name":"mission_liveEvent_eventSupportBandButton", "wording":"イベントサポートバンド"
   },
   "dialog_liveSettings_coreCharacterCutIn":{
     "name":"dialog_liveSettings_coreCharacterCutIn", "wording":"メンバーカットイン"
   },
   "biography_areaTalk_screenMessage":{
     "name":"biography_areaTalk_screenMessage", "wording":"見たことがあるエリア会話を振り返ろう！"
-  },
-  "generalElection_snsShare_message_roselia":{
-    "name":"generalElection_snsShare_message_roselia", "wording":"「第3回ガールズバンド総選挙」開催中___4pyo___\\nRoseliaに投票したよ♪みんなと一緒に高みを目指すライブをしよう___4p2j___"
-  },
-  "dialog_specialSkinDetailSetting_rhythmIcon":{
-    "name":"dialog_specialSkinDetailSetting_rhythmIcon", "wording":"期間限定リズムアイコン"
-  },
-  "generalElection_resultPeriod":{
-    "name":"generalElection_resultPeriod", "wording":"最終結果発表期間"
   },
   "generalElection_errorMessage_maintenance_description":{
     "name":"generalElection_errorMessage_maintenance_description", "wording":"ただいま総選挙ページのメンテナンス中です。\\n申し訳ありませんが、メンテナンスが終わるまで\\nしばらくお待ちください。"
@@ -1142,12 +1841,6 @@
   "word_requiredStorageSize_format":{
     "name":"word_requiredStorageSize_format", "wording":"必要な空き容量：{0}以上"
   },
-  "dialog_liveSettings_tabSystemSetting":{
-    "name":"dialog_liveSettings_tabSystemSetting", "wording":"システム・通知設定"
-  },
-  "dialog_specialSkinDetailSetting_laneAndJudgeLine":{
-    "name":"dialog_specialSkinDetailSetting_laneAndJudgeLine", "wording":"期間限定レーン・判定ライン"
-  },
   "comebackLogin_firstDay_periodMessage":{
     "name":"comebackLogin_firstDay_periodMessage", "wording":"14日間以内に7回ログインしてください。"
   },
@@ -1156,6 +1849,9 @@
   },
   "dialog_campaign_characterAlbum_text":{
     "name":"dialog_campaign_characterAlbum_text", "wording":"「{0}」のキャンペーンメンバーです。"
+  },
+  "dialog_mvLiveSelect_message":{
+    "name":"dialog_mvLiveSelect_message", "wording":"※画質の設定はオプションの\n　ライブ演出・音量設定から変更できます。"
   },
   "dialog_deckRecommend_captionBand":{
     "name":"dialog_deckRecommend_captionBand", "wording":"優先するメンバー"
@@ -1166,53 +1862,26 @@
   "dialog_exchange_characterAlbum_text_able":{
     "name":"dialog_exchange_characterAlbum_text_able", "wording":"イベント「{0}」の新メンバーです。\\n現在、ミッシェルシール交換所にて\\nミッシェルシールと交換できます。"
   },
-  "april2019_storyListCell_infoConditions":{
-    "name":"april2019_storyListCell_infoConditions", "wording":"[FF3B72]{0}[-][505050]を見ると、期間限定エリアに出現！[-]"
-  },
-  "word_removeStamp":{
-    "name":"word_removeStamp", "wording":"外す"
-  },
   "dialog_backstageFilter_description":{
     "name":"dialog_backstageFilter_description", "wording":"※選択したキャラクターが登場しているラウンジ会話が表示されます。"
-  },
-  "garupaCup_musicSelectCell_quoteSource":{
-    "name":"garupaCup_musicSelectCell_quoteSource", "wording":"ガルパ杯１次予選楽曲"
   },
   "dialog_profileConfig_tabPublishSettings":{
     "name":"dialog_profileConfig_tabPublishSettings", "wording":"公開設定"
   },
-  "stamp_periodLimited_balloonLabel":{
-    "name":"stamp_periodLimited_balloonLabel", "wording":"期間限定"
-  },
-  "dialog_storyConfirm_downloadMessage2":{
-    "name":"dialog_storyConfirm_downloadMessage2", "wording":"ダウンロードサイズが大きい場合は、\nWi-Fi環境でのダウンロードをおすすめします。"
-  },
-  "dialog_friendApprovalError_messageMyFriendsNumIsFull":{
-    "name":"dialog_friendApprovalError_messageMyFriendsNumIsFull", "wording":"フレンド数に空きがありません。"
-  },
-  "newYearCard_preparationDialog_bandSelectButton":{
-    "name":"newYearCard_preparationDialog_bandSelectButton", "wording":"バンドを\\n選択"
+  "word_mvDownloaded":{
+    "name":"word_mvDownloaded", "wording":"ダウンロード済み"
   },
   "dialog_areaTalkFilter_title":{
     "name":"dialog_areaTalkFilter_title", "wording":"エリア会話絞り込み"
   },
-  "word_mainItem":{
-    "name":"word_mainItem", "wording":"主要アイテム"
-  },
-  "dialog_liveSettings_behaviourMode":{
-    "name":"dialog_liveSettings_behaviourMode", "wording":"動作モード"
+  "music_shop_badgeAlert":{
+    "name":"music_shop_badgeAlert", "wording":"カバー楽曲を購入することができます。"
   },
   "event_continuousPlay_titleFormat":{
     "name":"event_continuousPlay_titleFormat", "wording":"{0}　{1}"
   },
-  "dialog_areaItemReleaseCondition_mainStory":{
-    "name":"dialog_areaItemReleaseCondition_mainStory", "wording":"メインストーリー「{0}」を読むと解放"
-  },
   "newYearCard_receivePresentDialog_title":{
     "name":"newYearCard_receivePresentDialog_title", "wording":"年賀状キャンペーン"
-  },
-  "generalElection_rankUnit":{
-    "name":"generalElection_rankUnit", "wording":"位"
   },
   "word_favorite_cancel":{
     "name":"word_favorite_cancel", "wording":"解除"
@@ -1226,14 +1895,11 @@
   "dialog_liveSettings_coreMVCharacterCutIn":{
     "name":"dialog_liveSettings_coreMVCharacterCutIn", "wording":"MVライブメンバーカットイン"
   },
-  "gachaTop_changeStar":{
-    "name":"gachaTop_changeStar", "wording":"スターで引く"
-  },
   "dialog_batteryCaution_checkBox":{
     "name":"dialog_batteryCaution_checkBox", "wording":"翌日の{0}時まで表示しない"
   },
-  "dialog_productBuyableCountOverError_messageProductName":{
-    "name":"dialog_productBuyableCountOverError_messageProductName", "wording":"{0}は\\n"
+  "cell_exMission_hint":{
+    "name":"cell_exMission_hint", "wording":"ヒント"
   },
   "dialog_exchange_categoryFilterCaption":{
     "name":"dialog_exchange_categoryFilterCaption", "wording":"カテゴリ絞り込み"
@@ -1241,35 +1907,14 @@
   "dialog_starShop_penaltyTextTerm":{
     "name":"dialog_starShop_penaltyTextTerm", "wording":"[FF3B72]停止期限 {0}まで[-]"
   },
-  "newYearCard_preparationDialog_description2":{
-    "name":"newYearCard_preparationDialog_description2", "wording":"※バンド選択期間内にバンドを選択しなかった場合は、\\n5つのバンドのうちランダムで1つのバンドが選択され、\\nそのバンドの年賀状を見ることができます。"
-  },
-  "newYearCard_preparationDialog_description3":{
-    "name":"newYearCard_preparationDialog_description3", "wording":"※バンド選択期間内であれば、バンドを選択し直すことができます。"
-  },
   "gachaResult_toExchange_buttonTitle":{
     "name":"gachaResult_toExchange_buttonTitle", "wording":"交換所へ"
   },
   "dialog_starShop_premiumPassPurchaseLimit":{
     "name":"dialog_starShop_premiumPassPurchaseLimit", "wording":"購入可能回数の\\n上限に達しました"
   },
-  "april2019_dialog_complete_story_title":{
-    "name":"april2019_dialog_complete_story_title", "wording":"全てのお話を読み終わりました"
-  },
-  "newYearCard_preparationDialog_campaignDetail":{
-    "name":"newYearCard_preparationDialog_campaignDetail", "wording":"キャンペーン詳細"
-  },
-  "newYearCard_preparationDialog_description1":{
-    "name":"newYearCard_preparationDialog_description1", "wording":"※バンド選択期間を過ぎた場合は、バンドを選択できなくなります。"
-  },
-  "dialog_liveSettings_longNotesAlpha":{
-    "name":"dialog_liveSettings_longNotesAlpha", "wording":"長押しラインの濃さ"
-  },
   "word_alreadyHaveMember":{
     "name":"word_alreadyHaveMember", "wording":"獲得済みメンバー"
-  },
-  "specialSkinDetail_button_title":{
-    "name":"specialSkinDetail_button_title", "wording":"個別設定"
   },
   "dialog_loginDLDataDownload_title":{
     "name":"dialog_loginDLDataDownload_title", "wording":"ダウンロード項目を選択"
@@ -1277,14 +1922,8 @@
   "newYearCard_checkCardDialog_captionMessage":{
     "name":"newYearCard_checkCardDialog_captionMessage", "wording":"年賀状が届きました！"
   },
-  "dialog_birthdayStoryReward_title":{
-    "name":"dialog_birthdayStoryReward_title", "wording":"{0}誕生日記念プレゼント"
-  },
-  "tryLiveEvent_tryTargetDialogCell_gotAllRewards":{
-    "name":"tryLiveEvent_tryTargetDialogCell_gotAllRewards", "wording":"すべての報酬を獲得しました"
-  },
-  "memorialStory_storyCell_memberEpisodeCaption":{
-    "name":"memorialStory_storyCell_memberEpisodeCaption", "wording":"メンバーエピソード"
+  "musicSelect_musicNameFilter_columnWA":{
+    "name":"musicSelect_musicNameFilter_columnWA", "wording":"わ行"
   },
   "dialog_areaItemRecommend_title":{
     "name":"dialog_areaItemRecommend_title", "wording":"おすすめ一括変更"
@@ -1295,50 +1934,26 @@
   "dialog_starRecall_contactUsAnnotation":{
     "name":"dialog_starRecall_contactUsAnnotation", "wording":"※本件について不明な点がございましたら、\\nタイトル画面の「お問い合わせ」よりお問い合わせください。"
   },
-  "dialog_sort_characterAlbum_training":{
-    "name":"dialog_sort_characterAlbum_training", "wording":"特訓状態"
-  },
   "dialog_sealExchange_filterAll":{
     "name":"dialog_sealExchange_filterAll", "wording":"すべて"
   },
   "mission_transitionButton_twitterFollow":{
     "name":"mission_transitionButton_twitterFollow", "wording":"フォロー"
   },
-  "biography_characterProfile_hatedFood":{
-    "name":"biography_characterProfile_hatedFood", "wording":"嫌いな食べ物"
-  },
-  "deckEdit_parameterBonus":{
-    "name":"deckEdit_parameterBonus", "wording":"さらに両方一致で"
-  },
   "word_openPeriod":{
     "name":"word_openPeriod", "wording":"開催期間"
-  },
-  "biography_areaTalk_spawnPoint":{
-    "name":"biography_areaTalk_spawnPoint", "wording":"発生場所"
   },
   "dialog_downloadSize_withoutVoice":{
     "name":"dialog_downloadSize_withoutVoice", "wording":"ボイスなし："
   },
-  "dialog_purchaseFailed_promotedIAPError":{
-    "name":"dialog_purchaseFailed_promotedIAPError", "wording":"購入に失敗しました。\\n再度、ストアからの購入もしくは\\nスターショップから購入をしてください。"
-  },
-  "dialog_musicFilter_existSpecial":{
-    "name":"dialog_musicFilter_existSpecial", "wording":"SPECIAL"
-  },
-  "dialog_billingPenalty_penaltyWarning":{
-    "name":"dialog_billingPenalty_penaltyWarning", "wording":"次回以降も返金処理後に返金分の有償スターが回収できなかった場合、\\n調査のため課金停止措置を実施する場合がございます。"
+  "dialog_exMissionFilter_filterBoost":{
+    "name":"dialog_exMissionFilter_filterBoost", "wording":"ブースト"
   },
   "menuList_comic_button":{
     "name":"menuList_comic_button", "wording":"コミック"
   },
   "dialog_birthdayCard_info_title":{
     "name":"dialog_birthdayCard_info_title", "wording":"バースデーカードについて"
-  },
-  "tryLiveEvent_tryTargetDialogInfoCell_exConditions":{
-    "name":"tryLiveEvent_tryTargetDialogInfoCell_exConditions", "wording":"すべてのEXトライレベル{0}をクリア"
-  },
-  "word_alreadyHaveFilter":{
-    "name":"word_alreadyHaveFilter", "wording":"獲得済み絞り込み"
   },
   "mission_liveEvent_eventEnd_caption":{
     "name":"mission_liveEvent_eventEnd_caption", "wording":"イベントは終了しました"
@@ -1349,29 +1964,11 @@
   "comicTop_message_selectComic":{
     "name":"comicTop_message_selectComic", "wording":"見たいコミックを選択してください"
   },
-  "generalElection_commentBanner_aggregate":{
-    "name":"generalElection_commentBanner_aggregate", "wording":"集計中"
-  },
-  "dialog_backstageFilter_caption_character":{
-    "name":"dialog_backstageFilter_caption_character", "wording":"キャラクター"
-  },
-  "tryLiveEvent_tryTargetDialogCell_titleMulti":{
-    "name":"tryLiveEvent_tryTargetDialogCell_titleMulti", "wording":"協力トライ"
-  },
-  "dialog_liveSettings_soundTap":{
-    "name":"dialog_liveSettings_soundTap", "wording":"タップ音"
-  },
   "dialog_generalElection_voteBandSelect_caption":{
     "name":"dialog_generalElection_voteBandSelect_caption", "wording":"バンド選択"
   },
   "biography_characterProfile_hobby":{
     "name":"biography_characterProfile_hobby", "wording":"趣味"
-  },
-  "dialog_liveSetting_MVBrightness":{
-    "name":"dialog_liveSetting_MVBrightness", "wording":"MVライブモード明るさ"
-  },
-  "biography_characterProfile_class":{
-    "name":"biography_characterProfile_class", "wording":"クラス"
   },
   "header_mainTitle_profileIllustSetting":{
     "name":"header_mainTitle_profileIllustSetting", "wording":"プロフィールイラスト設定"
@@ -1388,35 +1985,17 @@
   "dialog_systemSettings_captionSystemVolume":{
     "name":"dialog_systemSettings_captionSystemVolume", "wording":"システム音量"
   },
-  "dialog_billingPenalty_nextBillingStopWarning":{
-    "name":"dialog_billingPenalty_nextBillingStopWarning", "wording":"※次回以降も返金処理後に返金分の有償スターが回収できなかった場合、\\n再度課金停止措置を実施する場合がございます。"
-  },
-  "dialog_billingPenalty_accountStopTimingWarning":{
-    "name":"dialog_billingPenalty_accountStopTimingWarning", "wording":"※アカウントの停止措置は、\\n予告や実施のアナウンスなく実施される場合がございます。"
-  },
-  "biography_characterProfile_favoriteFood":{
-    "name":"biography_characterProfile_favoriteFood", "wording":"好きな食べ物"
-  },
-  "comicTop_buttonLabelDescription_fourFrameComic":{
-    "name":"comicTop_buttonLabelDescription_fourFrameComic", "wording":"メンバーたちの日常を切り取った４コマコミック"
+  "screen_profileDesignSelect_pageTab_frame":{
+    "name":"screen_profileDesignSelect_pageTab_frame", "wording":"フレーム"
   },
   "word_sort_character":{
     "name":"word_sort_character", "wording":"キャラクター"
   },
-  "button_profile_friendRequest":{
-    "name":"button_profile_friendRequest", "wording":"フレンド\\n申請"
-  },
   "generalElection_errorMessage_maintenance_title":{
     "name":"generalElection_errorMessage_maintenance_title", "wording":"メンテナンス中"
   },
-  "tryLiveEvent_tryTargetDialogCell_life":{
-    "name":"tryLiveEvent_tryTargetDialogCell_life", "wording":"ライフ"
-  },
   "header_subTitle_biographyCharacterDetail":{
     "name":"header_subTitle_biographyCharacterDetail", "wording":"キャラクターTOP"
-  },
-  "dialog_liveSettings_systemVoiceVolume":{
-    "name":"dialog_liveSettings_systemVoiceVolume", "wording":"ボイス音量"
   },
   "generalElection_electionTicketNum":{
     "name":"generalElection_electionTicketNum", "wording":"投票券所持数"
@@ -1424,23 +2003,14 @@
   "dialog_memberExchangeConfirm_title":{
     "name":"dialog_memberExchangeConfirm_title", "wording":"このメンバーと交換しますか？"
   },
-  "dialog_billingPenalty_recallFailed":{
-    "name":"dialog_billingPenalty_recallFailed", "wording":"ストアにて返金処理が行われましたが、\\n返金分の有償スターが回収できませんでした。"
+  "starShop_itemSet_purchaseLimitCount":{
+    "name":"starShop_itemSet_purchaseLimitCount", "wording":"[505050]購入可能回数[-]\\n[FF395A]あと{0}回[-]"
   },
   "area_shop_transitionShopButton":{
     "name":"area_shop_transitionShopButton", "wording":"ショップへ"
   },
-  "dialog_gachaSealInheritDIalog_captionMessage2":{
-    "name":"dialog_gachaSealInheritDIalog_captionMessage2", "wording":"ガチャシールが\\n以下のように引き継がれました。"
-  },
-  "dialog_updateLoginDLData_title":{
-    "name":"dialog_updateLoginDLData_title", "wording":"データダウンロード"
-  },
-  "dialog_gachaSealInheritDIalog_captionMessage1":{
-    "name":"dialog_gachaSealInheritDIalog_captionMessage1", "wording":"{0}枚を超えたガチャシールが\\n以下のように引き継がれました。"
-  },
-  "word_stampPeriodLimited":{
-    "name":"word_stampPeriodLimited", "wording":"期間限定スタンプ"
+  "musicSelect_musicNameFilter_columnYA":{
+    "name":"musicSelect_musicNameFilter_columnYA", "wording":"や行"
   },
   "generalElection_description_interimReport":{
     "name":"generalElection_description_interimReport", "wording":"公式ページにて中間結果発表中！"
@@ -1448,8 +2018,8 @@
   "dialog_rewardPresentbox_message":{
     "name":"dialog_rewardPresentbox_message", "wording":"報酬がプレゼントに送られました！"
   },
-  "dialog_mvViewPause_exitButton":{
-    "name":"dialog_mvViewPause_exitButton", "wording":"中断"
+  "word_lackItemGain":{
+    "name":"word_lackItemGain", "wording":"必要アイテムを獲得"
   },
   "word_downloadSize_format":{
     "name":"word_downloadSize_format", "wording":"ダウンロードサイズ：{0}"
@@ -1457,26 +2027,23 @@
   "dialog_liveSettings_systemBgmVolume":{
     "name":"dialog_liveSettings_systemBgmVolume", "wording":"BGM音量"
   },
-  "newYearCard_preparationDialog_captionBandSelect":{
-    "name":"newYearCard_preparationDialog_captionBandSelect", "wording":"選択したバンド"
-  },
   "header_subTitle_biographyProfile":{
     "name":"header_subTitle_biographyProfile", "wording":"プロフィール"
-  },
-  "memberList_sortButton_sortEnabled":{
-    "name":"memberList_sortButton_sortEnabled", "wording":"適用中"
   },
   "generalElection_ticketUnit":{
     "name":"generalElection_ticketUnit", "wording":"枚"
   },
+  "dialog_downloadMV_totalSize":{
+    "name":"dialog_downloadMV_totalSize", "wording":"必要な空き容量の合計：{0}"
+  },
   "dialog_moviePlayConfirm_downloadInstruction":{
     "name":"dialog_moviePlayConfirm_downloadInstruction", "wording":"※キャンセルを選択した場合、\\n動画を見るためにはもう一度タイトル画面から\\nログインしなおす必要があります。"
   },
-  "word_michelleSealCount":{
-    "name":"word_michelleSealCount", "wording":"ミッシェルシールx{0}"
-  },
   "pickupMember_footter_message1rarity2":{
     "name":"pickupMember_footter_message1rarity2", "wording":"※各パラメータは、レベルMAXの値を表示しています。"
+  },
+  "tutorial_slideTitle_decoration":{
+    "name":"tutorial_slideTitle_decoration", "wording":"フレームデザインをデコレーションしよう！"
   },
   "miracleTicket_description":{
     "name":"miracleTicket_description", "wording":"「{0}」にて対象のメンバーと交換できるチケット。"
@@ -1499,56 +2066,26 @@
   "dialog_liveSetting_MVLiveModeQuality":{
     "name":"dialog_liveSetting_MVLiveModeQuality", "wording":"MVライブモード画質"
   },
-  "dialog_downloadSize_withVoice":{
-    "name":"dialog_downloadSize_withVoice", "wording":"ボイスあり："
-  },
-  "header_mainTitle_biography":{
-    "name":"header_mainTitle_biography", "wording":"キャラクター図鑑"
-  },
-  "word_exchangeCell_alreadyGet":{
-    "name":"word_exchangeCell_alreadyGet", "wording":"獲得済み"
-  },
-  "pickupMember_changeImageButton_toAfter":{
-    "name":"pickupMember_changeImageButton_toAfter", "wording":"特訓後に変更"
+  "screen_profileDesignSelect_pageTab_pins":{
+    "name":"screen_profileDesignSelect_pageTab_pins", "wording":"ピンズ"
   },
   "biography_AreaTalk_notExistMessage":{
     "name":"biography_AreaTalk_notExistMessage", "wording":"該当するエリア会話がありません。"
   },
-  "header_subTitle_miracleTicketExchange":{
-    "name":"header_subTitle_miracleTicketExchange", "wording":"ミラクルチケット交換所"
-  },
   "word_dateFormat_yyyyMMDD_br_HHmm":{
     "name":"word_dateFormat_yyyyMMDD_br_HHmm", "wording":"yyyy/MM/dd\\nHH:mm"
-  },
-  "generalElection_snsShare_message_afterglow":{
-    "name":"generalElection_snsShare_message_afterglow", "wording":"「第3回ガールズバンド総選挙」開催中___4pyo___\\nAfterglowに投票したよ♪みんなと一緒にいつも通りロックなライブをしよう___4p2j___"
   },
   "dialog_musicSortFilter_release":{
     "name":"dialog_musicSortFilter_release", "wording":"配信順"
   },
-  "dialog_confirmOpponentFriendRequestReject_message":{
-    "name":"dialog_confirmOpponentFriendRequestReject_message", "wording":"フレンド申請を拒否します。\\nよろしいですか？"
-  },
-  "dialog_billingPenalty_executeBillingStop":{
-    "name":"dialog_billingPenalty_executeBillingStop", "wording":"返金分の有償スターが回収できないことが複数回確認され、\\n悪質な行為と判断されたため、課金停止措置を実施しました。"
-  },
-  "dialog_productBuyableCountOverError_message":{
-    "name":"dialog_productBuyableCountOverError_message", "wording":"購入できる回数を超えております。"
-  },
   "header_subTitle_biographyCharacterSelect":{
     "name":"header_subTitle_biographyCharacterSelect", "wording":"キャラクター選択"
-  },
-  "dialog_gachaSealDetailInformation_titleDescription":{
-    "name":"dialog_gachaSealDetailInformation_titleDescription", "wording":"ガチャシール概要"
   },
   "newYearCard_errorDialog_messageOutOfReceiveTerm":{
     "name":"newYearCard_errorDialog_messageOutOfReceiveTerm", "wording":"年賀状閲覧期間は終了しました。"
   },
   "dialog_sort_characterAlbum_training_after":{
     "name":"dialog_sort_characterAlbum_training_after", "wording":"特訓前"
-  },
-  "dialog_pendingPurchaseExist_message":{
-    "name":"dialog_pendingPurchaseExist_message", "wording":"前回の購入が正常に終了していません。\\nサポートよりお問い合わせください。"
   },
   "dialog_gachaDetail_tabGachaSeal":{
     "name":"dialog_gachaDetail_tabGachaSeal", "wording":"ガチャシール説明"
@@ -1559,26 +2096,14 @@
   "birthdayPage_showAnimationAgainButton_label":{
     "name":"birthdayPage_showAnimationAgainButton_label", "wording":"誕生日アニメーションを見る"
   },
-  "newYearCard_preparationDialog_title":{
-    "name":"newYearCard_preparationDialog_title", "wording":"年賀状キャンペーン"
-  },
   "event_menu_visible":{
     "name":"event_menu_visible", "wording":"非表示"
-  },
-  "dialog_generalElection_voteComplete_description":{
-    "name":"dialog_generalElection_voteComplete_description", "wording":"投票しました。"
   },
   "dialog_sort_skillSortHealWithScoreUp":{
     "name":"dialog_sort_skillSortHealWithScoreUp", "wording":"スコアアップ付き\\nライフ回復"
   },
-  "dialog_musicSortFilter_bandAll":{
-    "name":"dialog_musicSortFilter_bandAll", "wording":"すべて"
-  },
-  "receive_loginbonus_direct":{
-    "name":"receive_loginbonus_direct", "wording":"ログインボーナスを受け取りました。"
-  },
-  "gachaTop_button_stopTryOn":{
-    "name":"gachaTop_button_stopTryOn", "wording":"試着をやめる"
+  "dialog_profileDesign_setting_done":{
+    "name":"dialog_profileDesign_setting_done", "wording":"フレーム・ピンズを設定しました。\\nプロフィール画面に戻ります。"
   },
   "birthdayPage_showActionSetAgainButton_label":{
     "name":"birthdayPage_showActionSetAgainButton_label", "wording":"会話を見る"
@@ -1586,38 +2111,17 @@
   "dialog_gachaSealExchangeGuide_exchangeButton":{
     "name":"dialog_gachaSealExchangeGuide_exchangeButton", "wording":"交換所へ"
   },
-  "word_sort_skillType":{
-    "name":"word_sort_skillType", "wording":"スキル順"
-  },
-  "header_subTitle_comicTop":{
-    "name":"header_subTitle_comicTop", "wording":"コミック選択"
-  },
   "biography_backstageFilter_notExist":{
     "name":"biography_backstageFilter_notExist", "wording":"絞り込み条件に該当するラウンジ会話がありません。"
   },
   "dialog_backstageMaintenance_title":{
     "name":"dialog_backstageMaintenance_title", "wording":"ラウンジ機能メンテナンス中"
   },
-  "dialog_musicSortFilter_notFullCombo":{
-    "name":"dialog_musicSortFilter_notFullCombo", "wording":"未フルコンボ"
-  },
-  "area_shop_notHaveMessage":{
-    "name":"area_shop_notHaveMessage", "wording":"購入できません"
-  },
   "storyEvent_eventEnd_label":{
     "name":"storyEvent_eventEnd_label", "wording":"イベントは終了しました"
   },
   "newYearCard_receivePresentDialog_subject":{
     "name":"newYearCard_receivePresentDialog_subject", "wording":"年賀状"
-  },
-  "dialog_musicSortFilter_multiTitle":{
-    "name":"dialog_musicSortFilter_multiTitle", "wording":"協力ライブ絞り込み"
-  },
-  "dialog_memorialStoryFilter_title":{
-    "name":"dialog_memorialStoryFilter_title", "wording":"イベントストーリー"
-  },
-  "event_menu_fullScreenAuto":{
-    "name":"event_menu_fullScreenAuto", "wording":"全画面オート"
   },
   "dialog_gachaSealExchangeItemNotify_description":{
     "name":"dialog_gachaSealExchangeItemNotify_description", "wording":"{0}枚を超えた分の\\n{1}\\nガチャシールは\\n{2}に変換され、\\nプレゼントへ送られています。"
@@ -1631,6 +2135,9 @@
   "dialog_copyConfirm_takeOverText":{
     "name":"dialog_copyConfirm_takeOverText", "wording":"引き継ぎID、パスワードをコピーしました。"
   },
+  "screen_profileDesignSelect_tab_band":{
+    "name":"screen_profileDesignSelect_tab_band", "wording":"バンド"
+  },
   "dialog_exchange_alreadyHaveFilterCaption":{
     "name":"dialog_exchange_alreadyHaveFilterCaption", "wording":"獲得済み絞り込み"
   },
@@ -1640,26 +2147,11 @@
   "dialog_generalElection_voteComplete_aboutShare":{
     "name":"dialog_generalElection_voteComplete_aboutShare", "wording":"投票内容の\\nシェアについて"
   },
-  "dialog_miracleTicketExchangeConfirm_alreadyHave":{
-    "name":"dialog_miracleTicketExchangeConfirm_alreadyHave", "wording":"このメンバーは獲得済みです"
-  },
   "word_noApply":{
     "name":"word_noApply", "wording":"適用しない"
   },
-  "generalElection_commentBanner_openingDay":{
-    "name":"generalElection_commentBanner_openingDay", "wording":"本日より投票受付中！"
-  },
-  "biography_areaTalk_buttonWatch":{
-    "name":"biography_areaTalk_buttonWatch", "wording":"見る"
-  },
   "word_publishContentFinished":{
     "name":"word_publishContentFinished", "wording":"公開期間は終了しました。\nタイトルに戻ります。"
-  },
-  "dialog_loginDLDataAndVoiceDataDownload_description2":{
-    "name":"dialog_loginDLDataAndVoiceDataDownload_description2", "wording":"※キャラクターボイスをダウンロードすることで、\\n　キャラクターたちの会話をフルボイスでお楽しみいただけます。"
-  },
-  "dialog_friendRequestError_messageOpponentAlredyApplicationCancel":{
-    "name":"dialog_friendRequestError_messageOpponentAlredyApplicationCancel", "wording":"この申請は取り消されました。"
   },
   "newYearCard_bandSelectDialog_selectPeriodLimit":{
     "name":"newYearCard_bandSelectDialog_selectPeriodLimit", "wording":"バンド選択期間　{0}まで"
@@ -1673,17 +2165,14 @@
   "dialog_generalElection_share":{
     "name":"dialog_generalElection_share", "wording":"シェア"
   },
-  "gachaResult_headerCeilingAlert_message":{
-    "name":"gachaResult_headerCeilingAlert_message", "wording":"交換可能枚数に達しました"
-  },
-  "dialog_loginDLDataAndVoiceDataDownload_description1":{
-    "name":"dialog_loginDLDataAndVoiceDataDownload_description1", "wording":"[505050]基本データ・キャラクターボイスデータ[-][FF3B72]（おすすめ）[-]"
+  "item_profileDesignSelect_framePinsSpace":{
+    "name":"item_profileDesignSelect_framePinsSpace", "wording":"ピンズスペース"
   },
   "dialog_downloadMV_dlSize2":{
     "name":"dialog_downloadMV_dlSize2", "wording":"ダウンロードサイズ：{0}"
   },
-  "april2019_storyListCell_infoRandom":{
-    "name":"april2019_storyListCell_infoRandom", "wording":"期間限定エリアにランダムで出現中！"
+  "word_starShop_AllReceived":{
+    "name":"word_starShop_AllReceived", "wording":"[FF395A]有効期限後に再度購入可能です[-]\\n[505050]有効期限　{0}まで[-]"
   },
   "dialog_bandSelect_changeBandDescription1":{
     "name":"dialog_bandSelect_changeBandDescription1", "wording":"選択したバンドの1人★４確定ガチャが引けます。"
@@ -1713,7 +2202,7 @@
     "name":"newMusicIntroduction_musicInfo_tagTitle", "wording":"楽曲追加！"
   },
   "dialog_downloadMV_qualityDescription":{
-    "name":"dialog_downloadMV_qualityDescription", "wording":"画質の設定はオプションの\\nライブ演出・音量設定から変更できます。"
+    "name":"dialog_downloadMV_qualityDescription", "wording":"※画質の設定はオプションの\\nライブ演出・音量設定から変更できます。"
   },
   "miracleTicketExchange_list_title":{
     "name":"miracleTicketExchange_list_title", "wording":"交換可能メンバー一覧"
@@ -1721,20 +2210,11 @@
   "dialog_purchaseFailed_consumeErrorMessage":{
     "name":"dialog_purchaseFailed_consumeErrorMessage", "wording":"中断されたストア決済処理を再開するため、\\nタイトル画面からログインし直してください。"
   },
-  "dialog_twitter_cancel_warning":{
-    "name":"dialog_twitter_cancel_warning", "wording":"※シェアをするTwitterアカウントを変更したい場合、\\n一度アカウント連携を解除した上で、\\n再度アカウント連携が必要となります。"
+  "dialog_profileConfig_tabProfileDesignSettings_pinsTitle":{
+    "name":"dialog_profileConfig_tabProfileDesignSettings_pinsTitle", "wording":"ピンズ"
   },
   "biography_areaTalk":{
     "name":"biography_areaTalk", "wording":"エリア会話を振り返ろう"
-  },
-  "deckEdit_notExistMessage":{
-    "name":"deckEdit_notExistMessage", "wording":"絞り込み条件に該当するメンバーがいません。"
-  },
-  "dialog_gachaSealDetailInformation_titleExpiredChangeResource":{
-    "name":"dialog_gachaSealDetailInformation_titleExpiredChangeResource", "wording":"今回のガチャシール変換について"
-  },
-  "waitingRoom_notExistMessage":{
-    "name":"waitingRoom_notExistMessage", "wording":"絞り込み条件に該当するメンバーがいません。"
   },
   "header_subTitle_seasonSelect":{
     "name":"header_subTitle_seasonSelect", "wording":"シーズン選択"
@@ -1742,29 +2222,14 @@
   "dialog_training_characterAlbum_text":{
     "name":"dialog_training_characterAlbum_text", "wording":"メンバーを特訓すると解放されます。\\nメンバー詳細画面を確認しますか？"
   },
-  "word_album":{
-    "name":"word_album", "wording":"アルバム"
-  },
-  "tryLiveEvent_tryTargetDialogCell_combo":{
-    "name":"tryLiveEvent_tryTargetDialogCell_combo", "wording":"コンボ"
-  },
   "dialog_event_characterAlbum_open":{
     "name":"dialog_event_characterAlbum_open", "wording":"イベントへ"
   },
   "dialog_mvGet_title":{
-    "name":"dialog_mvGet_title", "wording":"MV解放"
-  },
-  "dialog_generalElection_voteComplete_title":{
-    "name":"dialog_generalElection_voteComplete_title", "wording":"投票完了"
+    "name":"dialog_mvGet_title", "wording":"MV獲得"
   },
   "generalElection_votePeriod":{
     "name":"generalElection_votePeriod", "wording":"投票期間"
-  },
-  "dialog_userRankReward_musicDescription":{
-    "name":"dialog_userRankReward_musicDescription", "wording":"楽曲「{0}」"
-  },
-  "dialog_systemSettings_lateNightNotification":{
-    "name":"dialog_systemSettings_lateNightNotification", "wording":"深夜帯の通知"
   },
   "missionLiveEvent_result_totalParam":{
     "name":"missionLiveEvent_result_totalParam", "wording":"総合力"
@@ -1775,20 +2240,8 @@
   "dialog_gacha_characterAlbum_open":{
     "name":"dialog_gacha_characterAlbum_open", "wording":"ガチャへ"
   },
-  "dialog_garupaCup2ndEntry_title":{
-    "name":"dialog_garupaCup2ndEntry_title", "wording":"第2回ガルパ杯エントリー"
-  },
-  "comicSelectSingleFrame_contents_notExistMessage":{
-    "name":"comicSelectSingleFrame_contents_notExistMessage", "wording":"絞り込み条件に該当するコミックがありません。"
-  },
-  "dialog_bandParam":{
-    "name":"dialog_bandParam", "wording":"バンドパラメータ"
-  },
   "word_liveResource":{
     "name":"word_liveResource", "wording":"ライブデータ"
-  },
-  "dialog_gachaSealDetailInformation_titleGachaSealInheritInfo":{
-    "name":"dialog_gachaSealDetailInformation_titleGachaSealInheritInfo", "wording":"今回のガチャシール引き継ぎについて"
   },
   "dialog_few_storage_scenario":{
     "name":"dialog_few_storage_scenario", "wording":"端末の空き容量が不足しているため、\\nストーリーを再生することができません。\\n"
@@ -1799,29 +2252,11 @@
   "dialog_musicSortFilter_cover":{
     "name":"dialog_musicSortFilter_cover", "wording":"カバー"
   },
-  "costumeSelect_hideDescription":{
-    "name":"costumeSelect_hideDescription", "wording":"この範囲をタップすると全画面モードが解除されます"
-  },
   "word_episode":{
     "name":"word_episode", "wording":"エピソード"
   },
-  "generalElection_description_result":{
-    "name":"generalElection_description_result", "wording":"投票期間は終了しました。"
-  },
-  "limitedAreaApper":{
-    "name":"limitedAreaApper", "wording":"期間限定エリア出現中！"
-  },
-  "dialog_twitter_error_description2":{
-    "name":"dialog_twitter_error_description2", "wording":"本現象が改善しない場合は、\\n画面右上「メニュー」>「サポート」より\\nお問い合わせください。"
-  },
-  "dialog_twitter_error_description1":{
-    "name":"dialog_twitter_error_description1", "wording":"Twitterアプリの起動に失敗しました。"
-  },
   "word_filter_nomemorial":{
     "name":"word_filter_nomemorial", "wording":"メモリアルエピソード\\n未読"
-  },
-  "tryLiveEvent_tryTargetDialogCell_titleJudge":{
-    "name":"tryLiveEvent_tryTargetDialogCell_titleJudge", "wording":"判定トライ"
   },
   "dialog_liveSettings_systemSeVolume":{
     "name":"dialog_liveSettings_systemSeVolume", "wording":"SE音量"
@@ -1835,11 +2270,11 @@
   "dialog_sort_characterAlbum_obtained_all":{
     "name":"dialog_sort_characterAlbum_obtained_all", "wording":"すべて"
   },
+  "dialog_profileConfig_tabProfileDesignSettings":{
+    "name":"dialog_profileConfig_tabProfileDesignSettings", "wording":"設定中デコパーツ"
+  },
   "dialog_moviePlayConfirm_message":{
     "name":"dialog_moviePlayConfirm_message", "wording":"動画データをダウンロードして再生しますか？\\nWi-Fi環境でのダウンロードをおすすめします。"
-  },
-  "newYearCard_receivePresentDialog_periodLimit":{
-    "name":"newYearCard_receivePresentDialog_periodLimit", "wording":"閲覧期間 {0}まで"
   },
   "dialog_gachaSealInheritDialog_footerDescription":{
     "name":"dialog_gachaSealInheritDialog_footerDescription", "wording":"{0}ガチャシールと\\n{1}ガチャシールの\\nガチャシール交換所において\\n同じメンバーが交換対象に含まれるため、ガチャシールが引き継がれました。"
@@ -1849,15 +2284,6 @@
   },
   "april2019_dialog_complete_story_description":{
     "name":"april2019_dialog_complete_story_description", "wording":"お話をもう一度見たい場合は、\\n「モカランド」エリアのホーム画面左下に表示される\\n「モカランド」アイコンを押してください。"
-  },
-  "header_subTitle_memorialStorySelect":{
-    "name":"header_subTitle_memorialStorySelect", "wording":"イベントストーリー選択"
-  },
-  "newMusicIntroduction_musicInfo_tagOriginal":{
-    "name":"newMusicIntroduction_musicInfo_tagOriginal", "wording":"オリジナル"
-  },
-  "dialog_starRecall_paidStarRecall":{
-    "name":"dialog_starRecall_paidStarRecall", "wording":"回収有償スター"
   },
   "gachaTop_gachaSealInfo_checkMemberButton":{
     "name":"gachaTop_gachaSealInfo_checkMemberButton", "wording":"選べるメンバーを確認"
@@ -1877,14 +2303,8 @@
   "tryLiveEvent_tryReward":{
     "name":"tryLiveEvent_tryReward", "wording":"トライ達成報酬"
   },
-  "dialog_billingPenalty_titleBillingStop":{
-    "name":"dialog_billingPenalty_titleBillingStop", "wording":"スターショップへの課金停止"
-  },
   "dialog_purchaseError_productListResponseTimeout":{
     "name":"dialog_purchaseError_productListResponseTimeout", "wording":"通信エラーが発生しました。"
-  },
-  "local_notification_live_boost_body_android":{
-    "name":"local_notification_live_boost_body_android", "wording":"ライブをプレイしよう！"
   },
   "tryLiveEvent_tryTargetDialogCell_multi":{
     "name":"tryLiveEvent_tryTargetDialogCell_multi", "wording":"マルチスコアランク"
@@ -1904,26 +2324,11 @@
   "generalElection_commentBanner_result":{
     "name":"generalElection_commentBanner_result", "wording":"結果発表！"
   },
-  "dialog_profileCharacterIllustConfirm_title":{
-    "name":"dialog_profileCharacterIllustConfirm_title", "wording":"イラスト確認"
-  },
-  "header_subTitle_biographyCharacterAreaTalk":{
-    "name":"header_subTitle_biographyCharacterAreaTalk", "wording":"エリア会話"
-  },
-  "biography_characterProfile_band":{
-    "name":"biography_characterProfile_band", "wording":"バンド"
-  },
-  "local_notification_test_body":{
-    "name":"local_notification_test_body", "wording":"通知本文"
-  },
-  "comicTop_mainTitle_comic":{
-    "name":"comicTop_mainTitle_comic", "wording":"コミック"
+  "dialog_areaItemRecommend_allBand":{
+    "name":"dialog_areaItemRecommend_allBand", "wording":"すべてのバンド"
   },
   "dialog_musicSortFilter_filter":{
     "name":"dialog_musicSortFilter_filter", "wording":"絞り込み"
-  },
-  "dialog_gacha_characterAlbum_text_able":{
-    "name":"dialog_gacha_characterAlbum_text_able", "wording":"「{0}」の新メンバーです。\\n以下の現在開催中のガチャで出現しています。"
   },
   "miracleTicketExchange_list_emptyMessage":{
     "name":"miracleTicketExchange_list_emptyMessage", "wording":"表示可能なメンバーはいません。"
@@ -1931,59 +2336,32 @@
   "dialog_musicSortFilter_default":{
     "name":"dialog_musicSortFilter_default", "wording":"デフォルト"
   },
-  "dialog_backstageFilter_title":{
-    "name":"dialog_backstageFilter_title", "wording":"ラウンジ会話絞り込み"
+  "dialog_rhythmGameSettings_selectable_dontHave":{
+    "name":"dialog_rhythmGameSettings_selectable_dontHave", "wording":"未所持のライブスキンが設定されています。\\n以前の設定が適用されますが\\nよろしいですか？"
   },
-  "newYearCard_checkCardDialog_periodLimit":{
-    "name":"newYearCard_checkCardDialog_periodLimit", "wording":"閲覧期間\\n{0}まで"
+  "dialog_mvViewSelect_message":{
+    "name":"dialog_mvViewSelect_message", "wording":"※画質の設定はオプションのライブ演出・音量設定から\n　変更できます。"
   },
-  "dialog_exchange_characterAlbum_open":{
-    "name":"dialog_exchange_characterAlbum_open", "wording":"ミッシェルシール交換所へ"
-  },
-  "gachaTop_selectBandInfo_checkBandLabel":{
-    "name":"gachaTop_selectBandInfo_checkBandLabel", "wording":"選択したバンド"
-  },
-  "dialog_sort_skillSortJudgeWithScoreUp":{
-    "name":"dialog_sort_skillSortJudgeWithScoreUp", "wording":"スコアアップ付き\\n判定強化"
-  },
-  "dialog_seasonSelect_description_season1":{
-    "name":"dialog_seasonSelect_description_season1", "wording":"香澄と仲間たちが出会った一年目の物語"
-  },
-  "dialog_sort_characterAlbum_obtained":{
-    "name":"dialog_sort_characterAlbum_obtained", "wording":"獲得状態"
-  },
-  "dialog_seasonSelect_description_season2":{
-    "name":"dialog_seasonSelect_description_season2", "wording":"香澄と仲間たちが過ごす二年目の物語"
-  },
-  "dialog_story_characterAlbum_text":{
-    "name":"dialog_story_characterAlbum_text", "wording":"{0}の\\nバンドストーリー{1}章で登場したメンバーです。"
-  },
-  "mission_transitionButton_album":{
-    "name":"mission_transitionButton_album", "wording":"アルバム"
-  },
-  "dialog_miracleTicket_description":{
-    "name":"dialog_miracleTicket_description", "wording":"※{0}は「メニュー」から\\n「交換所」で対象メンバーと交換できます。"
-  },
-  "header_title_comicSelectSingleFrame":{
-    "name":"header_title_comicSelectSingleFrame", "wording":"コミック"
+  "dialog_profileConfig_tabProfileDesignSettings_moveToSelectPageButton":{
+    "name":"dialog_profileConfig_tabProfileDesignSettings_moveToSelectPageButton", "wording":"フレーム・ピンズを変更"
   },
   "tutorial_slideTitle_specialMusicScore":{
     "name":"tutorial_slideTitle_specialMusicScore", "wording":"難易度SPECIALをプレイしよう！"
   },
-  "generalElection_totalVoteCounts":{
-    "name":"generalElection_totalVoteCounts", "wording":"総投票数"
-  },
   "biography_characterProfile_birthday":{
     "name":"biography_characterProfile_birthday", "wording":"誕生日"
+  },
+  "dialog_exMissionFilter_filterLiveSkin":{
+    "name":"dialog_exMissionFilter_filterLiveSkin", "wording":"ライブスキン"
+  },
+  "dialog_decoFrameLevelUp_title":{
+    "name":"dialog_decoFrameLevelUp_title", "wording":"ピンズスペースが増えました！"
   },
   "word_filter_noepisode":{
     "name":"word_filter_noepisode", "wording":"エピソード\\n未読"
   },
   "dialog_aprilGarupaCup_message2":{
     "name":"dialog_aprilGarupaCup_message2", "wording":"なお、現在選択されている\\nライブスキンを変更したい場合、\\n期間限定スキンをOFFに変更してください。"
-  },
-  "dialog_sort_characterAlbum_training_before":{
-    "name":"dialog_sort_characterAlbum_training_before", "wording":"特訓後"
   },
   "dialog_aprilGarupaCup_message1":{
     "name":"dialog_aprilGarupaCup_message1", "wording":"第2回ガルパ杯では、通常時に選択できる\\nライブスキン以外でのライブはできないため、\\nエイプリルフール期間限定スキンは適用されません。"
@@ -1994,35 +2372,14 @@
   "dialog_exchange_alreadyHaveFilterStamp":{
     "name":"dialog_exchange_alreadyHaveFilterStamp", "wording":"スタンプ"
   },
-  "tryLiveEvent_tryTargetDialogInfoCell_conditions":{
-    "name":"tryLiveEvent_tryTargetDialogInfoCell_conditions", "wording":"すべてのトライレベル{0}をクリア"
-  },
   "caption_mission_degreename":{
     "name":"caption_mission_degreename", "wording":"称号「{0}」"
-  },
-  "dialog_mvViewPause_resumeButton":{
-    "name":"dialog_mvViewPause_resumeButton", "wording":"再開"
   },
   "popup_eventSupportBand_description":{
     "name":"popup_eventSupportBand_description", "wording":"イベントサポートバンドは、編成ボーナスを加えた総合力が\n最も高くなるメンバーが自動的に選出されます。\nイベントサポートバンドによって獲得できるイベントPは、\nイベントサポートバンド総合力によって算出されます。"
   },
   "dialog_specialSkinDetailSetting_background":{
     "name":"dialog_specialSkinDetailSetting_background", "wording":"期間限定ライブ背景"
-  },
-  "musicSelect_list_notMatchMessage":{
-    "name":"musicSelect_list_notMatchMessage", "wording":"絞り込み条件に該当する\\n楽曲がありません。"
-  },
-  "header_mainTitle_favoriteStampEdit":{
-    "name":"header_mainTitle_favoriteStampEdit", "wording":"お気に入りスタンプ設定"
-  },
-  "biography_backstage_screenMessage":{
-    "name":"biography_backstage_screenMessage", "wording":"見たことがあるラウンジ会話を振り返ろう！"
-  },
-  "dialog_musicFilter_difficultyNone":{
-    "name":"dialog_musicFilter_difficultyNone", "wording":"指定なし"
-  },
-  "dialog_gachaSealExchangeItemNotify_title":{
-    "name":"dialog_gachaSealExchangeItemNotify_title", "wording":"ガチャシール変換"
   },
   "dialog_liveSetting_MVViewModeQuality":{
     "name":"dialog_liveSetting_MVViewModeQuality", "wording":"MV再生モード画質"
@@ -2036,28 +2393,16 @@
   "dialog_liveSettings_soundFlick":{
     "name":"dialog_liveSettings_soundFlick", "wording":"フリック音"
   },
-  "biography_album":{
-    "name":"biography_album", "wording":"イラストを見よう"
-  },
   "word_friendRequestAccept":{
     "name":"word_friendRequestAccept", "wording":"フレンド申請"
   },
   "dialog_seasonSelect_notExistMessage":{
     "name":"dialog_seasonSelect_notExistMessage", "wording":"ストーリー追加を\\nお楽しみに！"
   },
-  "dialog_miracleTicketExchangeDone_title":{
-    "name":"dialog_miracleTicketExchangeDone_title", "wording":"交換完了"
-  },
-  "dialog_confirmViewMV_title":{
-    "name":"dialog_confirmViewMV_title", "wording":"MV再生"
-  },
   "dialog_biography_backstageCaption":{
     "name":"dialog_biography_backstageCaption", "wording":"※{0}人まで選択することができます。"
   },
   "biography_areaTalk_tab_current":{
     "name":"biography_areaTalk_tab_current", "wording":"登場中の会話"
-  },
-  "word_notSetFavoriteMessage_description":{
-    "name":"word_notSetFavoriteMessage_description", "wording":"お気に入りスタンプは協力ライブのルーム選択画面から設定することができます。"
   }
 }
