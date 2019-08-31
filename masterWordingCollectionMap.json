@@ -1,4 +1,7 @@
 {
+  "garupaPassDetailDialog_overview":{
+    "name":"garupaPassDetailDialog_overview", "wording":"概要"
+  },
   "dialog_degree_notSaveMessage":{
     "name":"dialog_degree_notSaveMessage", "wording":"変更された称号があります。\\n設定せずに他の画面へ移動しても\\nよろしいですか？"
   },
@@ -17,6 +20,12 @@
   "dialog_liveSettings_liveVolumeCaption":{
     "name":"dialog_liveSettings_liveVolumeCaption", "wording":"ライブ音量"
   },
+  "dialog_garupaPassExpirationLimitDialog_description2":{
+    "name":"dialog_garupaPassExpirationLimitDialog_description2", "wording":"「ガルパPASS」の更新は\\n[スターショップ] ＞ [ガルパPASS]より\\n行えます。"
+  },
+  "dialog_garupaPassExpirationLimitDialog_description1":{
+    "name":"dialog_garupaPassExpirationLimitDialog_description1", "wording":"「ガルパPASS」の有効期間が切れました。\\n更新をすることで継続して「ガルパPASS」の\\n特典を受け取ることができます。"
+  },
   "dialog_profileIllustConfig_caption":{
     "name":"dialog_profileIllustConfig_caption", "wording":"プロフィールイラスト"
   },
@@ -25,6 +34,9 @@
   },
   "header_subTitle_profileDesignSetting":{
     "name":"header_subTitle_profileDesignSetting", "wording":"フレーム・ピンズ設定"
+  },
+  "dialog_garupaPassExpirationLimitDialog_description3":{
+    "name":"dialog_garupaPassExpirationLimitDialog_description3", "wording":"「スターショップ」へ行きますか？"
   },
   "word_periodLimitedArea":{
     "name":"word_periodLimitedArea", "wording":"期間限定エリア"
@@ -68,6 +80,9 @@
   "dialog_gachaSealExchangeGuide_description2":{
     "name":"dialog_gachaSealExchangeGuide_description2", "wording":"[505050]ガチャシールの所持枚数が[-][FF3B72]{0}[-][505050]枚以上です。[-]"
   },
+  "garupaPassDetailDialog_everyDay":{
+    "name":"garupaPassDetailDialog_everyDay", "wording":"「有効期間中」の特典"
+  },
   "dialog_gachaSealExchangeGuide_description3":{
     "name":"dialog_gachaSealExchangeGuide_description3", "wording":"交換所にて対象のメンバーやアイテムと\\n交換できます。"
   },
@@ -103,6 +118,9 @@
   },
   "dialog_ageAuthPurchaseError_upperMessage15":{
     "name":"dialog_ageAuthPurchaseError_upperMessage15", "wording":"[505050]今月の課金上限に達しました。\\n\\nあなたの課金上限\\n[-][FE2349]16歳未満\\n月額5,400円(税込)まで[-]"
+  },
+  "starShopWindowGarupaPass_caution":{
+    "name":"starShopWindowGarupaPass_caution", "wording":"注意事項"
   },
   "generalElection_snsShare_message_pastelPalettes":{
     "name":"generalElection_snsShare_message_pastelPalettes", "wording":"「第3回ガールズバンド総選挙」開催中___4pyo___\\nPastel＊Palettesに投票したよ♪みんなと一緒にとびっきりかわいいライブをしよう___4p2j___"
@@ -185,6 +203,9 @@
   "tryLiveEvent_tryTargetDialogCell_titleCombo":{
     "name":"tryLiveEvent_tryTargetDialogCell_titleCombo", "wording":"コンボトライ"
   },
+  "word_paidStarCount":{
+    "name":"word_paidStarCount", "wording":"有償スター x {0}"
+  },
   "header_subTitle_gachaSeal":{
     "name":"header_subTitle_gachaSeal", "wording":"ガチャシール交換所"
   },
@@ -199,6 +220,9 @@
   },
   "word_skip":{
     "name":"word_skip", "wording":"スキップ"
+  },
+  "starShopWindowGarupaPass_update":{
+    "name":"starShopWindowGarupaPass_update", "wording":"更新する"
   },
   "dialog_favoriteStampEdit_saveMessage":{
     "name":"dialog_favoriteStampEdit_saveMessage", "wording":"スタンプを設定しました。\\nルーム選択画面に戻ります。"
@@ -218,6 +242,9 @@
   "dialog_copyConfirm_garupaCup2ndEntryPlayerIdCopy":{
     "name":"dialog_copyConfirm_garupaCup2ndEntryPlayerIdCopy", "wording":"エントリー用プレイヤーIDをコピーしました。"
   },
+  "starShopWindowGarupaPass_differentPlatformMessage":{
+    "name":"starShopWindowGarupaPass_differentPlatformMessage", "wording":"[505050]ご利用の端末に対応していないプラットフォームで[-]\\n[505050]有効期間内の「ガルパPASS」があります。[-]\\n[FF3B72]購入いただいたプラットフォームに対応する端末以外では[-]\\n[FF3B72]特典を受け取ることができません。[-]\\n\\n[505050]ご利用の端末で特典を受け取るには、[-]\\n[505050]１．以前お使いのプラットフォームでの解約を済ませた上で、[-]\\n[505050]有効期間が切れるまでお待ちください。[-]\\n\\n[505050]２．有効期間が切れたあとに、[-]\\n[505050]ご利用の端末に対応するプラットフォームにて、[-]\\n[505050]改めて購入いただく必要があります。[-]\\n\\n[505050]改めて購入いただく場合でも、以前の購入回数は引き継がれます。[-]\\n\\n[FF3B72]有効期間  {0:00}/{1:00}まで[-]"
+  },
   "musicSelect_getCondition_buttonLabelMainStory":{
     "name":"musicSelect_getCondition_buttonLabelMainStory", "wording":"メインストーリー"
   },
@@ -229,6 +256,9 @@
   },
   "dialog_liveSettings_toDefault":{
     "name":"dialog_liveSettings_toDefault", "wording":"デフォルトに戻す"
+  },
+  "dialog_exMissionHint_progressHighScoreRating":{
+    "name":"dialog_exMissionHint_progressHighScoreRating", "wording":"対象のハイスコアレーティング"
   },
   "dialog_sealExchange_filterTicket":{
     "name":"dialog_sealExchange_filterTicket", "wording":"チケット"
@@ -272,11 +302,20 @@
   "twitter_newYearCard_hashTag_choice":{
     "name":"twitter_newYearCard_hashTag_choice", "wording":"#バンドリ,#ガルパ,#ガルパ年賀状"
   },
+  "cell_exMission_progressFreeScore":{
+    "name":"cell_exMission_progressFreeScore", "wording":"[505050]フリーライブスコア[-] [FF3B72]{0}[-]"
+  },
+  "dialog_profileFrameSettings_missionLink_text":{
+    "name":"dialog_profileFrameSettings_missionLink_text", "wording":"このフレームはチャレンジ\\nミッションで獲得できます"
+  },
   "dialog_liveSettings_vibrationCaption":{
     "name":"dialog_liveSettings_vibrationCaption", "wording":"ライブ振動"
   },
   "friendList_sortingType_lastLoginAt":{
     "name":"friendList_sortingType_lastLoginAt", "wording":"最終ログイン"
+  },
+  "dialog_exMissionHint_progressAreaItem":{
+    "name":"dialog_exMissionHint_progressAreaItem", "wording":"対象のエリアアイテム"
   },
   "dialog_systyemSettings_notificationDescription":{
     "name":"dialog_systyemSettings_notificationDescription", "wording":"※端末の設定で通知をOFFにしている場合、アプリからの通知が届きません。\n　ご注意ください。\n※深夜帯にあたる時刻は、0:00〜5:59までです。"
@@ -286,6 +325,9 @@
   },
   "dialog_event_characterAlbum_text_able":{
     "name":"dialog_event_characterAlbum_text_able", "wording":"イベント「{0}」の新メンバーです。\\n現在開催中のイベントで登場しています。"
+  },
+  "cell_exMission_progressHardFullCombo":{
+    "name":"cell_exMission_progressHardFullCombo", "wording":"[505050]HARD以上のフルコンボクリア楽曲数[-] [FF3B72]{0}[-]"
   },
   "dialog_exchange_alreadyHaveFilterMember":{
     "name":"dialog_exchange_alreadyHaveFilterMember", "wording":"メンバー"
@@ -298,6 +340,9 @@
   },
   "dialog_specialSkinDetailSetting_judge":{
     "name":"dialog_specialSkinDetailSetting_judge", "wording":"期間限定判定テキスト"
+  },
+  "starShop_itemSet_resetOnceMonth":{
+    "name":"starShop_itemSet_resetOnceMonth", "wording":"[FF395A]毎月1日リセット[-]"
   },
   "dialog_exMissionFilter_filterDecoParts":{
     "name":"dialog_exMissionFilter_filterDecoParts", "wording":"デコパーツ"
@@ -353,6 +398,9 @@
   "dialog_downloadSize":{
     "name":"dialog_downloadSize", "wording":"ダウンロードサイズ"
   },
+  "dialog_garupaPassDuplicateUpdateDialog_caution":{
+    "name":"dialog_garupaPassDuplicateUpdateDialog_caution", "wording":"[505050]※複数のプラットフォームで「ガルパPASS」を購入しても\\n効果が重複することはありません。\\n※重複してのお支払いの返金などはお受けできません。[-]"
+  },
   "dialog_sort_characterAlbum_training_all":{
     "name":"dialog_sort_characterAlbum_training_all", "wording":"すべて"
   },
@@ -395,6 +443,9 @@
   "dialog_exchangetitle_seal":{
     "name":"dialog_exchangetitle_seal", "wording":"このアイテムと交換しますか？"
   },
+  "dialog_garupaPassTermsOfServiceWebViewDialog_title":{
+    "name":"dialog_garupaPassTermsOfServiceWebViewDialog_title", "wording":"利用規約"
+  },
   "word_notSetFavoriteMessage":{
     "name":"word_notSetFavoriteMessage", "wording":"お気に入りスタンプを設定していません。"
   },
@@ -403,6 +454,9 @@
   },
   "biography_characterProfile_buttonEpisode1":{
     "name":"biography_characterProfile_buttonEpisode1", "wording":"自己紹介エピソード1"
+  },
+  "dialog_termsOfServiceAndPurchaseGarupaPassDialog_termsOfService":{
+    "name":"dialog_termsOfServiceAndPurchaseGarupaPassDialog_termsOfService", "wording":"利用規約に同意する"
   },
   "dialog_systemSettings_captionSystem":{
     "name":"dialog_systemSettings_captionSystem", "wording":"システム"
@@ -418,6 +472,9 @@
   },
   "word_favoriteStamp":{
     "name":"word_favoriteStamp", "wording":"お気に入りスタンプ"
+  },
+  "dialog_exMissionHint_title":{
+    "name":"dialog_exMissionHint_title", "wording":"EXミッションのヒント"
   },
   "dialog_liveSettings_tapVibration":{
     "name":"dialog_liveSettings_tapVibration", "wording":"タップ時振動"
@@ -467,6 +524,9 @@
   "dialog_starRecall_title":{
     "name":"dialog_starRecall_title", "wording":"返金分有償スター回収"
   },
+  "dialog_garupaPassNotesWebViewDialog_title":{
+    "name":"dialog_garupaPassNotesWebViewDialog_title", "wording":"注意事項"
+  },
   "dialog_garupaCup2ndEntry_descriptionResult":{
     "name":"dialog_garupaCup2ndEntry_descriptionResult", "wording":"[505050]1次予選ライブはエントリーしなくてもプレイできます。\\n第2回ガルパ杯参加希望の方はエントリーする必要があります。\\n１次予選終了後、合計予選ハイスコアをもとに、\\n地方2次予選の出場者の選出を行います。[-]"
   },
@@ -476,8 +536,14 @@
   "screen_profileDesignSelect_space_count":{
     "name":"screen_profileDesignSelect_space_count", "wording":"残りスペース"
   },
+  "starShopWindowGarupaPass_expiredBalloon":{
+    "name":"starShopWindowGarupaPass_expiredBalloon", "wording":"有効期間が\\n切れています"
+  },
   "biography_areaTalk_tab_memorial":{
     "name":"biography_areaTalk_tab_memorial", "wording":"思い出の会話"
+  },
+  "dialog_exMissionHint_progressFreeScore":{
+    "name":"dialog_exMissionHint_progressFreeScore", "wording":"フリーライブスコア"
   },
   "biography_characterProfile_constellation":{
     "name":"biography_characterProfile_constellation", "wording":"星座"
@@ -566,8 +632,14 @@
   "dialog_musicSortFilter_soloTitle":{
     "name":"dialog_musicSortFilter_soloTitle", "wording":"フリーライブ絞り込み"
   },
+  "starShopWindowGarupaPass_purchase":{
+    "name":"starShopWindowGarupaPass_purchase", "wording":"購入する"
+  },
   "twitter_newYearCard_tweetText_choice":{
     "name":"twitter_newYearCard_tweetText_choice", "wording":"___4pyS___年賀状キャンペーン開催中___4pyo___\\nお正月に選んだバンドからの年賀状を見よう___4pyJ___\\n{0}を選んだよ___4p2j___\\nみんなも年賀状を見たいバンドを選ぼう♪\\nhttps://bang-dream-gbp.onelink.me/qbvS/12d92f8 \\n"
+  },
+  "dialog_termsOfServiceAndPurchaseGarupaPassDialog_purchase":{
+    "name":"dialog_termsOfServiceAndPurchaseGarupaPassDialog_purchase", "wording":"購入する"
   },
   "dialog_mvGet_description":{
     "name":"dialog_mvGet_description", "wording":"「{0}」\\n\\n{1}を獲得しました。"
@@ -668,6 +740,9 @@
   "newYearCard_preparationDialog_description3":{
     "name":"newYearCard_preparationDialog_description3", "wording":"※バンド選択期間内であれば、バンドを選択し直すことができます。"
   },
+  "dialog_garupaPassBenefitReceived_title":{
+    "name":"dialog_garupaPassBenefitReceived_title", "wording":"ガルパPASS更新特典アイテム"
+  },
   "april2019_dialog_complete_story_title":{
     "name":"april2019_dialog_complete_story_title", "wording":"全てのお話を読み終わりました"
   },
@@ -755,6 +830,9 @@
   "biography_characterProfile_class":{
     "name":"biography_characterProfile_class", "wording":"クラス"
   },
+  "starShopWindowGarupaPass_detail":{
+    "name":"starShopWindowGarupaPass_detail", "wording":"詳細"
+  },
   "dialog_billingPenalty_nextBillingStopWarning":{
     "name":"dialog_billingPenalty_nextBillingStopWarning", "wording":"※次回以降も返金処理後に返金分の有償スターが回収できなかった場合、\\n再度課金停止措置を実施する場合がございます。"
   },
@@ -802,6 +880,9 @@
   },
   "word_michelleSealCount":{
     "name":"word_michelleSealCount", "wording":"ミッシェルシールx{0}"
+  },
+  "dialog_itemSetDetail_title":{
+    "name":"dialog_itemSetDetail_title", "wording":"セット内容"
   },
   "dialog_downloadSize_withVoice":{
     "name":"dialog_downloadSize_withVoice", "wording":"ボイスあり："
@@ -854,14 +935,26 @@
   "receive_loginbonus_direct":{
     "name":"receive_loginbonus_direct", "wording":"ログインボーナスを受け取りました。"
   },
+  "starShopWindowGarupaPass_differentPlatformNotCanceledMessage":{
+    "name":"starShopWindowGarupaPass_differentPlatformNotCanceledMessage", "wording":"[505050]ご利用の端末に対応していないプラットフォームで\\n解約されていない「ガルパPASS」があります。[-]\\n[FF3B72]「ガルパPASS」を複数購入することはできません。[-]\\n\\n[505050]以前お使いのプラットフォームでの解約を済ませた上で、\\nご利用の端末に対応するプラットフォームにて、\\n改めて購入いただく必要があります。\\n\\n改めて購入いただく場合でも、以前の購入回数は引き継がれます。[-]"
+  },
+  "dialog_garupaPassDuplicateUpdateDialog_description":{
+    "name":"dialog_garupaPassDuplicateUpdateDialog_description", "wording":"[505050]ご利用の端末に対応していないプラットフォームで\\n「ガルパPASS」の更新がありました。\\n[-][FF3B72]更新のあったプラットフォームに対応する端末以外では\\n特典を受け取ることができません。[-]\\n\\n[505050]以前お使いのプラットフォームで契約している「ガルパPASS」\\nを必ずご自身で解約を行ってください。[-]"
+  },
   "gachaTop_button_stopTryOn":{
     "name":"gachaTop_button_stopTryOn", "wording":"試着をやめる"
+  },
+  "dialog_differentPlatformUpdateDialog_description":{
+    "name":"dialog_differentPlatformUpdateDialog_description", "wording":"[505050]ご利用の端末に対応していないプラットフォームで\\n「ガルパPASS」の更新がありました。\\n[-][FF3B72]更新のあったプラットフォームに対応する端末以外では\\n特典を受け取ることができません。\\n\\n[-][505050]ご利用の端末で特典を受け取るには、\\n１．以前お使いのプラットフォームでの解約を済ませた上で、\\n有効期間が切れるまでおまちください。\\n\\n２．有効期間が切れたあとに、\\nご利用の端末に対応するプラットフォームにて、\\n改めて購入いただく必要があります。\\n\\n改めて購入いただく場合でも、以前の購入回数は引き継がれます。\\n\\n[-][FF3B72]有効期間 {0:00}/{1:00}まで[-]"
   },
   "word_sort_skillType":{
     "name":"word_sort_skillType", "wording":"スキル順"
   },
   "header_subTitle_comicTop":{
     "name":"header_subTitle_comicTop", "wording":"コミック選択"
+  },
+  "mission_transitionButton_areaShop":{
+    "name":"mission_transitionButton_areaShop", "wording":"ショップ"
   },
   "dialog_musicSortFilter_notFullCombo":{
     "name":"dialog_musicSortFilter_notFullCombo", "wording":"未フルコンボ"
@@ -899,6 +992,9 @@
   "dialog_friendRequestError_messageOpponentAlredyApplicationCancel":{
     "name":"dialog_friendRequestError_messageOpponentAlredyApplicationCancel", "wording":"この申請は取り消されました。"
   },
+  "starShopWindowGarupaPass_restore":{
+    "name":"starShopWindowGarupaPass_restore", "wording":"購入を復元"
+  },
   "gachaResult_headerCeilingAlert_message":{
     "name":"gachaResult_headerCeilingAlert_message", "wording":"交換可能枚数に達しました"
   },
@@ -911,11 +1007,23 @@
   "screen_profileDesignSelect_tab_member":{
     "name":"screen_profileDesignSelect_tab_member", "wording":"メンバー"
   },
+  "dialog_garupaPassPurchaseError_alreadyPurchasedMessage":{
+    "name":"dialog_garupaPassPurchaseError_alreadyPurchasedMessage", "wording":"通信エラーが発生しました。\\nタイトルに戻ります。"
+  },
+  "starShop_itemSet_setDetail":{
+    "name":"starShop_itemSet_setDetail", "wording":"セット\\n内容"
+  },
   "exMission_complete_notice":{
     "name":"exMission_complete_notice", "wording":"EXミッション達成！"
   },
   "dialog_twitter_cancel_warning":{
     "name":"dialog_twitter_cancel_warning", "wording":"※シェアをするTwitterアカウントを変更したい場合、\\n一度アカウント連携を解除した上で、\\n再度アカウント連携が必要となります。"
+  },
+  "dialog_exMissionHint_captionHint":{
+    "name":"dialog_exMissionHint_captionHint", "wording":"ヒント"
+  },
+  "dialog_exMissionHint_captionMission":{
+    "name":"dialog_exMissionHint_captionMission", "wording":"ミッション"
   },
   "deckEdit_notExistMessage":{
     "name":"deckEdit_notExistMessage", "wording":"絞り込み条件に該当するメンバーがいません。"
@@ -925,6 +1033,9 @@
   },
   "waitingRoom_notExistMessage":{
     "name":"waitingRoom_notExistMessage", "wording":"絞り込み条件に該当するメンバーがいません。"
+  },
+  "starShopWindowGarupaPass_expilationDate":{
+    "name":"starShopWindowGarupaPass_expilationDate", "wording":"有効期間   {0:00}/{1:00} {2:00}:{3:00}まで"
   },
   "word_album":{
     "name":"word_album", "wording":"アルバム"
@@ -946,6 +1057,9 @@
   },
   "comicSelectSingleFrame_contents_notExistMessage":{
     "name":"comicSelectSingleFrame_contents_notExistMessage", "wording":"絞り込み条件に該当するコミックがありません。"
+  },
+  "dialog_garupaPassPurchaseHistoryNoneDialog_description":{
+    "name":"dialog_garupaPassPurchaseHistoryNoneDialog_description", "wording":"「ガルパPASS」の購入履歴がありません。"
   },
   "dialog_bandParam":{
     "name":"dialog_bandParam", "wording":"バンドパラメータ"
@@ -1003,6 +1117,12 @@
   },
   "word_mvLive":{
     "name":"word_mvLive", "wording":"MVライブ"
+  },
+  "garupaPassDetailDialog_purchaseCount":{
+    "name":"garupaPassDetailDialog_purchaseCount", "wording":"「購入/更新」回数の特典"
+  },
+  "garupaPassDetailDialog_benefits":{
+    "name":"garupaPassDetailDialog_benefits", "wording":"特典内容"
   },
   "dialog_profileCharacterIllustConfirm_title":{
     "name":"dialog_profileCharacterIllustConfirm_title", "wording":"イラスト確認"
@@ -1106,6 +1226,9 @@
   "dialog_confirmViewMV_title":{
     "name":"dialog_confirmViewMV_title", "wording":"MV再生"
   },
+  "dialog_exMissionHint_progressHardFullCombo":{
+    "name":"dialog_exMissionHint_progressHardFullCombo", "wording":"HARD以上のフルコンボクリア楽曲数"
+  },
   "dialog_downloadMV_needDiskSpace":{
     "name":"dialog_downloadMV_needDiskSpace", "wording":"※再生に必要な空き容量：{0}"
   },
@@ -1147,6 +1270,9 @@
   },
   "dialog_friendApprovalError_messageOpponentAlredyApprovalCancel":{
     "name":"dialog_friendApprovalError_messageOpponentAlredyApprovalCancel", "wording":"既に承認を取り消し済みです。"
+  },
+  "cell_exMission_progressHardClear":{
+    "name":"cell_exMission_progressHardClear", "wording":"[505050]HARD以上のクリア楽曲数[-] [FF3B72]{0}[-]"
   },
   "header_subTitle_biographyCharacterProfile":{
     "name":"header_subTitle_biographyCharacterProfile", "wording":"プロフィール"
@@ -1286,6 +1412,9 @@
   "mission_noMissionEX_message":{
     "name":"mission_noMissionEX_message", "wording":"現在挑戦可能なEXミッションはありません。"
   },
+  "dialog_garupaPassRestoreSucceeded_title":{
+    "name":"dialog_garupaPassRestoreSucceeded_title", "wording":"購入の復元完了"
+  },
   "dialog_updateLoginDLData_description1":{
     "name":"dialog_updateLoginDLData_description1", "wording":"追加データをダウンロードします。\\nWi-Fi環境でのダウンロードをおすすめします。"
   },
@@ -1333,6 +1462,9 @@
   },
   "comicTop_buttonLabelDescription_singleFrameComic":{
     "name":"comicTop_buttonLabelDescription_singleFrameComic", "wording":"メンバーたちの日常を切り取った１コマコミック"
+  },
+  "cell_exMission_progressAreaItem":{
+    "name":"cell_exMission_progressAreaItem", "wording":"[505050]対象のエリアアイテム[-] [FF3B72]{0}[-]"
   },
   "generalElection_errorMessage_outsideVoting":{
     "name":"generalElection_errorMessage_outsideVoting", "wording":"投票期間は終了しました。"
@@ -1391,6 +1523,12 @@
   "dialog_moviePlayConfirm_title":{
     "name":"dialog_moviePlayConfirm_title", "wording":"確認"
   },
+  "cell_exMission_progressHighScoreRating":{
+    "name":"cell_exMission_progressHighScoreRating", "wording":"[505050]対象のハイスコアレーティング[-] [FF3B72]{0}[-]"
+  },
+  "garupaPassDetailDialog_everyMonth":{
+    "name":"garupaPassDetailDialog_everyMonth", "wording":"「毎月8の付く日」の特典"
+  },
   "dialog_degree_saveMessage":{
     "name":"dialog_degree_saveMessage", "wording":"称号を設定しました。\\nプロフィール画面に戻ります。"
   },
@@ -1432,6 +1570,9 @@
   },
   "dialog_liveBoostLack_caption2":{
     "name":"dialog_liveBoostLack_caption2", "wording":"所持ライブブースト"
+  },
+  "dialog_rhythmGameSettings_liveSkin_description":{
+    "name":"dialog_rhythmGameSettings_liveSkin_description", "wording":"このレーン・判定ラインは\\nEXミッションで獲得できます。"
   },
   "dialog_generalElection_voteConfirm_title":{
     "name":"dialog_generalElection_voteConfirm_title", "wording":"投票確認"
@@ -1526,6 +1667,9 @@
   "word_low":{
     "name":"word_low", "wording":"低"
   },
+  "dialog_termsOfServiceAndPurchaseGarupaPassDialog_title":{
+    "name":"dialog_termsOfServiceAndPurchaseGarupaPassDialog_title", "wording":"購入確認"
+  },
   "dialog_generalElection_snsShareReward_title":{
     "name":"dialog_generalElection_snsShareReward_title", "wording":"初回シェアボーナス"
   },
@@ -1546,6 +1690,9 @@
   },
   "dialog_lackItemGainMethod_description_toLive":{
     "name":"dialog_lackItemGainMethod_description_toLive", "wording":"ライブ報酬で獲得する"
+  },
+  "dialog_garupaPassExpirationLimitDialog_title":{
+    "name":"dialog_garupaPassExpirationLimitDialog_title", "wording":"ガルパPASS有効期間切れ"
   },
   "word_setting_confirm":{
     "name":"word_setting_confirm", "wording":"設定完了"
@@ -1682,6 +1829,9 @@
   "dialog_few_storage_need":{
     "name":"dialog_few_storage_need", "wording":"必要な空き容量：およそ{0}MB以上"
   },
+  "dialog_garupaPassRestoreSucceeded_message":{
+    "name":"dialog_garupaPassRestoreSucceeded_message", "wording":"購入の復元が正常に完了しました。"
+  },
   "dialog_twitter_not_install_description1":{
     "name":"dialog_twitter_not_install_description1", "wording":"公式のTwitterアプリが\\nインストールされていません。"
   },
@@ -1772,6 +1922,9 @@
   "newYearCard_preparationDialog_availableLimit":{
     "name":"newYearCard_preparationDialog_availableLimit", "wording":"年賀状閲覧期間　{0}　〜　{1}"
   },
+  "garupaPassDetailDialog_purchaseUpdate":{
+    "name":"garupaPassDetailDialog_purchaseUpdate", "wording":"「購入/更新」の特典"
+  },
   "dialog_starShop_premiumPassAllReceived":{
     "name":"dialog_starShop_premiumPassAllReceived", "wording":"プレゼントを全て\\n受け取りました"
   },
@@ -1804,6 +1957,9 @@
   },
   "newYearCard_checkCardDialog_expandButton":{
     "name":"newYearCard_checkCardDialog_expandButton", "wording":"拡大"
+  },
+  "dialog_garupaPassBenefitReceived_message":{
+    "name":"dialog_garupaPassBenefitReceived_message", "wording":"特典アイテムを受け取りました！"
   },
   "biography_AreaTalk_notExistMessage_filtering":{
     "name":"biography_AreaTalk_notExistMessage_filtering", "wording":"絞り込み条件に該当するエリア会話がありません。"
@@ -1895,6 +2051,9 @@
   "dialog_liveSettings_coreMVCharacterCutIn":{
     "name":"dialog_liveSettings_coreMVCharacterCutIn", "wording":"MVライブメンバーカットイン"
   },
+  "dialog_termsOfServiceAndPurchaseGarupaPassDialog_termsOfServiceButton":{
+    "name":"dialog_termsOfServiceAndPurchaseGarupaPassDialog_termsOfServiceButton", "wording":"利用規約"
+  },
   "dialog_batteryCaution_checkBox":{
     "name":"dialog_batteryCaution_checkBox", "wording":"翌日の{0}時まで表示しない"
   },
@@ -1907,11 +2066,17 @@
   "dialog_starShop_penaltyTextTerm":{
     "name":"dialog_starShop_penaltyTextTerm", "wording":"[FF3B72]停止期限 {0}まで[-]"
   },
+  "garupaPassDetailDialog_title":{
+    "name":"garupaPassDetailDialog_title", "wording":"ガルパPASS詳細"
+  },
   "gachaResult_toExchange_buttonTitle":{
     "name":"gachaResult_toExchange_buttonTitle", "wording":"交換所へ"
   },
   "dialog_starShop_premiumPassPurchaseLimit":{
     "name":"dialog_starShop_premiumPassPurchaseLimit", "wording":"購入可能回数の\\n上限に達しました"
+  },
+  "dialog_exMissionHint_progressHardClear":{
+    "name":"dialog_exMissionHint_progressHardClear", "wording":"HARD以上のクリア楽曲数"
   },
   "word_alreadyHaveMember":{
     "name":"word_alreadyHaveMember", "wording":"獲得済みメンバー"
@@ -1970,6 +2135,9 @@
   "biography_characterProfile_hobby":{
     "name":"biography_characterProfile_hobby", "wording":"趣味"
   },
+  "dialog_termsOfServiceAndPurchaseGarupaPassDialog_description":{
+    "name":"dialog_termsOfServiceAndPurchaseGarupaPassDialog_description", "wording":"[505050]「ガルパPASS」は[-][FF3B72]月額{0}円のサービス[-][505050]です。\\n購入するには、利用規約に\\n同意いただく必要があります。[-]"
+  },
   "header_mainTitle_profileIllustSetting":{
     "name":"header_mainTitle_profileIllustSetting", "wording":"プロフィールイラスト設定"
   },
@@ -1984,6 +2152,12 @@
   },
   "dialog_systemSettings_captionSystemVolume":{
     "name":"dialog_systemSettings_captionSystemVolume", "wording":"システム音量"
+  },
+  "dialog_pendingGarupaPassExistTakeOver_message":{
+    "name":"dialog_pendingGarupaPassExistTakeOver_message", "wording":"「ガルパPASS」の中断されたストア決済処理があるため、\\nデータ引き継ぎを行うことができません。\\n\\nタイトル画面よりログインいただき、「購入の復元」をお試しください。\\n\\n■「購入の復元」ご利用方法■\\n[メニュー] > [スターショップ] > [ガルパPASS]画面へ遷移後、\\n「購入の復元」をタップ。"
+  },
+  "starShopWindowGarupaPass_price":{
+    "name":"starShopWindowGarupaPass_price", "wording":"月額 ￥{0}"
   },
   "screen_profileDesignSelect_pageTab_frame":{
     "name":"screen_profileDesignSelect_pageTab_frame", "wording":"フレーム"
@@ -2060,6 +2234,9 @@
   "caption_misstionCell_specialMission":{
     "name":"caption_misstionCell_specialMission", "wording":"特別ミッション"
   },
+  "dialog_garupaPassBenefitReceived_caution":{
+    "name":"dialog_garupaPassBenefitReceived_caution", "wording":"※直接持ちものに付与されました。"
+  },
   "local_notification_live_boost":{
     "name":"local_notification_live_boost", "wording":"ライブブーストが全回復しました。"
   },
@@ -2101,6 +2278,9 @@
   },
   "dialog_sort_skillSortHealWithScoreUp":{
     "name":"dialog_sort_skillSortHealWithScoreUp", "wording":"スコアアップ付き\\nライフ回復"
+  },
+  "dialog_garupaPassAlreadyPlatformUseDialog_description":{
+    "name":"dialog_garupaPassAlreadyPlatformUseDialog_description", "wording":"このプラットフォームIDは、\\nすでに使用されている可能性があります。\\n１つのプラットフォームIDに対して、\\nプレイヤーIDは１つまでご利用いただけます。"
   },
   "dialog_profileDesign_setting_done":{
     "name":"dialog_profileDesign_setting_done", "wording":"フレーム・ピンズを設定しました。\\nプロフィール画面に戻ります。"
@@ -2152,6 +2332,9 @@
   },
   "word_publishContentFinished":{
     "name":"word_publishContentFinished", "wording":"公開期間は終了しました。\nタイトルに戻ります。"
+  },
+  "starShop_itemSet_selectableMember":{
+    "name":"starShop_itemSet_selectableMember", "wording":"選べる\\nメンバー"
   },
   "newYearCard_bandSelectDialog_selectPeriodLimit":{
     "name":"newYearCard_bandSelectDialog_selectPeriodLimit", "wording":"バンド選択期間　{0}まで"
@@ -2255,6 +2438,9 @@
   "word_episode":{
     "name":"word_episode", "wording":"エピソード"
   },
+  "dialog_garupaPassRestoreError_communicationFailedMessage":{
+    "name":"dialog_garupaPassRestoreError_communicationFailedMessage", "wording":"通信に失敗しました。"
+  },
   "word_filter_nomemorial":{
     "name":"word_filter_nomemorial", "wording":"メモリアルエピソード\\n未読"
   },
@@ -2342,6 +2528,9 @@
   "dialog_mvViewSelect_message":{
     "name":"dialog_mvViewSelect_message", "wording":"※画質の設定はオプションのライブ演出・音量設定から\n　変更できます。"
   },
+  "dialog_differentPlatformUpdateDialog_title":{
+    "name":"dialog_differentPlatformUpdateDialog_title", "wording":"無効なガルパPASSの更新"
+  },
   "dialog_profileConfig_tabProfileDesignSettings_moveToSelectPageButton":{
     "name":"dialog_profileConfig_tabProfileDesignSettings_moveToSelectPageButton", "wording":"フレーム・ピンズを変更"
   },
@@ -2372,14 +2561,23 @@
   "dialog_exchange_alreadyHaveFilterStamp":{
     "name":"dialog_exchange_alreadyHaveFilterStamp", "wording":"スタンプ"
   },
+  "starShopWindowGarupaPass_expilationLabel":{
+    "name":"starShopWindowGarupaPass_expilationLabel", "wording":"購入済み"
+  },
   "caption_mission_degreename":{
     "name":"caption_mission_degreename", "wording":"称号「{0}」"
   },
   "popup_eventSupportBand_description":{
     "name":"popup_eventSupportBand_description", "wording":"イベントサポートバンドは、編成ボーナスを加えた総合力が\n最も高くなるメンバーが自動的に選出されます。\nイベントサポートバンドによって獲得できるイベントPは、\nイベントサポートバンド総合力によって算出されます。"
   },
+  "starShopWindowGarupaPass_nextRewardCount":{
+    "name":"starShopWindowGarupaPass_nextRewardCount", "wording":"あと{0}回購入でもらえる！"
+  },
   "dialog_specialSkinDetailSetting_background":{
     "name":"dialog_specialSkinDetailSetting_background", "wording":"期間限定ライブ背景"
+  },
+  "dialog_pendingGarupaPassExist_message":{
+    "name":"dialog_pendingGarupaPassExist_message", "wording":"「ガルパPASS」の中断されたストア決済処理があります。\\n\\nこのアカウントで「ガルパPASS」を有効化するには\\n「購入の復元」を行ってください。\\n\\n■「購入の復元」ご利用方法■\\n[メニュー] > [スターショップ] > [ガルパPASS]画面へ遷移後、\\n「購入の復元」をタップ。"
   },
   "dialog_liveSetting_MVViewModeQuality":{
     "name":"dialog_liveSetting_MVViewModeQuality", "wording":"MV再生モード画質"
