@@ -1,5 +1,5 @@
 {
-  "version":"3.6.0.300", "bundles":{
+  "version":"3.6.0.350", "bundles":{
     "actionset/group0":{
       "bundleName":"actionset/group0", "hash":"952c822f22410d4d98255efa021a6bdebb9fa2f9e157d254bf4c792a14cb05b9", "category":"StartApp", "crc":706471352, "fileSize":15801
     },
@@ -725,6 +725,9 @@
     },
     "backstage/talkset/group461_470":{
       "bundleName":"backstage/talkset/group461_470", "hash":"cc930195403ea4bfb76e90bc124dda7d22b08b9636acb4b71a95eb7117f35773", "category":"StartApp", "crc":2755219836, "fileSize":31567
+    },
+    "backstage/talkset/group491_500":{
+      "bundleName":"backstage/talkset/group491_500", "hash":"5db1e57a151544a3c62a6fb1f9d557e39733228629107f8244e83f7b25f5c02d", "category":"StartApp", "crc":47147037, "fileSize":13676
     },
     "backstage/talkset/group51_60":{
       "bundleName":"backstage/talkset/group51_60", "hash":"0327e4cc821d75865acc39c4e6f74d0490fc1ac1c658d8a21022875dfba061c9", "category":"StartApp", "crc":4212224666, "fileSize":45029
@@ -9627,6 +9630,12 @@
     "event/loginbonus/election_3rd":{
       "bundleName":"event/loginbonus/election_3rd", "hash":"11ef797b2bb18d6c0fe8126ac0ba236a89a839971602c150fe1540fc4811d2da", "category":"AsNeeded", "crc":869500901, "fileSize":2090351
     },
+    "event/loginbonus/filmlive_kohyo_kinen":{
+      "bundleName":"event/loginbonus/filmlive_kohyo_kinen", "hash":"576472da8e5284c3a91d416126beb6158364f1fab30cdac87fc8f2e8794ac294", "category":"AsNeeded", "crc":3037615334, "fileSize":2129508
+    },
+    "event/loginbonus/filmlive_release":{
+      "bundleName":"event/loginbonus/filmlive_release", "hash":"4deaa95ba5154c5ede47f2ca861214185d5f5c2cbe2cd9936fb4d488b46a85dc", "category":"AsNeeded", "crc":1152208772, "fileSize":1824314
+    },
     "event/loginbonus/filmlive_roadshow":{
       "bundleName":"event/loginbonus/filmlive_roadshow", "hash":"27a6d0cbde6403502bd19ff45a042f59a89fef1b2665c45450fcfc828492df54", "category":"AsNeeded", "crc":158824097, "fileSize":1582480
     },
@@ -11274,6 +11283,12 @@
       ],
       "fileSize":4532117
     },
+    "gacha/screen/gacha427":{
+      "bundleName":"gacha/screen/gacha427", "hash":"51bc1b4ec300c0991e4948f470a7bd04335dd48c4d4c49a8aef74ebcb8c85da7", "category":"AsNeeded", "crc":3657389941, "dependencies":[
+        "effect/common_materials"
+      ],
+      "fileSize":8454403
+    },
     "gacha/screen/gacha5":{
       "bundleName":"gacha/screen/gacha5", "hash":"811f1cf767fe4b07ed6e38a3dab1869d33e9200171ee1bf76f31a7bbc3e52d9d", "category":"AsNeeded", "crc":3468841457, "fileSize":454092
     },
@@ -11323,7 +11338,7 @@
       "fileSize":1909628
     },
     "homebanner":{
-      "bundleName":"homebanner", "hash":"dc6e001da701daf23413a2c5924a0721578e1801cf37bea8d19805e333aba690", "category":"StartApp", "crc":1601563372, "fileSize":29702118
+      "bundleName":"homebanner", "hash":"96da6e86e8385c62373d812e2daf83fc578e1801cf37bea8d19805e333aba690", "category":"StartApp", "crc":1560626239, "fileSize":29836546
     },
     "ingameskin/bgskin/skin00":{
       "bundleName":"ingameskin/bgskin/skin00", "hash":"c17e021fc1b48107e3fa97295538f7aebb71af161f99855ea24133093d7e43e7", "category":"StartApp", "crc":991212344, "fileSize":2032802
@@ -22016,6 +22031,9 @@
     },
     "sound/voice/backstage/talkset461-470":{
       "bundleName":"sound/voice/backstage/talkset461-470", "hash":"3179d018b44beca9feaf5e604c8dc52d5b32c919b46ed6397c5dc29b9e276c90", "category":"AdditionalVoice", "crc":4155720448, "fileSize":431486
+    },
+    "sound/voice/backstage/talkset491-500":{
+      "bundleName":"sound/voice/backstage/talkset491-500", "hash":"937260a7d5a8c577216eab7ae0f06652b1e3295c6127b9a84ae1c0748c2fbd24", "category":"AdditionalVoice", "crc":2312099289, "fileSize":74228
     },
     "sound/voice/backstage/talkset51-60":{
       "bundleName":"sound/voice/backstage/talkset51-60", "hash":"4ee7f1f3dca5c372447dbe88c784f9624859f47039ead2943002a0089b6e6ac0", "category":"AdditionalVoice", "crc":2534560985, "fileSize":556925
