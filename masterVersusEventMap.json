@@ -1,3 +1,163 @@
-[
-  
-]
+{
+  "92":{
+    "eventId":92, "attributes":[
+      {
+        "eventId":92, "attribute":"powerful", "percent":10
+      }
+    ],
+    "characters":[
+      {
+        "eventId":92, "characterId":1, "percent":20, "seq":5
+      },
+      {
+        "eventId":92, "characterId":2, "percent":20, "seq":4
+      },
+      {
+        "eventId":92, "characterId":3, "percent":20, "seq":3
+      },
+      {
+        "eventId":92, "characterId":4, "percent":20, "seq":2
+      },
+      {
+        "eventId":92, "characterId":5, "percent":20, "seq":1
+      }
+    ],
+    "stories":[
+      {
+        "eventId":92, "seq":0, "caption":"オープニング", "title":"有咲のじょーけん", "synopsis":"商店街がハロウィン仕様に飾り付け。\nそれを聞いた香澄は大はしゃぎするが……？", "scenarioId":"event92-01", "coverImage":"92_0", "backgroundImage":"0", "releasePt":0, "releaseConditions":"オープニングシナリオ", "backgroundImageId":1, "rewards":[
+          {
+            "id":1373, "eventId":92, "seq":0, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1374, "eventId":92, "seq":0, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":92, "seq":1, "caption":"第１話", "title":"何になりたい？", "synopsis":"ハロウィンパレードに参加するため、\n当日の仮装を考えるポピパ一同。", "scenarioId":"event92-02", "coverImage":"92_1", "backgroundImage":"0", "releasePt":1500, "releaseConditions":"1500イベントP達成", "backgroundImageId":1, "rewards":[
+          {
+            "id":1375, "eventId":92, "seq":1, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1376, "eventId":92, "seq":1, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":92, "seq":2, "caption":"第２話", "title":"ポピパ・イン・ハロウィン！", "synopsis":"パレード当日。思い思いの仮装に身を包んだ\n五人は、いよいよ会場に足を踏み入れる。", "scenarioId":"event92-03", "coverImage":"92_2", "backgroundImage":"0", "releasePt":4000, "releaseConditions":"4000イベントP達成", "backgroundImageId":413, "rewards":[
+          {
+            "id":1377, "eventId":92, "seq":2, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1378, "eventId":92, "seq":2, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":92, "seq":3, "caption":"第３話", "title":"パレードの先に", "synopsis":"パレードの雰囲気に、ワクワクを隠せない\n五人。そのまま街を歩いていると……？", "scenarioId":"event92-04", "coverImage":"92_3", "backgroundImage":"0", "releasePt":9000, "releaseConditions":"9000イベントP達成", "backgroundImageId":413, "rewards":[
+          {
+            "id":1379, "eventId":92, "seq":3, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1380, "eventId":92, "seq":3, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":92, "seq":4, "caption":"第４話", "title":"にぎやかな先輩達", "synopsis":"香澄が見つけたのは、明日香と六花の姿。\n思わぬ出会いに、一同は盛り上がる。", "scenarioId":"event92-05", "coverImage":"92_4", "backgroundImage":"0", "releasePt":17500, "releaseConditions":"17500イベントP達成", "backgroundImageId":413, "rewards":[
+          {
+            "id":1381, "eventId":92, "seq":4, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1382, "eventId":92, "seq":4, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":92, "seq":5, "caption":"第５話", "title":"非日常の力", "synopsis":"パレードの終わりが近づき、名残惜しむ\n五人。しかし有咲が何かを思い出し……？", "scenarioId":"event92-06", "coverImage":"92_5", "backgroundImage":"0", "releasePt":25000, "releaseConditions":"25000イベントP達成", "backgroundImageId":413, "rewards":[
+          {
+            "id":1383, "eventId":92, "seq":5, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1384, "eventId":92, "seq":5, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":92, "seq":6, "caption":"エンディング", "title":"ハロウィンは終わらない！", "synopsis":"イベント後、楽しい思い出を振り返る五人。\n貰ったお菓子を抱え、向かった先は──", "scenarioId":"event92-07", "coverImage":"92_6", "backgroundImage":"0", "releasePt":35000, "releaseConditions":"35000イベントP達成", "backgroundImageId":15, "rewards":[
+          {
+            "id":1385, "eventId":92, "seq":6, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1386, "eventId":92, "seq":6, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      }
+    ],
+    "musics":[
+      {
+        "eventId":92, "musicId":219, "seq":1, "musicRankingRewards":[
+          {
+            "id":1639, "eventId":92, "musicId":219, "fromRank":1, "toRank":1, "resourceType":"degree", "resourceId":1719, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":1640, "eventId":92, "musicId":219, "fromRank":1, "toRank":1, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":1641, "eventId":92, "musicId":219, "fromRank":2, "toRank":2, "resourceType":"degree", "resourceId":1720, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":1642, "eventId":92, "musicId":219, "fromRank":2, "toRank":2, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":1643, "eventId":92, "musicId":219, "fromRank":3, "toRank":3, "resourceType":"degree", "resourceId":1721, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":1644, "eventId":92, "musicId":219, "fromRank":3, "toRank":3, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":1645, "eventId":92, "musicId":219, "fromRank":4, "toRank":10, "resourceType":"degree", "resourceId":1722, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":1646, "eventId":92, "musicId":219, "fromRank":4, "toRank":10, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":1647, "eventId":92, "musicId":219, "fromRank":11, "toRank":100, "resourceType":"degree", "resourceId":1723, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":1648, "eventId":92, "musicId":219, "fromRank":11, "toRank":100, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":1649, "eventId":92, "musicId":219, "fromRank":101, "toRank":1000, "resourceType":"practice_ticket", "resourceId":7, "quantity":5, "recommendFlg":0
+          },
+          {
+            "id":1650, "eventId":92, "musicId":219, "fromRank":1001, "toRank":2000, "resourceType":"practice_ticket", "resourceId":7, "quantity":3, "recommendFlg":0
+          },
+          {
+            "id":1651, "eventId":92, "musicId":219, "fromRank":2001, "toRank":5000, "resourceType":"practice_ticket", "resourceId":7, "quantity":2, "recommendFlg":0
+          },
+          {
+            "id":1652, "eventId":92, "musicId":219, "fromRank":5001, "toRank":10000, "resourceType":"practice_ticket", "resourceId":7, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":1653, "eventId":92, "musicId":219, "fromRank":10001, "toRank":20000, "resourceType":"practice_ticket", "resourceId":6, "quantity":5, "recommendFlg":0
+          },
+          {
+            "id":1654, "eventId":92, "musicId":219, "fromRank":20001, "toRank":30000, "resourceType":"practice_ticket", "resourceId":6, "quantity":3, "recommendFlg":0
+          },
+          {
+            "id":1655, "eventId":92, "musicId":219, "fromRank":30001, "toRank":50000, "resourceType":"practice_ticket", "resourceId":6, "quantity":2, "recommendFlg":0
+          },
+          {
+            "id":1656, "eventId":92, "musicId":219, "fromRank":50001, "toRank":100000, "resourceType":"practice_ticket", "resourceId":6, "quantity":1, "recommendFlg":0
+          }
+        ]
+      }
+    ],
+    "eventCharacterParameterBonus":[
+      {
+        "eventId":92, "performance":0, "technique":50, "visual":0
+      }
+    ]
+  }
+}
