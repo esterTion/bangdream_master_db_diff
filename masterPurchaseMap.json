@@ -345,14 +345,6 @@
     ],
     "seq":10, "purchaseMenuId":2
   },
-  "102":{
-    "purchaseId":102, "purchaseCategory":"star", "productName":"スターB", "description":"[505050FF]３６０個[-]", "publishedAt":1569855600000, "detail":[
-      {
-        "purchaseId":102, "seq":1, "resourceType":"paid_star", "quantity":360
-      }
-    ],
-    "seq":40, "purchaseMenuId":4
-  },
   "38":{
     "purchaseId":38, "purchaseCategory":"limited_rookie_item_set", "productName":"スタートダッシュセット", "description":"5回限定で★3ミラクルチケットを始め、様々なアイテムが詰まったスタートダッシュに最適なセット", "purchaseLimit":5, "publishedAt":1568008800000, "detail":[
       {
@@ -381,14 +373,6 @@
       }
     ],
     "seq":20, "purchaseMenuId":2, "homeBalloonPriority":10, "homeBalloonMessage":"スタートダッシュセット♪"
-  },
-  "103":{
-    "purchaseId":103, "purchaseCategory":"star", "productName":"スターC", "description":"[505050FF]７６０個[-]", "publishedAt":1569855600000, "detail":[
-      {
-        "purchaseId":103, "seq":1, "resourceType":"paid_star", "quantity":760
-      }
-    ],
-    "seq":50, "purchaseMenuId":4
   },
   "39":{
     "purchaseId":39, "purchaseCategory":"limited_once_month_item_set", "productName":"キラキラセット", "description":"毎月1回限定のお得なセット", "publishedAt":1567263600000, "closedAt":1569855599000, "detail":[
@@ -443,14 +427,6 @@
     ],
     "seq":30, "purchaseMenuId":2, "purchaseMonthlyLimit":1, "homeBalloonPriority":60, "homeBalloonMessage":"毎月お得なキラキラセット♪", "homeBalloonReleaseRankFrom":30
   },
-  "104":{
-    "purchaseId":104, "purchaseCategory":"star", "productName":"スターD", "description":"[505050FF]１３５０個[-]", "publishedAt":1569855600000, "detail":[
-      {
-        "purchaseId":104, "seq":1, "resourceType":"paid_star", "quantity":1350
-      }
-    ],
-    "seq":60, "purchaseMenuId":4
-  },
   "40":{
     "purchaseId":40, "purchaseCategory":"garupa_pass", "productName":"ガルパPASS", "description":"様々な特典が受けられる月額480円のサービス", "publishedAt":1567263600000, "detail":[
       {
@@ -458,14 +434,6 @@
       }
     ],
     "seq":10, "purchaseMenuId":3
-  },
-  "105":{
-    "purchaseId":105, "purchaseCategory":"star", "productName":"スターE", "description":"[505050FF]２６５０個[-]", "publishedAt":1569855600000, "detail":[
-      {
-        "purchaseId":105, "seq":1, "resourceType":"paid_star", "quantity":2650
-      }
-    ],
-    "seq":70, "purchaseMenuId":4
   },
   "41":{
     "purchaseId":41, "purchaseCategory":"limited_term", "productName":"スターC（特別キャンペーン）", "description":"[505050FF]１２００個（７６０個 [-][FF3B72FF]＋ ４４０個[-][505050FF]）[-]", "label":"キャンペーン", "purchaseLimit":2, "publishedAt":1564552800000, "closedAt":1567403999000, "detail":[
@@ -475,14 +443,6 @@
     ],
     "seq":22, "purchaseMenuId":4, "homeBalloonPriority":30, "homeBalloonMessage":"お得なスターキャンペーン♪"
   },
-  "106":{
-    "purchaseId":106, "purchaseCategory":"star", "productName":"スターF", "description":"[505050FF]４０５０個[-]", "publishedAt":1569855600000, "detail":[
-      {
-        "purchaseId":106, "seq":1, "resourceType":"paid_star", "quantity":4050
-      }
-    ],
-    "seq":80, "purchaseMenuId":4
-  },
   "42":{
     "purchaseId":42, "purchaseCategory":"limited_term", "productName":"スターE（特別キャンペーン）", "description":"[505050FF]４０００個（２６５０個 [-][FF3B72FF]＋ １３５０個[-][505050FF]）[-]", "label":"キャンペーン", "purchaseLimit":2, "publishedAt":1564552800000, "closedAt":1567403999000, "detail":[
       {
@@ -491,14 +451,6 @@
     ],
     "seq":23, "purchaseMenuId":4, "homeBalloonPriority":30, "homeBalloonMessage":"お得なスターキャンペーン♪"
   },
-  "107":{
-    "purchaseId":107, "purchaseCategory":"star", "productName":"スターG", "description":"[505050FF]８４００個[-]", "publishedAt":1569855600000, "detail":[
-      {
-        "purchaseId":107, "seq":1, "resourceType":"paid_star", "quantity":8400
-      }
-    ],
-    "seq":90, "purchaseMenuId":4
-  },
   "44":{
     "purchaseId":44, "purchaseCategory":"limited_term", "productName":"ハッピーハロウィンキャンペーン", "description":"[505050FF]２０００個[-]", "label":"キャンペーン", "purchaseLimit":5, "publishedAt":1569823200000, "closedAt":1570514399000, "detail":[
       {
@@ -506,5 +458,69 @@
       }
     ],
     "seq":22, "purchaseMenuId":4, "homeBalloonPriority":30, "homeBalloonMessage":"お得なスターキャンペーン♪"
+  },
+  "45":{
+    "purchaseId":45, "purchaseCategory":"limited_term", "productName":"特別キャンペーン①", "description":"[505050FF]１２００個（７６０個 [-][FF3B72FF]＋ ４４０個[-][505050FF]）[-]", "label":"キャンペーン", "purchaseLimit":2, "publishedAt":1574229600000, "closedAt":1575439199000, "detail":[
+      {
+        "purchaseId":45, "seq":1, "resourceType":"paid_star", "quantity":1200
+      }
+    ],
+    "seq":22, "purchaseMenuId":4, "homeBalloonPriority":30, "homeBalloonMessage":"お得なスターキャンペーン♪"
+  },
+  "46":{
+    "purchaseId":46, "purchaseCategory":"limited_term", "productName":"特別キャンペーン②", "description":"[505050FF]４０００個（２６５０個 [-][FF3B72FF]＋ １３５０個[-][505050FF]）[-]", "label":"キャンペーン", "purchaseLimit":2, "publishedAt":1574229600000, "closedAt":1575439199000, "detail":[
+      {
+        "purchaseId":46, "seq":1, "resourceType":"paid_star", "quantity":4000
+      }
+    ],
+    "seq":23, "purchaseMenuId":4, "homeBalloonPriority":30, "homeBalloonMessage":"お得なスターキャンペーン♪"
+  },
+  "102":{
+    "purchaseId":102, "purchaseCategory":"star", "productName":"スターB", "description":"[505050FF]３６０個[-]", "publishedAt":1569855600000, "detail":[
+      {
+        "purchaseId":102, "seq":1, "resourceType":"paid_star", "quantity":360
+      }
+    ],
+    "seq":40, "purchaseMenuId":4
+  },
+  "103":{
+    "purchaseId":103, "purchaseCategory":"star", "productName":"スターC", "description":"[505050FF]７６０個[-]", "publishedAt":1569855600000, "detail":[
+      {
+        "purchaseId":103, "seq":1, "resourceType":"paid_star", "quantity":760
+      }
+    ],
+    "seq":50, "purchaseMenuId":4
+  },
+  "104":{
+    "purchaseId":104, "purchaseCategory":"star", "productName":"スターD", "description":"[505050FF]１３５０個[-]", "publishedAt":1569855600000, "detail":[
+      {
+        "purchaseId":104, "seq":1, "resourceType":"paid_star", "quantity":1350
+      }
+    ],
+    "seq":60, "purchaseMenuId":4
+  },
+  "105":{
+    "purchaseId":105, "purchaseCategory":"star", "productName":"スターE", "description":"[505050FF]２６５０個[-]", "publishedAt":1569855600000, "detail":[
+      {
+        "purchaseId":105, "seq":1, "resourceType":"paid_star", "quantity":2650
+      }
+    ],
+    "seq":70, "purchaseMenuId":4
+  },
+  "106":{
+    "purchaseId":106, "purchaseCategory":"star", "productName":"スターF", "description":"[505050FF]４０５０個[-]", "publishedAt":1569855600000, "detail":[
+      {
+        "purchaseId":106, "seq":1, "resourceType":"paid_star", "quantity":4050
+      }
+    ],
+    "seq":80, "purchaseMenuId":4
+  },
+  "107":{
+    "purchaseId":107, "purchaseCategory":"star", "productName":"スターG", "description":"[505050FF]８４００個[-]", "publishedAt":1569855600000, "detail":[
+      {
+        "purchaseId":107, "seq":1, "resourceType":"paid_star", "quantity":8400
+      }
+    ],
+    "seq":90, "purchaseMenuId":4
   }
 }
