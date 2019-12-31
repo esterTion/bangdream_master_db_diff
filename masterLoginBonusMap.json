@@ -1072,6 +1072,21 @@
       }
     }
   },
+  "176":{
+    "loginBonusId":176, "loginBonusType":"birthday", "caption":"つぐみ誕生日", "assetBundleName":"tsugumi_2019", "publishedAt":1578322800000, "closedAt":1578409199000, "details":[
+      {
+        "loginBonusId":176, "days":1, "resourceType":"star", "quantity":50, "seq":1, "grantType":"direct"
+      },
+      {
+        "loginBonusId":176, "days":1, "resourceType":"practice_ticket", "resourceId":18, "quantity":1, "seq":2, "grantType":"direct"
+      }
+    ],
+    "assetMap":{
+      "1":{
+        "loginBonusId":176, "days":1, "resourceName":"no_icon", "voiceId":"eventLoginBonus1"
+      }
+    }
+  },
   "177":{
     "loginBonusId":177, "loginBonusType":"event", "caption":"2019年クリスマススペシャル", "assetBundleName":"xmas_login_2019", "publishedAt":1577167200000, "closedAt":1577285999000, "details":[
       {
@@ -1096,6 +1111,57 @@
     "assetMap":[
       
     ]
+  },
+  "180":{
+    "loginBonusId":180, "loginBonusType":"event", "caption":"2020新春ログインキャンペーン", "assetBundleName":"2020_newyear_login", "publishedAt":1577804400000, "closedAt":1579373999000, "details":[
+      {
+        "loginBonusId":180, "days":1, "resourceType":"deco_pins_set", "resourceId":9, "quantity":1, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":180, "days":1, "resourceType":"star", "quantity":2020, "seq":2, "grantType":"present"
+      },
+      {
+        "loginBonusId":180, "days":2, "resourceType":"deco_pins_set", "resourceId":10, "quantity":1, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":180, "days":2, "resourceType":"star", "quantity":50, "seq":2, "grantType":"present"
+      },
+      {
+        "loginBonusId":180, "days":3, "resourceType":"deco_pins_set", "resourceId":11, "quantity":1, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":180, "days":3, "resourceType":"star", "quantity":50, "seq":2, "grantType":"present"
+      },
+      {
+        "loginBonusId":180, "days":4, "resourceType":"deco_pins_set", "resourceId":12, "quantity":1, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":180, "days":4, "resourceType":"star", "quantity":50, "seq":2, "grantType":"present"
+      },
+      {
+        "loginBonusId":180, "days":5, "resourceType":"deco_pins_set", "resourceId":13, "quantity":1, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":180, "days":5, "resourceType":"star", "quantity":50, "seq":2, "grantType":"present"
+      }
+    ],
+    "assetMap":{
+      "1":{
+        "loginBonusId":180, "days":1, "resourceName":"no_icon", "voiceId":"eventLoginBonus1"
+      },
+      "2":{
+        "loginBonusId":180, "days":2, "resourceName":"no_icon", "voiceId":"eventLoginBonus1"
+      },
+      "3":{
+        "loginBonusId":180, "days":3, "resourceName":"no_icon", "voiceId":"eventLoginBonus1"
+      },
+      "4":{
+        "loginBonusId":180, "days":4, "resourceName":"no_icon", "voiceId":"eventLoginBonus1"
+      },
+      "5":{
+        "loginBonusId":180, "days":5, "resourceName":"no_icon", "voiceId":"eventLoginBonus1"
+      }
+    }
   },
   "181":{
     "loginBonusId":181, "loginBonusType":"event", "caption":"年末カウントダウンログインキャンペーン", "assetBundleName":"countdown_2020", "publishedAt":1577286000000, "closedAt":1577372399000, "details":[

@@ -1,3 +1,164 @@
-[
-  
-]
+{
+  "101":{
+    "eventId":101, "attributes":[
+      {
+        "eventId":101, "attribute":"pure", "percent":10
+      }
+    ],
+    "characters":[
+      {
+        "eventId":101, "characterId":5, "percent":20, "seq":3
+      },
+      {
+        "eventId":101, "characterId":6, "percent":20, "seq":1
+      },
+      {
+        "eventId":101, "characterId":14, "percent":20, "seq":5
+      },
+      {
+        "eventId":101, "characterId":22, "percent":20, "seq":4
+      },
+      {
+        "eventId":101, "characterId":24, "percent":20, "seq":2
+      }
+    ],
+    "stories":[
+      {
+        "eventId":101, "seq":0, "caption":"オープニング", "title":"期待が募る年初め", "synopsis":"年が明けたある日の早朝、あこと蘭は\n神社で巴の手伝いをしていた。", "scenarioId":"event101-01", "coverImage":"101_0", "backgroundImage":"0", "releasePt":0, "releaseConditions":"オープニングシナリオ", "backgroundImageId":258, "rewards":[
+          {
+            "id":1499, "eventId":101, "seq":0, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1500, "eventId":101, "seq":0, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":101, "seq":1, "caption":"第１話", "title":"不思議な初夢", "synopsis":"お参りを終え参道に来たあこ達。\n話題は願い事のことになり……", "scenarioId":"event101-02", "coverImage":"101_1", "backgroundImage":"0", "releasePt":1500, "releaseConditions":"1500イベントP達成", "backgroundImageId":172, "rewards":[
+          {
+            "id":1501, "eventId":101, "seq":1, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1502, "eventId":101, "seq":1, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":101, "seq":2, "caption":"第２話", "title":"思いがけない贈り物", "synopsis":"並ぶ屋台から漂うおいしそうな匂い。\nあこはふと空腹感を覚える。", "scenarioId":"event101-03", "coverImage":"101_2", "backgroundImage":"0", "releasePt":4000, "releaseConditions":"4000イベントP達成", "backgroundImageId":172, "rewards":[
+          {
+            "id":1503, "eventId":101, "seq":2, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1504, "eventId":101, "seq":2, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":101, "seq":3, "caption":"第３話", "title":"夢の導き", "synopsis":"餅つきのエリアにやってきた一同。\n各々食べたいお餅をもらっていると……", "scenarioId":"event101-04", "coverImage":"101_3", "backgroundImage":"0", "releasePt":9000, "releaseConditions":"9000イベントP達成", "backgroundImageId":171, "rewards":[
+          {
+            "id":1505, "eventId":101, "seq":3, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1506, "eventId":101, "seq":3, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":101, "seq":4, "caption":"第４話", "title":"華やか、賑やか、縁起よく！", "synopsis":"神楽殿の飾りを探しに来たあこと蘭は、\n屋台の飾りを見つける。", "scenarioId":"event101-05", "coverImage":"101_4", "backgroundImage":"0", "releasePt":17500, "releaseConditions":"17500イベントP達成", "backgroundImageId":172, "rewards":[
+          {
+            "id":1507, "eventId":101, "seq":4, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1508, "eventId":101, "seq":4, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":101, "seq":5, "caption":"第５話", "title":"舞い上がる紙吹雪", "synopsis":"飾り付けが終わった神楽殿を前にし、\n一同満足げな様子で……", "scenarioId":"event101-06", "coverImage":"101_5", "backgroundImage":"0", "releasePt":25000, "releaseConditions":"25000イベントP達成", "backgroundImageId":453, "rewards":[
+          {
+            "id":1509, "eventId":101, "seq":5, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1510, "eventId":101, "seq":5, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":101, "seq":6, "caption":"エンディング", "title":"幸運は風に乗って", "synopsis":"神楽殿の片付けも終わり、有咲も合流。\nみんなの初夢が正夢になったと話すが……", "scenarioId":"event101-07", "coverImage":"101_6", "backgroundImage":"0", "releasePt":35000, "releaseConditions":"35000イベントP達成", "backgroundImageId":258, "rewards":[
+          {
+            "id":1511, "eventId":101, "seq":6, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1512, "eventId":101, "seq":6, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      }
+    ],
+    "musics":[
+      {
+        "eventId":101, "musicId":236, "seq":1, "musicRankingRewards":[
+          {
+            "id":1855, "eventId":101, "musicId":236, "fromRank":1, "toRank":1, "resourceType":"degree", "resourceId":1900, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":1856, "eventId":101, "musicId":236, "fromRank":1, "toRank":1, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":1857, "eventId":101, "musicId":236, "fromRank":2, "toRank":2, "resourceType":"degree", "resourceId":1901, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":1858, "eventId":101, "musicId":236, "fromRank":2, "toRank":2, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":1859, "eventId":101, "musicId":236, "fromRank":3, "toRank":3, "resourceType":"degree", "resourceId":1902, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":1860, "eventId":101, "musicId":236, "fromRank":3, "toRank":3, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":1861, "eventId":101, "musicId":236, "fromRank":4, "toRank":10, "resourceType":"degree", "resourceId":1903, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":1862, "eventId":101, "musicId":236, "fromRank":4, "toRank":10, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":1863, "eventId":101, "musicId":236, "fromRank":11, "toRank":100, "resourceType":"degree", "resourceId":1904, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":1864, "eventId":101, "musicId":236, "fromRank":11, "toRank":100, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":1865, "eventId":101, "musicId":236, "fromRank":101, "toRank":1000, "resourceType":"practice_ticket", "resourceId":7, "quantity":5, "recommendFlg":0
+          },
+          {
+            "id":1866, "eventId":101, "musicId":236, "fromRank":1001, "toRank":2000, "resourceType":"practice_ticket", "resourceId":7, "quantity":3, "recommendFlg":0
+          },
+          {
+            "id":1867, "eventId":101, "musicId":236, "fromRank":2001, "toRank":5000, "resourceType":"practice_ticket", "resourceId":7, "quantity":2, "recommendFlg":0
+          },
+          {
+            "id":1868, "eventId":101, "musicId":236, "fromRank":5001, "toRank":10000, "resourceType":"practice_ticket", "resourceId":7, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":1869, "eventId":101, "musicId":236, "fromRank":10001, "toRank":20000, "resourceType":"practice_ticket", "resourceId":6, "quantity":5, "recommendFlg":0
+          },
+          {
+            "id":1870, "eventId":101, "musicId":236, "fromRank":20001, "toRank":30000, "resourceType":"practice_ticket", "resourceId":6, "quantity":3, "recommendFlg":0
+          },
+          {
+            "id":1871, "eventId":101, "musicId":236, "fromRank":30001, "toRank":50000, "resourceType":"practice_ticket", "resourceId":6, "quantity":2, "recommendFlg":0
+          },
+          {
+            "id":1872, "eventId":101, "musicId":236, "fromRank":50001, "toRank":100000, "resourceType":"practice_ticket", "resourceId":6, "quantity":1, "recommendFlg":0
+          }
+        ]
+      }
+    ],
+    "eventCharacterParameterBonus":{
+      "eventId":101, "performance":50, "technique":0, "visual":0
+    },
+    "eventAttributeAndCharacterBonus":{
+      "eventId":101, "pointPercent":20, "parameterPercent":20
+    }
+  }
+}
