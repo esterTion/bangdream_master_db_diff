@@ -1,3 +1,164 @@
-[
-  
-]
+{
+  "107":{
+    "eventId":107, "attributes":[
+      {
+        "eventId":107, "attribute":"pure", "percent":10
+      }
+    ],
+    "characters":[
+      {
+        "eventId":107, "characterId":6, "percent":20, "seq":5
+      },
+      {
+        "eventId":107, "characterId":7, "percent":20, "seq":3
+      },
+      {
+        "eventId":107, "characterId":8, "percent":20, "seq":4
+      },
+      {
+        "eventId":107, "characterId":9, "percent":20, "seq":1
+      },
+      {
+        "eventId":107, "characterId":10, "percent":20, "seq":2
+      }
+    ],
+    "stories":[
+      {
+        "eventId":107, "seq":0, "caption":"オープニング", "title":"お返しどうしよう？", "synopsis":"なんと五十人からチョコをもらっていた巴。\nつぐみはお返しに協力したいと申し出る。", "scenarioId":"event107-01", "coverImage":"107_0", "backgroundImage":"0", "releasePt":0, "releaseConditions":"オープニングシナリオ", "backgroundImageId":9, "rewards":[
+          {
+            "id":1583, "eventId":107, "seq":0, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1584, "eventId":107, "seq":0, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":107, "seq":1, "caption":"第１話", "title":"当日のスケジュール", "synopsis":"お返しをスムーズにするために\nつぐみと巴は当日のスケジュールを考える。", "scenarioId":"event107-02", "coverImage":"107_1", "backgroundImage":"0", "releasePt":1500, "releaseConditions":"1500イベントP達成", "backgroundImageId":8, "rewards":[
+          {
+            "id":1585, "eventId":107, "seq":1, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1586, "eventId":107, "seq":1, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":107, "seq":2, "caption":"第２話", "title":"ハードな１日", "synopsis":"ホワイトデー当日。今日中にお返ししようと\n巴とつぐみは奮闘するが――", "scenarioId":"event107-03", "coverImage":"107_2", "backgroundImage":"0", "releasePt":4000, "releaseConditions":"4000イベントP達成", "backgroundImageId":8, "rewards":[
+          {
+            "id":1587, "eventId":107, "seq":2, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1588, "eventId":107, "seq":2, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":107, "seq":3, "caption":"第３話", "title":"聞き上手なせいで", "synopsis":"昼休み。お返しできたのは、まだ半分。\n原因は巴が聞き上手なせいと判明する。", "scenarioId":"event107-04", "coverImage":"107_3", "backgroundImage":"0", "releasePt":9000, "releaseConditions":"9000イベントP達成", "backgroundImageId":8, "rewards":[
+          {
+            "id":1589, "eventId":107, "seq":3, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1590, "eventId":107, "seq":3, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":107, "seq":4, "caption":"第４話", "title":"あの人だったら", "synopsis":"残り時間わずか。いいアイディアがないかと\nつぐみは考え込んでしまう。", "scenarioId":"event107-05", "coverImage":"107_4", "backgroundImage":"0", "releasePt":17500, "releaseConditions":"17500イベントP達成", "backgroundImageId":12, "rewards":[
+          {
+            "id":1591, "eventId":107, "seq":4, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1592, "eventId":107, "seq":4, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":107, "seq":5, "caption":"第５話", "title":"五人で協力して", "synopsis":"巴のために五人で協力することに。\nお返し作戦が始まる！", "scenarioId":"event107-06", "coverImage":"107_5", "backgroundImage":"0", "releasePt":25000, "releaseConditions":"25000イベントP達成", "backgroundImageId":69, "rewards":[
+          {
+            "id":1593, "eventId":107, "seq":5, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1594, "eventId":107, "seq":5, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":107, "seq":6, "caption":"エンディング", "title":"頼りになる友達", "synopsis":"なんとか無事全員にお返しできた巴。\nメンバーに感謝の気持ちを伝える――", "scenarioId":"event107-07", "coverImage":"107_6", "backgroundImage":"0", "releasePt":35000, "releaseConditions":"35000イベントP達成", "backgroundImageId":456, "rewards":[
+          {
+            "id":1595, "eventId":107, "seq":6, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1596, "eventId":107, "seq":6, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      }
+    ],
+    "musics":[
+      {
+        "eventId":107, "musicId":251, "seq":1, "musicRankingRewards":[
+          {
+            "id":1945, "eventId":107, "musicId":251, "fromRank":1, "toRank":1, "resourceType":"degree", "resourceId":2005, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":1946, "eventId":107, "musicId":251, "fromRank":1, "toRank":1, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":1947, "eventId":107, "musicId":251, "fromRank":2, "toRank":2, "resourceType":"degree", "resourceId":2006, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":1948, "eventId":107, "musicId":251, "fromRank":2, "toRank":2, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":1949, "eventId":107, "musicId":251, "fromRank":3, "toRank":3, "resourceType":"degree", "resourceId":2007, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":1950, "eventId":107, "musicId":251, "fromRank":3, "toRank":3, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":1951, "eventId":107, "musicId":251, "fromRank":4, "toRank":10, "resourceType":"degree", "resourceId":2008, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":1952, "eventId":107, "musicId":251, "fromRank":4, "toRank":10, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":1953, "eventId":107, "musicId":251, "fromRank":11, "toRank":100, "resourceType":"degree", "resourceId":2009, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":1954, "eventId":107, "musicId":251, "fromRank":11, "toRank":100, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":1955, "eventId":107, "musicId":251, "fromRank":101, "toRank":1000, "resourceType":"practice_ticket", "resourceId":7, "quantity":5, "recommendFlg":0
+          },
+          {
+            "id":1956, "eventId":107, "musicId":251, "fromRank":1001, "toRank":2000, "resourceType":"practice_ticket", "resourceId":7, "quantity":3, "recommendFlg":0
+          },
+          {
+            "id":1957, "eventId":107, "musicId":251, "fromRank":2001, "toRank":5000, "resourceType":"practice_ticket", "resourceId":7, "quantity":2, "recommendFlg":0
+          },
+          {
+            "id":1958, "eventId":107, "musicId":251, "fromRank":5001, "toRank":10000, "resourceType":"practice_ticket", "resourceId":7, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":1959, "eventId":107, "musicId":251, "fromRank":10001, "toRank":20000, "resourceType":"practice_ticket", "resourceId":6, "quantity":5, "recommendFlg":0
+          },
+          {
+            "id":1960, "eventId":107, "musicId":251, "fromRank":20001, "toRank":30000, "resourceType":"practice_ticket", "resourceId":6, "quantity":3, "recommendFlg":0
+          },
+          {
+            "id":1961, "eventId":107, "musicId":251, "fromRank":30001, "toRank":50000, "resourceType":"practice_ticket", "resourceId":6, "quantity":2, "recommendFlg":0
+          },
+          {
+            "id":1962, "eventId":107, "musicId":251, "fromRank":50001, "toRank":100000, "resourceType":"practice_ticket", "resourceId":6, "quantity":1, "recommendFlg":0
+          }
+        ]
+      }
+    ],
+    "eventCharacterParameterBonus":{
+      "eventId":107, "performance":0, "technique":50, "visual":0
+    },
+    "eventAttributeAndCharacterBonus":{
+      "eventId":107, "pointPercent":20, "parameterPercent":20
+    }
+  }
+}
