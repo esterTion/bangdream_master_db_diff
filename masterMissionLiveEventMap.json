@@ -1,3 +1,101 @@
-[
-  
-]
+{
+  "108":{
+    "eventId":108, "attributes":[
+      {
+        "eventId":108, "attribute":"cool", "percent":10
+      }
+    ],
+    "characters":[
+      {
+        "eventId":108, "characterId":4, "percent":20, "seq":2
+      },
+      {
+        "eventId":108, "characterId":7, "percent":20, "seq":1
+      },
+      {
+        "eventId":108, "characterId":16, "percent":20, "seq":5
+      },
+      {
+        "eventId":108, "characterId":18, "percent":20, "seq":4
+      },
+      {
+        "eventId":108, "characterId":21, "percent":20, "seq":3
+      }
+    ],
+    "stories":[
+      {
+        "eventId":108, "seq":0, "caption":"オープニング", "title":"新しい趣味", "synopsis":"お弁当を広げいつも以上に楽しそうな香澄。\nどうやら新しい趣味ができたようで……？", "scenarioId":"event108-01", "coverImage":"108_0", "backgroundImage":"0", "releasePt":0, "releaseConditions":"オープニングシナリオ", "backgroundImageId":105, "rewards":[
+          {
+            "id":1597, "eventId":108, "seq":0, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1598, "eventId":108, "seq":0, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":108, "seq":1, "caption":"第１話", "title":"趣味探しツアースタート！", "synopsis":"趣味探しのためにモカと待ち合わせる沙綾。\nそこに助っ人として現れたのは――", "scenarioId":"event108-02", "coverImage":"108_1", "backgroundImage":"0", "releasePt":3000, "releaseConditions":"3000イベントP達成", "backgroundImageId":29, "rewards":[
+          {
+            "id":1599, "eventId":108, "seq":1, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1600, "eventId":108, "seq":1, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":108, "seq":2, "caption":"第２話", "title":"こころと麻弥の趣味体験講座", "synopsis":"こころの家の庭に行くと、そこには様々な\n道具が。沙綾はさっそく試してみることに。", "scenarioId":"event108-03", "coverImage":"108_2", "backgroundImage":"0", "releasePt":6000, "releaseConditions":"6000イベントP達成", "backgroundImageId":458, "rewards":[
+          {
+            "id":1601, "eventId":108, "seq":2, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1602, "eventId":108, "seq":2, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":108, "seq":3, "caption":"第３話", "title":"薫の儚い社交ダンスレッスン", "synopsis":"薫のオススメは社交ダンス。経験のない\n沙綾達も、思い切って挑戦してみる。", "scenarioId":"event108-04", "coverImage":"108_3", "backgroundImage":"0", "releasePt":15000, "releaseConditions":"15000イベントP達成", "backgroundImageId":44, "rewards":[
+          {
+            "id":1603, "eventId":108, "seq":3, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1604, "eventId":108, "seq":3, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":108, "seq":4, "caption":"第４話", "title":"レッツボルダリング！", "synopsis":"今度の助っ人は千聖と彩。千聖が提案する\n趣味はとあるスポーツということで……？", "scenarioId":"event108-05", "coverImage":"108_4", "backgroundImage":"0", "releasePt":28000, "releaseConditions":"28000イベントP達成", "backgroundImageId":459, "rewards":[
+          {
+            "id":1605, "eventId":108, "seq":4, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1606, "eventId":108, "seq":4, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":108, "seq":5, "caption":"第５話", "title":"カメラに残る記憶", "synopsis":"今までの体験を振り返る沙綾。\nしかし、どれもしっくりくるものはなく……", "scenarioId":"event108-06", "coverImage":"108_5", "backgroundImage":"0", "releasePt":40000, "releaseConditions":"40000イベントP達成", "backgroundImageId":204, "rewards":[
+          {
+            "id":1607, "eventId":108, "seq":5, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1608, "eventId":108, "seq":5, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":108, "seq":6, "caption":"エンディング", "title":"記念写真", "synopsis":"みんなの写真を撮る沙綾。そして、カメラを\n選んだ理由と共に自分の思いを語る。", "scenarioId":"event108-07", "coverImage":"108_6", "backgroundImage":"0", "releasePt":55000, "releaseConditions":"55000イベントP達成", "backgroundImageId":204, "rewards":[
+          {
+            "id":1609, "eventId":108, "seq":6, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1610, "eventId":108, "seq":6, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      }
+    ],
+    "eventAttributeAndCharacterBonus":{
+      "eventId":108, "pointPercent":20, "parameterPercent":0
+    }
+  }
+}
