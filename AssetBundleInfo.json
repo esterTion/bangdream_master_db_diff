@@ -1,5 +1,5 @@
 {
-  "version":"3.10.0.900", "bundles":{
+  "version":"3.10.0.950", "bundles":{
     "actionset/group0":{
       "bundleName":"actionset/group0", "hash":"952c822f22410d4d98255efa021a6bdebb9fa2f9e157d254bf4c792a14cb05b9", "category":"StartApp", "crc":706471352, "fileSize":15801
     },
@@ -11196,6 +11196,9 @@
     "event/loginbonus/dassyutu_kinen":{
       "bundleName":"event/loginbonus/dassyutu_kinen", "hash":"8f268afb3af86697652657f95c8f8f410df13f106eb81a6b41541aaa61201fdb", "category":"AsNeeded", "crc":3910010745, "fileSize":1676596
     },
+    "event/loginbonus/easy_release":{
+      "bundleName":"event/loginbonus/easy_release", "hash":"119d8a27e8df7fa4e6a7a7314f69b1f27293aa71c3283daa7dcfc9f690169718", "category":"AsNeeded", "crc":2168159122, "fileSize":1627820
+    },
     "event/loginbonus/election_3rd":{
       "bundleName":"event/loginbonus/election_3rd", "hash":"11ef797b2bb18d6c0fe8126ac0ba236a89a839971602c150fe1540fc4811d2da", "category":"AsNeeded", "crc":869500901, "fileSize":2090351
     },
@@ -11249,6 +11252,9 @@
     },
     "event/loginbonus/wakuwaku_release":{
       "bundleName":"event/loginbonus/wakuwaku_release", "hash":"d2afa7cd84fa09c7387efffae87fc883013e9d2d549935994088c862c2222424", "category":"AsNeeded", "crc":4278480007, "fileSize":1701697
+    },
+    "event/loginbonus/white_day_2020":{
+      "bundleName":"event/loginbonus/white_day_2020", "hash":"9d5b4083763204677effaa8537fb9a3d7489502ed1d34667d4eaafa5ce4d9866", "category":"AsNeeded", "crc":961056294, "fileSize":1639761
     },
     "event/loginbonus/xmas_login_2019":{
       "bundleName":"event/loginbonus/xmas_login_2019", "hash":"d176dec989ec9befeeef53fc89998e0bd597f077382b2a638d2288da40709dda", "category":"AsNeeded", "crc":1421936988, "fileSize":1779031
@@ -13302,6 +13308,18 @@
     "gacha/screen/gacha5":{
       "bundleName":"gacha/screen/gacha5", "hash":"811f1cf767fe4b07ed6e38a3dab1869d33e9200171ee1bf76f31a7bbc3e52d9d", "category":"AsNeeded", "crc":3468841457, "fileSize":454092
     },
+    "gacha/screen/gacha500":{
+      "bundleName":"gacha/screen/gacha500", "hash":"cb3126acfc0df21e9f046e7623d0aee4a92aa8f608ee9b676a8f1f2187dfea83", "category":"AsNeeded", "crc":564184066, "dependencies":[
+        "effect/common_materials"
+      ],
+      "fileSize":3249228
+    },
+    "gacha/screen/gacha501":{
+      "bundleName":"gacha/screen/gacha501", "hash":"f2cab415c58d45b64a61bc32a82661c3fe981afe7fac5f64436106d0c0d53153", "category":"AsNeeded", "crc":4244633921, "dependencies":[
+        "effect/common_materials"
+      ],
+      "fileSize":1646254
+    },
     "gacha/screen/gacha7":{
       "bundleName":"gacha/screen/gacha7", "hash":"d49c131f7afcb1196ee565adf3b51d579fdfee617ae7ef8532c8d92058dd410a", "category":"AsNeeded", "crc":2037430139, "fileSize":574038
     },
@@ -13384,7 +13402,7 @@
       "bundleName":"graphicalinfo/newyear_2020_slide", "hash":"0c97f34b362ac4bbe65d52dfcba5474ab90304f554b96636d885dfeaa460612d", "category":"AsNeeded", "crc":1149738513, "fileSize":337496
     },
     "homebanner":{
-      "bundleName":"homebanner", "hash":"ab49888b44ae5bfe4dc9df787038679e578e1801cf37bea8d19805e333aba690", "category":"StartApp", "crc":1686972762, "fileSize":36326508
+      "bundleName":"homebanner", "hash":"5b445eada0a05afa3ad2378e1ad3ca30578e1801cf37bea8d19805e333aba690", "category":"StartApp", "crc":3401033693, "fileSize":36562674
     },
     "ingameskin/bgskin/skin00":{
       "bundleName":"ingameskin/bgskin/skin00", "hash":"c17e021fc1b48107e3fa97295538f7aebb71af161f99855ea24133093d7e43e7", "category":"StartApp", "crc":991212344, "fileSize":2032802
@@ -17987,6 +18005,21 @@
     },
     "memorial/resource":{
       "bundleName":"memorial/resource", "hash":"8f187f2e4d53c92cbcaf0a9c1d7574638135716bcfb4bf905f2fa71bcd116cf9", "category":"StartApp", "crc":259387865, "fileSize":5117139
+    },
+    "movie/login/look_back_2020_01":{
+      "bundleName":"movie/login/look_back_2020_01", "hash":"780d12a3a22aeec50c16c59bb4ce1a75ff9740d4f66da4a7dcbdd759788b63e1", "category":"AsNeeded", "crc":1320942229, "fileSize":49443243
+    },
+    "movie/login/look_back_2020_02":{
+      "bundleName":"movie/login/look_back_2020_02", "hash":"15b9de7a4b36390d68e7ed7be6cb3078bc4e9a6228b25f192345847baabab9c5", "category":"AsNeeded", "crc":3979963034, "fileSize":55488711
+    },
+    "movie/login/look_back_2020_03":{
+      "bundleName":"movie/login/look_back_2020_03", "hash":"b5a8ef5bd331aa5bf12b1c138ec514168f5238b56110e6e5720622e8c97e795e", "category":"AsNeeded", "crc":2233063212, "fileSize":56809933
+    },
+    "movie/login/look_back_2020_04":{
+      "bundleName":"movie/login/look_back_2020_04", "hash":"e7819217ab018a6deee187abd7628c09faae574cf8ee4739e27c29868e808f43", "category":"AsNeeded", "crc":1743851864, "fileSize":55913217
+    },
+    "movie/login/look_back_2020_05":{
+      "bundleName":"movie/login/look_back_2020_05", "hash":"52329c888f6baa7c42adc9657b90b582c80a451868042830f5bf1555f381b01d", "category":"AsNeeded", "crc":1748696583, "fileSize":57015272
     },
     "movie/mv/music_video_104":{
       "bundleName":"movie/mv/music_video_104", "hash":"01eaf7ba17315bb9c3e546358dcdd02070d3f602f99a4184c88ac60f1110d2c6", "category":"AsNeeded", "crc":3522267641, "fileSize":31407019
@@ -23362,7 +23395,7 @@
       "bundleName":"sound/voice/newsituationintroduction/res018018", "hash":"97e5e40f5f1189136020b2eb408d2e942838ecf7b33a6d857d027b3745737052", "category":"AsNeeded", "crc":3068136979, "fileSize":13132
     },
     "sound/voice/newsituationintroduction/res018023":{
-      "bundleName":"sound/voice/newsituationintroduction/res018023", "hash":"dbfaa56d6b67fecff0eacc3c20ed8fa1552df2ff83b6cd07e512e39230f91e37", "category":"AsNeeded", "crc":1747825995, "fileSize":21348
+      "bundleName":"sound/voice/newsituationintroduction/res018023", "hash":"28c9d5c238efa345184bfeb362648c4f552df2ff83b6cd07e512e39230f91e37", "category":"AsNeeded", "crc":4092555019, "fileSize":21346
     },
     "sound/voice/newsituationintroduction/res018025":{
       "bundleName":"sound/voice/newsituationintroduction/res018025", "hash":"247f8b187a7b175ba3bfb5370927e8321835df855a7fdec32b23a980b9538791", "category":"AsNeeded", "crc":470019272, "fileSize":12601
