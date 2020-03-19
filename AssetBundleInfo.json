@@ -1,5 +1,5 @@
 {
-  "version":"4.0.0.110", "bundles":{
+  "version":"4.0.0.150", "bundles":{
     "actionset/group0":{
       "bundleName":"actionset/group0", "hash":"557f8c9436540b4bb42f6e97d99219ebbb9fa2f9e157d254bf4c792a14cb05b9", "category":"StartApp", "crc":4090970697, "fileSize":15806
     },
@@ -14118,6 +14118,18 @@
     "gacha/screen/gacha510":{
       "bundleName":"gacha/screen/gacha510", "hash":"3bb4de3253742ad42d8c0cc64a61cca95256dbda8d4b440329f2a3f10de05fc5", "category":"AsNeeded", "crc":4242400947, "fileSize":1525650
     },
+    "gacha/screen/gacha530":{
+      "bundleName":"gacha/screen/gacha530", "hash":"952e21c56d5ffb330db5bd38fa98f19860fe0cdbd019f0ac6bacc7ee95d1db63", "category":"AsNeeded", "crc":1023094073, "dependencies":[
+        "effect/common_materials"
+      ],
+      "fileSize":1902787
+    },
+    "gacha/screen/gacha531":{
+      "bundleName":"gacha/screen/gacha531", "hash":"468cbea261d526f30be0f017faedc15bb199e85c5ed75581cbfcc436295ed6a4", "category":"AsNeeded", "crc":2136100660, "dependencies":[
+        "effect/common_materials"
+      ],
+      "fileSize":1450399
+    },
     "gacha/screen/gacha7":{
       "bundleName":"gacha/screen/gacha7", "hash":"d49c131f7afcb1196ee565adf3b51d579fdfee617ae7ef8532c8d92058dd410a", "category":"AsNeeded", "crc":2037430139, "fileSize":574038
     },
@@ -14218,7 +14230,7 @@
       "bundleName":"graphicalinfo/newyear_2020_slide", "hash":"0c97f34b362ac4bbe65d52dfcba5474ab90304f554b96636d885dfeaa460612d", "category":"AsNeeded", "crc":1149738513, "fileSize":337496
     },
     "homebanner":{
-      "bundleName":"homebanner", "hash":"0ced832f5e15f6307e754badb3407d44578e1801cf37bea8d19805e333aba690", "category":"StartApp", "crc":3724546672, "fileSize":37282991
+      "bundleName":"homebanner", "hash":"1296ac3fcce40a5f25df77dc7c6df89d578e1801cf37bea8d19805e333aba690", "category":"StartApp", "crc":2285061698, "fileSize":37556257
     },
     "ingameskin/bgskin/skin00":{
       "bundleName":"ingameskin/bgskin/skin00", "hash":"c17e021fc1b48107e3fa97295538f7aebb71af161f99855ea24133093d7e43e7", "category":"StartApp", "crc":991212344, "fileSize":2032802
