@@ -1,5 +1,5 @@
 {
-  "version":"4.0.0.200", "bundles":{
+  "version":"4.0.0.300", "bundles":{
     "actionset/group0":{
       "bundleName":"actionset/group0", "hash":"557f8c9436540b4bb42f6e97d99219ebbb9fa2f9e157d254bf4c792a14cb05b9", "category":"StartApp", "crc":4090970697, "fileSize":15806
     },
@@ -11362,7 +11362,7 @@
       "bundleName":"comic/comic_singleframe_thumbnail/comic_095", "hash":"ca51259f5f2e6bc438119ef5970b42ad02663b52e213575b2844c480e9c9cc01", "category":"AsNeeded", "crc":3795991535, "fileSize":76627
     },
     "commenthomebanner":{
-      "bundleName":"commenthomebanner", "hash":"c7e3a981302c3dd3bab61b3caa1ac1b1f4dada8fe80e61e17c2df08a66b4bf30", "category":"AsNeeded", "crc":96624119, "fileSize":314970
+      "bundleName":"commenthomebanner", "hash":"59221e25f8b0ea6d8d905e99042ffa08f4dada8fe80e61e17c2df08a66b4bf30", "category":"AsNeeded", "crc":4084558581, "fileSize":331266
     },
     "deco/frame/deco_frame000":{
       "bundleName":"deco/frame/deco_frame000", "hash":"e2af73dc0202893a8e2c442e662872e58c18fca8d993c0fd9339ad7d1f365b02", "category":"StartApp", "crc":2295878730, "fileSize":4775
@@ -12658,7 +12658,7 @@
       "bundleName":"eventcommon", "hash":"8421e4126687125c620cc5ccf2a7d344af9da3c27d9c7be418c0a211873bf3b2", "category":"StartApp", "crc":2438177048, "fileSize":19343
     },
     "exchange/images":{
-      "bundleName":"exchange/images", "hash":"fd5de8434745647f37945d0e71c04df52a1d290dd68241d18e448f933ce0d329", "category":"AsNeeded", "crc":2488063321, "fileSize":261848
+      "bundleName":"exchange/images", "hash":"bfcda1e7379f7f81b278e8d5ff6f69ed2a1d290dd68241d18e448f933ce0d329", "category":"AsNeeded", "crc":1062068431, "fileSize":294152
     },
     "exchange/miracleticket/bandselect/001":{
       "bundleName":"exchange/miracleticket/bandselect/001", "hash":"547ed38aeef2fc2e0e655de34c191ea51c5bce40d43955cf986a33e5e1a0f6d0", "category":"StartApp", "crc":371320930, "fileSize":565029
@@ -14202,6 +14202,12 @@
       ],
       "fileSize":1453058
     },
+    "gacha/screen/gacha537":{
+      "bundleName":"gacha/screen/gacha537", "hash":"899c271b7348b85a4606e1a870ce0d02b8e909cdd1494c1aa232c0aa7464f2f8", "category":"AsNeeded", "crc":1886758814, "dependencies":[
+        "effect/common_materials"
+      ],
+      "fileSize":1627433
+    },
     "gacha/screen/gacha7":{
       "bundleName":"gacha/screen/gacha7", "hash":"d49c131f7afcb1196ee565adf3b51d579fdfee617ae7ef8532c8d92058dd410a", "category":"AsNeeded", "crc":2037430139, "fileSize":574038
     },
@@ -14302,7 +14308,7 @@
       "bundleName":"graphicalinfo/newyear_2020_slide", "hash":"0c97f34b362ac4bbe65d52dfcba5474ab90304f554b96636d885dfeaa460612d", "category":"AsNeeded", "crc":1149738513, "fileSize":337496
     },
     "homebanner":{
-      "bundleName":"homebanner", "hash":"761e43011f6ac7fb56e7266028444865578e1801cf37bea8d19805e333aba690", "category":"StartApp", "crc":1526711411, "fileSize":37875514
+      "bundleName":"homebanner", "hash":"32ad577382f2cf5148ee72677ca197c9578e1801cf37bea8d19805e333aba690", "category":"StartApp", "crc":4284842074, "fileSize":37948553
     },
     "ingameskin/bgskin/skin00":{
       "bundleName":"ingameskin/bgskin/skin00", "hash":"c17e021fc1b48107e3fa97295538f7aebb71af161f99855ea24133093d7e43e7", "category":"StartApp", "crc":991212344, "fileSize":2032802
@@ -19453,7 +19459,10 @@
       "bundleName":"musicjacket/musicjacket250", "hash":"2268426dc43aeb973f6678a9400bdec7d0ca7127ad0c3832adf73c8a37a10bf5", "category":"StartApp", "crc":1675446581, "fileSize":1701077
     },
     "musicjacket/musicjacket260":{
-      "bundleName":"musicjacket/musicjacket260", "hash":"cbc19003dfe477557fe2bdcaca0eeb5643bb5d7e19afad8ed004dee7cad6180d", "category":"StartApp", "crc":1575961495, "fileSize":1389887
+      "bundleName":"musicjacket/musicjacket260", "hash":"d04916f23b42d16e7b56d516303398cf43bb5d7e19afad8ed004dee7cad6180d", "category":"StartApp", "crc":2007422131, "fileSize":1553671
+    },
+    "musicjacket/musicjacket270":{
+      "bundleName":"musicjacket/musicjacket270", "hash":"77c7825a6fa39720f8f9ede26e54a5e0a5a28c626f79e04b1372f1fef6d53f20", "category":"StartApp", "crc":1827827877, "fileSize":101449
     },
     "musicjacket/musicjacket30":{
       "bundleName":"musicjacket/musicjacket30", "hash":"355869bc462aa000fc5f3249ddb9c966143ebb6e52f034c339c72fdf1c814178", "category":"StartApp", "crc":3718479232, "fileSize":2256995
@@ -19543,7 +19552,10 @@
       "bundleName":"musicscore/musicscore250", "hash":"e6ad85dd5522fc60d1eca5b69a36750dd87ca5813d22b5646b961b7803d912d3", "category":"StartApp", "crc":2266289277, "fileSize":3064600
     },
     "musicscore/musicscore260":{
-      "bundleName":"musicscore/musicscore260", "hash":"1a6f8c62d62e4456818531da7392bd0eadf522f655227eb3cacfad4afa8232ee", "category":"StartApp", "crc":1931653041, "fileSize":2895298
+      "bundleName":"musicscore/musicscore260", "hash":"93dd4f995b0eef65cb1ede51bdf01382adf522f655227eb3cacfad4afa8232ee", "category":"StartApp", "crc":3535630841, "fileSize":3137728
+    },
+    "musicscore/musicscore270":{
+      "bundleName":"musicscore/musicscore270", "hash":"432af271e14bde9391bd0ad44cf795059a04b460a7def2b73cacba1bceaa5c6c", "category":"StartApp", "crc":3372678835, "fileSize":275645
     },
     "musicscore/musicscore30":{
       "bundleName":"musicscore/musicscore30", "hash":"91d3500db2a03c1370c22370c4ace92bc5b27e1ea4e296309ab3e139b04eb514", "category":"StartApp", "crc":4031727107, "fileSize":2602565
@@ -23570,6 +23582,12 @@
     },
     "sound/bgm259":{
       "bundleName":"sound/bgm259", "hash":"8fbc0cbd82697d8e4e1286173c5f6ae964ab4f1deb165ed8a7129e7d2e2bad1f", "category":"AsNeeded", "crc":3689443279, "fileSize":3295349
+    },
+    "sound/bgm260":{
+      "bundleName":"sound/bgm260", "hash":"5939a0539adf3a7ea4acf52dee2cabad0b11cb4e2aa7225ee9e05cca49b8ce79", "category":"AsNeeded", "crc":4205811898, "fileSize":4015951
+    },
+    "sound/bgm261":{
+      "bundleName":"sound/bgm261", "hash":"d5952707404533717fa09f3dad10fd1fd76647e6053071b190496c6530d60d02", "category":"AsNeeded", "crc":2160823539, "fileSize":3314426
     },
     "sound/common":{
       "bundleName":"sound/common", "hash":"ab3e7d4cd3b0a8580c7f1a803181df83976046ccb221619c8fd6c9c66deeaabe", "category":"StartApp", "crc":3945607356, "fileSize":1210899
@@ -30541,7 +30559,7 @@
       "bundleName":"sound/voice/scenario/resourceset/res028004", "hash":"b0cf126bd13825dde4708c61134c760db09ccd8d8f5f0416c438ab106e6dcd7a", "category":"AsNeeded", "crc":1162142142, "fileSize":1588654
     },
     "sound/voice/scenario/resourceset/res029002":{
-      "bundleName":"sound/voice/scenario/resourceset/res029002", "hash":"2786b89b5081fe957ed4981e527b04ca895880bf74e679ebbccf95afd3817c54", "category":"AsNeeded", "crc":2505385586, "fileSize":621377
+      "bundleName":"sound/voice/scenario/resourceset/res029002", "hash":"3b7fd17b037cfce93390c307a57e341e895880bf74e679ebbccf95afd3817c54", "category":"AsNeeded", "crc":2696930708, "fileSize":621357
     },
     "sound/voice/scenario/resourceset/res029003":{
       "bundleName":"sound/voice/scenario/resourceset/res029003", "hash":"2e1744592a94c2fcfb9f624cf206fa9f2cd935d61228eb17103e6dfdecff2c42", "category":"AsNeeded", "crc":568706987, "fileSize":1522366
@@ -30550,7 +30568,7 @@
       "bundleName":"sound/voice/scenario/resourceset/res029004", "hash":"c7735fd44595d38b8debd4aaaf92b342ca1d37b1dc2b37008a130e3d72a92f4a", "category":"AsNeeded", "crc":1582559699, "fileSize":1233902
     },
     "sound/voice/scenario/resourceset/res030002":{
-      "bundleName":"sound/voice/scenario/resourceset/res030002", "hash":"20960c0bc026ea09d302f9d02aca34753c92b7f828e6661eb099fa17a79f8b92", "category":"AsNeeded", "crc":891711924, "fileSize":585453
+      "bundleName":"sound/voice/scenario/resourceset/res030002", "hash":"962e6c525b98766582ac3319a22f794b3c92b7f828e6661eb099fa17a79f8b92", "category":"AsNeeded", "crc":3436333551, "fileSize":585411
     },
     "sound/voice/scenario/resourceset/res030003":{
       "bundleName":"sound/voice/scenario/resourceset/res030003", "hash":"73c6df71c16355ed399d56a98b08efa23636ce034a72fc4e8a2310961b6be6a9", "category":"AsNeeded", "crc":903879681, "fileSize":1558117
@@ -30643,10 +30661,10 @@
       "bundleName":"sound/voice/scenario/resourceset/selfintroduction028", "hash":"901995e551cd38d71f4b267ea94e670f3393546f596f3428daa224c5ed21b85a", "category":"AsNeeded", "crc":2220698238, "fileSize":722790
     },
     "sound/voice/scenario/resourceset/selfintroduction029":{
-      "bundleName":"sound/voice/scenario/resourceset/selfintroduction029", "hash":"ec20c79ac0446070742093bb69a7d43f249a9127d213abd58b274bfe83b15e6e", "category":"AsNeeded", "crc":812247706, "fileSize":621363
+      "bundleName":"sound/voice/scenario/resourceset/selfintroduction029", "hash":"fc9b7d53fcf78abfb42f82b83947b617249a9127d213abd58b274bfe83b15e6e", "category":"AsNeeded", "crc":2951176278, "fileSize":621386
     },
     "sound/voice/scenario/resourceset/selfintroduction030":{
-      "bundleName":"sound/voice/scenario/resourceset/selfintroduction030", "hash":"6682c9f1492707a7f94ea7d6e81bd66d8db225a68d5955546ff133fb4f778dbb", "category":"AsNeeded", "crc":1430859951, "fileSize":585408
+      "bundleName":"sound/voice/scenario/resourceset/selfintroduction030", "hash":"4021494dc93c84c2be4078c3c3beb25f8db225a68d5955546ff133fb4f778dbb", "category":"AsNeeded", "crc":1355189764, "fileSize":585411
     },
     "sound/voice/scenario_tutorial/actionset/group4995":{
       "bundleName":"sound/voice/scenario_tutorial/actionset/group4995", "hash":"01034538db2819fa9e8d77152f63a562765265dcf1407bc94e44bce6ce4656a3", "category":"Tutorial", "crc":615611764, "fileSize":214491
