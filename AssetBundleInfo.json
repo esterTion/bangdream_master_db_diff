@@ -1,5 +1,5 @@
 {
-  "version":"4.0.0.400", "bundles":{
+  "version":"4.0.0.450", "bundles":{
     "actionset/group0":{
       "bundleName":"actionset/group0", "hash":"557f8c9436540b4bb42f6e97d99219ebbb9fa2f9e157d254bf4c792a14cb05b9", "category":"StartApp", "crc":4090970697, "fileSize":15806
     },
@@ -449,6 +449,12 @@
     },
     "additional_music/sd/sd030001":{
       "bundleName":"additional_music/sd/sd030001", "hash":"7be461da4c6d8a5f705099fb048ecabc41a7730aba2390d893451df7b6ede275", "category":"AsNeeded", "crc":2462825985, "fileSize":34811
+    },
+    "april2020":{
+      "bundleName":"april2020", "hash":"60b1ec8954e048f3d086809d308c4ba14c3ab7f5010c9784be8fbd091aa10f85", "category":"AsNeeded", "crc":2969370069, "fileSize":7119546
+    },
+    "april2020sound":{
+      "bundleName":"april2020sound", "hash":"e9a233cf095e4f43964406ca3b25087bc58211934e08a625d641c8fee7f701a6", "category":"AsNeeded", "crc":2564648312, "fileSize":1738145
     },
     "backstage/bgm/birthday":{
       "bundleName":"backstage/bgm/birthday", "hash":"db9a1d0ffdee25614f2de82a98f842be739ecaa239d1295c3f95692461d4ddb9", "category":"StartApp", "crc":3371489293, "fileSize":623244
@@ -18852,6 +18858,9 @@
     "map/area00003_winter":{
       "bundleName":"map/area00003_winter", "hash":"d10a7e3fe41a8ea769773341f160708b5701863396255a041d224bf4ec0c83e4", "category":"AsNeeded", "crc":2584086411, "fileSize":917273
     },
+    "map/area00004_april2020":{
+      "bundleName":"map/area00004_april2020", "hash":"aa7ba77a22453284b1c91c23ec1a5ff3bfd5c2797aacada225ed120ec36f607a", "category":"AsNeeded", "crc":2152657058, "fileSize":1531436
+    },
     "map/area00004_autumn":{
       "bundleName":"map/area00004_autumn", "hash":"2a0c3fcc6290c6549b3893e642510e647e3decfdcec9a56fe702f78541d73838", "category":"AsNeeded", "crc":3710297225, "fileSize":1442078
     },
@@ -22882,7 +22891,7 @@
       "bundleName":"scenario/eventstory/event99", "hash":"1a29d1b8dc164869a5e8bfc15d3ef3719dc8cb635c2fdd0648a2222863f2d76a", "category":"AsNeeded", "crc":1994968966, "fileSize":30069
     },
     "scenario/loginstory":{
-      "bundleName":"scenario/loginstory", "hash":"9e1b13eeb9a25bdf3a55dc762be486872c64a2dca69e0eba3e27969fdcbb25ed", "category":"AsNeeded", "crc":3707285195, "fileSize":61996
+      "bundleName":"scenario/loginstory", "hash":"0a61a582407f521e28413e91dbcd8b002c64a2dca69e0eba3e27969fdcbb25ed", "category":"AsNeeded", "crc":4023031537, "fileSize":66891
     },
     "scenario/main":{
       "bundleName":"scenario/main", "hash":"5493be27146f33a240097a1977e12d756ac8b222354bec610404f947c78c80fa", "category":"StartApp", "crc":2446983187, "fileSize":201281
@@ -28426,10 +28435,10 @@
       "bundleName":"sound/voice/scenario/loginstory15", "hash":"d4f9a846fc1e2f7cbb8232534faecbcfbb0dda0bba8ee1bf3fe276f4e25b6182", "category":"AsNeeded", "crc":136138742, "fileSize":926046
     },
     "sound/voice/scenario/loginstory16":{
-      "bundleName":"sound/voice/scenario/loginstory16", "hash":"6c63db1cbc51dcd19935d5ebfdc4c00876bd901cec17d0e8d09604449c5d035a", "category":"AsNeeded", "crc":2059332131, "fileSize":961223
+      "bundleName":"sound/voice/scenario/loginstory16", "hash":"e888dcae7c79f8df16fcc7a9747976c876bd901cec17d0e8d09604449c5d035a", "category":"AsNeeded", "crc":2427378935, "fileSize":692514
     },
     "sound/voice/scenario/loginstory17":{
-      "bundleName":"sound/voice/scenario/loginstory17", "hash":"03686b6d0ae5612a1f9d9402dc622edc47226034e43e48d4a65bbc65b182b4be", "category":"AsNeeded", "crc":2739240004, "fileSize":961211
+      "bundleName":"sound/voice/scenario/loginstory17", "hash":"a7d49999b0e559af50401fb80340acf647226034e43e48d4a65bbc65b182b4be", "category":"AsNeeded", "crc":1802786819, "fileSize":613859
     },
     "sound/voice/scenario/loginstory18":{
       "bundleName":"sound/voice/scenario/loginstory18", "hash":"3a307dac3cb6caa8bd8a676672c2985d6cd33034ed4b7e17f635e0a4cd5d07c3", "category":"AsNeeded", "crc":1249173233, "fileSize":961182
@@ -30877,7 +30886,7 @@
       "bundleName":"sound/voice/scenario_tutorial/mainstory26", "hash":"bd6c5a56a5f22b293a23e3606fbd584321608f22c49d43cc0fbad40cbfb97250", "category":"Tutorial", "crc":3845495326, "fileSize":1243090
     },
     "sound/voice/system":{
-      "bundleName":"sound/voice/system", "hash":"76ce73ad70fb2489634310a33776705a9cc8c3324280622329fa89e7625717e0", "category":"AdditionalVoice", "crc":1137343540, "fileSize":31567784
+      "bundleName":"sound/voice/system", "hash":"78d8290beb6f6af6801a03fbebbda2759cc8c3324280622329fa89e7625717e0", "category":"AdditionalVoice", "crc":2465063943, "fileSize":32313483
     },
     "sound_tutorial/bgm024":{
       "bundleName":"sound_tutorial/bgm024", "hash":"4574ff3f7dcee824810b89f41fc9b59282cf156baab2b1145fa7473d888ae844", "category":"Tutorial", "crc":1559032017, "fileSize":4441196
@@ -34745,6 +34754,9 @@
     },
     "title/2nd_season_02":{
       "bundleName":"title/2nd_season_02", "hash":"3f1ec5f53a392d62ec1268838c624fa4b121008fad199215c5eb04ecb4167bef", "category":"AsNeeded", "crc":899994808, "fileSize":3738804
+    },
+    "title/april_fool2020":{
+      "bundleName":"title/april_fool2020", "hash":"797e34476da8636ceef98880ca373cbfec18428af9d85138dc9e63cfcfe5a28b", "category":"AsNeeded", "crc":638317096, "fileSize":1651420
     },
     "title/band1_chapter02":{
       "bundleName":"title/band1_chapter02", "hash":"13686b36a6588cc72076f3a5881e6541241cbaaddea9f83f7d3c230fd07d2d8e", "category":"AsNeeded", "crc":4219072773, "fileSize":2680616
