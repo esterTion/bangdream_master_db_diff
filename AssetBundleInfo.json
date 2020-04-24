@@ -1,5 +1,5 @@
 {
-  "version":"4.1.0.100", "bundles":{
+  "version":"4.1.0.200", "bundles":{
     "actionset/group0":{
       "bundleName":"actionset/group0", "hash":"557f8c9436540b4bb42f6e97d99219ebbb9fa2f9e157d254bf4c792a14cb05b9", "category":"StartApp", "crc":4090970697, "fileSize":15806
     },
@@ -12294,6 +12294,9 @@
     "event/loginbonus/firebird_release":{
       "bundleName":"event/loginbonus/firebird_release", "hash":"2574471a95bea3d36c95fd48caccb2fede42374fcd7ec3d4254146174033b33c", "category":"AsNeeded", "crc":80818737, "fileSize":1583328
     },
+    "event/loginbonus/golden_week_2020":{
+      "bundleName":"event/loginbonus/golden_week_2020", "hash":"a71ada944647d335e0dcca559f20c3982afe9bb89d5e0b69833f937b8dbbfb58", "category":"AsNeeded", "crc":3137995423, "fileSize":1710017
+    },
     "event/loginbonus/initial_release":{
       "bundleName":"event/loginbonus/initial_release", "hash":"c8557f3d3a36db68efe97ebb9b0d85e688f5b9733da608ed5273a75daa7824d1", "category":"AsNeeded", "crc":1030377309, "fileSize":1673851
     },
@@ -14553,6 +14556,18 @@
       ],
       "fileSize":2580707
     },
+    "gacha/screen/gacha551":{
+      "bundleName":"gacha/screen/gacha551", "hash":"ef439340ad48f83eab09ffea0b9676988cb5676f0c15d17493aeb40fb416b6dc", "category":"AsNeeded", "crc":850131941, "dependencies":[
+        "effect/common_materials"
+      ],
+      "fileSize":2069779
+    },
+    "gacha/screen/gacha552":{
+      "bundleName":"gacha/screen/gacha552", "hash":"fec42c267357acc0de661334203194b982ae604bb32e24704f0ca36f627a0f1c", "category":"AsNeeded", "crc":1767152690, "dependencies":[
+        "effect/common_materials"
+      ],
+      "fileSize":2179950
+    },
     "gacha/screen/gacha7":{
       "bundleName":"gacha/screen/gacha7", "hash":"d49c131f7afcb1196ee565adf3b51d579fdfee617ae7ef8532c8d92058dd410a", "category":"AsNeeded", "crc":2037430139, "fileSize":574038
     },
@@ -14653,7 +14668,7 @@
       "bundleName":"graphicalinfo/newyear_2020_slide", "hash":"0c97f34b362ac4bbe65d52dfcba5474ab90304f554b96636d885dfeaa460612d", "category":"AsNeeded", "crc":1149738513, "fileSize":337496
     },
     "homebanner":{
-      "bundleName":"homebanner", "hash":"198ce7f4cb6bb5c89788770df350c178578e1801cf37bea8d19805e333aba690", "category":"StartApp", "crc":865460641, "fileSize":39102958
+      "bundleName":"homebanner", "hash":"84f395b3aa829a89114922e3d8cfaf2a578e1801cf37bea8d19805e333aba690", "category":"StartApp", "crc":1756886536, "fileSize":39259175
     },
     "ingameskin/bgskin/skin00":{
       "bundleName":"ingameskin/bgskin/skin00", "hash":"c17e021fc1b48107e3fa97295538f7aebb71af161f99855ea24133093d7e43e7", "category":"StartApp", "crc":991212344, "fileSize":2032802
@@ -19719,6 +19734,18 @@
     "movie/mv/music_video_255_hq":{
       "bundleName":"movie/mv/music_video_255_hq", "hash":"4d912d1e9d9581982dc9c2d6070dc4db1fb2dd12721ef8993a13e2e781aaa1eb", "category":"AsNeeded", "crc":3703572939, "fileSize":59445823
     },
+    "movie/mv/music_video_265":{
+      "bundleName":"movie/mv/music_video_265", "hash":"aeeef96c0e4b6c6ca17f2a4d4203d5894cde9f9ed41f47791eeca55c020e9aaa", "category":"AsNeeded", "crc":416768474, "fileSize":26159771
+    },
+    "movie/mv/music_video_265_hq":{
+      "bundleName":"movie/mv/music_video_265_hq", "hash":"abfb36759f490f4345cb44f327cf6dcc4d266fe292e696eef0094c6cc7d4f5ea", "category":"AsNeeded", "crc":1383641641, "fileSize":75982310
+    },
+    "movie/mv/music_video_266":{
+      "bundleName":"movie/mv/music_video_266", "hash":"d3380b0cd92a27dee067e84526ddb776b2beddbfdfffce9fdadc82e26cf55465", "category":"AsNeeded", "crc":156359901, "fileSize":27674979
+    },
+    "movie/mv/music_video_266_hq":{
+      "bundleName":"movie/mv/music_video_266_hq", "hash":"e07d63dea080188e7a2fc20f39eaa038d089a190f056a313872a2c7debc2f3e3", "category":"AsNeeded", "crc":3377769677, "fileSize":80339357
+    },
     "movie/mv/music_video_28":{
       "bundleName":"movie/mv/music_video_28", "hash":"4023a2d4c03a0c98cddc214defa2e1d4e2830d051fe317d3e9209fdf5d343ea6", "category":"AsNeeded", "crc":1492182503, "fileSize":25544156
     },
@@ -19873,7 +19900,7 @@
       "bundleName":"musicjacket/musicjacket260", "hash":"d04916f23b42d16e7b56d516303398cf43bb5d7e19afad8ed004dee7cad6180d", "category":"StartApp", "crc":2007422131, "fileSize":1553671
     },
     "musicjacket/musicjacket270":{
-      "bundleName":"musicjacket/musicjacket270", "hash":"0ce3749830223045c6d3add3583bd768a5a28c626f79e04b1372f1fef6d53f20", "category":"StartApp", "crc":2696217784, "fileSize":532987
+      "bundleName":"musicjacket/musicjacket270", "hash":"9f1325106a1179c03db97116543e9abba5a28c626f79e04b1372f1fef6d53f20", "category":"StartApp", "crc":968264121, "fileSize":869338
     },
     "musicjacket/musicjacket30":{
       "bundleName":"musicjacket/musicjacket30", "hash":"355869bc462aa000fc5f3249ddb9c966143ebb6e52f034c339c72fdf1c814178", "category":"StartApp", "crc":3718479232, "fileSize":2256995
@@ -19966,7 +19993,7 @@
       "bundleName":"musicscore/musicscore260", "hash":"93dd4f995b0eef65cb1ede51bdf01382adf522f655227eb3cacfad4afa8232ee", "category":"StartApp", "crc":3535630841, "fileSize":3137728
     },
     "musicscore/musicscore270":{
-      "bundleName":"musicscore/musicscore270", "hash":"3a8e483364f06ce56997836ff6c0cfd89a04b460a7def2b73cacba1bceaa5c6c", "category":"StartApp", "crc":2814754973, "fileSize":1195953
+      "bundleName":"musicscore/musicscore270", "hash":"bc0d74969a71fb9efb26c305ae4a791f9a04b460a7def2b73cacba1bceaa5c6c", "category":"StartApp", "crc":3542882089, "fileSize":2050446
     },
     "musicscore/musicscore30":{
       "bundleName":"musicscore/musicscore30", "hash":"91d3500db2a03c1370c22370c4ace92bc5b27e1ea4e296309ab3e139b04eb514", "category":"StartApp", "crc":4031727107, "fileSize":2602565
@@ -24062,6 +24089,12 @@
     },
     "sound/bgm264":{
       "bundleName":"sound/bgm264", "hash":"ef96edb2994e6718a5f2fac1497bd1c4006d29e80a0a6e125c1a657a3ccb6d90", "category":"AsNeeded", "crc":2660795971, "fileSize":3198812
+    },
+    "sound/bgm265":{
+      "bundleName":"sound/bgm265", "hash":"e26758840c3abe5415bd05338128099c70dfc24aa01785dd2def2397a873f79b", "category":"AsNeeded", "crc":854707065, "fileSize":3426224
+    },
+    "sound/bgm266":{
+      "bundleName":"sound/bgm266", "hash":"f376277d76a5ebc3563d1fbcad6b6776399ffbe0a90c1f1035cbc868374173d2", "category":"AsNeeded", "crc":1353080297, "fileSize":3664511
     },
     "sound/common":{
       "bundleName":"sound/common", "hash":"ab3e7d4cd3b0a8580c7f1a803181df83976046ccb221619c8fd6c9c66deeaabe", "category":"StartApp", "crc":3945607356, "fileSize":1210899
@@ -31387,10 +31420,10 @@
       "bundleName":"specialtraining/effect", "hash":"3dee8df4d0e0107f7e63fe193cc29e49e7a20dff29cee187706ce62240e92d4a", "category":"StartApp", "crc":3336037530, "fileSize":4844742
     },
     "stamp/01":{
-      "bundleName":"stamp/01", "hash":"350ec4f87b78e2a1004c7cae073635b3b4177963bd21045df2aff8a399646f87", "category":"StartApp", "crc":1060509661, "fileSize":4808108
+      "bundleName":"stamp/01", "hash":"797fae33998931ffc1a4d0d752065b65b4177963bd21045df2aff8a399646f87", "category":"StartApp", "crc":2825575154, "fileSize":4833703
     },
     "stampatlas":{
-      "bundleName":"stampatlas", "hash":"d44ab6d3f297a925fbbc3441bc56a44d57be9051b50df4d4c764dbd496577275", "category":"StartApp", "crc":710768944, "fileSize":5800748
+      "bundleName":"stampatlas", "hash":"84d78a9bb977c9d5810f58346959070e57be9051b50df4d4c764dbd496577275", "category":"StartApp", "crc":4130735636, "fileSize":5829674
     },
     "starshop/garupapass":{
       "bundleName":"starshop/garupapass", "hash":"c5a1ad7e8d135be61e4a975d78bb4bc76ee6006ac561653509864400bb69dafb", "category":"StartApp", "crc":1162460317, "fileSize":199334
@@ -35192,6 +35225,12 @@
     },
     "thumbnail/mv/255":{
       "bundleName":"thumbnail/mv/255", "hash":"93445b941cb0987a8190282c9a07f9218ab8f5c064b9ce24718031056fb6ef20", "category":"AsNeeded", "crc":756658679, "fileSize":45265
+    },
+    "thumbnail/mv/265":{
+      "bundleName":"thumbnail/mv/265", "hash":"16c8fae15c6ff23e3aaac0addc22cb72cf7d325ab9a4a9916167a912886dfec3", "category":"AsNeeded", "crc":1855824936, "fileSize":29386
+    },
+    "thumbnail/mv/266":{
+      "bundleName":"thumbnail/mv/266", "hash":"08a248ed56293289c5cce974aca0c3890855d8875a0c3bfc2275879f024d2a18", "category":"AsNeeded", "crc":1671190913, "fileSize":30809
     },
     "title/2018_default":{
       "bundleName":"title/2018_default", "hash":"a3536de8a10afd865ed6ba459918a9f69c519b133583ac0b6e1ee6d8bdb47148", "category":"AsNeeded", "crc":597671596, "fileSize":2223156
