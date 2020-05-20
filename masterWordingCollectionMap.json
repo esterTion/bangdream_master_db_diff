@@ -71,6 +71,9 @@
   "dialog_liveSettings_systemBatteryCaution":{
     "name":"dialog_liveSettings_systemBatteryCaution", "wording":"バッテリー残量確認"
   },
+  "dialog_receivedDailyLiveTotalReward_title":{
+    "name":"dialog_receivedDailyLiveTotalReward_title", "wording":"累計ライブボーナス達成！"
+  },
   "biography_characterAlbum_notExistMessage":{
     "name":"biography_characterAlbum_notExistMessage", "wording":"絞り込み条件に該当するメンバーがいません。"
   },
@@ -94,6 +97,9 @@
   },
   "dialog_areaTalkFilter_caption_character":{
     "name":"dialog_areaTalkFilter_caption_character", "wording":"キャラクター"
+  },
+  "dialog_situationTrainingPreTraining_message2":{
+    "name":"dialog_situationTrainingPreTraining_message2", "wording":"※一致しないキャラやバンド用の\\nスキル練習チケットが選択されています。"
   },
   "dialog_gachaSealExchangeGuide_description1":{
     "name":"dialog_gachaSealExchangeGuide_description1", "wording":"{0}"
@@ -271,6 +277,9 @@
   },
   "dialog_lackItemGainMethod_button_toExchange":{
     "name":"dialog_lackItemGainMethod_button_toExchange", "wording":"交換所"
+  },
+  "dialog_everydayReceiveCheckboxConfirm_title":{
+    "name":"dialog_everydayReceiveCheckboxConfirm_title", "wording":"確認"
   },
   "tryLiveEvent_tryTargetDialogCell_titleCombo":{
     "name":"tryLiveEvent_tryTargetDialogCell_titleCombo", "wording":"コンボトライ"
@@ -473,6 +482,9 @@
   "dialog_matchingBonusReward_complete":{
     "name":"dialog_matchingBonusReward_complete", "wording":"すべての顔合わせボーナスを獲得しました。"
   },
+  "dialog_liveBonusDescription_title":{
+    "name":"dialog_liveBonusDescription_title", "wording":"ライブボーナスとは"
+  },
   "newYearCard_preparationDialog_bandReselectButton":{
     "name":"newYearCard_preparationDialog_bandReselectButton", "wording":"バンドを\\n選択し直す"
   },
@@ -586,6 +598,12 @@
   },
   "newYearCard_bandSelect_notSet":{
     "name":"newYearCard_bandSelect_notSet", "wording":"指定なし"
+  },
+  "dailyLive_totalReward_progressCaption":{
+    "name":"dailyLive_totalReward_progressCaption", "wording":"達成度"
+  },
+  "dialog_receivedDailyLiveReward_content":{
+    "name":"dialog_receivedDailyLiveReward_content", "wording":"アイテムを獲得しました！"
   },
   "caption_exchange_gachaName":{
     "name":"caption_exchange_gachaName", "wording":"[{0}]"
@@ -988,6 +1006,9 @@
   },
   "dialog_areaItemReleaseCondition_mainStory":{
     "name":"dialog_areaItemReleaseCondition_mainStory", "wording":"シーズン{0} メインストーリー「{1}」を\\n読むと解放"
+  },
+  "dialog_everydayReceiveCheckboxConfirm_message":{
+    "name":"dialog_everydayReceiveCheckboxConfirm_message", "wording":"ボーナスを選択していないため、\\n「毎回このアイテムを受け取る」の\\nチェックが外れます。よろしいですか？"
   },
   "dialog_privateRoomList_gpsLiveBottomMessage":{
     "name":"dialog_privateRoomList_gpsLiveBottomMessage", "wording":"※近い順から最大{0}件表示されます"
@@ -1529,6 +1550,9 @@
   "eventRewardBoxGacha_autoStopDialog_description":{
     "name":"eventRewardBoxGacha_autoStopDialog_description", "wording":"{0}を{1}枚渡して\\nごほうびを{2}個交換しました。"
   },
+  "dialog_dailyLiveReward_everydayReceiptLabel":{
+    "name":"dialog_dailyLiveReward_everydayReceiptLabel", "wording":"毎回このアイテムを受け取る"
+  },
   "comicTop_mainTitle_comic":{
     "name":"comicTop_mainTitle_comic", "wording":"コミック"
   },
@@ -1597,6 +1621,9 @@
   },
   "dialog_matchingBonus_overViewMessage":{
     "name":"dialog_matchingBonus_overViewMessage", "wording":"[-][4D4D4D]作成されたプライベートルームにおいて「[-][FF3B72]SNS招待[-][4D4D4D]」「[-][FF3B72]近くの人を募集[-][4D4D4D]」を行ったプレイヤー、またはどちらかから参加したプレイヤーが初めて一緒にプレイした場合、ライブ終了後に「顔合わせボーナス」として報酬を獲得できます。"
+  },
+  "dailyLive_totalReward_resetDescription":{
+    "name":"dailyLive_totalReward_resetDescription", "wording":"※累計ライブボーナスを受け取った後は、次の4:00に達成度がリセットされます。\n※リセット以降もデイリーライブボーナスを7回獲得する度に何度でも累計ライブボーナスを獲得できます。"
   },
   "tryLiveEvent_tryTargetDialogInfoCell_conditions":{
     "name":"tryLiveEvent_tryTargetDialogInfoCell_conditions", "wording":"すべてのトライレベル{0}をクリア"
@@ -1679,6 +1706,9 @@
   "music_shop_tabText_default":{
     "name":"music_shop_tabText_default", "wording":"試聴中の楽曲名が表示されます"
   },
+  "dailyLive_totalReward_rewardDescription":{
+    "name":"dailyLive_totalReward_rewardDescription", "wording":"デイリーライブボーナスを累計7回獲得して、累計ライブボーナスをGETしよう！"
+  },
   "gachaTop_allMemberGachaStep5_partLabel":{
     "name":"gachaTop_allMemberGachaStep5_partLabel", "wording":"キーボード、DJ、\\nバイオリン"
   },
@@ -1715,6 +1745,9 @@
   "eventStory_releaseCondition_bandRank":{
     "name":"eventStory_releaseCondition_bandRank", "wording":"{0}の\\nバンドランク{1}で解放"
   },
+  "word_progressRate_format":{
+    "name":"word_progressRate_format", "wording":"{0}/{1}"
+  },
   "dialog_garupaCup2ndEntry_descriptionTop":{
     "name":"dialog_garupaCup2ndEntry_descriptionTop", "wording":"[505050]1次予選ライブはエントリーしなくてもプレイできます。\\n第2回ガルパ杯参加希望の方は[-][FF3B72]1次予選ライブを1回以上プレイした上で、\\nエントリー[-][505050]する必要があります。\\n1次予選終了後、合計予選ハイスコアをもとに、\\n地方2次予選の出場者の選出を行います。[-]"
   },
@@ -1748,6 +1781,9 @@
   "share_birthdayCard_hashTag":{
     "name":"share_birthdayCard_hashTag", "wording":"#バンドリ #ガルパ #{0}誕生日"
   },
+  "screen_multiPlayEntrance_liveRewardButtonLabel":{
+    "name":"screen_multiPlayEntrance_liveRewardButtonLabel", "wording":"ライブボーナス"
+  },
   "dialog_training_characterAlbum_open":{
     "name":"dialog_training_characterAlbum_open", "wording":"メンバー詳細へ"
   },
@@ -1756,6 +1792,9 @@
   },
   "tryLiveEvent_tryLevelReward_cellNormal":{
     "name":"tryLiveEvent_tryLevelReward_cellNormal", "wording":"すべてのトライレベル{0}をクリア"
+  },
+  "dialog_dailyLiveReward_title":{
+    "name":"dialog_dailyLiveReward_title", "wording":"ライブボーナス"
   },
   "word_liveDownloadAlready":{
     "name":"word_liveDownloadAlready", "wording":"現在追加データは\\nありません"
@@ -1852,6 +1891,9 @@
   },
   "dialog_loginDLDataOnlyDownload_description":{
     "name":"dialog_loginDLDataOnlyDownload_description", "wording":"基本データのみ"
+  },
+  "dialog_dailyLiveRewardInvalidScore_message":{
+    "name":"dialog_dailyLiveRewardInvalidScore_message", "wording":"お客様のライブにおいて、\\n一定以上の基準に達しなかったため、\\nライブボーナスを獲得できませんでした。"
   },
   "dialog_sort_characterAlbum_obtained_before":{
     "name":"dialog_sort_characterAlbum_obtained_before", "wording":"未獲得"
@@ -2108,6 +2150,9 @@
   "dialog_miracleTicketExchangeDone_message":{
     "name":"dialog_miracleTicketExchangeDone_message", "wording":"{0}と交換しました。"
   },
+  "dailyLive_rewardSettingDialog_checkBoxDescription":{
+    "name":"dailyLive_rewardSettingDialog_checkBoxDescription", "wording":"※チェックを入れると、達成時のアイテム選択を省略できます。"
+  },
   "snsShare_towerGameWin_message":{
     "name":"snsShare_towerGameWin_message", "wording":"勝ったよー＼(^o^)／ \\nCiRCLEのロビーに不思議な筐体が出現中___4p2X___\\nがるぱタワーバトルが遊べるのは4月2日23:59まで___4pyo___\\nガルパを開く___4qyH___\\nhttps://bit.ly/2Pvqold"
   },
@@ -2189,6 +2234,9 @@
   "word_line":{
     "name":"word_line", "wording":"LINE"
   },
+  "dailyLive_rewardSettingDialog_dailyTabCaption":{
+    "name":"dailyLive_rewardSettingDialog_dailyTabCaption", "wording":"デイリー"
+  },
   "memorialStory_contents_notExistMessage":{
     "name":"memorialStory_contents_notExistMessage", "wording":"絞り込み条件に該当するイベントストーリーがありません。"
   },
@@ -2203,6 +2251,9 @@
   },
   "dialog_loadABFailureAndBackTitle_message":{
     "name":"dialog_loadABFailureAndBackTitle_message", "wording":"一部データの読み込みに失敗したため、\\nタイトル画面に戻りました。\\n\\n本現象が改善しない場合は、\\nお問い合わせください。"
+  },
+  "dialog_dailyLiveReceiveRewardSelect_description":{
+    "name":"dialog_dailyLiveReceiveRewardSelect_description", "wording":"※毎日4:00にライブボーナスの獲得状況がリセットされ、また獲得できるようになります。\n※「毎回このアイテムを受け取る」にチェックを入れた場合でも、ライブ選択画面の「ライブボーナス」から選択し直す\n　ことができます。"
   },
   "dialog_exMissionFilter_filterCoin":{
     "name":"dialog_exMissionFilter_filterCoin", "wording":"コイン"
@@ -2357,6 +2408,9 @@
   "pickupMember_footter_message2":{
     "name":"pickupMember_footter_message2", "wording":"※スキルLv.5の状態を表示しています。"
   },
+  "dailyLive_totalReward_itemCaption":{
+    "name":"dailyLive_totalReward_itemCaption", "wording":"アイテム"
+  },
   "biography_characterProfile_part":{
     "name":"biography_characterProfile_part", "wording":"パート"
   },
@@ -2368,6 +2422,9 @@
   },
   "dialog_deckRecommend_bonusCharacter":{
     "name":"dialog_deckRecommend_bonusCharacter", "wording":"キャラクター\\nボーナス対象"
+  },
+  "dailyLive_rewardSelectCell_selectButtonEnableLabel":{
+    "name":"dailyLive_rewardSelectCell_selectButtonEnableLabel", "wording":"選択中"
   },
   "balloon_demoPlayOn_text":{
     "name":"balloon_demoPlayOn_text", "wording":"デモプレイ ON"
@@ -2435,6 +2492,9 @@
   "dialog_mvViewPause_message":{
     "name":"dialog_mvViewPause_message", "wording":"MVの再生を中断してホームに戻りますか？"
   },
+  "dailyLive_rewardSelectCell_selectButtonDisableLabel":{
+    "name":"dailyLive_rewardSelectCell_selectButtonDisableLabel", "wording":"選択"
+  },
   "dialog_queryInventoryFailed_message":{
     "name":"dialog_queryInventoryFailed_message", "wording":"購入情報の取得に失敗しました。"
   },
@@ -2485,6 +2545,9 @@
   },
   "local_notification_live_boost_title_android":{
     "name":"local_notification_live_boost_title_android", "wording":"[ガルパ]ライブブーストが全回復しました。"
+  },
+  "dialog_receivedDailyLiveReward_title":{
+    "name":"dialog_receivedDailyLiveReward_title", "wording":"デイリーライブボーナス達成！"
   },
   "dialog_generalElection_voteBandSelect_nonSelect":{
     "name":"dialog_generalElection_voteBandSelect_nonSelect", "wording":"指定なし"
@@ -2545,6 +2608,9 @@
   },
   "word_dailyMission":{
     "name":"word_dailyMission", "wording":"デイリーミッション"
+  },
+  "dailyLive_rewardSettingDialog_resetTimeDescription":{
+    "name":"dailyLive_rewardSettingDialog_resetTimeDescription", "wording":"※アイテムはライブクリア後に獲得でき、毎日4:00にまた獲得できるようになります。"
   },
   "word_gachaSeal":{
     "name":"word_gachaSeal", "wording":"ガチャシール"
@@ -2966,6 +3032,9 @@
   "dialog_systyemSettings_RecommendStoryDescription":{
     "name":"dialog_systyemSettings_RecommendStoryDescription", "wording":"※「おすすめストーリー紹介」をONにしている場合、ライブ後や\\n　ストーリーを読んだ後に、関連するストーリーをおすすめ表示する場合があります。"
   },
+  "dailyLive_rewardSettingDialog_rewardDescription":{
+    "name":"dailyLive_rewardSettingDialog_rewardDescription", "wording":"1日1回限定！ライブをクリアして好きなアイテムを1つGETしよう！"
+  },
   "starShopWindowGarupaPass_price":{
     "name":"starShopWindowGarupaPass_price", "wording":"月額 ￥{0}"
   },
@@ -2999,6 +3068,9 @@
   "dialog_matchingBonus_rewardDescription":{
     "name":"dialog_matchingBonus_rewardDescription", "wording":"[-][4D4D4D]顔合わせ1人につき、[-][FF3B72]{0}×{1}[-][4D4D4D]プレゼント。"
   },
+  "dialog_liveBonusDescription_message":{
+    "name":"dialog_liveBonusDescription_message", "wording":"■デイリーライブボーナス\n1日1回、ライブをクリアした時に、複数のアイテムから1つ選んで獲得できます。\nアイテムはあらかじめ選択しておくこともでき、受け取り時のアイテム選択を省略することができます。\n毎日4:00にライブボーナスの獲得状況がリセットされ、また獲得できるようになります。\nフリーライブ、協力ライブ、対バンライブ、チャレンジライブ等、いずれかのライブで1日につき1回のみ獲得できます。\nリハーサル機能、デモプレイ機能では獲得できません。\n\n■累計ライブボーナス\nデイリーライブボーナスを7回受け取ると、累計ライブボーナスを獲得できます。\nデイリーライブボーナスの受け取りが途中で途切れても累計ライブボーナスの達成度はリセットされません。"
+  },
   "area_shop_transitionShopButton":{
     "name":"area_shop_transitionShopButton", "wording":"ショップへ"
   },
@@ -3019,6 +3091,9 @@
   },
   "dialog_rewardPresentbox_message":{
     "name":"dialog_rewardPresentbox_message", "wording":"報酬がプレゼントに送られました！"
+  },
+  "dailyLive_multipleQuantityResource_nameLabel":{
+    "name":"dailyLive_multipleQuantityResource_nameLabel", "wording":"{0}x{1}"
   },
   "word_lackItemGain":{
     "name":"word_lackItemGain", "wording":"必要アイテムを獲得"
@@ -3170,6 +3245,9 @@
   "missionLiveEvent_result_totalParamBonus":{
     "name":"missionLiveEvent_result_totalParamBonus", "wording":"総合力ボーナス"
   },
+  "dialog_dailyLiveReceiveRewardSelect_selectItemLabel":{
+    "name":"dialog_dailyLiveReceiveRewardSelect_selectItemLabel", "wording":"アイテムを選択してください。"
+  },
   "comicSelectFourFrame_contents_notExistMessage":{
     "name":"comicSelectFourFrame_contents_notExistMessage", "wording":"絞り込み条件に該当するコミックがありません。"
   },
@@ -3316,6 +3394,9 @@
   },
   "dialog_gpsDisableError_message":{
     "name":"dialog_gpsDisableError_message", "wording":"位置情報を利用できませんでした。\\n端末のGPS設定をご確認ください。"
+  },
+  "dailyLive_rewardSettingDialog_totalTabCaption":{
+    "name":"dailyLive_rewardSettingDialog_totalTabCaption", "wording":"累計"
   },
   "word_liveResource":{
     "name":"word_liveResource", "wording":"ライブデータ"
