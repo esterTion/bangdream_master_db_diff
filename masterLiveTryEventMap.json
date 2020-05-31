@@ -1,3 +1,1211 @@
-[
-  
-]
+{
+  "116":{
+    "eventId":116, "attributes":[
+      {
+        "eventId":116, "attribute":"pure", "percent":10
+      }
+    ],
+    "characters":[
+      {
+        "eventId":116, "characterId":21, "percent":20, "seq":3
+      },
+      {
+        "eventId":116, "characterId":22, "percent":20, "seq":4
+      },
+      {
+        "eventId":116, "characterId":23, "percent":20, "seq":2
+      },
+      {
+        "eventId":116, "characterId":24, "percent":20, "seq":5
+      },
+      {
+        "eventId":116, "characterId":25, "percent":20, "seq":1
+      }
+    ],
+    "stories":[
+      {
+        "eventId":116, "seq":0, "caption":"オープニング", "title":"再びの旅立ち", "synopsis":"スタジオ練習を終えた帰り道。\nひょんなことからNFOの話になり……？", "scenarioId":"event116-01", "coverImage":"116_0", "backgroundImage":"0", "releasePt":0, "releaseConditions":"オープニングシナリオ", "backgroundImageId":24, "rewards":[
+          {
+            "id":1715, "eventId":116, "seq":0, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1716, "eventId":116, "seq":0, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":116, "seq":1, "caption":"第１話", "title":"いざ、ログイン！", "synopsis":"NFOにログインしたRoselia。\n早速イベントの受注に向かおうとするが――", "scenarioId":"event116-02", "coverImage":"116_1", "backgroundImage":"0", "releasePt":3000, "releaseConditions":"3000イベントP達成", "backgroundImageId":176, "rewards":[
+          {
+            "id":1717, "eventId":116, "seq":1, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1718, "eventId":116, "seq":1, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":116, "seq":2, "caption":"第２話", "title":"盗まれた宝", "synopsis":"着々とイベントを進めていくメンバー達。\n次に提示されたミッションは……", "scenarioId":"event116-03", "coverImage":"116_2", "backgroundImage":"0", "releasePt":8000, "releaseConditions":"8000イベントP達成", "backgroundImageId":493, "rewards":[
+          {
+            "id":1719, "eventId":116, "seq":2, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1720, "eventId":116, "seq":2, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":116, "seq":3, "caption":"第３話", "title":"あことりんりんの戦闘講座", "synopsis":"戦闘の練習をするユキナとリサ。\n二人とも、不慣れなことに前途多難で……", "scenarioId":"event116-04", "coverImage":"116_3", "backgroundImage":"0", "releasePt":18000, "releaseConditions":"18000イベントP達成", "backgroundImageId":178, "rewards":[
+          {
+            "id":1721, "eventId":116, "seq":3, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1722, "eventId":116, "seq":3, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":116, "seq":4, "caption":"第４話", "title":"初心者卒業", "synopsis":"順調に進んでいくレベリング。\nそんな中、ユキナが何かを拾ったようで……", "scenarioId":"event116-05", "coverImage":"116_4", "backgroundImage":"0", "releasePt":35000, "releaseConditions":"35000イベントP達成", "backgroundImageId":179, "rewards":[
+          {
+            "id":1723, "eventId":116, "seq":4, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1724, "eventId":116, "seq":4, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":116, "seq":5, "caption":"第５話", "title":"古竜と花嫁", "synopsis":"姫を守るため教会にやってきた一同。\n祝福のティアラを使ったRinRinは――", "scenarioId":"event116-06", "coverImage":"116_5", "backgroundImage":"0", "releasePt":50000, "releaseConditions":"50000イベントP達成", "backgroundImageId":494, "rewards":[
+          {
+            "id":1725, "eventId":116, "seq":5, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1726, "eventId":116, "seq":5, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":116, "seq":6, "caption":"エンディング", "title":"私達の戦いはこれからよ", "synopsis":"見事ドラゴンを倒したRoselia。\nしかし、ドラゴンが口にした真実とは……！", "scenarioId":"event116-07", "coverImage":"116_6", "backgroundImage":"0", "releasePt":70000, "releaseConditions":"70000イベントP達成", "backgroundImageId":24, "rewards":[
+          {
+            "id":1727, "eventId":116, "seq":6, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1728, "eventId":116, "seq":6, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      }
+    ],
+    "masterLiveTryMissionMap":{
+      "1664":{
+        "eventId":116, "liveTryMissionId":1664, "liveTryMissionType":"score", "liveTryMissionDifficultyType":"normal", "level":4, "liveTryMissionDetailId":1664
+      },
+      "1665":{
+        "eventId":116, "liveTryMissionId":1665, "liveTryMissionType":"score", "liveTryMissionDifficultyType":"normal", "level":5, "liveTryMissionDetailId":1665
+      },
+      "1666":{
+        "eventId":116, "liveTryMissionId":1666, "liveTryMissionType":"score", "liveTryMissionDifficultyType":"normal", "level":6, "liveTryMissionDetailId":1666
+      },
+      "1667":{
+        "eventId":116, "liveTryMissionId":1667, "liveTryMissionType":"score", "liveTryMissionDifficultyType":"normal", "level":7, "liveTryMissionDetailId":1667
+      },
+      "1668":{
+        "eventId":116, "liveTryMissionId":1668, "liveTryMissionType":"score", "liveTryMissionDifficultyType":"normal", "level":8, "liveTryMissionDetailId":1668
+      },
+      "1669":{
+        "eventId":116, "liveTryMissionId":1669, "liveTryMissionType":"score", "liveTryMissionDifficultyType":"normal", "level":9, "liveTryMissionDetailId":1669
+      },
+      "1670":{
+        "eventId":116, "liveTryMissionId":1670, "liveTryMissionType":"score", "liveTryMissionDifficultyType":"normal", "level":10, "liveTryMissionDetailId":1670
+      },
+      "1671":{
+        "eventId":116, "liveTryMissionId":1671, "liveTryMissionType":"score", "liveTryMissionDifficultyType":"extra", "level":1, "liveTryMissionDetailId":1671
+      },
+      "1672":{
+        "eventId":116, "liveTryMissionId":1672, "liveTryMissionType":"score", "liveTryMissionDifficultyType":"extra", "level":2, "liveTryMissionDetailId":1672
+      },
+      "1673":{
+        "eventId":116, "liveTryMissionId":1673, "liveTryMissionType":"score", "liveTryMissionDifficultyType":"extra", "level":3, "liveTryMissionDetailId":1673
+      },
+      "1674":{
+        "eventId":116, "liveTryMissionId":1674, "liveTryMissionType":"score", "liveTryMissionDifficultyType":"extra", "level":4, "liveTryMissionDetailId":1674
+      },
+      "1675":{
+        "eventId":116, "liveTryMissionId":1675, "liveTryMissionType":"score", "liveTryMissionDifficultyType":"extra", "level":5, "liveTryMissionDetailId":1675
+      },
+      "1676":{
+        "eventId":116, "liveTryMissionId":1676, "liveTryMissionType":"life", "liveTryMissionDifficultyType":"normal", "level":1, "liveTryMissionDetailId":1676
+      },
+      "1677":{
+        "eventId":116, "liveTryMissionId":1677, "liveTryMissionType":"life", "liveTryMissionDifficultyType":"normal", "level":2, "liveTryMissionDetailId":1677
+      },
+      "1678":{
+        "eventId":116, "liveTryMissionId":1678, "liveTryMissionType":"life", "liveTryMissionDifficultyType":"normal", "level":3, "liveTryMissionDetailId":1678
+      },
+      "1679":{
+        "eventId":116, "liveTryMissionId":1679, "liveTryMissionType":"life", "liveTryMissionDifficultyType":"normal", "level":4, "liveTryMissionDetailId":1679
+      },
+      "1680":{
+        "eventId":116, "liveTryMissionId":1680, "liveTryMissionType":"life", "liveTryMissionDifficultyType":"normal", "level":5, "liveTryMissionDetailId":1680
+      },
+      "1681":{
+        "eventId":116, "liveTryMissionId":1681, "liveTryMissionType":"life", "liveTryMissionDifficultyType":"normal", "level":6, "liveTryMissionDetailId":1681
+      },
+      "1682":{
+        "eventId":116, "liveTryMissionId":1682, "liveTryMissionType":"life", "liveTryMissionDifficultyType":"normal", "level":7, "liveTryMissionDetailId":1682
+      },
+      "1683":{
+        "eventId":116, "liveTryMissionId":1683, "liveTryMissionType":"life", "liveTryMissionDifficultyType":"normal", "level":8, "liveTryMissionDetailId":1683
+      },
+      "1684":{
+        "eventId":116, "liveTryMissionId":1684, "liveTryMissionType":"life", "liveTryMissionDifficultyType":"normal", "level":9, "liveTryMissionDetailId":1684
+      },
+      "1685":{
+        "eventId":116, "liveTryMissionId":1685, "liveTryMissionType":"life", "liveTryMissionDifficultyType":"normal", "level":10, "liveTryMissionDetailId":1685
+      },
+      "1686":{
+        "eventId":116, "liveTryMissionId":1686, "liveTryMissionType":"life", "liveTryMissionDifficultyType":"extra", "level":1, "liveTryMissionDetailId":1686
+      },
+      "1687":{
+        "eventId":116, "liveTryMissionId":1687, "liveTryMissionType":"life", "liveTryMissionDifficultyType":"extra", "level":2, "liveTryMissionDetailId":1687
+      },
+      "1688":{
+        "eventId":116, "liveTryMissionId":1688, "liveTryMissionType":"life", "liveTryMissionDifficultyType":"extra", "level":3, "liveTryMissionDetailId":1688
+      },
+      "1689":{
+        "eventId":116, "liveTryMissionId":1689, "liveTryMissionType":"life", "liveTryMissionDifficultyType":"extra", "level":4, "liveTryMissionDetailId":1689
+      },
+      "1690":{
+        "eventId":116, "liveTryMissionId":1690, "liveTryMissionType":"life", "liveTryMissionDifficultyType":"extra", "level":5, "liveTryMissionDetailId":1690
+      },
+      "1691":{
+        "eventId":116, "liveTryMissionId":1691, "liveTryMissionType":"combo", "liveTryMissionDifficultyType":"normal", "level":1, "liveTryMissionDetailId":1691
+      },
+      "1692":{
+        "eventId":116, "liveTryMissionId":1692, "liveTryMissionType":"combo", "liveTryMissionDifficultyType":"normal", "level":2, "liveTryMissionDetailId":1692
+      },
+      "1693":{
+        "eventId":116, "liveTryMissionId":1693, "liveTryMissionType":"combo", "liveTryMissionDifficultyType":"normal", "level":3, "liveTryMissionDetailId":1693
+      },
+      "1694":{
+        "eventId":116, "liveTryMissionId":1694, "liveTryMissionType":"combo", "liveTryMissionDifficultyType":"normal", "level":4, "liveTryMissionDetailId":1694
+      },
+      "1695":{
+        "eventId":116, "liveTryMissionId":1695, "liveTryMissionType":"combo", "liveTryMissionDifficultyType":"normal", "level":5, "liveTryMissionDetailId":1695
+      },
+      "1696":{
+        "eventId":116, "liveTryMissionId":1696, "liveTryMissionType":"combo", "liveTryMissionDifficultyType":"normal", "level":6, "liveTryMissionDetailId":1696
+      },
+      "1697":{
+        "eventId":116, "liveTryMissionId":1697, "liveTryMissionType":"combo", "liveTryMissionDifficultyType":"normal", "level":7, "liveTryMissionDetailId":1697
+      },
+      "1698":{
+        "eventId":116, "liveTryMissionId":1698, "liveTryMissionType":"combo", "liveTryMissionDifficultyType":"normal", "level":8, "liveTryMissionDetailId":1698
+      },
+      "1699":{
+        "eventId":116, "liveTryMissionId":1699, "liveTryMissionType":"combo", "liveTryMissionDifficultyType":"normal", "level":9, "liveTryMissionDetailId":1699
+      },
+      "1700":{
+        "eventId":116, "liveTryMissionId":1700, "liveTryMissionType":"combo", "liveTryMissionDifficultyType":"normal", "level":10, "liveTryMissionDetailId":1700
+      },
+      "1701":{
+        "eventId":116, "liveTryMissionId":1701, "liveTryMissionType":"combo", "liveTryMissionDifficultyType":"extra", "level":1, "liveTryMissionDetailId":1701
+      },
+      "1702":{
+        "eventId":116, "liveTryMissionId":1702, "liveTryMissionType":"combo", "liveTryMissionDifficultyType":"extra", "level":2, "liveTryMissionDetailId":1702
+      },
+      "1703":{
+        "eventId":116, "liveTryMissionId":1703, "liveTryMissionType":"combo", "liveTryMissionDifficultyType":"extra", "level":3, "liveTryMissionDetailId":1703
+      },
+      "1704":{
+        "eventId":116, "liveTryMissionId":1704, "liveTryMissionType":"combo", "liveTryMissionDifficultyType":"extra", "level":4, "liveTryMissionDetailId":1704
+      },
+      "1705":{
+        "eventId":116, "liveTryMissionId":1705, "liveTryMissionType":"combo", "liveTryMissionDifficultyType":"extra", "level":5, "liveTryMissionDetailId":1705
+      },
+      "1706":{
+        "eventId":116, "liveTryMissionId":1706, "liveTryMissionType":"judge", "liveTryMissionDifficultyType":"normal", "level":1, "liveTryMissionDetailId":1706
+      },
+      "1707":{
+        "eventId":116, "liveTryMissionId":1707, "liveTryMissionType":"judge", "liveTryMissionDifficultyType":"normal", "level":2, "liveTryMissionDetailId":1707
+      },
+      "1708":{
+        "eventId":116, "liveTryMissionId":1708, "liveTryMissionType":"judge", "liveTryMissionDifficultyType":"normal", "level":3, "liveTryMissionDetailId":1708
+      },
+      "1709":{
+        "eventId":116, "liveTryMissionId":1709, "liveTryMissionType":"judge", "liveTryMissionDifficultyType":"normal", "level":4, "liveTryMissionDetailId":1709
+      },
+      "1710":{
+        "eventId":116, "liveTryMissionId":1710, "liveTryMissionType":"judge", "liveTryMissionDifficultyType":"normal", "level":5, "liveTryMissionDetailId":1710
+      },
+      "1711":{
+        "eventId":116, "liveTryMissionId":1711, "liveTryMissionType":"judge", "liveTryMissionDifficultyType":"normal", "level":6, "liveTryMissionDetailId":1711
+      },
+      "1712":{
+        "eventId":116, "liveTryMissionId":1712, "liveTryMissionType":"judge", "liveTryMissionDifficultyType":"normal", "level":7, "liveTryMissionDetailId":1712
+      },
+      "1713":{
+        "eventId":116, "liveTryMissionId":1713, "liveTryMissionType":"judge", "liveTryMissionDifficultyType":"normal", "level":8, "liveTryMissionDetailId":1713
+      },
+      "1714":{
+        "eventId":116, "liveTryMissionId":1714, "liveTryMissionType":"judge", "liveTryMissionDifficultyType":"normal", "level":9, "liveTryMissionDetailId":1714
+      },
+      "1715":{
+        "eventId":116, "liveTryMissionId":1715, "liveTryMissionType":"judge", "liveTryMissionDifficultyType":"normal", "level":10, "liveTryMissionDetailId":1715
+      },
+      "1716":{
+        "eventId":116, "liveTryMissionId":1716, "liveTryMissionType":"judge", "liveTryMissionDifficultyType":"extra", "level":1, "liveTryMissionDetailId":1716
+      },
+      "1717":{
+        "eventId":116, "liveTryMissionId":1717, "liveTryMissionType":"judge", "liveTryMissionDifficultyType":"extra", "level":2, "liveTryMissionDetailId":1717
+      },
+      "1718":{
+        "eventId":116, "liveTryMissionId":1718, "liveTryMissionType":"judge", "liveTryMissionDifficultyType":"extra", "level":3, "liveTryMissionDetailId":1718
+      },
+      "1719":{
+        "eventId":116, "liveTryMissionId":1719, "liveTryMissionType":"judge", "liveTryMissionDifficultyType":"extra", "level":4, "liveTryMissionDetailId":1719
+      },
+      "1720":{
+        "eventId":116, "liveTryMissionId":1720, "liveTryMissionType":"judge", "liveTryMissionDifficultyType":"extra", "level":5, "liveTryMissionDetailId":1720
+      },
+      "1721":{
+        "eventId":116, "liveTryMissionId":1721, "liveTryMissionType":"multi", "liveTryMissionDifficultyType":"normal", "level":1, "liveTryMissionDetailId":1721
+      },
+      "1722":{
+        "eventId":116, "liveTryMissionId":1722, "liveTryMissionType":"multi", "liveTryMissionDifficultyType":"normal", "level":2, "liveTryMissionDetailId":1722
+      },
+      "1723":{
+        "eventId":116, "liveTryMissionId":1723, "liveTryMissionType":"multi", "liveTryMissionDifficultyType":"normal", "level":3, "liveTryMissionDetailId":1723
+      },
+      "1724":{
+        "eventId":116, "liveTryMissionId":1724, "liveTryMissionType":"multi", "liveTryMissionDifficultyType":"normal", "level":4, "liveTryMissionDetailId":1724
+      },
+      "1725":{
+        "eventId":116, "liveTryMissionId":1725, "liveTryMissionType":"multi", "liveTryMissionDifficultyType":"normal", "level":5, "liveTryMissionDetailId":1725
+      },
+      "1726":{
+        "eventId":116, "liveTryMissionId":1726, "liveTryMissionType":"multi", "liveTryMissionDifficultyType":"normal", "level":6, "liveTryMissionDetailId":1726
+      },
+      "1727":{
+        "eventId":116, "liveTryMissionId":1727, "liveTryMissionType":"multi", "liveTryMissionDifficultyType":"normal", "level":7, "liveTryMissionDetailId":1727
+      },
+      "1728":{
+        "eventId":116, "liveTryMissionId":1728, "liveTryMissionType":"multi", "liveTryMissionDifficultyType":"normal", "level":8, "liveTryMissionDetailId":1728
+      },
+      "1729":{
+        "eventId":116, "liveTryMissionId":1729, "liveTryMissionType":"multi", "liveTryMissionDifficultyType":"normal", "level":9, "liveTryMissionDetailId":1729
+      },
+      "1730":{
+        "eventId":116, "liveTryMissionId":1730, "liveTryMissionType":"multi", "liveTryMissionDifficultyType":"normal", "level":10, "liveTryMissionDetailId":1730
+      },
+      "1731":{
+        "eventId":116, "liveTryMissionId":1731, "liveTryMissionType":"multi", "liveTryMissionDifficultyType":"extra", "level":1, "liveTryMissionDetailId":1731
+      },
+      "1732":{
+        "eventId":116, "liveTryMissionId":1732, "liveTryMissionType":"multi", "liveTryMissionDifficultyType":"extra", "level":2, "liveTryMissionDetailId":1732
+      },
+      "1733":{
+        "eventId":116, "liveTryMissionId":1733, "liveTryMissionType":"multi", "liveTryMissionDifficultyType":"extra", "level":3, "liveTryMissionDetailId":1733
+      },
+      "1734":{
+        "eventId":116, "liveTryMissionId":1734, "liveTryMissionType":"multi", "liveTryMissionDifficultyType":"extra", "level":4, "liveTryMissionDetailId":1734
+      },
+      "1735":{
+        "eventId":116, "liveTryMissionId":1735, "liveTryMissionType":"multi", "liveTryMissionDifficultyType":"extra", "level":5, "liveTryMissionDetailId":1735
+      },
+      "1661":{
+        "eventId":116, "liveTryMissionId":1661, "liveTryMissionType":"score", "liveTryMissionDifficultyType":"normal", "level":1, "liveTryMissionDetailId":1661
+      },
+      "1662":{
+        "eventId":116, "liveTryMissionId":1662, "liveTryMissionType":"score", "liveTryMissionDifficultyType":"normal", "level":2, "liveTryMissionDetailId":1662
+      },
+      "1663":{
+        "eventId":116, "liveTryMissionId":1663, "liveTryMissionType":"score", "liveTryMissionDifficultyType":"normal", "level":3, "liveTryMissionDetailId":1663
+      }
+    },
+    "masterLiveTryMissionDetailMap":{
+      "1664":{
+        "liveTryMissionDetailId":1664, "musicDescription":"-", "difficultyDescription":"-", "description":"[FF3B72]200,000[-][505050]以上でクリア[-]"
+      },
+      "1665":{
+        "liveTryMissionDetailId":1665, "musicDescription":"-", "difficultyDescription":"-", "description":"[FF3B72]250,000[-][505050]以上でクリア[-]"
+      },
+      "1666":{
+        "liveTryMissionDetailId":1666, "musicDescription":"-", "difficultyDescription":"-", "description":"[FF3B72]300,000[-][505050]以上でクリア[-]"
+      },
+      "1667":{
+        "liveTryMissionDetailId":1667, "musicDescription":"-", "difficultyDescription":"-", "description":"[FF3B72]400,000[-][505050]以上でクリア[-]"
+      },
+      "1668":{
+        "liveTryMissionDetailId":1668, "musicDescription":"-", "difficultyDescription":"-", "description":"[FF3B72]600,000[-][505050]以上でクリア[-]"
+      },
+      "1669":{
+        "liveTryMissionDetailId":1669, "musicDescription":"-", "difficultyDescription":"-", "description":"[FF3B72]750,000[-][505050]以上でクリア[-]"
+      },
+      "1670":{
+        "liveTryMissionDetailId":1670, "musicDescription":"-", "difficultyDescription":"-", "description":"[FF3B72]900,000[-][505050]以上でクリア[-]"
+      },
+      "1671":{
+        "liveTryMissionDetailId":1671, "musicDescription":"-", "difficultyDescription":"-", "description":"[FF3B72]1,100,000[-][505050]以上でクリア[-]"
+      },
+      "1672":{
+        "liveTryMissionDetailId":1672, "musicDescription":"-", "difficultyDescription":"-", "description":"[FF3B72]1,200,000[-][505050]以上でクリア[-]"
+      },
+      "1673":{
+        "liveTryMissionDetailId":1673, "musicDescription":"-", "difficultyDescription":"-", "description":"[FF3B72]1,300,000[-][505050]以上でクリア[-]"
+      },
+      "1674":{
+        "liveTryMissionDetailId":1674, "musicDescription":"-", "difficultyDescription":"-", "description":"[FF3B72]1,400,000[-][505050]以上でクリア[-]"
+      },
+      "1675":{
+        "liveTryMissionDetailId":1675, "musicDescription":"-", "difficultyDescription":"-", "description":"[FF3B72]1,500,000[-][505050]以上でクリア[-]"
+      },
+      "1676":{
+        "liveTryMissionDetailId":1676, "musicDescription":"-", "difficultyDescription":"-", "description":"[FF3B72]1[-][505050]以上でクリア[-]"
+      },
+      "1677":{
+        "liveTryMissionDetailId":1677, "musicDescription":"-", "difficultyDescription":"-", "description":"[FF3B72]100[-][505050]以上でクリア[-]"
+      },
+      "1678":{
+        "liveTryMissionDetailId":1678, "musicDescription":"-", "difficultyDescription":"-", "description":"[FF3B72]200[-][505050]以上でクリア[-]"
+      },
+      "1679":{
+        "liveTryMissionDetailId":1679, "musicDescription":"-", "difficultyDescription":"-", "description":"[FF3B72]300[-][505050]以上でクリア[-]"
+      },
+      "1680":{
+        "liveTryMissionDetailId":1680, "musicDescription":"-", "difficultyDescription":"-", "description":"[FF3B72]400[-][505050]以上でクリア[-]"
+      },
+      "1681":{
+        "liveTryMissionDetailId":1681, "musicDescription":"-", "difficultyDescription":"-", "description":"[FF3B72]500[-][505050]以上でクリア[-]"
+      },
+      "1682":{
+        "liveTryMissionDetailId":1682, "musicDescription":"-", "difficultyDescription":"-", "description":"[FF3B72]600[-][505050]以上でクリア[-]"
+      },
+      "1683":{
+        "liveTryMissionDetailId":1683, "musicDescription":"Roseliaの楽曲", "difficultyDescription":"HARD以上", "description":"[FF3B72]700[-][505050]以上でクリア[-]"
+      },
+      "1684":{
+        "liveTryMissionDetailId":1684, "musicDescription":"Roseliaの楽曲", "difficultyDescription":"HARD以上", "description":"[FF3B72]800[-][505050]以上でクリア[-]"
+      },
+      "1685":{
+        "liveTryMissionDetailId":1685, "musicDescription":"Roseliaの楽曲", "difficultyDescription":"HARD以上", "description":"[FF3B72]900[-][505050]以上でクリア[-]"
+      },
+      "1686":{
+        "liveTryMissionDetailId":1686, "musicDescription":"Blessing Chord", "difficultyDescription":"HARD以上", "description":"[FF3B72]1000[-][505050]以上でクリア[-]"
+      },
+      "1687":{
+        "liveTryMissionDetailId":1687, "musicDescription":"-", "difficultyDescription":"25以上", "description":"[FF3B72]1000[-][505050]以上でクリア[-]"
+      },
+      "1688":{
+        "liveTryMissionDetailId":1688, "musicDescription":"-", "difficultyDescription":"26以上", "description":"[FF3B72]1000[-][505050]以上でクリア[-]"
+      },
+      "1689":{
+        "liveTryMissionDetailId":1689, "musicDescription":"-", "difficultyDescription":"27以上", "description":"[FF3B72]1000[-][505050]以上でクリア[-]"
+      },
+      "1690":{
+        "liveTryMissionDetailId":1690, "musicDescription":"-", "difficultyDescription":"28以上", "description":"[FF3B72]1000[-][505050]以上でクリア[-]"
+      },
+      "1691":{
+        "liveTryMissionDetailId":1691, "musicDescription":"-", "difficultyDescription":"-", "description":"[505050]MAXコンボ[-][FF3B72]10[-][505050]以上でクリア[-]"
+      },
+      "1692":{
+        "liveTryMissionDetailId":1692, "musicDescription":"-", "difficultyDescription":"-", "description":"[505050]MAXコンボ[-][FF3B72]20[-][505050]以上でクリア[-]"
+      },
+      "1693":{
+        "liveTryMissionDetailId":1693, "musicDescription":"-", "difficultyDescription":"-", "description":"[505050]MAXコンボ[-][FF3B72]50[-][505050]以上でクリア[-]"
+      },
+      "1694":{
+        "liveTryMissionDetailId":1694, "musicDescription":"-", "difficultyDescription":"-", "description":"[505050]MAXコンボ[-][FF3B72]100[-][505050]以上でクリア[-]"
+      },
+      "1695":{
+        "liveTryMissionDetailId":1695, "musicDescription":"-", "difficultyDescription":"-", "description":"[505050]MAXコンボ[-][FF3B72]200[-][505050]以上でクリア[-]"
+      },
+      "1696":{
+        "liveTryMissionDetailId":1696, "musicDescription":"-", "difficultyDescription":"NORMAL以上", "description":"[505050]フルコンボでクリア[-]"
+      },
+      "1697":{
+        "liveTryMissionDetailId":1697, "musicDescription":"-", "difficultyDescription":"-", "description":"[505050]MAXコンボ[-][FF3B72]250[-][505050]以上でクリア[-]"
+      },
+      "1698":{
+        "liveTryMissionDetailId":1698, "musicDescription":"-", "difficultyDescription":"-", "description":"[505050]MAXコンボ[-][FF3B72]300[-][505050]以上でクリア[-]"
+      },
+      "1699":{
+        "liveTryMissionDetailId":1699, "musicDescription":"-", "difficultyDescription":"HARD以上", "description":"[505050]フルコンボでクリア[-]"
+      },
+      "1700":{
+        "liveTryMissionDetailId":1700, "musicDescription":"-", "difficultyDescription":"20以上", "description":"[505050]フルコンボでクリア[-]"
+      },
+      "1701":{
+        "liveTryMissionDetailId":1701, "musicDescription":"Blessing Chord", "difficultyDescription":"HARD以上", "description":"[505050]フルコンボでクリア[-]"
+      },
+      "1702":{
+        "liveTryMissionDetailId":1702, "musicDescription":"-", "difficultyDescription":"25以上", "description":"[505050]フルコンボでクリア[-]"
+      },
+      "1703":{
+        "liveTryMissionDetailId":1703, "musicDescription":"-", "difficultyDescription":"26以上", "description":"[505050]フルコンボでクリア[-]"
+      },
+      "1704":{
+        "liveTryMissionDetailId":1704, "musicDescription":"-", "difficultyDescription":"27以上", "description":"[505050]フルコンボでクリア[-]"
+      },
+      "1705":{
+        "liveTryMissionDetailId":1705, "musicDescription":"-", "difficultyDescription":"28以上", "description":"[505050]フルコンボでクリア[-]"
+      },
+      "1706":{
+        "liveTryMissionDetailId":1706, "musicDescription":"-", "difficultyDescription":"-", "description":"[505050]GREAT以下を[-][FF3B72]100[-][505050]以内でクリア[-]"
+      },
+      "1707":{
+        "liveTryMissionDetailId":1707, "musicDescription":"-", "difficultyDescription":"-", "description":"[505050]GREAT以下を[-][FF3B72]90[-][505050]以内でクリア[-]"
+      },
+      "1708":{
+        "liveTryMissionDetailId":1708, "musicDescription":"-", "difficultyDescription":"-", "description":"[505050]GREAT以下を[-][FF3B72]80[-][505050]以内でクリア[-]"
+      },
+      "1709":{
+        "liveTryMissionDetailId":1709, "musicDescription":"-", "difficultyDescription":"-", "description":"[505050]GREAT以下を[-][FF3B72]70[-][505050]以内でクリア[-]"
+      },
+      "1710":{
+        "liveTryMissionDetailId":1710, "musicDescription":"-", "difficultyDescription":"13以上", "description":"[505050]GREAT以下を[-][FF3B72]70[-][505050]以内でクリア[-]"
+      },
+      "1711":{
+        "liveTryMissionDetailId":1711, "musicDescription":"-", "difficultyDescription":"14以上", "description":"[505050]GREAT以下を[-][FF3B72]70[-][505050]以内でクリア[-]"
+      },
+      "1712":{
+        "liveTryMissionDetailId":1712, "musicDescription":"-", "difficultyDescription":"15以上", "description":"[505050]GREAT以下を[-][FF3B72]70[-][505050]以内でクリア[-]"
+      },
+      "1713":{
+        "liveTryMissionDetailId":1713, "musicDescription":"-", "difficultyDescription":"17以上", "description":"[505050]GREAT以下を[-][FF3B72]60[-][505050]以内でクリア[-]"
+      },
+      "1714":{
+        "liveTryMissionDetailId":1714, "musicDescription":"-", "difficultyDescription":"18以上", "description":"[505050]GREAT以下を[-][FF3B72]50[-][505050]以内でクリア[-]"
+      },
+      "1715":{
+        "liveTryMissionDetailId":1715, "musicDescription":"-", "difficultyDescription":"20以上", "description":"[505050]GREAT以下を[-][FF3B72]50[-][505050]以内でクリア[-]"
+      },
+      "1716":{
+        "liveTryMissionDetailId":1716, "musicDescription":"-", "difficultyDescription":"22以上", "description":"[505050]GREAT以下を[-][FF3B72]40[-][505050]以内でクリア[-]"
+      },
+      "1717":{
+        "liveTryMissionDetailId":1717, "musicDescription":"-", "difficultyDescription":"25以上", "description":"[505050]GREAT以下を[-][FF3B72]30[-][505050]以内でクリア[-]"
+      },
+      "1718":{
+        "liveTryMissionDetailId":1718, "musicDescription":"-", "difficultyDescription":"26以上", "description":"[505050]GREAT以下を[-][FF3B72]20[-][505050]以内でクリア[-]"
+      },
+      "1719":{
+        "liveTryMissionDetailId":1719, "musicDescription":"-", "difficultyDescription":"26以上", "description":"[505050]GREAT以下を[-][FF3B72]10[-][505050]以内でクリア[-]"
+      },
+      "1720":{
+        "liveTryMissionDetailId":1720, "musicDescription":"Roseliaの楽曲", "difficultyDescription":"27以上", "description":"[505050]GREAT以下を[-][FF3B72]20[-][505050]以内でクリア[-]"
+      },
+      "1721":{
+        "liveTryMissionDetailId":1721, "musicDescription":"-", "difficultyDescription":"-", "description":"[FF3B72]C[-][505050]ランク以上でクリア[-]"
+      },
+      "1722":{
+        "liveTryMissionDetailId":1722, "musicDescription":"-", "difficultyDescription":"7以上", "description":"[FF3B72]C[-][505050]ランク以上でクリア[-]"
+      },
+      "1723":{
+        "liveTryMissionDetailId":1723, "musicDescription":"-", "difficultyDescription":"10以上", "description":"[FF3B72]C[-][505050]ランク以上でクリア[-]"
+      },
+      "1724":{
+        "liveTryMissionDetailId":1724, "musicDescription":"-", "difficultyDescription":"-", "description":"[FF3B72]B[-][505050]ランク以上でクリア[-]"
+      },
+      "1725":{
+        "liveTryMissionDetailId":1725, "musicDescription":"-", "difficultyDescription":"13以上", "description":"[FF3B72]B[-][505050]ランク以上でクリア[-]"
+      },
+      "1726":{
+        "liveTryMissionDetailId":1726, "musicDescription":"-", "difficultyDescription":"14以上", "description":"[FF3B72]B[-][505050]ランク以上でクリア[-]"
+      },
+      "1727":{
+        "liveTryMissionDetailId":1727, "musicDescription":"-", "difficultyDescription":"-", "description":"[FF3B72]A[-][505050]ランク以上でクリア[-]"
+      },
+      "1728":{
+        "liveTryMissionDetailId":1728, "musicDescription":"-", "difficultyDescription":"17以上", "description":"[FF3B72]A[-][505050]ランク以上でクリア[-]"
+      },
+      "1729":{
+        "liveTryMissionDetailId":1729, "musicDescription":"-", "difficultyDescription":"-", "description":"[FF3B72]S[-][505050]ランク以上でクリア[-]"
+      },
+      "1730":{
+        "liveTryMissionDetailId":1730, "musicDescription":"-", "difficultyDescription":"-", "description":"[FF3B72]S[-][505050]ランク以上を[-][FF3B72]ベテランルーム以上[-][505050]でクリア[-]"
+      },
+      "1731":{
+        "liveTryMissionDetailId":1731, "musicDescription":"-", "difficultyDescription":"-", "description":"[FF3B72]SS[-][505050]ランク以上を[-][FF3B72]ベテランルーム以上[-][505050]でクリア[-]"
+      },
+      "1732":{
+        "liveTryMissionDetailId":1732, "musicDescription":"-", "difficultyDescription":"23以上", "description":"[FF3B72]SS[-][505050]ランク以上を[-][FF3B72]マスタールーム以上[-][505050]でクリア[-]"
+      },
+      "1733":{
+        "liveTryMissionDetailId":1733, "musicDescription":"-", "difficultyDescription":"24以上", "description":"[FF3B72]SS[-][505050]ランク以上を[-][FF3B72]マスタールーム以上[-][505050]でクリア[-]"
+      },
+      "1734":{
+        "liveTryMissionDetailId":1734, "musicDescription":"-", "difficultyDescription":"25以上", "description":"[FF3B72]SS[-][505050]ランク以上を[-][FF3B72]マスタールーム以上[-][505050]でクリア[-]"
+      },
+      "1735":{
+        "liveTryMissionDetailId":1735, "musicDescription":"-", "difficultyDescription":"26以上", "description":"[FF3B72]SS[-][505050]ランク以上を[-][FF3B72]マスタールーム以上[-][505050]でクリア[-]"
+      },
+      "1661":{
+        "liveTryMissionDetailId":1661, "musicDescription":"-", "difficultyDescription":"-", "description":"[FF3B72]30,000[-][505050]以上でクリア[-]"
+      },
+      "1662":{
+        "liveTryMissionDetailId":1662, "musicDescription":"-", "difficultyDescription":"-", "description":"[FF3B72]100,000[-][505050]以上でクリア[-]"
+      },
+      "1663":{
+        "liveTryMissionDetailId":1663, "musicDescription":"-", "difficultyDescription":"-", "description":"[FF3B72]150,000[-][505050]以上でクリア[-]"
+      }
+    },
+    "masterLiveTryMissionTypeSequenceMap":{
+      "score":1, "combo":4, "judge":3, "life":2, "multi":5
+    },
+    "masterLiveTryMissionRewardMap":{
+      "1664":[
+        {
+          "eventId":116, "liveTryMissionId":1664, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":1000
+        },
+        {
+          "eventId":116, "liveTryMissionId":1664, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":50
+        }
+      ],
+      "1665":[
+        {
+          "eventId":116, "liveTryMissionId":1665, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":1000
+        },
+        {
+          "eventId":116, "liveTryMissionId":1665, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":50
+        }
+      ],
+      "1666":[
+        {
+          "eventId":116, "liveTryMissionId":1666, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":1500
+        },
+        {
+          "eventId":116, "liveTryMissionId":1666, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":70
+        }
+      ],
+      "1667":[
+        {
+          "eventId":116, "liveTryMissionId":1667, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":1500
+        },
+        {
+          "eventId":116, "liveTryMissionId":1667, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":70
+        }
+      ],
+      "1668":[
+        {
+          "eventId":116, "liveTryMissionId":1668, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":1500
+        },
+        {
+          "eventId":116, "liveTryMissionId":1668, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":70
+        }
+      ],
+      "1669":[
+        {
+          "eventId":116, "liveTryMissionId":1669, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":1500
+        },
+        {
+          "eventId":116, "liveTryMissionId":1669, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":70
+        }
+      ],
+      "1670":[
+        {
+          "eventId":116, "liveTryMissionId":1670, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":2000
+        },
+        {
+          "eventId":116, "liveTryMissionId":1670, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":100
+        }
+      ],
+      "1671":[
+        {
+          "eventId":116, "liveTryMissionId":1671, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":3000
+        },
+        {
+          "eventId":116, "liveTryMissionId":1671, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":150
+        }
+      ],
+      "1672":[
+        {
+          "eventId":116, "liveTryMissionId":1672, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":3500
+        },
+        {
+          "eventId":116, "liveTryMissionId":1672, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":150
+        }
+      ],
+      "1673":[
+        {
+          "eventId":116, "liveTryMissionId":1673, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":4000
+        },
+        {
+          "eventId":116, "liveTryMissionId":1673, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":150
+        }
+      ],
+      "1674":[
+        {
+          "eventId":116, "liveTryMissionId":1674, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":4500
+        },
+        {
+          "eventId":116, "liveTryMissionId":1674, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":150
+        }
+      ],
+      "1675":[
+        {
+          "eventId":116, "liveTryMissionId":1675, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":5000
+        },
+        {
+          "eventId":116, "liveTryMissionId":1675, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":150
+        }
+      ],
+      "1676":[
+        {
+          "eventId":116, "liveTryMissionId":1676, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":1000
+        },
+        {
+          "eventId":116, "liveTryMissionId":1676, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":50
+        }
+      ],
+      "1677":[
+        {
+          "eventId":116, "liveTryMissionId":1677, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":1000
+        },
+        {
+          "eventId":116, "liveTryMissionId":1677, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":50
+        }
+      ],
+      "1678":[
+        {
+          "eventId":116, "liveTryMissionId":1678, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":1000
+        },
+        {
+          "eventId":116, "liveTryMissionId":1678, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":50
+        }
+      ],
+      "1679":[
+        {
+          "eventId":116, "liveTryMissionId":1679, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":1000
+        },
+        {
+          "eventId":116, "liveTryMissionId":1679, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":50
+        }
+      ],
+      "1680":[
+        {
+          "eventId":116, "liveTryMissionId":1680, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":1000
+        },
+        {
+          "eventId":116, "liveTryMissionId":1680, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":50
+        }
+      ],
+      "1681":[
+        {
+          "eventId":116, "liveTryMissionId":1681, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":1500
+        },
+        {
+          "eventId":116, "liveTryMissionId":1681, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":70
+        }
+      ],
+      "1682":[
+        {
+          "eventId":116, "liveTryMissionId":1682, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":1500
+        },
+        {
+          "eventId":116, "liveTryMissionId":1682, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":70
+        }
+      ],
+      "1683":[
+        {
+          "eventId":116, "liveTryMissionId":1683, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":1500
+        },
+        {
+          "eventId":116, "liveTryMissionId":1683, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":70
+        }
+      ],
+      "1684":[
+        {
+          "eventId":116, "liveTryMissionId":1684, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":1500
+        },
+        {
+          "eventId":116, "liveTryMissionId":1684, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":70
+        }
+      ],
+      "1685":[
+        {
+          "eventId":116, "liveTryMissionId":1685, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":2000
+        },
+        {
+          "eventId":116, "liveTryMissionId":1685, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":100
+        }
+      ],
+      "1686":[
+        {
+          "eventId":116, "liveTryMissionId":1686, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":3000
+        },
+        {
+          "eventId":116, "liveTryMissionId":1686, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":150
+        }
+      ],
+      "1687":[
+        {
+          "eventId":116, "liveTryMissionId":1687, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":3500
+        },
+        {
+          "eventId":116, "liveTryMissionId":1687, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":150
+        }
+      ],
+      "1688":[
+        {
+          "eventId":116, "liveTryMissionId":1688, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":4000
+        },
+        {
+          "eventId":116, "liveTryMissionId":1688, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":150
+        }
+      ],
+      "1689":[
+        {
+          "eventId":116, "liveTryMissionId":1689, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":4500
+        },
+        {
+          "eventId":116, "liveTryMissionId":1689, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":150
+        }
+      ],
+      "1690":[
+        {
+          "eventId":116, "liveTryMissionId":1690, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":5000
+        },
+        {
+          "eventId":116, "liveTryMissionId":1690, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":150
+        }
+      ],
+      "1691":[
+        {
+          "eventId":116, "liveTryMissionId":1691, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":1000
+        },
+        {
+          "eventId":116, "liveTryMissionId":1691, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":50
+        }
+      ],
+      "1692":[
+        {
+          "eventId":116, "liveTryMissionId":1692, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":1000
+        },
+        {
+          "eventId":116, "liveTryMissionId":1692, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":50
+        }
+      ],
+      "1693":[
+        {
+          "eventId":116, "liveTryMissionId":1693, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":1000
+        },
+        {
+          "eventId":116, "liveTryMissionId":1693, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":50
+        }
+      ],
+      "1694":[
+        {
+          "eventId":116, "liveTryMissionId":1694, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":1000
+        },
+        {
+          "eventId":116, "liveTryMissionId":1694, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":50
+        }
+      ],
+      "1695":[
+        {
+          "eventId":116, "liveTryMissionId":1695, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":1000
+        },
+        {
+          "eventId":116, "liveTryMissionId":1695, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":50
+        }
+      ],
+      "1696":[
+        {
+          "eventId":116, "liveTryMissionId":1696, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":1500
+        },
+        {
+          "eventId":116, "liveTryMissionId":1696, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":70
+        }
+      ],
+      "1697":[
+        {
+          "eventId":116, "liveTryMissionId":1697, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":1500
+        },
+        {
+          "eventId":116, "liveTryMissionId":1697, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":70
+        }
+      ],
+      "1698":[
+        {
+          "eventId":116, "liveTryMissionId":1698, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":1500
+        },
+        {
+          "eventId":116, "liveTryMissionId":1698, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":70
+        }
+      ],
+      "1699":[
+        {
+          "eventId":116, "liveTryMissionId":1699, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":1500
+        },
+        {
+          "eventId":116, "liveTryMissionId":1699, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":70
+        }
+      ],
+      "1700":[
+        {
+          "eventId":116, "liveTryMissionId":1700, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":2000
+        },
+        {
+          "eventId":116, "liveTryMissionId":1700, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":100
+        }
+      ],
+      "1701":[
+        {
+          "eventId":116, "liveTryMissionId":1701, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":3000
+        },
+        {
+          "eventId":116, "liveTryMissionId":1701, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":150
+        }
+      ],
+      "1702":[
+        {
+          "eventId":116, "liveTryMissionId":1702, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":3500
+        },
+        {
+          "eventId":116, "liveTryMissionId":1702, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":150
+        }
+      ],
+      "1703":[
+        {
+          "eventId":116, "liveTryMissionId":1703, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":4000
+        },
+        {
+          "eventId":116, "liveTryMissionId":1703, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":150
+        }
+      ],
+      "1704":[
+        {
+          "eventId":116, "liveTryMissionId":1704, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":4500
+        },
+        {
+          "eventId":116, "liveTryMissionId":1704, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":150
+        }
+      ],
+      "1705":[
+        {
+          "eventId":116, "liveTryMissionId":1705, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":5000
+        },
+        {
+          "eventId":116, "liveTryMissionId":1705, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":150
+        }
+      ],
+      "1706":[
+        {
+          "eventId":116, "liveTryMissionId":1706, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":1000
+        },
+        {
+          "eventId":116, "liveTryMissionId":1706, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":50
+        }
+      ],
+      "1707":[
+        {
+          "eventId":116, "liveTryMissionId":1707, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":1000
+        },
+        {
+          "eventId":116, "liveTryMissionId":1707, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":50
+        }
+      ],
+      "1708":[
+        {
+          "eventId":116, "liveTryMissionId":1708, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":1000
+        },
+        {
+          "eventId":116, "liveTryMissionId":1708, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":50
+        }
+      ],
+      "1709":[
+        {
+          "eventId":116, "liveTryMissionId":1709, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":1000
+        },
+        {
+          "eventId":116, "liveTryMissionId":1709, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":50
+        }
+      ],
+      "1710":[
+        {
+          "eventId":116, "liveTryMissionId":1710, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":1000
+        },
+        {
+          "eventId":116, "liveTryMissionId":1710, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":50
+        }
+      ],
+      "1711":[
+        {
+          "eventId":116, "liveTryMissionId":1711, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":1500
+        },
+        {
+          "eventId":116, "liveTryMissionId":1711, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":70
+        }
+      ],
+      "1712":[
+        {
+          "eventId":116, "liveTryMissionId":1712, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":1500
+        },
+        {
+          "eventId":116, "liveTryMissionId":1712, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":70
+        }
+      ],
+      "1713":[
+        {
+          "eventId":116, "liveTryMissionId":1713, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":1500
+        },
+        {
+          "eventId":116, "liveTryMissionId":1713, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":70
+        }
+      ],
+      "1714":[
+        {
+          "eventId":116, "liveTryMissionId":1714, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":1500
+        },
+        {
+          "eventId":116, "liveTryMissionId":1714, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":70
+        }
+      ],
+      "1715":[
+        {
+          "eventId":116, "liveTryMissionId":1715, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":2000
+        },
+        {
+          "eventId":116, "liveTryMissionId":1715, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":100
+        }
+      ],
+      "1716":[
+        {
+          "eventId":116, "liveTryMissionId":1716, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":3000
+        },
+        {
+          "eventId":116, "liveTryMissionId":1716, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":150
+        }
+      ],
+      "1717":[
+        {
+          "eventId":116, "liveTryMissionId":1717, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":3500
+        },
+        {
+          "eventId":116, "liveTryMissionId":1717, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":150
+        }
+      ],
+      "1718":[
+        {
+          "eventId":116, "liveTryMissionId":1718, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":4000
+        },
+        {
+          "eventId":116, "liveTryMissionId":1718, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":150
+        }
+      ],
+      "1719":[
+        {
+          "eventId":116, "liveTryMissionId":1719, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":4500
+        },
+        {
+          "eventId":116, "liveTryMissionId":1719, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":150
+        }
+      ],
+      "1720":[
+        {
+          "eventId":116, "liveTryMissionId":1720, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":5000
+        },
+        {
+          "eventId":116, "liveTryMissionId":1720, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":150
+        }
+      ],
+      "1721":[
+        {
+          "eventId":116, "liveTryMissionId":1721, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":1000
+        },
+        {
+          "eventId":116, "liveTryMissionId":1721, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":50
+        }
+      ],
+      "1722":[
+        {
+          "eventId":116, "liveTryMissionId":1722, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":1000
+        },
+        {
+          "eventId":116, "liveTryMissionId":1722, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":50
+        }
+      ],
+      "1723":[
+        {
+          "eventId":116, "liveTryMissionId":1723, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":1000
+        },
+        {
+          "eventId":116, "liveTryMissionId":1723, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":50
+        }
+      ],
+      "1724":[
+        {
+          "eventId":116, "liveTryMissionId":1724, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":1000
+        },
+        {
+          "eventId":116, "liveTryMissionId":1724, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":50
+        }
+      ],
+      "1725":[
+        {
+          "eventId":116, "liveTryMissionId":1725, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":1000
+        },
+        {
+          "eventId":116, "liveTryMissionId":1725, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":50
+        }
+      ],
+      "1726":[
+        {
+          "eventId":116, "liveTryMissionId":1726, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":1500
+        },
+        {
+          "eventId":116, "liveTryMissionId":1726, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":70
+        }
+      ],
+      "1727":[
+        {
+          "eventId":116, "liveTryMissionId":1727, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":1500
+        },
+        {
+          "eventId":116, "liveTryMissionId":1727, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":70
+        }
+      ],
+      "1728":[
+        {
+          "eventId":116, "liveTryMissionId":1728, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":1500
+        },
+        {
+          "eventId":116, "liveTryMissionId":1728, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":70
+        }
+      ],
+      "1729":[
+        {
+          "eventId":116, "liveTryMissionId":1729, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":1500
+        },
+        {
+          "eventId":116, "liveTryMissionId":1729, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":70
+        }
+      ],
+      "1730":[
+        {
+          "eventId":116, "liveTryMissionId":1730, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":2000
+        },
+        {
+          "eventId":116, "liveTryMissionId":1730, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":100
+        }
+      ],
+      "1731":[
+        {
+          "eventId":116, "liveTryMissionId":1731, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":3000
+        },
+        {
+          "eventId":116, "liveTryMissionId":1731, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":150
+        }
+      ],
+      "1732":[
+        {
+          "eventId":116, "liveTryMissionId":1732, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":3500
+        },
+        {
+          "eventId":116, "liveTryMissionId":1732, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":150
+        }
+      ],
+      "1733":[
+        {
+          "eventId":116, "liveTryMissionId":1733, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":4000
+        },
+        {
+          "eventId":116, "liveTryMissionId":1733, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":150
+        }
+      ],
+      "1734":[
+        {
+          "eventId":116, "liveTryMissionId":1734, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":4500
+        },
+        {
+          "eventId":116, "liveTryMissionId":1734, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":150
+        }
+      ],
+      "1735":[
+        {
+          "eventId":116, "liveTryMissionId":1735, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":5000
+        },
+        {
+          "eventId":116, "liveTryMissionId":1735, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":150
+        }
+      ],
+      "1661":[
+        {
+          "eventId":116, "liveTryMissionId":1661, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":1000
+        },
+        {
+          "eventId":116, "liveTryMissionId":1661, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":50
+        }
+      ],
+      "1662":[
+        {
+          "eventId":116, "liveTryMissionId":1662, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":1000
+        },
+        {
+          "eventId":116, "liveTryMissionId":1662, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":50
+        }
+      ],
+      "1663":[
+        {
+          "eventId":116, "liveTryMissionId":1663, "seq":1, "resourceType":"event_point", "resourceId":31, "quantity":1000
+        },
+        {
+          "eventId":116, "liveTryMissionId":1663, "seq":2, "resourceType":"event_item", "resourceId":24, "quantity":50
+        }
+      ]
+    },
+    "masterLiveTryLevelRewardDifficultyMap":{
+      "normal":{
+        "1":{
+          "eventId":116, "liveTryMissionDifficultyType":"normal", "level":1, "resourceType":"practice_ticket", "resourceId":4, "quantity":1
+        },
+        "2":{
+          "eventId":116, "liveTryMissionDifficultyType":"normal", "level":2, "resourceType":"item", "resourceId":15, "quantity":1
+        },
+        "3":{
+          "eventId":116, "liveTryMissionDifficultyType":"normal", "level":3, "resourceType":"live_boost_recovery_item", "resourceId":2, "quantity":1
+        },
+        "4":{
+          "eventId":116, "liveTryMissionDifficultyType":"normal", "level":4, "resourceType":"coin", "quantity":50000
+        },
+        "5":{
+          "eventId":116, "liveTryMissionDifficultyType":"normal", "level":5, "resourceType":"practice_ticket", "resourceId":29, "quantity":1
+        },
+        "6":{
+          "eventId":116, "liveTryMissionDifficultyType":"normal", "level":6, "resourceType":"practice_ticket", "resourceId":6, "quantity":3
+        },
+        "7":{
+          "eventId":116, "liveTryMissionDifficultyType":"normal", "level":7, "resourceType":"item", "resourceId":15, "quantity":1
+        },
+        "8":{
+          "eventId":116, "liveTryMissionDifficultyType":"normal", "level":8, "resourceType":"practice_ticket", "resourceId":6, "quantity":3
+        },
+        "9":{
+          "eventId":116, "liveTryMissionDifficultyType":"normal", "level":9, "resourceType":"practice_ticket", "resourceId":7, "quantity":1
+        },
+        "10":{
+          "eventId":116, "liveTryMissionDifficultyType":"normal", "level":10, "resourceType":"degree", "resourceId":2196, "quantity":1
+        }
+      },
+      "extra":{
+        "1":{
+          "eventId":116, "liveTryMissionDifficultyType":"extra", "level":1, "resourceType":"coin", "quantity":100000
+        },
+        "2":{
+          "eventId":116, "liveTryMissionDifficultyType":"extra", "level":2, "resourceType":"coin", "quantity":150000
+        },
+        "3":{
+          "eventId":116, "liveTryMissionDifficultyType":"extra", "level":3, "resourceType":"coin", "quantity":200000
+        },
+        "4":{
+          "eventId":116, "liveTryMissionDifficultyType":"extra", "level":4, "resourceType":"coin", "quantity":250000
+        },
+        "5":{
+          "eventId":116, "liveTryMissionDifficultyType":"extra", "level":5, "resourceType":"degree", "resourceId":2197, "quantity":1
+        }
+      }
+    },
+    "eventAttributeAndCharacterBonus":{
+      "eventId":116, "pointPercent":20, "parameterPercent":0
+    }
+  }
+}
