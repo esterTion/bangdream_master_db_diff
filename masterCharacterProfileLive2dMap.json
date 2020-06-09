@@ -1,4 +1,10 @@
 {
+  "4096":{
+    "characterProfileLive2dId":4096, "scenarioType":"costume_change", "characterId":35, "serif":"衣装を変えると気分も変わるわね。今なら曲のアイディアが浮かんできそう", "voice":"system-okigae-35-b", "motion":"smile02"
+  },
+  "4097":{
+    "characterProfileLive2dId":4097, "scenarioType":"costume_change", "characterId":35, "serif":"大事なのは似合うかどうかじゃなくて、着たいかどうかでしょ。この衣装は合格ね", "voice":"system-okigae-35-c", "motion":"nf02"
+  },
   "1":{
     "characterProfileLive2dId":1, "scenarioType":"standard", "characterId":1, "serif":"初めてライブを見た時に、私にはこれだ！って思ったんだよね", "voice":"systemProfile_001_1", "motion":"gattsu01"
   },
@@ -3389,73 +3395,556 @@
   "3934":{
     "characterProfileLive2dId":3934, "scenarioType":"costume_change", "characterId":30, "serif":"今回はこの衣装を着ればいいのね。わかったわ", "voice":"system-okigae-30-c", "motion":"nf05"
   },
+  "3935":{
+    "characterProfileLive2dId":3935, "scenarioType":"standard", "characterId":31, "serif":"ベースに名前？　付けてないけど……付けるものなの？", "voice":"systemProfile_031_1", "motion":"surprised01"
+  },
   "1887":{
     "characterProfileLive2dId":1887, "scenarioType":"standard", "characterId":25, "serif":"校庭に桜の花が散っているのを見ると……春だなって思います……", "voice":"sys-2020-RO-140", "motion":"nf04"
+  },
+  "3936":{
+    "characterProfileLive2dId":3936, "scenarioType":"standard", "characterId":31, "serif":"花ちゃんとは、昔、同じミュージックスクールに通ってたんだ", "voice":"systemProfile_031_2", "motion":"nf04"
   },
   "1888":{
     "characterProfileLive2dId":1888, "scenarioType":"standard", "characterId":1, "serif":"この日差しに負けないくらい、熱いライブしたいよね！", "voice":"sys-2020-PO-013", "motion":"serious01"
   },
+  "3937":{
+    "characterProfileLive2dId":3937, "scenarioType":"standard", "characterId":31, "serif":"練習の前は必ずストレッチをするよ。習慣みたいなものかな", "voice":"systemProfile_031_3", "motion":"nf03"
+  },
   "1889":{
     "characterProfileLive2dId":1889, "scenarioType":"standard", "characterId":1, "serif":"かき氷のブルー・ハワイって……あれ、何味？", "voice":"sys-2020-PO-014", "motion":"nf03"
+  },
+  "3938":{
+    "characterProfileLive2dId":3938, "scenarioType":"standard", "characterId":31, "serif":"ハチミツ入りのホットミルクを飲むと落ち着くんだ", "voice":"systemProfile_031_4", "motion":"smile01"
+  },
+  "3939":{
+    "characterProfileLive2dId":3939, "scenarioType":"standard", "characterId":31, "serif":"練習も楽しいけど、やっぱりライブが一番かな", "voice":"systemProfile_031_5", "motion":"nf05"
+  },
+  "3940":{
+    "characterProfileLive2dId":3940, "scenarioType":"standard", "characterId":31, "serif":"今日はちょっとだけ特別な日。私の生まれた日だから", "voice":"systemBirthday_031", "motion":"smile01"
+  },
+  "3941":{
+    "characterProfileLive2dId":3941, "scenarioType":"standard", "characterId":31, "serif":"チュチュ、お誕生日おめでとう、RASに誘ってくれてありがとう", "voice":"systemBirthday_031035", "motion":"smile02"
   },
   "1893":{
     "characterProfileLive2dId":1893, "scenarioType":"standard", "characterId":24, "serif":"時は来た。我が生誕の日に歓喜の声をあげようぞ！　かんぱーい！", "voice":"sys-2020-RO-097", "motion":"chuni01"
   },
+  "3942":{
+    "characterProfileLive2dId":3942, "scenarioType":"standard", "characterId":31, "serif":"花ちゃん、お誕生日おめでとう。また一緒に路上で歌わない？", "voice":"systemBirthday_031002", "motion":"smile02"
+  },
+  "3943":{
+    "characterProfileLive2dId":3943, "scenarioType":"standard", "characterId":31, "serif":"もうすっかり春って感じだね。風が優しい", "voice":"systemSpring_031_1", "motion":"smile01"
+  },
+  "3944":{
+    "characterProfileLive2dId":3944, "scenarioType":"standard", "characterId":31, "serif":"公園の花がキレイに咲いてたから、つい見入っちゃった", "voice":"systemSpring_031_2", "motion":"nf05"
+  },
+  "3945":{
+    "characterProfileLive2dId":3945, "scenarioType":"standard", "characterId":31, "serif":"今日は気持ちいい天気だったから、散歩してきたよ", "voice":"systemSpring_031_3", "motion":"nf02"
+  },
+  "3946":{
+    "characterProfileLive2dId":3946, "scenarioType":"standard", "characterId":31, "serif":"暑いからみんなにアイス買ってきたんだ。かき氷と迷っちゃった", "voice":"systemSummer_031_1", "motion":"nf02"
+  },
+  "3947":{
+    "characterProfileLive2dId":3947, "scenarioType":"standard", "characterId":31, "serif":"今日も暑いね。旭湯にでも行ってこようかな", "voice":"systemSummer_031_2", "motion":"nf03"
+  },
+  "3948":{
+    "characterProfileLive2dId":3948, "scenarioType":"standard", "characterId":31, "serif":"太陽が眩しい。でも夏らしくて嫌いじゃないよ", "voice":"systemSummer_031_3", "motion":"nf01"
+  },
+  "3949":{
+    "characterProfileLive2dId":3949, "scenarioType":"standard", "characterId":31, "serif":"焼き芋屋さんが来てたからつい買っちゃった", "voice":"systemAutumn_031_1", "motion":"nf04"
+  },
+  "3950":{
+    "characterProfileLive2dId":3950, "scenarioType":"standard", "characterId":31, "serif":"涼しくなってきたね。そろそろコートを出しておかないと", "voice":"systemAutumn_031_2", "motion":"nf03"
+  },
+  "3951":{
+    "characterProfileLive2dId":3951, "scenarioType":"standard", "characterId":31, "serif":"もう秋だね。街路樹が色付いてきて、道が明るく感じる", "voice":"systemAutumn_031_3", "motion":"smile01"
+  },
+  "3952":{
+    "characterProfileLive2dId":3952, "scenarioType":"standard", "characterId":31, "serif":"今日も冷えるね。コンビニでおでんでも買ってこようかな", "voice":"systemWinter_031_1", "motion":"nf03"
+  },
+  "3953":{
+    "characterProfileLive2dId":3953, "scenarioType":"standard", "characterId":31, "serif":"冬の澄んだ空気……寒いけど、すっごく気持ちいい", "voice":"systemWinter_031_2", "motion":"nf05"
+  },
+  "3954":{
+    "characterProfileLive2dId":3954, "scenarioType":"standard", "characterId":31, "serif":"冬のお風呂って最高。気持ちよくて、つい長湯しちゃうな", "voice":"systemWinter_031_3", "motion":"smile01"
+  },
+  "3955":{
+    "characterProfileLive2dId":3955, "scenarioType":"standard", "characterId":31, "serif":"明日はライブ本番。会場をRASの色に染めるよ！", "voice":"systemBeforeRealLive_031", "motion":"kime01"
+  },
+  "3956":{
+    "characterProfileLive2dId":3956, "scenarioType":"standard", "characterId":31, "serif":"本番まであと少し。早くみんなと一緒にアツくなりたいな", "voice":"systemRealLive_031", "motion":"nf05"
+  },
+  "3957":{
+    "characterProfileLive2dId":3957, "scenarioType":"standard", "characterId":31, "serif":"あけましておめでとう。今年も充実した一年になるといいね", "voice":"systemHoliday_031_1", "motion":"smile02"
+  },
+  "3958":{
+    "characterProfileLive2dId":3958, "scenarioType":"standard", "characterId":31, "serif":"チュチュのスタジオで、みんなで豆まきしたんだ", "voice":"systemHoliday_031_2", "motion":"smile01"
+  },
+  "3959":{
+    "characterProfileLive2dId":3959, "scenarioType":"standard", "characterId":31, "serif":"やけにチョコをもらうと思ったら、今日はバレンタインだったんだ", "voice":"systemHoliday_031_3", "motion":"surprised01"
+  },
+  "3960":{
+    "characterProfileLive2dId":3960, "scenarioType":"standard", "characterId":31, "serif":"今日はパレオがスタジオにひな人形を飾ってたよ。かわいかったな", "voice":"systemHoliday_031_4", "motion":"smile01"
+  },
+  "3961":{
+    "characterProfileLive2dId":3961, "scenarioType":"standard", "characterId":31, "serif":"ホワイトデーだけど、ますきはまた何か作ってくるのかな？", "voice":"systemHoliday_031_5", "motion":"nf03"
+  },
+  "3962":{
+    "characterProfileLive2dId":3962, "scenarioType":"standard", "characterId":31, "serif":"今日はハロウィンか。RASで仮装っていうのもいいよね", "voice":"systemHoliday_031_7", "motion":"nf02"
+  },
+  "3963":{
+    "characterProfileLive2dId":3963, "scenarioType":"standard", "characterId":31, "serif":"今日は練習のあと、みんなでクリスマスパーティをするんだ", "voice":"systemHoliday_031_8", "motion":"nf05"
+  },
   "1915":{
     "characterProfileLive2dId":1915, "scenarioType":"standard", "characterId":1, "serif":"クーラーを作ってくれた人、本当にありがとうございました！", "voice":"sys-2020-PO-015", "motion":"gattsu01"
+  },
+  "3964":{
+    "characterProfileLive2dId":3964, "scenarioType":"standard", "characterId":31, "serif":"もうすぐ今年も終わりだね。いろいろあったけど結構楽しかったな", "voice":"systemHoliday_031_9", "motion":"smile01"
   },
   "1916":{
     "characterProfileLive2dId":1916, "scenarioType":"standard", "characterId":2, "serif":"夏だからこそ、たくさん食べて元気よくいかないとね", "voice":"sys-2020-PO-045", "motion":"nf05"
   },
+  "3965":{
+    "characterProfileLive2dId":3965, "scenarioType":"standard", "characterId":32, "serif":"普段はGalaxyっていうライブハウスでバイトしてるんです", "voice":"systemProfile_032_1", "motion":"nf04"
+  },
   "1917":{
     "characterProfileLive2dId":1917, "scenarioType":"standard", "characterId":2, "serif":"暑いね～。オッちゃんは涼しい部屋でお昼寝してるかな", "voice":"sys-2020-PO-046", "motion":"nf03"
+  },
+  "3966":{
+    "characterProfileLive2dId":3966, "scenarioType":"standard", "characterId":32, "serif":"私がRASの一員なんて、まだ夢みたいや……", "voice":"systemProfile_032_2", "motion":"smile02"
+  },
+  "3967":{
+    "characterProfileLive2dId":3967, "scenarioType":"standard", "characterId":32, "serif":"慌てたりすると、つい岐阜弁が出ちゃうんですよね", "voice":"systemProfile_032_3", "motion":"smile03"
+  },
+  "3968":{
+    "characterProfileLive2dId":3968, "scenarioType":"standard", "characterId":32, "serif":"こっちの学校に通うために、旭湯で住み込みをしています", "voice":"systemProfile_032_4", "motion":"nf05"
+  },
+  "3969":{
+    "characterProfileLive2dId":3969, "scenarioType":"standard", "characterId":32, "serif":"一人暮らしなので、簡単なご飯なら作れますよ", "voice":"systemProfile_032_5", "motion":"kime01"
   },
   "1921":{
     "characterProfileLive2dId":1921, "scenarioType":"standard", "characterId":4, "serif":"ハッピーバースデー！　あこのドラム、ホントにカッコいいよ～", "voice":"sys-2020-PO-105", "motion":"smile01"
   },
+  "3970":{
+    "characterProfileLive2dId":3970, "scenarioType":"standard", "characterId":32, "serif":"レイヤさん、おめでとうございます！　また旭湯に来てくださいね", "voice":"systemBirthday_032031", "motion":"smile02"
+  },
+  "3971":{
+    "characterProfileLive2dId":3971, "scenarioType":"standard", "characterId":32, "serif":"チュチュさん、お誕生日のお祝いに飛騨牛のジャーキーをどうぞ！", "voice":"systemBirthday_032035", "motion":"smile02"
+  },
+  "3972":{
+    "characterProfileLive2dId":3972, "scenarioType":"standard", "characterId":32, "serif":"ふわ～あ……春ってどうしてこんなに眠いんでしょう？", "voice":"systemSpring_032_1", "motion":"nf03"
+  },
+  "3973":{
+    "characterProfileLive2dId":3973, "scenarioType":"standard", "characterId":32, "serif":"桜がキレイですね。RASのみんなでお花見、行きたいなぁ", "voice":"systemSpring_032_2", "motion":"smile01"
+  },
+  "3974":{
+    "characterProfileLive2dId":3974, "scenarioType":"standard", "characterId":32, "serif":"実家から山菜が届いたんです。食べ切れるかな……？", "voice":"systemSpring_032_3", "motion":"nf02"
+  },
+  "3975":{
+    "characterProfileLive2dId":3975, "scenarioType":"standard", "characterId":32, "serif":"夏は、薬味たっぷりのそうめんで決まりです！", "voice":"systemSummer_032_1", "motion":"nf05"
+  },
+  "3976":{
+    "characterProfileLive2dId":3976, "scenarioType":"standard", "characterId":32, "serif":"岐阜の夏も暑いけど、東京もでら暑いわぁ……溶けてまう……", "voice":"systemSummer_032_2", "motion":"sad01"
+  },
+  "3977":{
+    "characterProfileLive2dId":3977, "scenarioType":"standard", "characterId":32, "serif":"東京のお祭りってどんなんやろ？　行ってみたいな……", "voice":"systemSummer_032_3", "motion":"smile01"
+  },
+  "3978":{
+    "characterProfileLive2dId":3978, "scenarioType":"standard", "characterId":32, "serif":"少し空気が冷たくなってきた気がします。風邪引かんようにせんと", "voice":"systemAutumn_032_1", "motion":"nf04"
+  },
+  "3979":{
+    "characterProfileLive2dId":3979, "scenarioType":"standard", "characterId":32, "serif":"実家からお米が届いたんです。新米ですよ！", "voice":"systemAutumn_032_2", "motion":"smile01"
+  },
+  "3980":{
+    "characterProfileLive2dId":3980, "scenarioType":"standard", "characterId":32, "serif":"お芋さんのおいしい季節になりましたね～。えへへ……", "voice":"systemAutumn_032_3", "motion":"smile02"
+  },
+  "3981":{
+    "characterProfileLive2dId":3981, "scenarioType":"standard", "characterId":32, "serif":"私の部屋はボイラー室の上なので、冬でもあったかいんですよ", "voice":"systemWinter_032_1", "motion":"smile01"
+  },
+  "3982":{
+    "characterProfileLive2dId":3982, "scenarioType":"standard", "characterId":32, "serif":"寒い日に食べるラーメンって美味しいですね", "voice":"systemWinter_032_2", "motion":"smile01"
+  },
+  "3983":{
+    "characterProfileLive2dId":3983, "scenarioType":"standard", "characterId":32, "serif":"今日みたいに寒い日は、旭湯も大賑わいなんです", "voice":"systemWinter_032_3", "motion":"nf05"
+  },
+  "3984":{
+    "characterProfileLive2dId":3984, "scenarioType":"standard", "characterId":32, "serif":"明日はいよいよライブ本番……う～ん、緊張する～！", "voice":"systemBeforeRealLive_032", "motion":"serious01"
+  },
+  "3985":{
+    "characterProfileLive2dId":3985, "scenarioType":"standard", "characterId":32, "serif":"ここまで来たんや、あとは練習の成果を出すだけ！　行こまい！！", "voice":"systemRealLive_032", "motion":"kime01"
+  },
+  "3986":{
+    "characterProfileLive2dId":3986, "scenarioType":"standard", "characterId":32, "serif":"あけましておめでとうございます。楽しい一年になりますように", "voice":"systemHoliday_032_1", "motion":"smile01"
+  },
+  "3987":{
+    "characterProfileLive2dId":3987, "scenarioType":"standard", "characterId":32, "serif":"鬼役はますきさんです！　鬼は～外！　福は～内！", "voice":"systemHoliday_032_2", "motion":"nf02"
+  },
+  "3988":{
+    "characterProfileLive2dId":3988, "scenarioType":"standard", "characterId":32, "serif":"ポピパさんにチョコ渡したら食べてくれるやろか……？", "voice":"systemHoliday_032_3", "motion":"shame01"
+  },
+  "3989":{
+    "characterProfileLive2dId":3989, "scenarioType":"standard", "characterId":32, "serif":"今日は、明日香ちゃん、あこちゃんとひなあられを食べました", "voice":"systemHoliday_032_4", "motion":"smile01"
+  },
+  "3990":{
+    "characterProfileLive2dId":3990, "scenarioType":"standard", "characterId":32, "serif":"ポピパさんからお返しもらってまった！　食べるのもったいない！", "voice":"systemHoliday_032_5", "motion":"surprised01"
+  },
+  "3991":{
+    "characterProfileLive2dId":3991, "scenarioType":"standard", "characterId":32, "serif":"トリック・オア・トリート！　えっと……お菓子、ください！", "voice":"systemHoliday_032_7", "motion":"nf02"
+  },
   "1943":{
     "characterProfileLive2dId":1943, "scenarioType":"standard", "characterId":2, "serif":"冷やし中華を始めたお店、すっごいたくさんあったよ", "voice":"sys-2020-PO-047", "motion":"smile01"
+  },
+  "3992":{
+    "characterProfileLive2dId":3992, "scenarioType":"standard", "characterId":32, "serif":"クリスマスプレゼント、みんな気に入ってくれるといいな……", "voice":"systemHoliday_032_8", "motion":"smile01"
   },
   "1944":{
     "characterProfileLive2dId":1944, "scenarioType":"standard", "characterId":3, "serif":"この季節は、チョココロネを冷やして食べてるんですよ", "voice":"sys-2020-PO-077", "motion":"nf02"
   },
+  "3993":{
+    "characterProfileLive2dId":3993, "scenarioType":"standard", "characterId":32, "serif":"今年はでら楽しかったです！　来年もよろしくお願いします！", "voice":"systemHoliday_032_9", "motion":"smile02"
+  },
+  "3994":{
+    "characterProfileLive2dId":3994, "scenarioType":"standard", "characterId":33, "serif":"親父がGalaxyのオーナーでさ。たまに叩きに行ってるんだ", "voice":"systemProfile_033_1", "motion":"nf04"
+  },
+  "3995":{
+    "characterProfileLive2dId":3995, "scenarioType":"standard", "characterId":33, "serif":"バイクはいいぜ。走ってると余計なことを考えずに済むからな", "voice":"systemProfile_033_2", "motion":"smile02"
+  },
+  "3996":{
+    "characterProfileLive2dId":3996, "scenarioType":"standard", "characterId":33, "serif":"ケーキ作るの好きなんだよ。なんかリクエストあるか？", "voice":"systemProfile_033_3", "motion":"nf03"
+  },
+  "3997":{
+    "characterProfileLive2dId":3997, "scenarioType":"standard", "characterId":33, "serif":"レイとは古い付き合いでさ。ま、信頼できる仲間ってやつだ", "voice":"systemProfile_033_4", "motion":"nf05"
+  },
   "1949":{
     "characterProfileLive2dId":1949, "scenarioType":"standard", "characterId":7, "serif":"あこちん、おめおめ～。闇の力もパワーアップしてる感じするよ～", "voice":"sys-2020-AG-041", "motion":"niyaniya01"
+  },
+  "3998":{
+    "characterProfileLive2dId":3998, "scenarioType":"standard", "characterId":33, "serif":"ドラムを叩いてるとさ、どんどん楽しくなってきちゃうんだよな！", "voice":"systemProfile_033_5", "motion":"smile01"
+  },
+  "3999":{
+    "characterProfileLive2dId":3999, "scenarioType":"standard", "characterId":33, "serif":"レイ、誕生日ケーキ持ってきたぞ。みんなで食うか", "voice":"systemBirthday_033031", "motion":"smile01"
+  },
+  "4000":{
+    "characterProfileLive2dId":4000, "scenarioType":"standard", "characterId":33, "serif":"誕生日おめでとうな、チュチュ。これからも支えっから", "voice":"systemBirthday_033035", "motion":"smile01"
+  },
+  "4001":{
+    "characterProfileLive2dId":4001, "scenarioType":"standard", "characterId":33, "serif":"麻弥さん、誕生日おめでとうございます！　マジ尊敬してるっす！", "voice":"systemBirthday_033019", "motion":"smile02"
+  },
+  "4002":{
+    "characterProfileLive2dId":4002, "scenarioType":"standard", "characterId":33, "serif":"バイクで走ると春風が気持ちいいんだ。つい乗り回しちまう", "voice":"systemSpring_033_1", "motion":"smile01"
+  },
+  "4003":{
+    "characterProfileLive2dId":4003, "scenarioType":"standard", "characterId":33, "serif":"ふあ……春は寝ても寝ても眠いよな……", "voice":"systemSpring_033_2", "motion":"nf03"
+  },
+  "4004":{
+    "characterProfileLive2dId":4004, "scenarioType":"standard", "characterId":33, "serif":"春らしく、桜色のシフォンケーキでも焼いてみるかな", "voice":"systemSpring_033_3", "motion":"nf04"
+  },
+  "4005":{
+    "characterProfileLive2dId":4005, "scenarioType":"standard", "characterId":33, "serif":"あっち～……マジでなんなんだ？　去年より暑いんじゃねえか？", "voice":"systemSummer_033_1", "motion":"sad01"
+  },
+  "4006":{
+    "characterProfileLive2dId":4006, "scenarioType":"standard", "characterId":33, "serif":"夏こそアツいライブをやりたいよな！　野外とかさ！", "voice":"systemSummer_033_2", "motion":"nf05"
+  },
+  "4007":{
+    "characterProfileLive2dId":4007, "scenarioType":"standard", "characterId":33, "serif":"こういう暑い時に食べるラーメンってうまいんだよな！", "voice":"systemSummer_033_3", "motion":"smile02"
+  },
+  "4008":{
+    "characterProfileLive2dId":4008, "scenarioType":"standard", "characterId":33, "serif":"紅葉の季節かー。誰か誘って、遠乗りに行くのもアリだな", "voice":"systemAutumn_033_1", "motion":"nf04"
+  },
+  "4009":{
+    "characterProfileLive2dId":4009, "scenarioType":"standard", "characterId":33, "serif":"最近やたらと腹が減るな。……秋だからか？", "voice":"systemAutumn_033_2", "motion":"nf03"
+  },
+  "4010":{
+    "characterProfileLive2dId":4010, "scenarioType":"standard", "characterId":33, "serif":"銀河青果店は秋の味覚が目白押しだぜ。旨い野菜、見繕ってやるよ", "voice":"systemAutumn_033_3", "motion":"smile01"
+  },
+  "4011":{
+    "characterProfileLive2dId":4011, "scenarioType":"standard", "characterId":33, "serif":"毎日寒いな。風邪引かないように気をつけろよ？", "voice":"systemWinter_033_1", "motion":"nf02"
+  },
+  "4012":{
+    "characterProfileLive2dId":4012, "scenarioType":"standard", "characterId":33, "serif":"寒っ！　練習終わったら、旭湯であったまってから帰るか", "voice":"systemWinter_033_2", "motion":"surprised01"
+  },
+  "4013":{
+    "characterProfileLive2dId":4013, "scenarioType":"standard", "characterId":33, "serif":"マフラーとかニット帽の組み合わせって……かわいいよな", "voice":"systemWinter_033_3", "motion":"smile01"
+  },
+  "4014":{
+    "characterProfileLive2dId":4014, "scenarioType":"standard", "characterId":33, "serif":"明日は観客の度肝を抜くようなライブにしてやるぜ……！", "voice":"systemBeforeRealLive_033", "motion":"kime01"
+  },
+  "4015":{
+    "characterProfileLive2dId":4015, "scenarioType":"standard", "characterId":33, "serif":"早く本番にならねーかな！　思いっきりぶちかましてやる！", "voice":"systemRealLive_033", "motion":"smile02"
+  },
+  "4016":{
+    "characterProfileLive2dId":4016, "scenarioType":"standard", "characterId":33, "serif":"あけましておめでとう。年初めにドラム叩きに行ってくるかな", "voice":"systemHoliday_033_1", "motion":"nf05"
+  },
+  "4017":{
+    "characterProfileLive2dId":4017, "scenarioType":"standard", "characterId":33, "serif":"恵方巻って食べてる間は話しちゃダメなんだろ？　我慢できるかな", "voice":"systemHoliday_033_2", "motion":"serious01"
+  },
+  "4018":{
+    "characterProfileLive2dId":4018, "scenarioType":"standard", "characterId":33, "serif":"みんなにフォンダンショコラを作ってみた。友チョコってやつだよ", "voice":"systemHoliday_033_3", "motion":"nf02"
+  },
+  "4019":{
+    "characterProfileLive2dId":4019, "scenarioType":"standard", "characterId":33, "serif":"ひな祭りってなんかかわいいよな……", "voice":"systemHoliday_033_4", "motion":"smile01"
   },
   "1971":{
     "characterProfileLive2dId":1971, "scenarioType":"standard", "characterId":3, "serif":"今夜は夏のホラー映画特集。ポピパのみんなで観ようかな～", "voice":"sys-2020-PO-078", "motion":"smile02"
   },
+  "4020":{
+    "characterProfileLive2dId":4020, "scenarioType":"standard", "characterId":33, "serif":"バレンタインのお返しと、練習の時の休憩用と……結構な荷物だな", "voice":"systemHoliday_033_5", "motion":"nf03"
+  },
   "1972":{
     "characterProfileLive2dId":1972, "scenarioType":"standard", "characterId":3, "serif":"毎年、どんどん暑くなってる気がする……気のせいかな？", "voice":"sys-2020-PO-079", "motion":"nf03"
+  },
+  "4021":{
+    "characterProfileLive2dId":4021, "scenarioType":"standard", "characterId":33, "serif":"ほら、あの言葉言ってみろって。とっておきのお菓子やるからさ！", "voice":"systemHoliday_033_7", "motion":"smile02"
   },
   "1973":{
     "characterProfileLive2dId":1973, "scenarioType":"standard", "characterId":4, "serif":"夕立が来るかもしれないから、折りたたみ傘は必需品だよね", "voice":"sys-2020-PO-109", "motion":"nf05"
   },
+  "4022":{
+    "characterProfileLive2dId":4022, "scenarioType":"standard", "characterId":33, "serif":"今日クリスマスソングでジャムセッションしたんだ。楽しかったぜ", "voice":"systemHoliday_033_8", "motion":"smile01"
+  },
+  "4023":{
+    "characterProfileLive2dId":4023, "scenarioType":"standard", "characterId":33, "serif":"今年も今日で終わりか。年越しラーメンでも食べに行くかな", "voice":"systemHoliday_033_9", "motion":"smile01"
+  },
+  "4024":{
+    "characterProfileLive2dId":4024, "scenarioType":"standard", "characterId":34, "serif":"今日のメイクはどうですか？　かわいくなってます？", "voice":"systemProfile_034_1", "motion":"nf03"
+  },
+  "4025":{
+    "characterProfileLive2dId":4025, "scenarioType":"standard", "characterId":34, "serif":"次のライブでは、どんなパフォーマンスをしようかな～？", "voice":"systemProfile_034_2", "motion":"smile01"
+  },
   "1977":{
     "characterProfileLive2dId":1977, "scenarioType":"standard", "characterId":9, "serif":"あこ、おめでとう！　あこのカッコいいを貫いていってくれよ！", "voice":"sys-2020-AG-105", "motion":"nf05"
+  },
+  "4026":{
+    "characterProfileLive2dId":4026, "scenarioType":"standard", "characterId":34, "serif":"パスパレは、かわいいだけじゃなく芯がある大好きなバンドです！", "voice":"systemProfile_034_3", "motion":"smile02"
+  },
+  "4027":{
+    "characterProfileLive2dId":4027, "scenarioType":"standard", "characterId":34, "serif":"かわいさの追求に限界はありません！　もっともっとがんばります", "voice":"systemProfile_034_4", "motion":"nf01"
+  },
+  "4028":{
+    "characterProfileLive2dId":4028, "scenarioType":"standard", "characterId":34, "serif":"あっ！　そろそろチュチュ様におやつをお届けしなくては！", "voice":"systemProfile_034_5", "motion":"surprised01"
+  },
+  "4029":{
+    "characterProfileLive2dId":4029, "scenarioType":"standard", "characterId":34, "serif":"お誕生日おめでとうございます、レイヤさん。今日はお祝いです！", "voice":"systemBirthday_034031", "motion":"smile01"
+  },
+  "4030":{
+    "characterProfileLive2dId":4030, "scenarioType":"standard", "characterId":34, "serif":"チュチュ様、お誕生日おめでとうございます。大好きです！", "voice":"systemBirthday_034035", "motion":"smile02"
+  },
+  "4031":{
+    "characterProfileLive2dId":4031, "scenarioType":"standard", "characterId":34, "serif":"日菜ちゃん、お誕生日おめでとうございます。握手してください！", "voice":"systemBirthday_034017", "motion":"smile02"
+  },
+  "4032":{
+    "characterProfileLive2dId":4032, "scenarioType":"standard", "characterId":34, "serif":"春の魚と言えば鰆。今夜はバター醤油焼きにしちゃいま～す♪", "voice":"systemSpring_034_1", "motion":"nf05"
+  },
+  "4033":{
+    "characterProfileLive2dId":4033, "scenarioType":"standard", "characterId":34, "serif":"たまにはお弁当を持って、チュチュ様とお花見するのもいいですね", "voice":"systemSpring_034_2", "motion":"smile01"
+  },
+  "4034":{
+    "characterProfileLive2dId":4034, "scenarioType":"standard", "characterId":34, "serif":"スタジオにチューリップを飾ってみました。春ですからね♪", "voice":"systemSpring_034_3", "motion":"nf02"
+  },
+  "4035":{
+    "characterProfileLive2dId":4035, "scenarioType":"standard", "characterId":34, "serif":"毎日暑いですが、チュチュ様のスタジオは涼しくて快適なんです～", "voice":"systemSummer_034_1", "motion":"nf04"
+  },
+  "4036":{
+    "characterProfileLive2dId":4036, "scenarioType":"standard", "characterId":34, "serif":"鰻と言えば土用の丑の日ですが、本当の旬は秋から冬なんですよ", "voice":"systemSummer_034_2", "motion":"nf03"
+  },
+  "4037":{
+    "characterProfileLive2dId":4037, "scenarioType":"standard", "characterId":34, "serif":"セミの声が聞こえると、なおさら暑く感じますね～", "voice":"systemSummer_034_3", "motion":"nf01"
+  },
+  "4038":{
+    "characterProfileLive2dId":4038, "scenarioType":"standard", "characterId":34, "serif":"秋色の髪もかわいいですよね～、ラベンダーとかマロンとか！", "voice":"systemAutumn_034_1", "motion":"smile01"
+  },
+  "4039":{
+    "characterProfileLive2dId":4039, "scenarioType":"standard", "characterId":34, "serif":"秋のお洋服をいっぱい買っちゃいました！　着るのが楽しみです", "voice":"systemAutumn_034_2", "motion":"smile02"
+  },
+  "4040":{
+    "characterProfileLive2dId":4040, "scenarioType":"standard", "characterId":34, "serif":"過ごしやすい季節になりましたね。パレオもウキウキです！", "voice":"systemAutumn_034_3", "motion":"nf05"
+  },
+  "4041":{
+    "characterProfileLive2dId":4041, "scenarioType":"standard", "characterId":34, "serif":"手がかじかまないように、カイロを持ってきました！", "voice":"systemWinter_034_1", "motion":"nf02"
+  },
+  "4042":{
+    "characterProfileLive2dId":4042, "scenarioType":"standard", "characterId":34, "serif":"寒さのせいか、ご主人様がなかなか起きてくださらないんです～", "voice":"systemWinter_034_2", "motion":"sad01"
+  },
+  "4043":{
+    "characterProfileLive2dId":4043, "scenarioType":"standard", "characterId":34, "serif":"冬物のお洋服って、モコモコしていてかわいいですよね♪", "voice":"systemWinter_034_3", "motion":"smile01"
+  },
+  "4044":{
+    "characterProfileLive2dId":4044, "scenarioType":"standard", "characterId":34, "serif":"明日のライブ、演奏の準備もかわいくなる準備も万端ですよ！", "voice":"systemBeforeRealLive_034", "motion":"smile02"
+  },
+  "4045":{
+    "characterProfileLive2dId":4045, "scenarioType":"standard", "characterId":34, "serif":"今日のために準備してきた最高のステージを皆さんにお届けします", "voice":"systemRealLive_034", "motion":"kime01"
+  },
+  "4046":{
+    "characterProfileLive2dId":4046, "scenarioType":"standard", "characterId":34, "serif":"あけましておめでとうございます。今年もかわいくがんばります！", "voice":"systemHoliday_034_1", "motion":"smile02"
+  },
+  "4047":{
+    "characterProfileLive2dId":4047, "scenarioType":"standard", "characterId":34, "serif":"鬼は～外！　福は～内！　でもかわいい鬼はうちへどうぞ～", "voice":"systemHoliday_034_2", "motion":"smile01"
+  },
+  "4048":{
+    "characterProfileLive2dId":4048, "scenarioType":"standard", "characterId":34, "serif":"バレンタインチョコはもちろんRASの皆さんにご用意しました♪", "voice":"systemHoliday_034_3", "motion":"smile02"
   },
   "2000":{
     "characterProfileLive2dId":2000, "scenarioType":"standard", "characterId":4, "serif":"家の手伝いもしなくちゃいけないし、夏バテなんてしてられないよ", "voice":"sys-2020-PO-110", "motion":"nf01"
   },
+  "4049":{
+    "characterProfileLive2dId":4049, "scenarioType":"standard", "characterId":34, "serif":"ひな祭り……日菜ちゃんのお祭り……きゃ～！", "voice":"systemHoliday_034_4", "motion":"smile02"
+  },
   "2001":{
     "characterProfileLive2dId":2001, "scenarioType":"standard", "characterId":4, "serif":"夏休みの予定、すぐに埋まっちゃった。嬉しいことだよね", "voice":"sys-2020-PO-111", "motion":"smile01"
+  },
+  "4050":{
+    "characterProfileLive2dId":4050, "scenarioType":"standard", "characterId":34, "serif":"ホワイトデーなので、今日は白いお洋服で行こうかな♪", "voice":"systemHoliday_034_5", "motion":"nf03"
   },
   "2002":{
     "characterProfileLive2dId":2002, "scenarioType":"standard", "characterId":5, "serif":"香澄にプールに誘われてるんだけど……もうちょい様子見てみっか", "voice":"sys-2020-PO-141", "motion":"nf03"
   },
+  "4051":{
+    "characterProfileLive2dId":4051, "scenarioType":"standard", "characterId":34, "serif":"パレオがみなさんの仮装をコーディネイトしちゃいますよ！", "voice":"systemHoliday_034_7", "motion":"kime01"
+  },
+  "4052":{
+    "characterProfileLive2dId":4052, "scenarioType":"standard", "characterId":34, "serif":"パレオはチュチュ様のサンタさんになる予定です！", "voice":"systemHoliday_034_8", "motion":"smile01"
+  },
+  "4053":{
+    "characterProfileLive2dId":4053, "scenarioType":"standard", "characterId":34, "serif":"大晦日ですね～。今年もチュチュ様とRASがお世話になりました", "voice":"systemHoliday_034_9", "motion":"nf05"
+  },
+  "4054":{
+    "characterProfileLive2dId":4054, "scenarioType":"standard", "characterId":35, "serif":"ガールズバンドの頂点に立つのは、当然ワタシ達よ！", "voice":"systemProfile_035_1", "motion":"nf05"
+  },
   "2006":{
     "characterProfileLive2dId":2006, "scenarioType":"standard", "characterId":21, "serif":"あこ、誕生日おめでとう。プレゼントはソファー用のクッションよ", "voice":"sys-2020-RO-006", "motion":"nf02"
+  },
+  "4055":{
+    "characterProfileLive2dId":4055, "scenarioType":"standard", "characterId":35, "serif":"What？　用がないなら話しかけないで。新曲の構想中よ", "voice":"systemProfile_035_2", "motion":"nf03"
+  },
+  "4056":{
+    "characterProfileLive2dId":4056, "scenarioType":"standard", "characterId":35, "serif":"もちろんDJの練習もしているわ。当たり前でしょう？", "voice":"systemProfile_035_3", "motion":"nf01"
+  },
+  "4057":{
+    "characterProfileLive2dId":4057, "scenarioType":"standard", "characterId":35, "serif":"パレオ！　パレオ！　ジャーキーがないわ！", "voice":"systemProfile_035_4", "motion":"sad01"
+  },
+  "4058":{
+    "characterProfileLive2dId":4058, "scenarioType":"standard", "characterId":35, "serif":"プロデューサーのチュチュよ。ワタシについてきなさい！", "voice":"systemProfile_035_5", "motion":"kime01"
+  },
+  "4059":{
+    "characterProfileLive2dId":4059, "scenarioType":"standard", "characterId":35, "serif":"わ、ワタシの誕生日だからって、みんな浮かれすぎなのよ！", "voice":"systemBirthday_035", "motion":"shame01"
+  },
+  "4060":{
+    "characterProfileLive2dId":4060, "scenarioType":"standard", "characterId":35, "serif":"Happy Birthdayレイヤ。アナタの歌声に期待してる", "voice":"systemBirthday_035031", "motion":"smile01"
+  },
+  "4061":{
+    "characterProfileLive2dId":4061, "scenarioType":"standard", "characterId":35, "serif":"日本の春は過ごしやすくてGoodね。ふわ……ねむい……", "voice":"systemSpring_035_1", "motion":"nf04"
+  },
+  "4062":{
+    "characterProfileLive2dId":4062, "scenarioType":"standard", "characterId":35, "serif":"著名な音楽家には春の曲が必ずある。ワタシも作らないとね", "voice":"systemSpring_035_2", "motion":"smile01"
+  },
+  "4063":{
+    "characterProfileLive2dId":4063, "scenarioType":"standard", "characterId":35, "serif":"パレオがスタジオに花を飾っていたわ。ま、悪くないんじゃない", "voice":"systemSpring_035_3", "motion":"nf03"
+  },
+  "4064":{
+    "characterProfileLive2dId":4064, "scenarioType":"standard", "characterId":35, "serif":"なんでこんなに暑いのよ！　パレオ！　どうにかして！", "voice":"systemSummer_035_1", "motion":"angry01"
+  },
+  "4065":{
+    "characterProfileLive2dId":4065, "scenarioType":"standard", "characterId":35, "serif":"なぜ暑いのに銭湯へ行くの？　よくわからない感覚ね", "voice":"systemSummer_035_2", "motion":"sad01"
+  },
+  "4066":{
+    "characterProfileLive2dId":4066, "scenarioType":"standard", "characterId":35, "serif":"この夏は、野外フェスに出演してみようかしら", "voice":"systemSummer_035_3", "motion":"nf05"
+  },
+  "4067":{
+    "characterProfileLive2dId":4067, "scenarioType":"standard", "characterId":35, "serif":"ようやく涼しくなったわね。待ちかねたわ！", "voice":"systemAutumn_035_1", "motion":"smile02"
+  },
+  "4068":{
+    "characterProfileLive2dId":4068, "scenarioType":"standard", "characterId":35, "serif":"音楽の秋なんて言わずに、いい音楽は一年中楽しむべきよ！", "voice":"systemAutumn_035_2", "motion":"nf01"
+  },
+  "4069":{
+    "characterProfileLive2dId":4069, "scenarioType":"standard", "characterId":35, "serif":"不思議だけど、秋はご飯がさらに美味しく感じるわね", "voice":"systemAutumn_035_3", "motion":"nf05"
+  },
+  "4070":{
+    "characterProfileLive2dId":4070, "scenarioType":"standard", "characterId":35, "serif":"散歩？　No！　断固拒否するわ。寒くて耐えられない！", "voice":"systemWinter_035_1", "motion":"surprised01"
+  },
+  "4071":{
+    "characterProfileLive2dId":4071, "scenarioType":"standard", "characterId":35, "serif":"外が寒くても、スタジオではアツいレッスンをするわよ！", "voice":"systemWinter_035_2", "motion":"smile01"
+  },
+  "4072":{
+    "characterProfileLive2dId":4072, "scenarioType":"standard", "characterId":35, "serif":"この前みんなで鍋をしたわ。囲んで食べるのも、まあ悪くないわね", "voice":"systemWinter_035_3", "motion":"shame01"
+  },
+  "4073":{
+    "characterProfileLive2dId":4073, "scenarioType":"standard", "characterId":35, "serif":"明日は最高にSweetでExcitingなライブをするわよ！", "voice":"systemBeforeRealLive_035", "motion":"smile02"
+  },
+  "4074":{
+    "characterProfileLive2dId":4074, "scenarioType":"standard", "characterId":35, "serif":"オンリーワンでナンバーワンのステージを楽しんでちょうだい！", "voice":"systemRealLive_035", "motion":"kime01"
+  },
+  "4075":{
+    "characterProfileLive2dId":4075, "scenarioType":"standard", "characterId":35, "serif":"Happy New Year！　今年もRASはかけぬけるわ！", "voice":"systemHoliday_035_1", "motion":"kime01"
+  },
+  "4076":{
+    "characterProfileLive2dId":4076, "scenarioType":"standard", "characterId":35, "serif":"豆をまくとどうして鬼が逃げるのか、よくわからないイベントね", "voice":"systemHoliday_035_2", "motion":"nf03"
+  },
+  "4077":{
+    "characterProfileLive2dId":4077, "scenarioType":"standard", "characterId":35, "serif":"みんなが持ち寄るからスタジオがチョコだらけよ。別にいいけど", "voice":"systemHoliday_035_3", "motion":"shame01"
   },
   "2029":{
     "characterProfileLive2dId":2029, "scenarioType":"standard", "characterId":5, "serif":"暑い……この暑さはもう、人が外に出ていいレベルじゃねーぞ", "voice":"sys-2020-PO-142", "motion":"sad01"
   },
+  "4078":{
+    "characterProfileLive2dId":4078, "scenarioType":"standard", "characterId":35, "serif":"ひな祭りだからってちらし寿司を食べたわ。結構いける味ね", "voice":"systemHoliday_035_4", "motion":"smile01"
+  },
   "2030":{
     "characterProfileLive2dId":2030, "scenarioType":"standard", "characterId":5, "serif":"蚊取り線香の匂いって嫌いじゃないんだけど……わかる？", "voice":"sys-2020-PO-143", "motion":"nf04"
+  },
+  "4079":{
+    "characterProfileLive2dId":4079, "scenarioType":"standard", "characterId":35, "serif":"ホワイトデーはよく知らないけどお菓子が食べられるのはいいわね", "voice":"systemHoliday_035_5", "motion":"nf04"
   },
   "2031":{
     "characterProfileLive2dId":2031, "scenarioType":"standard", "characterId":6, "serif":"こんなに暑いと、屋上でお弁当食べるのも大変なんだよね……", "voice":"sys-2020-AG-013", "motion":"sad01"
   },
+  "4080":{
+    "characterProfileLive2dId":4080, "scenarioType":"standard", "characterId":35, "serif":"Happy Halloween.お菓子よりジャーキーがいいわ", "voice":"systemHoliday_035_7", "motion":"smile02"
+  },
+  "4081":{
+    "characterProfileLive2dId":4081, "scenarioType":"standard", "characterId":35, "serif":"今夜はXmas Partyなんですって。まあたまにはいいけど", "voice":"systemHoliday_035_8", "motion":"nf03"
+  },
+  "4082":{
+    "characterProfileLive2dId":4082, "scenarioType":"standard", "characterId":35, "serif":"もうすぐ新しい一年の始まりね。来年も全力でいくわよ！", "voice":"systemHoliday_035_9", "motion":"kime01"
+  },
+  "4083":{
+    "characterProfileLive2dId":4083, "scenarioType":"costume_change", "characterId":31, "serif":"なるほど……たまにはこういう衣装も悪くないかな", "voice":"system-okigae-31-a", "motion":"smile01"
+  },
   "2035":{
     "characterProfileLive2dId":2035, "scenarioType":"standard", "characterId":22, "serif":"宇田川さん、お誕生日おめでとう。これからも頼りにしているわ", "voice":"sys-2020-RO-034", "motion":"smile01"
+  },
+  "4084":{
+    "characterProfileLive2dId":4084, "scenarioType":"costume_change", "characterId":31, "serif":"どうかな？　似合ってる？", "voice":"system-okigae-31-b", "motion":"nf02"
+  },
+  "4085":{
+    "characterProfileLive2dId":4085, "scenarioType":"costume_change", "characterId":31, "serif":"あんまりじっと見られると恥ずかしいんだけど……", "voice":"system-okigae-31-c", "motion":"shame01"
+  },
+  "4086":{
+    "characterProfileLive2dId":4086, "scenarioType":"costume_change", "characterId":32, "serif":"えーと……着替えてみたんですけど……どうでしょう？　おかしくないですか？", "voice":"system-okigae-32-a", "motion":"odoodo01"
+  },
+  "4087":{
+    "characterProfileLive2dId":4087, "scenarioType":"costume_change", "characterId":32, "serif":"わ～、ステキな衣装ですね……！　嬉しいです！", "voice":"system-okigae-32-b", "motion":"smile02"
+  },
+  "4088":{
+    "characterProfileLive2dId":4088, "scenarioType":"costume_change", "characterId":32, "serif":"これ似合っとるやろか？　そわそわしてまう～……", "voice":"system-okigae-32-c", "motion":"shame01"
+  },
+  "4089":{
+    "characterProfileLive2dId":4089, "scenarioType":"costume_change", "characterId":33, "serif":"着替えたけど、これ似合ってんのか？", "voice":"system-okigae-33-a", "motion":"nf03"
+  },
+  "4090":{
+    "characterProfileLive2dId":4090, "scenarioType":"costume_change", "characterId":33, "serif":"どうよ、結構いい感じじゃねー？", "voice":"system-okigae-33-b", "motion":"kime01"
+  },
+  "4091":{
+    "characterProfileLive2dId":4091, "scenarioType":"costume_change", "characterId":33, "serif":"へー、案外いいかもな。ドラムも叩きやすそうだし", "voice":"system-okigae-33-c", "motion":"smile01"
+  },
+  "4092":{
+    "characterProfileLive2dId":4092, "scenarioType":"costume_change", "characterId":34, "serif":"かわいい～！　このお洋服、気に入っちゃいました～！", "voice":"system-okigae-34-a", "motion":"smile02"
+  },
+  "4093":{
+    "characterProfileLive2dId":4093, "scenarioType":"costume_change", "characterId":34, "serif":"じゃじゃ～ん。えへへ、どうです？　かわいくなりましたか？", "voice":"system-okigae-34-b", "motion":"kime01"
+  },
+  "4094":{
+    "characterProfileLive2dId":4094, "scenarioType":"costume_change", "characterId":34, "serif":"ふふっ♪　髪色とメイクも衣装と合わせてみました！", "voice":"system-okigae-34-c", "motion":"smile01"
+  },
+  "4095":{
+    "characterProfileLive2dId":4095, "scenarioType":"costume_change", "characterId":35, "serif":"ふーん、こういう衣装も悪くはないわね。今後の参考にさせてもらうわ", "voice":"system-okigae-35-a", "motion":"nf04"
   }
 }
