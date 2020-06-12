@@ -1,5 +1,5 @@
 {
-  "version":"4.3.0.100", "bundles":{
+  "version":"4.3.0.200", "bundles":{
     "actionset/group0":{
       "bundleName":"actionset/group0", "hash":"557f8c9436540b4bb42f6e97d99219ebbb9fa2f9e157d254bf4c792a14cb05b9", "category":"StartApp", "crc":4090970697, "fileSize":15806
     },
@@ -1834,7 +1834,7 @@
       "bundleName":"birthday/ako_2019/topscreen", "hash":"a90c09e410cfc9365623f1904dff171ebbd74aafb48bd977fb2c6dbbe03cdb32", "category":"AsNeeded", "crc":540462969, "fileSize":1362201
     },
     "birthday/animationbase":{
-      "bundleName":"birthday/animationbase", "hash":"73cf975109e7ac50fb5b31daa2e182d1779e252710f32486673c7696cd65eac1", "category":"StartApp", "crc":1053042396, "fileSize":1163288
+      "bundleName":"birthday/animationbase", "hash":"ba7bc1ca5c922e3553107c83acf36a64779e252710f32486673c7696cd65eac1", "category":"StartApp", "crc":147657595, "fileSize":1163276
     },
     "birthday/arisa_2018/topscreen":{
       "bundleName":"birthday/arisa_2018/topscreen", "hash":"27376ba74d6deacb707121316651dc44e6c4b728b2face90cfbbdf30dc92da84", "category":"AsNeeded", "crc":1126468940, "fileSize":4276079
@@ -2018,6 +2018,12 @@
     },
     "birthday/moca_2019/topscreen":{
       "bundleName":"birthday/moca_2019/topscreen", "hash":"0c4ab0624fe09f56b39e9d8bd227bec28e98fa245e51090d2ffbd8266371c88d", "category":"AsNeeded", "crc":43700997, "fileSize":1398981
+    },
+    "birthday/nanami_2020/openingimages":{
+      "bundleName":"birthday/nanami_2020/openingimages", "hash":"32b48dd5dbcb99845afe1c920bbefc0cc982911a3bfb47660d1e08cb96e6c9f8", "category":"AsNeeded", "crc":844141571, "fileSize":342233
+    },
+    "birthday/nanami_2020/topscreen":{
+      "bundleName":"birthday/nanami_2020/topscreen", "hash":"df227784be23f859d482c62caf2aa714b64baaa03ef32c6ef3c7df857f2d180b", "category":"AsNeeded", "crc":3994561755, "fileSize":511420
     },
     "birthday/ran_2018/topscreen":{
       "bundleName":"birthday/ran_2018/topscreen", "hash":"4042b57180795a1d4c8f3454a7284b104a2f7fb0e290ce0c784f229feae811ef", "category":"AsNeeded", "crc":79717568, "fileSize":2543245
@@ -15201,6 +15207,24 @@
     "gacha/screen/gacha571":{
       "bundleName":"gacha/screen/gacha571", "hash":"a76a9ddb556242b5d45d691f3eceea77e9723c4781820d475a6e28a1f0d05beb", "category":"AsNeeded", "crc":2131854082, "fileSize":4288684
     },
+    "gacha/screen/gacha574":{
+      "bundleName":"gacha/screen/gacha574", "hash":"6ddbfcc2a08ba4bb5a75455b914bda9ea252164554e98ff01e201f20fd2c39eb", "category":"AsNeeded", "crc":36565348, "dependencies":[
+        "effect/common_materials"
+      ],
+      "fileSize":3488872
+    },
+    "gacha/screen/gacha575":{
+      "bundleName":"gacha/screen/gacha575", "hash":"a01b7520cc20232ec726292f30272ba007a8a9eeb21bdbbacda93794f94287e4", "category":"AsNeeded", "crc":8866953, "dependencies":[
+        "effect/common_materials"
+      ],
+      "fileSize":1712843
+    },
+    "gacha/screen/gacha576":{
+      "bundleName":"gacha/screen/gacha576", "hash":"94fc94362180dde463308c8d52288ef932a234c13438a30271699b5f239f3a94", "category":"AsNeeded", "crc":4010821315, "dependencies":[
+        "effect/common_materials"
+      ],
+      "fileSize":2226511
+    },
     "gacha/screen/gacha583":{
       "bundleName":"gacha/screen/gacha583", "hash":"4608ae807d0027b08b6b62a0c16729d2cc372afc5169d021031f6bdcd6b37054", "category":"AsNeeded", "crc":369164037, "dependencies":[
         "effect/common_materials"
@@ -15325,7 +15349,7 @@
       "bundleName":"graphicalinfo/newyear_2020_slide", "hash":"0c97f34b362ac4bbe65d52dfcba5474ab90304f554b96636d885dfeaa460612d", "category":"AsNeeded", "crc":1149738513, "fileSize":337496
     },
     "homebanner":{
-      "bundleName":"homebanner", "hash":"5625f9ce3f1305699a3f263206206d0c578e1801cf37bea8d19805e333aba690", "category":"StartApp", "crc":3039584286, "fileSize":40790924
+      "bundleName":"homebanner", "hash":"39a9d47312eabdef46f63761d1fd393d578e1801cf37bea8d19805e333aba690", "category":"StartApp", "crc":2239023333, "fileSize":40936000
     },
     "ingameskin/bgskin/skin00":{
       "bundleName":"ingameskin/bgskin/skin00", "hash":"c17e021fc1b48107e3fa97295538f7aebb71af161f99855ea24133093d7e43e7", "category":"StartApp", "crc":991212344, "fileSize":2032802
