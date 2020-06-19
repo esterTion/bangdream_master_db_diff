@@ -605,6 +605,9 @@
   "biography_bandMusicList_coverTab":{
     "name":"biography_bandMusicList_coverTab", "wording":"カバー"
   },
+  "collaboOriginalMusic_receiveDialog_detail_time":{
+    "name":"collaboOriginalMusic_receiveDialog_detail_time", "wording":"M/dd HH:mm"
+  },
   "newYearCard_bandSelect_notSet":{
     "name":"newYearCard_bandSelect_notSet", "wording":"指定なし"
   },
@@ -925,6 +928,9 @@
   },
   "dialog_matchingBonus_rewardCaution":{
     "name":"dialog_matchingBonus_rewardCaution", "wording":"※「SNS招待」「近くの人を募集」以外で参加したプレイヤーはカウントされません。\\n※報酬は最大{0}回獲得することが可能です。"
+  },
+  "specialMusic_coin_limited":{
+    "name":"specialMusic_coin_limited", "wording":"6/19 15:00 〜 6/30 14:59"
   },
   "generalElection_time_interimReport":{
     "name":"generalElection_time_interimReport", "wording":"{0} 頃"
@@ -1763,6 +1769,9 @@
   "mvButton_liveMV_label":{
     "name":"mvButton_liveMV_label", "wording":"MVライブ"
   },
+  "specialMusic_coin_collaboStart":{
+    "name":"specialMusic_coin_collaboStart", "wording":"6/30 15:00よりコラボイベント開始!"
+  },
   "eventStory_releaseCondition_bandRank":{
     "name":"eventStory_releaseCondition_bandRank", "wording":"{0}の\\nバンドランク{1}で解放"
   },
@@ -1877,6 +1886,9 @@
   "dialog_noNeedRecovery_message":{
     "name":"dialog_noNeedRecovery_message", "wording":"復元が必要な購入処理は見つかりませんでした。\\n\\n※すでに購入処理が完了している可能性があります。\\n\\nアイテムの所持数を確認してください。"
   },
+  "graphicalInformation_goto_collaboOriginalMusicPage":{
+    "name":"graphicalInformation_goto_collaboOriginalMusicPage", "wording":"期間限定楽曲へ"
+  },
   "dialog_generalElection_voteComplete_balloonShare":{
     "name":"dialog_generalElection_voteComplete_balloonShare", "wording":"[FF3B72]初回シェア時[-]\\n[505050]投票券プレゼント[-]"
   },
@@ -1975,6 +1987,9 @@
   },
   "dialog_executingRecovery_countFormat":{
     "name":"dialog_executingRecovery_countFormat", "wording":"({0} / {1})"
+  },
+  "collaboOriginalMusic_receiveDialog_title":{
+    "name":"collaboOriginalMusic_receiveDialog_title", "wording":"期間限定楽曲「{0}」獲得"
   },
   "mission_noMissionEX_message":{
     "name":"mission_noMissionEX_message", "wording":"現在挑戦可能なEXミッションはありません。"
@@ -2416,6 +2431,9 @@
   },
   "header_subTitle_miracleTicketExchangeSelectMember":{
     "name":"header_subTitle_miracleTicketExchangeSelectMember", "wording":"メンバー選択"
+  },
+  "collaboOriginalMusic_receiveDialog_detail":{
+    "name":"collaboOriginalMusic_receiveDialog_detail", "wording":"[505050]期間限定楽曲を獲得しました。\\n[FF3B72] {0} [-]までプレイすることができます。[-]"
   },
   "header_subTitle_comicSelectSingleFrame":{
     "name":"header_subTitle_comicSelectSingleFrame", "wording":"ちょこっと！ガルパライフ"
@@ -3272,8 +3290,14 @@
   "dialog_tower_disconnect":{
     "name":"dialog_tower_disconnect", "wording":"通信が切断されました。"
   },
+  "word_resultDetail_caution_collaboOriginal":{
+    "name":"word_resultDetail_caution_collaboOriginal", "wording":"ハイスコアおよびスコアランクは\\n期間中のみ特設ページにて確認できます。"
+  },
   "dialog_backstageMaintenance_title":{
     "name":"dialog_backstageMaintenance_title", "wording":"ラウンジ機能メンテナンス中"
+  },
+  "graphicalInfo_title_limitedMusicPage":{
+    "name":"graphicalInfo_title_limitedMusicPage", "wording":"「final phase」が期間限定で登場！"
   },
   "dialog_april_share_disable":{
     "name":"dialog_april_share_disable", "wording":"現在シェア機能はご利用いただけません。\\n恐れ入りますが、\\n詳細はお知らせをご確認ください。"
@@ -3428,6 +3452,9 @@
   "dialog_training_characterAlbum_text":{
     "name":"dialog_training_characterAlbum_text", "wording":"メンバーを特訓すると解放されます。\\nメンバー詳細画面を確認しますか？"
   },
+  "specialMusic_coin_detail":{
+    "name":"specialMusic_coin_detail", "wording":"期間限定!!10周年を迎えた\\n第2期fripSideが歌う\\n「final phase」でライブしよう♪"
+  },
   "dialog_event_characterAlbum_open":{
     "name":"dialog_event_characterAlbum_open", "wording":"イベントへ"
   },
@@ -3554,6 +3581,9 @@
   "tryLiveEvent_tryReward":{
     "name":"tryLiveEvent_tryReward", "wording":"トライ達成報酬"
   },
+  "collaboOriginalMusic_overDueDialog_content":{
+    "name":"collaboOriginalMusic_overDueDialog_content", "wording":"期間限定楽曲の公開は終了しました。"
+  },
   "dialog_purchaseError_productListResponseTimeout":{
     "name":"dialog_purchaseError_productListResponseTimeout", "wording":"通信エラーが発生しました。"
   },
@@ -3641,6 +3671,9 @@
   "word_filter_noepisode":{
     "name":"word_filter_noepisode", "wording":"エピソード\\n未読"
   },
+  "specialMusic_coin_gotoSite":{
+    "name":"specialMusic_coin_gotoSite", "wording":"特設サイトへ"
+  },
   "dialog_aprilGarupaCup_message2":{
     "name":"dialog_aprilGarupaCup_message2", "wording":"なお、現在選択されている\\nライブスキンを変更したい場合、\\n期間限定スキンをOFFに変更してください。"
   },
@@ -3685,6 +3718,9 @@
   },
   "dialog_billingPenalty_accountStopResearchWarning":{
     "name":"dialog_billingPenalty_accountStopResearchWarning", "wording":"[FF3B72]悪質な行為に関する最終的な調査の後、\\nアカウントの停止措置を実施予定です。[-]"
+  },
+  "collaboOriginalMusic_deckSelect_Annotation":{
+    "name":"collaboOriginalMusic_deckSelect_Annotation", "wording":"期間限定楽曲では報酬を獲得することができません"
   },
   "button_profile_friendRelease":{
     "name":"button_profile_friendRelease", "wording":"フレンド\\n解除"
