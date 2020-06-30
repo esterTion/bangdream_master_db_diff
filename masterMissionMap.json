@@ -170,6 +170,30 @@
   "10000041":{
     "missionId":10000041, "missionType":"band_rank", "transitionMethod":"none", "transitionId":0, "startAt":1591768800000, "endAt":1592481599000, "missionTabType":"limited", "seq":10, "isSpecial":1, "bandId":18, "resetType":"limited", "missionGroupId":9
   },
+  "10000042":{
+    "missionId":10000042, "missionType":"get_event_point", "transitionMethod":"live", "transitionId":119, "startAt":1593496800000, "endAt":1594295999000, "missionTabType":"limited", "seq":5, "eventId":0, "isSpecial":1, "resetType":"limited", "missionGroupId":7
+  },
+  "10000032":{
+    "missionId":10000032, "missionType":"specific_music_play", "transitionMethod":"live", "transitionId":119, "startAt":1593529200000, "endAt":1594295999000, "missionTabType":"limited", "seq":30, "eventId":0, "isSpecial":1, "resetType":"limited", "missionGroupId":7
+  },
+  "10000033":{
+    "missionId":10000033, "missionType":"specific_music_total_notes", "transitionMethod":"live", "transitionId":119, "startAt":1593615600000, "endAt":1594295999000, "missionTabType":"limited", "seq":40, "eventId":0, "isSpecial":1, "resetType":"limited", "missionGroupId":7
+  },
+  "10000034":{
+    "missionId":10000034, "missionType":"specific_music_total_perfect_notes", "transitionMethod":"live", "transitionId":119, "startAt":1593702000000, "endAt":1594295999000, "missionTabType":"limited", "seq":50, "eventId":0, "isSpecial":1, "resetType":"limited", "missionGroupId":7
+  },
+  "10000035":{
+    "missionId":10000035, "missionType":"event_trade", "transitionMethod":"event_badge_exchange", "transitionId":119, "startAt":1593788400000, "endAt":1594295999000, "missionTabType":"limited", "seq":60, "eventId":0, "isSpecial":1, "resetType":"limited", "missionGroupId":7
+  },
+  "10000036":{
+    "missionId":10000036, "missionType":"specific_event_story_reading", "transitionMethod":"event_top", "transitionId":119, "startAt":1593874800000, "endAt":1594295999000, "missionTabType":"limited", "seq":70, "eventId":0, "isSpecial":1, "resetType":"limited", "missionGroupId":7
+  },
+  "1000007":{
+    "missionId":1000007, "missionType":"total_live_play", "transitionMethod":"live", "transitionId":0, "startAt":1593496800000, "endAt":1594295999000, "missionTabType":"limited", "seq":2, "isSpecial":0, "resetType":"daily", "missionGroupId":8
+  },
+  "1000006":{
+    "missionId":1000006, "missionType":"total_login_days", "transitionMethod":"none", "transitionId":0, "startAt":1593496800000, "endAt":1594295999000, "missionTabType":"limited", "seq":1, "isSpecial":0, "resetType":"daily", "missionGroupId":8
+  },
   "1000005":{
     "missionId":1000005, "missionType":"event_box_gacha_spin", "transitionMethod":"event_box_gacha", "transitionId":0, "startAt":1577772000000, "endAt":1578484799000, "missionTabType":"event", "seq":3, "eventId":101, "isSpecial":0, "resetType":"daily", "missionGroupId":2
   },
