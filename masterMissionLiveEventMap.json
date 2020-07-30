@@ -1,3 +1,101 @@
-[
-  
-]
+{
+  "122":{
+    "eventId":122, "attributes":[
+      {
+        "eventId":122, "attribute":"happy", "percent":10
+      }
+    ],
+    "characters":[
+      {
+        "eventId":122, "characterId":6, "percent":20, "seq":3
+      },
+      {
+        "eventId":122, "characterId":7, "percent":20, "seq":1
+      },
+      {
+        "eventId":122, "characterId":8, "percent":20, "seq":4
+      },
+      {
+        "eventId":122, "characterId":9, "percent":20, "seq":5
+      },
+      {
+        "eventId":122, "characterId":10, "percent":20, "seq":2
+      }
+    ],
+    "stories":[
+      {
+        "eventId":122, "seq":0, "caption":"オープニング", "title":"熱く暑い夏", "synopsis":"夏休み、練習続きのAfterglow。\n気分転換に遊びに行こうという話になり……", "scenarioId":"event122-01", "coverImage":"122_0", "backgroundImage":"0", "releasePt":0, "releaseConditions":"オープニングシナリオ", "backgroundImageId":23, "rewards":[
+          {
+            "id":1812, "eventId":122, "seq":0, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1813, "eventId":122, "seq":0, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":122, "seq":1, "caption":"第１話", "title":"いざ常夏の楽園へ！", "synopsis":"トコナッツパークにやってきた一同は、\n１日の計画を立て始める。", "scenarioId":"event122-02", "coverImage":"122_1", "backgroundImage":"0", "releasePt":3000, "releaseConditions":"3000イベントP達成", "backgroundImageId":290, "rewards":[
+          {
+            "id":1814, "eventId":122, "seq":1, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1815, "eventId":122, "seq":1, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":122, "seq":2, "caption":"第２話", "title":"トコナッツショッピング", "synopsis":"まずはショッピングコーナーでお買い物。\nそこでひまりが見つけたものは……？", "scenarioId":"event122-03", "coverImage":"122_2", "backgroundImage":"0", "releasePt":6000, "releaseConditions":"6000イベントP達成", "backgroundImageId":292, "rewards":[
+          {
+            "id":1816, "eventId":122, "seq":2, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1817, "eventId":122, "seq":2, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":122, "seq":3, "caption":"第３話", "title":"サーフィンチャレンジ！", "synopsis":"サーフィンに挑戦することにした一同。\nいち早くコツを掴んだのは……？", "scenarioId":"event122-04", "coverImage":"122_3", "backgroundImage":"0", "releasePt":15000, "releaseConditions":"15000イベントP達成", "backgroundImageId":290, "rewards":[
+          {
+            "id":1818, "eventId":122, "seq":3, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1819, "eventId":122, "seq":3, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":122, "seq":4, "caption":"第４話", "title":"結成！モカちゃんズ", "synopsis":"アトラクションを一通り巡って小休憩。\n次はどこに行こうかと話していると……", "scenarioId":"event122-05", "coverImage":"122_4", "backgroundImage":"0", "releasePt":28000, "releaseConditions":"28000イベントP達成", "backgroundImageId":538, "rewards":[
+          {
+            "id":1820, "eventId":122, "seq":4, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1821, "eventId":122, "seq":4, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":122, "seq":5, "caption":"第５話", "title":"プールサイドの激闘", "synopsis":"トコナッツスプラッシュに参加した一同。\n順調に試合を進めていたその時――", "scenarioId":"event122-06", "coverImage":"122_5", "backgroundImage":"0", "releasePt":40000, "releaseConditions":"40000イベントP達成", "backgroundImageId":538, "rewards":[
+          {
+            "id":1822, "eventId":122, "seq":5, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1823, "eventId":122, "seq":5, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":122, "seq":6, "caption":"エンディング", "title":"夏はまだ終わらない", "synopsis":"いよいよ試合も大詰め。モカちゃんズは\n果たして優勝することができるのか――", "scenarioId":"event122-07", "coverImage":"122_6", "backgroundImage":"0", "releasePt":55000, "releaseConditions":"55000イベントP達成", "backgroundImageId":540, "rewards":[
+          {
+            "id":1824, "eventId":122, "seq":6, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1825, "eventId":122, "seq":6, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      }
+    ],
+    "eventAttributeAndCharacterBonus":{
+      "eventId":122, "pointPercent":20, "parameterPercent":20
+    }
+  }
+}
