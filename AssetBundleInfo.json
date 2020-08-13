@@ -1,5 +1,5 @@
 {
-  "version":"4.4.0.600", "bundles":{
+  "version":"4.4.0.700", "bundles":{
     "actionset/group0":{
       "bundleName":"actionset/group0", "hash":"557f8c9436540b4bb42f6e97d99219ebbb9fa2f9e157d254bf4c792a14cb05b9", "category":"StartApp", "crc":4090970697, "fileSize":15806
     },
@@ -13533,6 +13533,9 @@
     "event/loginbonus/election_3rd_place":{
       "bundleName":"event/loginbonus/election_3rd_place", "hash":"aab672f3804cfba5fb661ba9fdc45ba0b5e2320210d9d5511c4ee56529ae3c1f", "category":"AsNeeded", "crc":2780986613, "fileSize":1820645
     },
+    "event/loginbonus/era_release":{
+      "bundleName":"event/loginbonus/era_release", "hash":"4d3750a5a0608512be34116b2b12a8730b6659f11aa2fe5c5015146055ee7b0f", "category":"AsNeeded", "crc":2783275610, "fileSize":1661133
+    },
     "event/loginbonus/filmlive_kohyo_kinen":{
       "bundleName":"event/loginbonus/filmlive_kohyo_kinen", "hash":"576472da8e5284c3a91d416126beb6158364f1fab30cdac87fc8f2e8794ac294", "category":"AsNeeded", "crc":3037615334, "fileSize":2129508
     },
@@ -16113,11 +16116,29 @@
       ],
       "fileSize":1360373
     },
+    "gacha/screen/gacha604":{
+      "bundleName":"gacha/screen/gacha604", "hash":"15faac0b4966ba5ed90296465188eefb76005a63c0a55cdfa2632923d6fd8c10", "category":"AsNeeded", "crc":3393800912, "dependencies":[
+        "effect/common_materials"
+      ],
+      "fileSize":3171044
+    },
+    "gacha/screen/gacha605":{
+      "bundleName":"gacha/screen/gacha605", "hash":"2a842067176814413aa24344f13c75e327d71edf055610b820ecd4b2eca4c4e4", "category":"AsNeeded", "crc":1990432686, "dependencies":[
+        "effect/common_materials"
+      ],
+      "fileSize":1680349
+    },
     "gacha/screen/gacha606":{
       "bundleName":"gacha/screen/gacha606", "hash":"58e5dbb9cf2e0b4266c6a0839fa9e8e10d4a73cc1d5328bbd98895c26cd5a7a4", "category":"AsNeeded", "crc":1281848665, "dependencies":[
         "effect/common_materials"
       ],
       "fileSize":2808700
+    },
+    "gacha/screen/gacha609":{
+      "bundleName":"gacha/screen/gacha609", "hash":"477be1ef1c4ab207bffd95a757586597c0aced72a55119010f7af94a644143e7", "category":"AsNeeded", "crc":687265103, "dependencies":[
+        "effect/common_materials"
+      ],
+      "fileSize":1589808
     },
     "gacha/screen/gacha7":{
       "bundleName":"gacha/screen/gacha7", "hash":"d49c131f7afcb1196ee565adf3b51d579fdfee617ae7ef8532c8d92058dd410a", "category":"AsNeeded", "crc":2037430139, "fileSize":574038
@@ -16243,7 +16264,7 @@
       "bundleName":"graphicalinfo/newyear_2020_slide", "hash":"0c97f34b362ac4bbe65d52dfcba5474ab90304f554b96636d885dfeaa460612d", "category":"AsNeeded", "crc":1149738513, "fileSize":337496
     },
     "homebanner":{
-      "bundleName":"homebanner", "hash":"bedbcafd76a091f617426d966118902c578e1801cf37bea8d19805e333aba690", "category":"StartApp", "crc":925763400, "fileSize":43122103
+      "bundleName":"homebanner", "hash":"a083295e0074b69ea971e470e088e270578e1801cf37bea8d19805e333aba690", "category":"StartApp", "crc":2554017064, "fileSize":43182106
     },
     "ingameskin/bgskin/skin00":{
       "bundleName":"ingameskin/bgskin/skin00", "hash":"c17e021fc1b48107e3fa97295538f7aebb71af161f99855ea24133093d7e43e7", "category":"StartApp", "crc":991212344, "fileSize":2032802
