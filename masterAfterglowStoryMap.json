@@ -132,7 +132,7 @@
         "resourceId":144, "resourceType":"music", "quantity":1, "lbBonus":1
       }
     ],
-    "coverImage":"267", "backgroundImage":"3", "bandStoryChapterId":14, "releaseBandStoryId":40, "appealText":"バンドストーリー2章読了後も、\nメンバーたちの活躍は\nイベントストーリーで読むことができます。", "voiceAssetBundleName":"bandstory267", "seasonType":"season_1", "backgroundImageId":13
+    "coverImage":"267", "backgroundImage":"3", "bandStoryChapterId":14, "releaseBandStoryId":40, "appealText":"バンドストーリー2章読了後も、\nメンバーたちの活躍はバンドストーリー3章や\nイベントストーリーで読むことができます。", "voiceAssetBundleName":"bandstory267", "seasonType":"season_1", "backgroundImageId":13
   },
   "21":{
     "bandStoryId":21, "bandId":2, "seq":1, "caption":"第１話", "title":"『いつも通り』", "synopsis":"バンド練習中、蘭に電話がかかってくる。巴は難しい顔の蘭が気にかかり……", "scenarioId":"band2-001", "releasePlayerRank":0, "releaseConditions":"バンドランク 1以上で解放", "publishedAt":1472698800000, "rewards":[
@@ -367,10 +367,178 @@
         "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
       }
     ],
-    "coverImage":"40", "backgroundImage":"3", "bandStoryChapterId":2, "appealText":"バンドストーリー1章読了後も、\nメンバーたちの活躍はバンドストーリー2章や\nイベントストーリーで読むことができます。", "voiceAssetBundleName":"bandstory40", "seasonType":"season_1", "backgroundImageId":13
+    "coverImage":"40", "backgroundImage":"3", "bandStoryChapterId":2, "appealText":"バンドストーリー1章読了後も、\nメンバーたちの活躍はバンドストーリー2、3章や\nイベントストーリーで読むことができます。", "voiceAssetBundleName":"bandstory40", "seasonType":"season_1", "backgroundImageId":13
+  },
+  "348":{
+    "bandStoryId":348, "bandId":2, "seq":1, "caption":"第１話", "title":"ビッグニュース", "synopsis":"羽沢珈琲店に集まった蘭達のもとに、\nひまりが何やら興奮気味に入ってくる。", "scenarioId":"band2-036", "releasePlayerRank":0, "releaseConditions":"バンドストーリー2章「第２０話」を読むと解放", "publishedAt":1602309600000, "rewards":[
+      {
+        "resourceType":"star", "quantity":50, "lbBonus":1
+      },
+      {
+        "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
+      }
+    ],
+    "coverImage":"348", "backgroundImage":"3", "bandStoryChapterId":19, "releaseBandStoryId":267, "voiceAssetBundleName":"bandstory348", "seasonType":"season_2", "backgroundImageId":13
+  },
+  "349":{
+    "bandStoryId":349, "bandId":2, "seq":2, "caption":"第２話", "title":"トラブル勃発！？", "synopsis":"イベントのオーディションが終わり、\n緊張するひまり達だったが……?", "scenarioId":"band2-037", "releasePlayerRank":0, "releaseConditions":"前のストーリーを読むと解放", "publishedAt":1602309600000, "rewards":[
+      {
+        "resourceType":"star", "quantity":50, "lbBonus":1
+      },
+      {
+        "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
+      }
+    ],
+    "coverImage":"349", "backgroundImage":"3", "bandStoryChapterId":19, "releaseBandStoryId":267, "voiceAssetBundleName":"bandstory349", "seasonType":"season_2", "backgroundImageId":13
+  },
+  "350":{
+    "bandStoryId":350, "bandId":2, "seq":3, "caption":"第３話", "title":"蘭の勇気に乾杯！", "synopsis":"オーディション会場での出来事を振り返り、\n蘭をほめたたえるメンバー。", "scenarioId":"band2-038", "releasePlayerRank":0, "releaseConditions":"前のストーリーを読むと解放", "publishedAt":1602309600000, "rewards":[
+      {
+        "resourceType":"star", "quantity":50, "lbBonus":1
+      },
+      {
+        "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
+      }
+    ],
+    "coverImage":"350", "backgroundImage":"3", "bandStoryChapterId":19, "releaseBandStoryId":267, "voiceAssetBundleName":"bandstory350", "seasonType":"season_2", "backgroundImageId":13
+  },
+  "351":{
+    "bandStoryId":351, "bandId":2, "seq":4, "caption":"第４話", "title":"不穏な視線", "synopsis":"クラスのみんなの視線を感じるモカ達。\n理由を聞いてみると……？", "scenarioId":"band2-039", "releasePlayerRank":0, "releaseConditions":"前のストーリーを読むと解放", "publishedAt":1602309600000, "rewards":[
+      {
+        "resourceType":"star", "quantity":50, "lbBonus":1
+      },
+      {
+        "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
+      }
+    ],
+    "coverImage":"351", "backgroundImage":"3", "bandStoryChapterId":19, "releaseBandStoryId":267, "voiceAssetBundleName":"bandstory351", "seasonType":"season_2", "backgroundImageId":13
+  },
+  "352":{
+    "bandStoryId":352, "bandId":2, "seq":5, "caption":"第５話", "title":"もしかしてピンチ！？", "synopsis":"次のライブに向け、練習に熱が入る蘭達。\nみんなの様子にひまりは表情を曇らせる……", "scenarioId":"band2-040", "releasePlayerRank":0, "releaseConditions":"前のストーリーを読むと解放", "publishedAt":1602309600000, "rewards":[
+      {
+        "resourceType":"star", "quantity":50, "lbBonus":1
+      },
+      {
+        "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
+      }
+    ],
+    "coverImage":"352", "backgroundImage":"3", "bandStoryChapterId":19, "releaseBandStoryId":267, "voiceAssetBundleName":"bandstory352", "seasonType":"season_2", "backgroundImageId":13
+  },
+  "353":{
+    "bandStoryId":353, "bandId":2, "seq":6, "caption":"第６話", "title":"冷たい空気", "synopsis":"なんとかライブに出演できた蘭達。\n滾る思いで久しぶりのライブ挑むが……", "scenarioId":"band2-041", "releasePlayerRank":0, "releaseConditions":"前のストーリーを読むと解放", "publishedAt":1602309600000, "rewards":[
+      {
+        "resourceType":"star", "quantity":50, "lbBonus":1
+      },
+      {
+        "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
+      }
+    ],
+    "coverImage":"353", "backgroundImage":"3", "bandStoryChapterId":19, "releaseBandStoryId":267, "voiceAssetBundleName":"bandstory353", "seasonType":"season_2", "backgroundImageId":13
+  },
+  "354":{
+    "bandStoryId":354, "bandId":2, "seq":7, "caption":"第７話", "title":"みんな、ごめん", "synopsis":"前回のライブについて話し合う蘭達。\n彼女達が出した答えとは……？", "scenarioId":"band2-042", "releasePlayerRank":0, "releaseConditions":"前のストーリーを読むと解放", "publishedAt":1602309600000, "rewards":[
+      {
+        "resourceType":"star", "quantity":50, "lbBonus":1
+      },
+      {
+        "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
+      }
+    ],
+    "coverImage":"354", "backgroundImage":"3", "bandStoryChapterId":19, "releaseBandStoryId":267, "voiceAssetBundleName":"bandstory354", "seasonType":"season_2", "backgroundImageId":13
+  },
+  "355":{
+    "bandStoryId":355, "bandId":2, "seq":8, "caption":"第８話", "title":"蘭の思い", "synopsis":"いつも通りにふるまうモカ。しかし、\nそんな彼女に沙綾は何かを感じ取り……", "scenarioId":"band2-043", "releasePlayerRank":0, "releaseConditions":"前のストーリーを読むと解放", "publishedAt":1602309600000, "rewards":[
+      {
+        "resourceType":"star", "quantity":50, "lbBonus":1
+      },
+      {
+        "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
+      }
+    ],
+    "coverImage":"355", "backgroundImage":"3", "bandStoryChapterId":19, "releaseBandStoryId":267, "voiceAssetBundleName":"bandstory355", "seasonType":"season_2", "backgroundImageId":13
+  },
+  "356":{
+    "bandStoryId":356, "bandId":2, "seq":9, "caption":"第９話", "title":"いつでも前を向いて", "synopsis":"羽沢珈琲店で手伝いをするつぐみ。\nため息をつき、何か考えている様子で……？", "scenarioId":"band2-044", "releasePlayerRank":0, "releaseConditions":"前のストーリーを読むと解放", "publishedAt":1602309600000, "rewards":[
+      {
+        "resourceType":"star", "quantity":50, "lbBonus":1
+      },
+      {
+        "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
+      }
+    ],
+    "coverImage":"356", "backgroundImage":"3", "bandStoryChapterId":19, "releaseBandStoryId":267, "voiceAssetBundleName":"bandstory356", "seasonType":"season_2", "backgroundImageId":13
+  },
+  "357":{
+    "bandStoryId":357, "bandId":2, "seq":10, "caption":"第１０話", "title":"仲間を思う気持ち", "synopsis":"出演できそうなライブを必死に探すひまり。\nしかし、あの出来事の影響は大きく……", "scenarioId":"band2-045", "releasePlayerRank":0, "releaseConditions":"前のストーリーを読むと解放", "publishedAt":1602309600000, "rewards":[
+      {
+        "resourceType":"star", "quantity":50, "lbBonus":1
+      },
+      {
+        "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
+      }
+    ],
+    "coverImage":"357", "backgroundImage":"3", "bandStoryChapterId":19, "releaseBandStoryId":267, "voiceAssetBundleName":"bandstory357", "seasonType":"season_2", "backgroundImageId":13
+  },
+  "358":{
+    "bandStoryId":358, "bandId":2, "seq":11, "caption":"第１１話", "title":"夕焼けのジンクス", "synopsis":"公園に集まり、話し合うメンバー。\n空を見上げると、そこには……", "scenarioId":"band2-046", "releasePlayerRank":0, "releaseConditions":"前のストーリーを読むと解放", "publishedAt":1602309600000, "rewards":[
+      {
+        "resourceType":"star", "quantity":50, "lbBonus":1
+      },
+      {
+        "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
+      }
+    ],
+    "coverImage":"358", "backgroundImage":"3", "bandStoryChapterId":19, "releaseBandStoryId":267, "voiceAssetBundleName":"bandstory358", "seasonType":"season_2", "backgroundImageId":13
+  },
+  "359":{
+    "bandStoryId":359, "bandId":2, "seq":12, "caption":"第１２話", "title":"逃げない！", "synopsis":"心機一転、前を向くと決めた蘭達。\nそんな彼女達の前に現れたのは……？", "scenarioId":"band2-047", "releasePlayerRank":0, "releaseConditions":"前のストーリーを読むと解放", "publishedAt":1602309600000, "rewards":[
+      {
+        "resourceType":"star", "quantity":50, "lbBonus":1
+      },
+      {
+        "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
+      }
+    ],
+    "coverImage":"359", "backgroundImage":"3", "bandStoryChapterId":19, "releaseBandStoryId":267, "voiceAssetBundleName":"bandstory359", "seasonType":"season_2", "backgroundImageId":13
+  },
+  "360":{
+    "bandStoryId":360, "bandId":2, "seq":13, "caption":"第１３話", "title":"支えてくれる人達", "synopsis":"ガルジャムに向けて練習していたメンバー。\nひまりが評判を検索すると……？", "scenarioId":"band2-048", "releasePlayerRank":0, "releaseConditions":"前のストーリーを読むと解放", "publishedAt":1602309600000, "rewards":[
+      {
+        "resourceType":"star", "quantity":50, "lbBonus":1
+      },
+      {
+        "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
+      }
+    ],
+    "coverImage":"360", "backgroundImage":"3", "bandStoryChapterId":19, "releaseBandStoryId":267, "voiceAssetBundleName":"bandstory360", "seasonType":"season_2", "backgroundImageId":13
+  },
+  "361":{
+    "bandStoryId":361, "bandId":2, "seq":14, "caption":"第１４話", "title":"いつものアレ", "synopsis":"ガルジャム当日。\n緊張している様子のひまりだけれど……？", "scenarioId":"band2-049", "releasePlayerRank":0, "releaseConditions":"前のストーリーを読むと解放", "publishedAt":1602309600000, "rewards":[
+      {
+        "resourceType":"star", "quantity":50, "lbBonus":1
+      },
+      {
+        "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
+      }
+    ],
+    "coverImage":"361", "backgroundImage":"3", "bandStoryChapterId":19, "releaseBandStoryId":267, "voiceAssetBundleName":"bandstory361", "seasonType":"season_2", "backgroundImageId":13
   },
   "233":{
     "bandStoryId":233, "bandId":2, "seq":1, "caption":"第１話", "title":"『いつも通り』", "synopsis":"バンド練習中、蘭に電話がかかってくる。巴は難しい顔の蘭が気にかかり……", "scenarioId":"band2-001", "releasePlayerRank":0, "releaseConditions":"バンドランク 1以上で開放", "publishedAt":1545804000000, "coverImage":"21", "backgroundImage":"3", "bandStoryChapterId":13, "voiceAssetBundleName":"bandstory21", "seasonType":"season_1", "backgroundImageId":13
+  },
+  "362":{
+    "bandStoryId":362, "bandId":2, "seq":15, "caption":"第１５話", "title":"最高のライブに必要なこと", "synopsis":"Afterglowが登場しざわつく会場。\nしかし、メンバーは全力で演奏する。", "scenarioId":"band2-050", "releasePlayerRank":0, "releaseConditions":"前のストーリーを読むと解放", "publishedAt":1602309600000, "rewards":[
+      {
+        "resourceType":"star", "quantity":50, "lbBonus":1
+      },
+      {
+        "resourceId":13, "resourceType":"item", "quantity":1, "lbBonus":1
+      },
+      {
+        "resourceId":293, "resourceType":"music", "lbBonus":1
+      }
+    ],
+    "coverImage":"362", "backgroundImage":"3", "bandStoryChapterId":19, "releaseBandStoryId":267, "appealText":"バンドストーリー3章読了後も、\nメンバーたちの活躍は\nイベントストーリーで読むことができます。", "voiceAssetBundleName":"bandstory362", "seasonType":"season_2", "backgroundImageId":13
   },
   "234":{
     "bandStoryId":234, "bandId":2, "seq":2, "caption":"第２話", "title":"なかなかアツいイベント", "synopsis":"スタッフにイベントへの参加を進められて迷うメンバー。そんな中、つぐみが……!?", "scenarioId":"band2-002", "releasePlayerRank":0, "releaseConditions":"前のストーリーを読むと解放", "publishedAt":1545804000000, "coverImage":"22", "backgroundImage":"3", "bandStoryChapterId":13, "voiceAssetBundleName":"bandstory22", "seasonType":"season_1", "backgroundImageId":13
