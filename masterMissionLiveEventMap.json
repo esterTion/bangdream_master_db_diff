@@ -1,3 +1,101 @@
-[
-  
-]
+{
+  "131":{
+    "eventId":131, "attributes":[
+      {
+        "eventId":131, "attribute":"powerful", "percent":10
+      }
+    ],
+    "characters":[
+      {
+        "eventId":131, "characterId":11, "percent":20, "seq":1
+      },
+      {
+        "eventId":131, "characterId":12, "percent":20, "seq":3
+      },
+      {
+        "eventId":131, "characterId":13, "percent":20, "seq":2
+      },
+      {
+        "eventId":131, "characterId":14, "percent":20, "seq":4
+      },
+      {
+        "eventId":131, "characterId":15, "percent":20, "seq":5
+      }
+    ],
+    "stories":[
+      {
+        "eventId":131, "seq":0, "caption":"オープニング", "title":"ホンモノ！？　魔女の店", "synopsis":"どうやら、魔女のお店があるらしい。\nそんな噂を耳にしたハロハピは……？", "scenarioId":"event131-01", "coverImage":"131_0", "backgroundImage":"0", "releasePt":0, "releaseConditions":"オープニングシナリオ", "backgroundImageId":44, "rewards":[
+          {
+            "id":1967, "eventId":131, "seq":0, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1968, "eventId":131, "seq":0, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":131, "seq":1, "caption":"第１話", "title":"作戦会議、開始！", "synopsis":"MAHO堂リニューアルに向けた\n作戦会議、始動――！", "scenarioId":"event131-02", "coverImage":"131_1", "backgroundImage":"0", "releasePt":3000, "releaseConditions":"3000イベントP達成", "backgroundImageId":562, "rewards":[
+          {
+            "id":1969, "eventId":131, "seq":1, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1970, "eventId":131, "seq":1, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":131, "seq":2, "caption":"第２話", "title":"挑戦！　魔法グッズ作り", "synopsis":"おまじない雑貨作りに挑戦することに\nなった五人だが……？", "scenarioId":"event131-03", "coverImage":"131_2", "backgroundImage":"0", "releasePt":6000, "releaseConditions":"6000イベントP達成", "backgroundImageId":562, "rewards":[
+          {
+            "id":1971, "eventId":131, "seq":2, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1972, "eventId":131, "seq":2, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":131, "seq":3, "caption":"第３話", "title":"リニューアル！　MAHO堂", "synopsis":"いよいよリニューアルオープン！\nはたして結果は……？", "scenarioId":"event131-04", "coverImage":"131_3", "backgroundImage":"0", "releasePt":15000, "releaseConditions":"15000イベントP達成", "backgroundImageId":23, "rewards":[
+          {
+            "id":1973, "eventId":131, "seq":3, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1974, "eventId":131, "seq":3, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":131, "seq":4, "caption":"第４話", "title":"魔法なんて", "synopsis":"相次ぐお客さんからの嬉しい報告。\nしかし、そううまくはいかないようで……？", "scenarioId":"event131-05", "coverImage":"131_4", "backgroundImage":"0", "releasePt":28000, "releaseConditions":"28000イベントP達成", "backgroundImageId":564, "rewards":[
+          {
+            "id":1975, "eventId":131, "seq":4, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1976, "eventId":131, "seq":4, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":131, "seq":5, "caption":"第５話", "title":"特別な魔法", "synopsis":"リカちゃんの言葉に、すっかり\n落ち込んでしまうはぐみだが……？", "scenarioId":"event131-06", "coverImage":"131_5", "backgroundImage":"0", "releasePt":40000, "releaseConditions":"40000イベントP達成", "backgroundImageId":563, "rewards":[
+          {
+            "id":1977, "eventId":131, "seq":5, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1978, "eventId":131, "seq":5, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":131, "seq":6, "caption":"エンディング", "title":"笑顔の魔女", "synopsis":"みんなに笑顔を届けるため、\n始まるハロハピ・マジカルステージ！", "scenarioId":"event131-07", "coverImage":"131_6", "backgroundImage":"0", "releasePt":55000, "releaseConditions":"55000イベントP達成", "backgroundImageId":14, "rewards":[
+          {
+            "id":1979, "eventId":131, "seq":6, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":1980, "eventId":131, "seq":6, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      }
+    ],
+    "eventAttributeAndCharacterBonus":{
+      "eventId":131, "pointPercent":20, "parameterPercent":20
+    }
+  }
+}

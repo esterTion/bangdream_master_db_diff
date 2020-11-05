@@ -4601,5 +4601,163 @@
       }
     ],
     "type":"ex_mission"
+  },
+  {
+    "missionGroupId":501, "missionResetType":"none", "startAt":1604124000000, "endAt":1604836799000, "rewardEndAt":1604987999000, "eventId":131, "homeEffectType":"collabo", "tabLabel":"コラボ", "header":{
+      "assetBundleName":"witch_2020", "url":"mission/mission_201031_ZhgnEb.html"
+    },
+    "missionList":[
+      {
+        "missionId":10000043, "transitionMethod":"event_top", "transitionId":131, "startAt":1604124000000, "seq":10, "detailList":[
+          {
+            "seq":1, "title":"イベントストーリーのオープニングを読もう", "description":"イベントTOPに移動して、イベントストーリーのオープニングを読もう", "maxProgress":1, "valueId":200040, "reward":{
+              "UNKNOWN_1":10000043, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":50
+            }
+          }
+        ],
+        "labelType":"special", "typeIndex":45
+      },
+      {
+        "missionId":10000044, "transitionMethod":"none", "transitionId":0, "startAt":1604124000000, "seq":20, "detailList":[
+          {
+            "seq":1, "title":"CiRCLEの楽曲ショップで「おジャ魔女カーニバル!!」を購入しよう", "description":"エリア選択画面からCiRCLEに移動して、エリア内にある楽曲ショップで「おジャ魔女カーニバル!!」を購入しよう", "maxProgress":1, "valueId":200039, "reward":{
+              "UNKNOWN_1":10000044, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":50
+            }
+          }
+        ],
+        "labelType":"special", "typeIndex":59
+      },
+      {
+        "missionId":10000045, "transitionMethod":"live", "transitionId":0, "startAt":1604124000000, "seq":30, "detailList":[
+          {
+            "seq":1, "title":"カバー楽曲「おジャ魔女カーニバル!!」を1回クリアしよう", "description":"フリーライブもしくは、協力ライブの楽曲選択画面で「おジャ魔女カーニバル!!」を選択してライブをクリアしよう", "maxProgress":1, "valueId":200039, "reward":{
+              "UNKNOWN_1":10000045, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"costume", "resourceId":1007, "quantity":1
+            }
+          }
+        ],
+        "labelType":"special", "typeIndex":28
+      },
+      {
+        "missionId":10000046, "transitionMethod":"event_top", "transitionId":131, "startAt":1604124000000, "seq":40, "detailList":[
+          {
+            "seq":1, "title":"MAHO堂で魔法玉を渡してプレゼントを1個交換しよう", "description":"ライブで集めた魔法玉を渡して、MAHO堂でプレゼントを1個交換しよう", "maxProgress":1, "valueId":200040, "reward":{
+              "UNKNOWN_1":10000046, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"coin", "resourceId":0, "quantity":10000
+            }
+          }
+        ],
+        "labelType":"special", "typeIndex":36
+      },
+      {
+        "missionId":10000047, "transitionMethod":"none", "transitionId":0, "startAt":1604124000000, "seq":50, "detailList":[
+          {
+            "seq":1, "title":"「弦巻 こころ」のライブ衣装を「マジカルフロッグ」に変更しよう", "description":"コラボミッション「カバー楽曲『おジャ魔女カーニバル!!』を1回クリアしよう」をクリアしてライブ衣装を手に入れ、バンドTOPから移動できるライブ衣装画面で「弦巻 こころ」の衣装を変更しよう", "maxProgress":1, "valueId":200041, "reward":{
+              "UNKNOWN_1":10000047, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"item", "resourceId":15, "quantity":2
+            }
+          }
+        ],
+        "labelType":"special", "typeIndex":17
+      },
+      {
+        "missionId":10000049, "transitionMethod":"event_top", "transitionId":131, "startAt":1604156400000, "seq":70, "detailList":[
+          {
+            "seq":1, "title":"MAHO堂で「魔女見習い9級」称号を獲得しよう", "description":"MAHO堂でプレゼントを交換して、1箱目のスペシャル枠のプレゼント「魔女見習い9級」称号を獲得しよう", "maxProgress":1, "valueId":200043, "reward":{
+              "UNKNOWN_1":10000049, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":50
+            }
+          }
+        ],
+        "labelType":"special", "typeIndex":60
+      },
+      {
+        "missionId":10000051, "transitionMethod":"event_top", "transitionId":131, "startAt":1604242800000, "seq":90, "detailList":[
+          {
+            "seq":1, "title":"イベントストーリーを最後まで読もう", "description":"イベントTOPに移動して、イベントストーリーを最後まで読もう", "maxProgress":7, "valueId":200040, "reward":{
+              "UNKNOWN_1":10000051, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":50
+            }
+          }
+        ],
+        "labelType":"special", "typeIndex":45
+      },
+      {
+        "missionId":10000053, "transitionMethod":"event_top", "transitionId":131, "startAt":1604329200000, "seq":110, "detailList":[
+          {
+            "seq":1, "title":"累計イベントP報酬で★3[のんびりウィッチ]松原花音を獲得しよう", "description":"フリーライブもしくは、協力ライブでイベントPを集めて、累計イベントP100000の報酬★3[のんびりウィッチ]松原花音を獲得しよう", "maxProgress":100000, "valueId":200045, "reward":{
+              "UNKNOWN_1":10000053, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":50
+            }
+          }
+        ],
+        "labelType":"special", "typeIndex":39
+      },
+      {
+        "missionId":10000055, "transitionMethod":"event_top", "transitionId":131, "startAt":1604415600000, "seq":130, "detailList":[
+          {
+            "seq":1, "title":"累計イベントP報酬で★3[儚いウィッチ]瀬田薫を獲得しよう", "description":"フリーライブもしくは、協力ライブでイベントPを集めて、累計イベントP120000の報酬★3[儚いウィッチ]瀬田薫を獲得しよう", "maxProgress":120000, "valueId":200047, "reward":{
+              "UNKNOWN_1":10000055, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":50
+            }
+          }
+        ],
+        "labelType":"special", "typeIndex":39
+      }
+    ],
+    "type":"limited"
+  },
+  {
+    "missionGroupId":502, "missionResetType":"none", "startAt":1604156400000, "endAt":1604836799000, "rewardEndAt":1604987999000, "eventId":131, "homeEffectType":"collabo", "tabLabel":"コラボ", "missionList":[
+      {
+        "missionId":10000048, "transitionMethod":"live", "transitionId":0, "startAt":1604156400000, "seq":60, "detailList":[
+          {
+            "seq":1, "title":"カバー楽曲「DANCE! おジャ魔女」を1回クリアしよう", "description":"フリーライブもしくは、協力ライブの楽曲選択画面で「DANCE! おジャ魔女」を選択してライブをクリアしよう", "maxProgress":1, "valueId":200042, "reward":{
+              "UNKNOWN_1":10000048, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"coin", "resourceId":0, "quantity":10000
+            }
+          }
+        ],
+        "labelType":"special", "typeIndex":28
+      }
+    ],
+    "type":"limited"
+  },
+  {
+    "missionGroupId":503, "missionResetType":"none", "startAt":1604242800000, "endAt":1604836799000, "rewardEndAt":1604987999000, "eventId":131, "homeEffectType":"collabo", "tabLabel":"コラボ", "missionList":[
+      {
+        "missionId":10000050, "transitionMethod":"event_top", "transitionId":131, "startAt":1604242800000, "seq":80, "detailList":[
+          {
+            "seq":1, "title":"MAHO堂で魔法玉を渡してプレゼントを5個交換しよう", "description":"ライブで集めた魔法玉を渡して、MAHO堂でプレゼントを5個交換しよう", "maxProgress":5, "valueId":200040, "reward":{
+              "UNKNOWN_1":10000050, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"live_boost_recovery_item", "resourceId":16, "quantity":1
+            }
+          }
+        ],
+        "labelType":"special", "typeIndex":36
+      }
+    ],
+    "type":"limited"
+  },
+  {
+    "missionGroupId":504, "missionResetType":"none", "startAt":1604329200000, "endAt":1604836799000, "rewardEndAt":1604987999000, "eventId":131, "homeEffectType":"collabo", "tabLabel":"コラボ", "missionList":[
+      {
+        "missionId":10000052, "transitionMethod":"live", "transitionId":0, "startAt":1604329200000, "seq":100, "detailList":[
+          {
+            "seq":1, "title":"カバー楽曲「おジャ魔女カーニバル!!」をMAXCOMBO100以上でクリアしよう", "description":"好きな難易度で「おジャ魔女カーニバル!!」を選択してライブを行い、コンボをつなげてMAXCOMBOを100以上でクリアしよう", "maxProgress":100, "valueId":200044, "reward":{
+              "UNKNOWN_1":10000052, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"coin", "resourceId":0, "quantity":10000
+            }
+          }
+        ],
+        "labelType":"special", "typeIndex":61
+      }
+    ],
+    "type":"limited"
+  },
+  {
+    "missionGroupId":505, "missionResetType":"none", "startAt":1604415600000, "endAt":1604836799000, "rewardEndAt":1604987999000, "eventId":131, "homeEffectType":"collabo", "tabLabel":"コラボ", "missionList":[
+      {
+        "missionId":10000054, "transitionMethod":"none", "transitionId":0, "startAt":1604415600000, "seq":120, "detailList":[
+          {
+            "seq":1, "title":"「魔女見習い1級」の称号を付けてライブを1回クリアしよう", "description":"MAHO堂で9箱目のスペシャル枠のプレゼント「魔女見習い1級」称号を獲得し、メニューから移動できるプロフィール画面で称号を変更して、ライブを1回クリアしよう", "maxProgress":1, "valueId":200046, "reward":{
+              "UNKNOWN_1":10000054, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"live_boost_recovery_item", "resourceId":16, "quantity":1
+            }
+          }
+        ],
+        "labelType":"special", "typeIndex":40
+      }
+    ],
+    "type":"limited"
   }
 ]
