@@ -1,5 +1,5 @@
 {
-  "version":"4.7.0.800", "bundles":{
+  "version":"4.7.0.810", "bundles":{
     "actionset/group0":{
       "bundleName":"actionset/group0", "hash":"557f8c9436540b4bb42f6e97d99219ebbb9fa2f9e157d254bf4c792a14cb05b9", "category":"StartApp", "crc":4090970697, "fileSize":15806
     },
@@ -2146,10 +2146,7 @@
       "bundleName":"bg/scenario_tutorial", "hash":"09479f06b9532dc94026ebdf9cfe4e8953d81e3b0c1e5cd7ea44b6f74546a8ba", "category":"Tutorial", "crc":3574619745, "fileSize":3891425
     },
     "billinggoods":{
-      "bundleName":"billinggoods", "hash":"2a1ddd001bf38543457487a406f8e55ba4362b22c3d43813fc4b0c456dd87045", "category":"AsNeeded", "crc":1054513708, "dependencies":[
-        "characters/livesd/sd001016"
-      ],
-      "fileSize":3103974
+      "bundleName":"billinggoods", "hash":"abc581554ec647af508f4386b7729be4a4362b22c3d43813fc4b0c456dd87045", "category":"AsNeeded", "crc":3436445002, "fileSize":2614398
     },
     "biography/area00001_autumn":{
       "bundleName":"biography/area00001_autumn", "hash":"291db809d3ecfb421d5da269df50f25709537dc1f13b871463c1240dfa78291d", "category":"AsNeeded", "crc":3332954359, "fileSize":1072035
@@ -5558,6 +5555,12 @@
     },
     "characters/livesd/sd001010":{
       "bundleName":"characters/livesd/sd001010", "hash":"368694e982f42e9a31279e0f822d6d8795cd344e2d054c241cd3bd2523564e75", "category":"AsNeeded", "crc":2693060084, "fileSize":419078
+    },
+    "characters/livesd/sd001012":{
+      "bundleName":"characters/livesd/sd001012", "hash":"6a1d2c1eb80320f54a6fa46df9e11b121a79a87a65313dd239b422c1ab477fbc", "category":"AsNeeded", "crc":1769301740, "dependencies":[
+        "characters/livesd/sd001016"
+      ],
+      "fileSize":489592
     },
     "characters/livesd/sd001013":{
       "bundleName":"characters/livesd/sd001013", "hash":"8ec63191d669a2ea4dad873296dd7f1984c4f777e5eb1ca8248cf02873f6c189", "category":"AsNeeded", "crc":3314103303, "fileSize":470642
@@ -26608,7 +26611,7 @@
       "bundleName":"scenario/actionset/group40", "hash":"2beeeba285f12ad9dc4a7eececa1ea73b04d9b156f11bd1b3d3e4687ed9eae09", "category":"StartApp", "crc":1363174850, "fileSize":119123
     },
     "scenario/actionset/group41":{
-      "bundleName":"scenario/actionset/group41", "hash":"012c118d72acf16bd59d0e56a9d725fd657f6173a5295bef653922d500270849", "category":"StartApp", "crc":1092718144, "fileSize":104418
+      "bundleName":"scenario/actionset/group41", "hash":"53ba90f7d8d28dec6e609d7d46f8ba35657f6173a5295bef653922d500270849", "category":"StartApp", "crc":2230241005, "fileSize":104414
     },
     "scenario/actionset/group44":{
       "bundleName":"scenario/actionset/group44", "hash":"fdbe5bfce8a397f192eca1fb8c2dddb2ccf03da7355bc6ece6d9fa703d8c45b1", "category":"StartApp", "crc":2328033922, "fileSize":5244
