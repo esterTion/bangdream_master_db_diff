@@ -1,5 +1,5 @@
 {
-  "version":"4.8.0.400", "bundles":{
+  "version":"4.8.0.500", "bundles":{
     "actionset/group0":{
       "bundleName":"actionset/group0", "hash":"f74bac54dcaa2312fb0f5bd98409e65fbb9fa2f9e157d254bf4c792a14cb05b9", "category":"StartApp", "crc":696391923, "fileSize":15754
     },
@@ -2717,6 +2717,12 @@
     },
     "birthday/tae_2020/topscreen":{
       "bundleName":"birthday/tae_2020/topscreen", "hash":"7ba937eca81fd15553722c45f2a071cda53b180f82585e6125bc4baa2a514467", "category":"AsNeeded", "crc":3823641582, "fileSize":495434
+    },
+    "birthday/toko_2020/openingimages":{
+      "bundleName":"birthday/toko_2020/openingimages", "hash":"c98ff47d6ed3b625e7717da3bf197c3de4b190421ac39a882640122954f0b48e", "category":"AsNeeded", "crc":3070191877, "fileSize":349797
+    },
+    "birthday/toko_2020/topscreen":{
+      "bundleName":"birthday/toko_2020/topscreen", "hash":"36dc5bd3543221bb7d6e2e9407df63172639ac977f9944bce1265d766f3dd276", "category":"AsNeeded", "crc":3703502556, "fileSize":686827
     },
     "birthday/tomoe_2018/topscreen":{
       "bundleName":"birthday/tomoe_2018/topscreen", "hash":"ee7b12ed374c8db8ee0a87116d0970d984e921deda2aec941cbe82a39f631e69", "category":"AsNeeded", "crc":748383508, "fileSize":2474794
@@ -14649,6 +14655,9 @@
     "event/loginbonus/valentine_day_2020":{
       "bundleName":"event/loginbonus/valentine_day_2020", "hash":"3bf8d674501b4c8017c13d1c99d8a98c8f0d791298129486b7f818af7525fc6f", "category":"AsNeeded", "crc":3177077333, "fileSize":1682269
     },
+    "event/loginbonus/vocalo_cover_release":{
+      "bundleName":"event/loginbonus/vocalo_cover_release", "hash":"6c83f5937ed8b9bdc4e32674b119e5d668b0a271a0f628e71ef9acc71e5e8cef", "category":"AsNeeded", "crc":2291140841, "fileSize":1580444
+    },
     "event/loginbonus/wahl_release":{
       "bundleName":"event/loginbonus/wahl_release", "hash":"d082f543c3c88551ec95df44cf3907ff9519de21cef8032604c6c257048b0992", "category":"AsNeeded", "crc":2241077585, "fileSize":1730876
     },
@@ -17532,6 +17541,12 @@
       ],
       "fileSize":1285045
     },
+    "gacha/screen/gacha675":{
+      "bundleName":"gacha/screen/gacha675", "hash":"e3de11087336b32c1db42578c2c9398d7a7dc2c719f3915557ed19bed842ed8f", "category":"AsNeeded", "crc":2371450702, "dependencies":[
+        "effect/common_materials"
+      ],
+      "fileSize":1618148
+    },
     "gacha/screen/gacha7":{
       "bundleName":"gacha/screen/gacha7", "hash":"fd5542be720db18e0f723e8d4363c0139fdfee617ae7ef8532c8d92058dd410a", "category":"AsNeeded", "crc":3630343327, "fileSize":562868
     },
@@ -17668,7 +17683,7 @@
       "bundleName":"graphicalinfo/newyear_2020_slide", "hash":"82b0c95c16dec16d6ff54d2981dd5c45b90304f554b96636d885dfeaa460612d", "category":"AsNeeded", "crc":3563270288, "fileSize":329934
     },
     "homebanner":{
-      "bundleName":"homebanner", "hash":"039c5dd344af23c4c14a27a7bacce3d0578e1801cf37bea8d19805e333aba690", "category":"StartApp", "crc":2209457588, "fileSize":46593054
+      "bundleName":"homebanner", "hash":"7b2fa50be0229d0d9f0753c59087d85a578e1801cf37bea8d19805e333aba690", "category":"StartApp", "crc":3312467103, "fileSize":46692537
     },
     "ingameskin/bgskin/skin00":{
       "bundleName":"ingameskin/bgskin/skin00", "hash":"c7798cb32bd05bf8ee2e769a6e83a648bb71af161f99855ea24133093d7e43e7", "category":"StartApp", "crc":4273868056, "fileSize":2028214
@@ -41539,7 +41554,7 @@
       "bundleName":"thumb/chara/card_tutorial", "hash":"c077c569b58657f4c81d4588a9da218c57c688417497917f4ff36838ec19986d", "category":"Tutorial", "crc":1348862643, "fileSize":179131
     },
     "thumb/common":{
-      "bundleName":"thumb/common", "hash":"b695d9a9a28ef2a335f3b85977a7ccad782b8c97c2a329279625beeadcb115bf", "category":"StartApp", "crc":2569444090, "fileSize":2258882
+      "bundleName":"thumb/common", "hash":"f51b10bdf1f0dc1b415ccd040d207e9c782b8c97c2a329279625beeadcb115bf", "category":"StartApp", "crc":2373787866, "fileSize":2289987
     },
     "thumb/common_tutorial":{
       "bundleName":"thumb/common_tutorial", "hash":"f641684c40949983f5f9eb605c5d12170300ff6ce0b99dd56c96310b6814e2df", "category":"Tutorial", "crc":247796238, "fileSize":909137
