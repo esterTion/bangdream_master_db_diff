@@ -1,5 +1,5 @@
 {
-  "version":"4.9.0.400", "bundles":{
+  "version":"4.9.0.500", "bundles":{
     "actionset/group0":{
       "bundleName":"actionset/group0", "hash":"f74bac54dcaa2312fb0f5bd98409e65fbb9fa2f9e157d254bf4c792a14cb05b9", "category":"StartApp", "crc":696391923, "fileSize":15754
     },
@@ -681,6 +681,9 @@
     "backstage/installed_object/screen_lighted":{
       "bundleName":"backstage/installed_object/screen_lighted", "hash":"332cf9ca70bfbd9b1981f3df32f20b7ce9e3184ecbcf588c060b8090c635cc6c", "category":"AsNeeded", "crc":3074731678, "fileSize":51812
     },
+    "backstage/installed_object/shopping_bag_magic":{
+      "bundleName":"backstage/installed_object/shopping_bag_magic", "hash":"32535c038a263cbd297daa6a91ec5af4b4f2862d64d00a759312458fdb0b3dbf", "category":"AsNeeded", "crc":962561420, "fileSize":39029
+    },
     "backstage/installed_object/stage_cover_kokoro_2020":{
       "bundleName":"backstage/installed_object/stage_cover_kokoro_2020", "hash":"f3f87002e5e99227a2b1db0bfc8cc1cafd89310af40d3cf945f63f9f0d37b6cf", "category":"AsNeeded", "crc":3780177020, "fileSize":212756
     },
@@ -1344,6 +1347,9 @@
     "backstage/stage/default013":{
       "bundleName":"backstage/stage/default013", "hash":"d7a0ada8cee915a005f076b5d0011576c39567a0220c48595f305b7b620c58c1", "category":"StartApp", "crc":3476650189, "fileSize":1111898
     },
+    "backstage/stage/default019":{
+      "bundleName":"backstage/stage/default019", "hash":"342465cd2a1246c5416977aa612f5e7b4836b17a1dc59e03e3eedabc2de11a9c", "category":"StartApp", "crc":3430717677, "fileSize":1456286
+    },
     "backstage/stage/eve_2019":{
       "bundleName":"backstage/stage/eve_2019", "hash":"7c1fe58dcc669629c63f40fe154a2c313c9b09180c43d928ded18d4fb6da81bd", "category":"StartApp", "crc":445785542, "fileSize":1623162
     },
@@ -1717,7 +1723,7 @@
       "bundleName":"backstage/talkset/group691_700", "hash":"5c4ec444d26b325c113863e19851895b2f9b6b53c11091c4c2ccdef9b576dcbc", "category":"StartApp", "crc":1472452605, "fileSize":26664
     },
     "backstage/talkset/group701_710":{
-      "bundleName":"backstage/talkset/group701_710", "hash":"124c53f15f6d0e440c264239ff0de55b522088b4e6c1f46271d32dedb98d754a", "category":"StartApp", "crc":3274172493, "fileSize":12308
+      "bundleName":"backstage/talkset/group701_710", "hash":"fa1d252118830a9666bf50208eae17f7522088b4e6c1f46271d32dedb98d754a", "category":"StartApp", "crc":1077101950, "fileSize":81343
     },
     "backstage/talkset/group71_80":{
       "bundleName":"backstage/talkset/group71_80", "hash":"b469d1be6691c6a569d184becf04d3c91ca25e71a56e0ce1693201d0af32447f", "category":"StartApp", "crc":2569849325, "fileSize":45803
@@ -13903,7 +13909,7 @@
       "bundleName":"comic/comic_singleframe_thumbnail/comic_100", "hash":"39ce0248c4819838daa8f510d22e28d34e6d4a5821b2c28e9e89084a8b09d736", "category":"AsNeeded", "crc":957399239, "fileSize":78903
     },
     "commenthomebanner":{
-      "bundleName":"commenthomebanner", "hash":"9c86c6dfe38d83d5a59e5710cb084c25f4dada8fe80e61e17c2df08a66b4bf30", "category":"AsNeeded", "crc":3172933922, "fileSize":528495
+      "bundleName":"commenthomebanner", "hash":"6cbc3222719e06bb5b1d75799240970ff4dada8fe80e61e17c2df08a66b4bf30", "category":"AsNeeded", "crc":1885322166, "fileSize":546791
     },
     "deco/frame/deco_frame000":{
       "bundleName":"deco/frame/deco_frame000", "hash":"6de76e1676e7eae36fc12a1a5fbaf02d8c18fca8d993c0fd9339ad7d1f365b02", "category":"StartApp", "crc":209500569, "fileSize":4825
@@ -24100,7 +24106,7 @@
       "bundleName":"musicjacket/musicjacket30", "hash":"8261e36dada14935f6902b5fd993d61b143ebb6e52f034c339c72fdf1c814178", "category":"StartApp", "crc":883381750, "fileSize":2215829
     },
     "musicjacket/musicjacket300":{
-      "bundleName":"musicjacket/musicjacket300", "hash":"8969193e61fd5e502b5b1d7991ff3bdb5dd20a074d93d62f5aa2d244ee280e9d", "category":"StartApp", "crc":3316783996, "fileSize":1448856
+      "bundleName":"musicjacket/musicjacket300", "hash":"a81f7f23ce8b011b6b4e946ae5b5a54f5dd20a074d93d62f5aa2d244ee280e9d", "category":"StartApp", "crc":655868627, "fileSize":1506323
     },
     "musicjacket/musicjacket310":{
       "bundleName":"musicjacket/musicjacket310", "hash":"228ea0d70384da09ee7eee10c73b45c561d08ca3db7f6d545b4377f3d3112401", "category":"StartApp", "crc":1587872355, "fileSize":749723
@@ -24205,7 +24211,7 @@
       "bundleName":"musicscore/musicscore30", "hash":"a3afe38cd32c5285ff5e6084aff5dafbc5b27e1ea4e296309ab3e139b04eb514", "category":"StartApp", "crc":3496959551, "fileSize":2604221
     },
     "musicscore/musicscore300":{
-      "bundleName":"musicscore/musicscore300", "hash":"34ced050af58f7696ff0a1fa75e99a14b6fdb8221c0a357ecfbcfe315dad2a81", "category":"StartApp", "crc":965150765, "fileSize":2840137
+      "bundleName":"musicscore/musicscore300", "hash":"e84f078d5068e11167b585b00971a3b4b6fdb8221c0a357ecfbcfe315dad2a81", "category":"StartApp", "crc":1718730284, "fileSize":3066481
     },
     "musicscore/musicscore310":{
       "bundleName":"musicscore/musicscore310", "hash":"1f22c3216a1baf4beae85372be5e534c3727ce6337548f9fd23a0739d9bfadf4", "category":"StartApp", "crc":662662543, "fileSize":2066466
@@ -24234,26 +24240,20 @@
     "newsituationintroduction":{
       "bundleName":"newsituationintroduction", "hash":"11f1b67c4351c3ea05531a3a2362ceb3371e1cd5a30fa8ec4e930b02e45d6abc", "category":"StartApp", "crc":3903003538, "fileSize":991578
     },
-    "newyearholidays/ema/001":{
-      "bundleName":"newyearholidays/ema/001", "hash":"8f1a42c2f254388e47296999833f2dc8686c44b8734b4feada4e92f13f7315d4", "category":"AsNeeded", "crc":2901278137, "fileSize":954109
+    "newyearholidays/broadcastprogram001":{
+      "bundleName":"newyearholidays/broadcastprogram001", "hash":"547da82c4098eee0f0c9ec282d17f7804979335fd483d46e2306e7389c37dcca", "category":"AsNeeded", "crc":3478281782, "fileSize":64626
     },
-    "newyearholidays/ema/002":{
-      "bundleName":"newyearholidays/ema/002", "hash":"55defbcf57363f03c1d2c64590b42d510a20ce71b19386258bef55e922877eed", "category":"AsNeeded", "crc":4200121205, "fileSize":1001654
-    },
-    "newyearholidays/ema/003":{
-      "bundleName":"newyearholidays/ema/003", "hash":"dcecfe975293639241a1dfce666861e210a35e29efa280ae3290f46991a02281", "category":"AsNeeded", "crc":212090467, "fileSize":1047957
-    },
-    "newyearholidays/ema/004":{
-      "bundleName":"newyearholidays/ema/004", "hash":"60c0c992d1197f893791fb5fbbff5dc54d6f080ab7724faacd91a4b203eaf9d7", "category":"AsNeeded", "crc":3981562349, "fileSize":1018178
-    },
-    "newyearholidays/ema/005":{
-      "bundleName":"newyearholidays/ema/005", "hash":"b12b911e223bba38943fb9ee5f3b1c47303d9f80bf716badd31d819943660fda", "category":"AsNeeded", "crc":1537010399, "fileSize":984704
+    "newyearholidays/broadcastprogram002":{
+      "bundleName":"newyearholidays/broadcastprogram002", "hash":"6d32d03903bb1c5d56ccb37302b6e8e34a5adc1e166b0d01ca788ceeab03f281", "category":"AsNeeded", "crc":3022836879, "fileSize":125278
     },
     "newyearholidays/screen/endofyear":{
-      "bundleName":"newyearholidays/screen/endofyear", "hash":"dc8f1437a7d11b65dd5070f01a0f0d28536e3edcbc40c333f026d532e9b2a987", "category":"AsNeeded", "crc":467064803, "fileSize":799671
+      "bundleName":"newyearholidays/screen/endofyear", "hash":"3f05072db4556d12eb84f0c7cc1a785f536e3edcbc40c333f026d532e9b2a987", "category":"AsNeeded", "crc":1768258854, "fileSize":887129
     },
     "newyearholidays/screen/newyear":{
       "bundleName":"newyearholidays/screen/newyear", "hash":"2c5d6cbb14c35f2b6cb6e0d9671e36fb7046bee632382bce071aab10db788635", "category":"AsNeeded", "crc":478346421, "fileSize":1225109
+    },
+    "newyearholidays/slide":{
+      "bundleName":"newyearholidays/slide", "hash":"22616fe340658483a5967245cc1a0d259bc675bda4f7703ebe1759d47730ddfa", "category":"AsNeeded", "crc":2925078157, "fileSize":1439577
     },
     "pickupsituation/1":{
       "bundleName":"pickupsituation/1", "hash":"3380301cb890b8e527cc5c6dba3b5890575eef4567c90046c228c0a8463ed635", "category":"AsNeeded", "crc":4168170998, "fileSize":52309
@@ -29040,6 +29040,9 @@
     "sound/bgm291":{
       "bundleName":"sound/bgm291", "hash":"d34ebd2f7476e0076797c673e9f8fd8160b597acc17911b4d8d900a6e6c598ee", "category":"AsNeeded", "crc":4077840066, "fileSize":3236381
     },
+    "sound/bgm292":{
+      "bundleName":"sound/bgm292", "hash":"3e5c8384f5ef730377a063de0e5074fc851c48a8bdacff7bc635f64ec9530354", "category":"AsNeeded", "crc":2787386268, "fileSize":4038236
+    },
     "sound/bgm293":{
       "bundleName":"sound/bgm293", "hash":"220ae8e5bddefd4410ae2bc41e1afc6f3bda48d406ac066b7b3d49141074a47f", "category":"AsNeeded", "crc":3479061015, "fileSize":3418364
     },
@@ -30271,7 +30274,7 @@
       "bundleName":"sound/voice/backstage/talkset691-700", "hash":"7662a2e525eab7d9da4b1971c8d4d59ad7a824feaa117cce421987b00eb8ddcf", "category":"AdditionalVoice", "crc":2000842456, "fileSize":467427
     },
     "sound/voice/backstage/talkset701-710":{
-      "bundleName":"sound/voice/backstage/talkset701-710", "hash":"5801323c63dbaa620288bea7c35f03f3c984a75b06f613b5d8d6d34e0cf22675", "category":"AdditionalVoice", "crc":2026258488, "fileSize":77711
+      "bundleName":"sound/voice/backstage/talkset701-710", "hash":"9e93f9a72c785f54ca641cc1e282c957c984a75b06f613b5d8d6d34e0cf22675", "category":"AdditionalVoice", "crc":2423528341, "fileSize":1476273
     },
     "sound/voice/backstage/talkset71-80":{
       "bundleName":"sound/voice/backstage/talkset71-80", "hash":"3d3f3d164a7537b4b01b59c74589393da6cea08b5a91d3323999af3cddd583e5", "category":"AdditionalVoice", "crc":939704007, "fileSize":550939
@@ -42628,7 +42631,7 @@
       "bundleName":"wordingcollection", "hash":"ea3355ff3bf00a2b68402e9be08a0b662ca574d4eb8be566c45366309825abe9", "category":"Tutorial", "crc":1630427333, "fileSize":23465
     },
     "worldmap":{
-      "bundleName":"worldmap", "hash":"4182a41a588be5bc4b0ea4caf588ccc3b271b285cc325d5cc5fe52d3ce872847", "category":"StartApp", "crc":51937206, "fileSize":2109860
+      "bundleName":"worldmap", "hash":"4732faca51e4985e35731b9561080d77b271b285cc325d5cc5fe52d3ce872847", "category":"StartApp", "crc":3443582020, "fileSize":2135567
     },
     "worldmap_tutorial":{
       "bundleName":"worldmap_tutorial", "hash":"04f56d7a20195c025433e2d8b323f8b8a69e266bc52229b9ae77010909a1843e", "category":"Tutorial", "crc":3470947655, "fileSize":2093134
