@@ -4601,5 +4601,43 @@
       }
     ],
     "type":"ex_mission"
+  },
+  {
+    "missionGroupId":999, "missionResetType":"daily", "startAt":1609221600000, "endAt":1609426799000, "rewardEndAt":1609441199000, "tabLabel":"カウントダウン", "header":{
+      "url":"mission/mission_201229_LcjmYh.html"
+    },
+    "missionList":[
+      {
+        "missionId":100000001, "transitionMethod":"none", "transitionId":0, "seq":10, "detailList":[
+          {
+            "seq":1, "title":"1日1回ログインしよう", "description":"1日1回ログインしよう", "maxProgress":1, "reward":{
+              "UNKNOWN_1":100000001, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"coin", "resourceId":0, "quantity":10000
+            }
+          }
+        ],
+        "labelType":"daily", "typeIndex":46
+      },
+      {
+        "missionId":100000002, "transitionMethod":"live", "transitionId":0, "seq":20, "valueId":999001, "detailList":[
+          {
+            "seq":1, "title":"バンドルームで1回ライブをクリアしよう", "description":"バンドルームで1回ライブをクリアしよう", "maxProgress":1, "valueId":999001, "reward":{
+              "UNKNOWN_1":100000002, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"item", "resourceId":14, "quantity":1
+            }
+          }
+        ],
+        "labelType":"daily", "typeIndex":6
+      },
+      {
+        "missionId":100000004, "transitionMethod":"live", "transitionId":0, "seq":40, "valueId":999001, "detailList":[
+          {
+            "seq":1, "title":"バンドルームで3回ライブをクリアしよう", "description":"バンドルームで3回ライブをクリアしよう", "maxProgress":3, "valueId":999001, "reward":{
+              "UNKNOWN_1":100000004, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"live_boost_recovery_item", "resourceId":22, "quantity":1
+            }
+          }
+        ],
+        "labelType":"daily", "typeIndex":6
+      }
+    ],
+    "type":"countdown"
   }
 ]
