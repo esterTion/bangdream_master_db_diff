@@ -372,7 +372,7 @@
         "purchaseId":38, "seq":8, "resourceType":"item", "resourceId":12, "quantity":50
       }
     ],
-    "seq":20, "purchaseMenuId":2, "homeBalloonPriority":10, "homeBalloonMessage":"スタートダッシュセット♪", "recommendSeq":0
+    "seq":20, "purchaseMenuId":2, "homeBalloonPriority":25, "homeBalloonMessage":"スタートダッシュセット♪", "recommendSeq":0
   },
   "39":{
     "purchaseId":39, "purchaseCategory":"limited_once_month_item_set", "productName":"キラキラセット", "description":"毎月1回限定のお得なセット", "publishedAt":1567263600000, "closedAt":1569855599000, "detail":[
@@ -666,6 +666,123 @@
       }
     ],
     "seq":23, "purchaseMenuId":4, "homeBalloonPriority":30, "homeBalloonMessage":"お得なスターキャンペーン♪", "recommendSeq":0
+  },
+  "71":{
+    "purchaseId":71, "purchaseCategory":"item_set", "productName":"2021年新春福袋(梅)", "description":"スター1200個と鏡餅(ライブブースト10回復)が入った新年だけのお得なセット！", "purchaseLimit":1, "publishedAt":1609394400000, "closedAt":1610258399000, "detail":[
+      {
+        "purchaseId":71, "seq":1, "resourceType":"paid_star", "quantity":1200
+      },
+      {
+        "purchaseId":71, "seq":2, "resourceType":"live_boost_recovery_item", "resourceId":26, "quantity":1
+      }
+    ],
+    "seq":15, "purchaseMenuId":2, "homeBalloonPriority":10, "homeBalloonMessage":"お正月だけのお得な福袋♪", "recommendSeq":0
+  },
+  "72":{
+    "purchaseId":72, "purchaseCategory":"item_set", "productName":"2021年新春福袋(竹)", "description":"スター4000個や鏡餅(ライブブースト10回復)などが入った新年だけのお得なセット！", "purchaseLimit":1, "publishedAt":1609394400000, "closedAt":1610258399000, "detail":[
+      {
+        "purchaseId":72, "seq":1, "resourceType":"paid_star", "quantity":4000
+      },
+      {
+        "purchaseId":72, "seq":2, "resourceType":"live_boost_recovery_item", "resourceId":26, "quantity":3
+      },
+      {
+        "purchaseId":72, "seq":3, "resourceType":"practice_ticket", "resourceId":4, "quantity":10
+      },
+      {
+        "purchaseId":72, "seq":4, "resourceType":"item", "resourceId":1, "quantity":1000
+      },
+      {
+        "purchaseId":72, "seq":5, "resourceType":"item", "resourceId":2, "quantity":1000
+      },
+      {
+        "purchaseId":72, "seq":6, "resourceType":"item", "resourceId":3, "quantity":1000
+      },
+      {
+        "purchaseId":72, "seq":7, "resourceType":"item", "resourceId":4, "quantity":1000
+      },
+      {
+        "purchaseId":72, "seq":8, "resourceType":"item", "resourceId":5, "quantity":100
+      },
+      {
+        "purchaseId":72, "seq":9, "resourceType":"item", "resourceId":6, "quantity":100
+      },
+      {
+        "purchaseId":72, "seq":10, "resourceType":"item", "resourceId":7, "quantity":100
+      },
+      {
+        "purchaseId":72, "seq":11, "resourceType":"item", "resourceId":8, "quantity":100
+      },
+      {
+        "purchaseId":72, "seq":12, "resourceType":"item", "resourceId":9, "quantity":10
+      },
+      {
+        "purchaseId":72, "seq":13, "resourceType":"item", "resourceId":10, "quantity":10
+      },
+      {
+        "purchaseId":72, "seq":14, "resourceType":"item", "resourceId":11, "quantity":10
+      },
+      {
+        "purchaseId":72, "seq":15, "resourceType":"item", "resourceId":12, "quantity":10
+      }
+    ],
+    "seq":14, "purchaseMenuId":2, "homeBalloonPriority":10, "homeBalloonMessage":"お正月だけのお得な福袋♪", "recommendSeq":0
+  },
+  "73":{
+    "purchaseId":73, "purchaseCategory":"item_set", "productName":"2021年新春福袋(松)", "description":"スター6000個や★３以上確定チケットなどが入った新年だけのお得なセット！", "purchaseLimit":1, "publishedAt":1609394400000, "closedAt":1610258399000, "detail":[
+      {
+        "purchaseId":73, "seq":1, "resourceType":"paid_star", "quantity":6000
+      },
+      {
+        "purchaseId":73, "seq":2, "resourceType":"gacha_ticket", "resourceId":2, "quantity":1
+      },
+      {
+        "purchaseId":73, "seq":3, "resourceType":"live_boost_recovery_item", "resourceId":26, "quantity":5
+      },
+      {
+        "purchaseId":73, "seq":4, "resourceType":"practice_ticket", "resourceId":4, "quantity":21
+      },
+      {
+        "purchaseId":73, "seq":5, "resourceType":"item", "resourceId":14, "quantity":21
+      },
+      {
+        "purchaseId":73, "seq":6, "resourceType":"item", "resourceId":1, "quantity":2100
+      },
+      {
+        "purchaseId":73, "seq":7, "resourceType":"item", "resourceId":2, "quantity":2100
+      },
+      {
+        "purchaseId":73, "seq":8, "resourceType":"item", "resourceId":3, "quantity":2100
+      },
+      {
+        "purchaseId":73, "seq":9, "resourceType":"item", "resourceId":4, "quantity":2100
+      },
+      {
+        "purchaseId":73, "seq":10, "resourceType":"item", "resourceId":5, "quantity":210
+      },
+      {
+        "purchaseId":73, "seq":11, "resourceType":"item", "resourceId":6, "quantity":210
+      },
+      {
+        "purchaseId":73, "seq":12, "resourceType":"item", "resourceId":7, "quantity":210
+      },
+      {
+        "purchaseId":73, "seq":13, "resourceType":"item", "resourceId":8, "quantity":210
+      },
+      {
+        "purchaseId":73, "seq":14, "resourceType":"item", "resourceId":9, "quantity":21
+      },
+      {
+        "purchaseId":73, "seq":15, "resourceType":"item", "resourceId":10, "quantity":21
+      },
+      {
+        "purchaseId":73, "seq":16, "resourceType":"item", "resourceId":11, "quantity":21
+      },
+      {
+        "purchaseId":73, "seq":17, "resourceType":"item", "resourceId":12, "quantity":21
+      }
+    ],
+    "seq":13, "purchaseMenuId":2, "homeBalloonPriority":10, "homeBalloonMessage":"お正月だけのお得な福袋♪", "recommendAssetBundleName":"hukubukuro_2021matsu", "recommendSeq":9
   },
   "102":{
     "purchaseId":102, "purchaseCategory":"star", "productName":"スターB", "description":"[505050FF]３６０個[-]", "publishedAt":1569855600000, "detail":[
