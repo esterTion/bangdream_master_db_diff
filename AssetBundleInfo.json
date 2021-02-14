@@ -1,5 +1,5 @@
 {
-  "version":"4.10.0.400", "bundles":{
+  "version":"4.10.0.500", "bundles":{
     "actionset/group0":{
       "bundleName":"actionset/group0", "hash":"f74bac54dcaa2312fb0f5bd98409e65fbb9fa2f9e157d254bf4c792a14cb05b9", "category":"StartApp", "crc":696391923, "fileSize":15754
     },
@@ -2762,6 +2762,12 @@
     },
     "birthday/lock_2020/topscreen":{
       "bundleName":"birthday/lock_2020/topscreen", "hash":"aade97df6892d8df1ce33d7da8bab3054c586f30566d24070201a2eecf92c1ea", "category":"AsNeeded", "crc":377906622, "fileSize":502440
+    },
+    "birthday/mashiro_2020/openingimages":{
+      "bundleName":"birthday/mashiro_2020/openingimages", "hash":"b2dcf10679a7a5d8cf180fa5508e3a77fba8eb70d157bc7315af2b60fdcc4aef", "category":"AsNeeded", "crc":2865984372, "fileSize":354850
+    },
+    "birthday/mashiro_2020/topscreen":{
+      "bundleName":"birthday/mashiro_2020/topscreen", "hash":"5e7e7886f43db0ed28a5a576b0c279a41661f7a87c27ed298fa64fb418fc7293", "category":"AsNeeded", "crc":862293763, "fileSize":508735
     },
     "birthday/maya_2018/topscreen":{
       "bundleName":"birthday/maya_2018/topscreen", "hash":"fd3d78fd13d6c67c4c4754fcbcd759698ac49b534ebdaef682256a4d932a28c0", "category":"AsNeeded", "crc":3037503288, "fileSize":2523793
@@ -18441,6 +18447,18 @@
       ],
       "fileSize":1590049
     },
+    "gacha/screen/gacha710":{
+      "bundleName":"gacha/screen/gacha710", "hash":"04ad74598c6830b3611a9550ffd5464a801481a22cc60d2b06af26b7e52207cf", "category":"AsNeeded", "crc":298049819, "dependencies":[
+        "effect/common_materials"
+      ],
+      "fileSize":2716346
+    },
+    "gacha/screen/gacha711":{
+      "bundleName":"gacha/screen/gacha711", "hash":"38fcc02718bc371b2943c5628b9805bc71920334c032740987825ff5ef175452", "category":"AsNeeded", "crc":4219341784, "dependencies":[
+        "effect/common_materials"
+      ],
+      "fileSize":1705395
+    },
     "gacha/screen/gacha712":{
       "bundleName":"gacha/screen/gacha712", "hash":"cbe15e24468d575245f9954726792d7f47dcd53f20a56b31deeac2f113129463", "category":"AsNeeded", "crc":3003946692, "dependencies":[
         "effect/common_materials"
@@ -18607,7 +18625,7 @@
       "bundleName":"graphicalinfo/newyear_2020_slide", "hash":"82b0c95c16dec16d6ff54d2981dd5c45b90304f554b96636d885dfeaa460612d", "category":"AsNeeded", "crc":3563270288, "fileSize":329934
     },
     "homebanner":{
-      "bundleName":"homebanner", "hash":"e6ac0767464d406769a8574db32991a7578e1801cf37bea8d19805e333aba690", "category":"StartApp", "crc":1506740266, "fileSize":48971083
+      "bundleName":"homebanner", "hash":"e592817c0dc522e4986338d3c37685f0578e1801cf37bea8d19805e333aba690", "category":"StartApp", "crc":1435553093, "fileSize":49117571
     },
     "ingameskin/bgskin/skin00":{
       "bundleName":"ingameskin/bgskin/skin00", "hash":"c7798cb32bd05bf8ee2e769a6e83a648bb71af161f99855ea24133093d7e43e7", "category":"StartApp", "crc":4273868056, "fileSize":2028214
@@ -28192,31 +28210,31 @@
       "bundleName":"scenario/effects/bandstory3_hello_frame", "hash":"e93d793adceb210dae11de1421ec9f8b4aba0be47e911a1600234bd0fdc8c743", "category":"AsNeeded", "crc":422094905, "fileSize":42505
     },
     "scenario/effects/bandstory3_hello_hagumi":{
-      "bundleName":"scenario/effects/bandstory3_hello_hagumi", "hash":"f493753fa5205b334a7c7feb33eaa62811ec32f3e4db015a496f6928a1f4c294", "category":"AsNeeded", "crc":1326601414, "dependencies":[
+      "bundleName":"scenario/effects/bandstory3_hello_hagumi", "hash":"0f88191b8ef0de65a6d65d907fb52e8711ec32f3e4db015a496f6928a1f4c294", "category":"AsNeeded", "crc":1326601414, "dependencies":[
         "scenario/effects/bandstory3_pastel_eve"
       ],
       "fileSize":4655700
     },
     "scenario/effects/bandstory3_hello_kanon":{
-      "bundleName":"scenario/effects/bandstory3_hello_kanon", "hash":"e3ff3f45fc68b625c67af433df242b60571c2d796a453043c40dc7753c9c56b4", "category":"AsNeeded", "crc":874439437, "dependencies":[
+      "bundleName":"scenario/effects/bandstory3_hello_kanon", "hash":"f6478815db86fc8ce509389544ce66c0571c2d796a453043c40dc7753c9c56b4", "category":"AsNeeded", "crc":874439437, "dependencies":[
         "scenario/effects/bandstory3_pastel_eve"
       ],
       "fileSize":5245073
     },
     "scenario/effects/bandstory3_hello_kaoru":{
-      "bundleName":"scenario/effects/bandstory3_hello_kaoru", "hash":"a0b69e613b16db383b7d3e08d45d345ab67603ee762ec38eeef5255465b39419", "category":"AsNeeded", "crc":1221975039, "dependencies":[
+      "bundleName":"scenario/effects/bandstory3_hello_kaoru", "hash":"28689219764f3667bfa70d03a763a2a4b67603ee762ec38eeef5255465b39419", "category":"AsNeeded", "crc":1221975039, "dependencies":[
         "scenario/effects/bandstory3_pastel_eve"
       ],
       "fileSize":5360124
     },
     "scenario/effects/bandstory3_hello_kokoro":{
-      "bundleName":"scenario/effects/bandstory3_hello_kokoro", "hash":"f2687464b920e5feb689892e712869a07d3bb62126b924b1cb54dfb0d643b475", "category":"AsNeeded", "crc":4047341260, "dependencies":[
+      "bundleName":"scenario/effects/bandstory3_hello_kokoro", "hash":"c5f5674301fc7311912d87534f57642a7d3bb62126b924b1cb54dfb0d643b475", "category":"AsNeeded", "crc":4047341260, "dependencies":[
         "scenario/effects/bandstory3_pastel_eve"
       ],
       "fileSize":4492682
     },
     "scenario/effects/bandstory3_hello_misaki":{
-      "bundleName":"scenario/effects/bandstory3_hello_misaki", "hash":"8ab21b179a8dbe9ac2b2e383ba687fce9fde49d8a40e87ec45dba191088ad781", "category":"AsNeeded", "crc":1444966248, "dependencies":[
+      "bundleName":"scenario/effects/bandstory3_hello_misaki", "hash":"f61a835fa708d20447a14e5997ccfd059fde49d8a40e87ec45dba191088ad781", "category":"AsNeeded", "crc":1444966248, "dependencies":[
         "scenario/effects/bandstory3_pastel_eve"
       ],
       "fileSize":3541852
