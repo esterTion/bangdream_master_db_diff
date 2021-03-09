@@ -1,3 +1,101 @@
-[
-  
-]
+{
+  "144":{
+    "eventId":144, "attributes":[
+      {
+        "eventId":144, "attribute":"powerful", "percent":10
+      }
+    ],
+    "characters":[
+      {
+        "eventId":144, "characterId":2, "percent":20, "seq":3
+      },
+      {
+        "eventId":144, "characterId":8, "percent":20, "seq":1
+      },
+      {
+        "eventId":144, "characterId":10, "percent":20, "seq":5
+      },
+      {
+        "eventId":144, "characterId":13, "percent":20, "seq":4
+      },
+      {
+        "eventId":144, "characterId":15, "percent":20, "seq":2
+      }
+    ],
+    "stories":[
+      {
+        "eventId":144, "seq":0, "caption":"オープニング", "title":"ヘルプ！", "synopsis":"おつかいで北沢精肉店を訪れたひまり。\nそこには悩めるはぐみの姿があって……？", "scenarioId":"event144-01", "coverImage":"144_0", "backgroundImage":"0", "releasePt":0, "releaseConditions":"オープニングシナリオ", "backgroundImageId":331, "rewards":[
+          {
+            "id":2183, "eventId":144, "seq":0, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2184, "eventId":144, "seq":0, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":144, "seq":1, "caption":"第１話", "title":"ミッシェル＆マリー、始動", "synopsis":"ミッシェル＆マリーの活動がスタート！\n順調な滑り出しを見せるが……？", "scenarioId":"event144-02", "coverImage":"144_1", "backgroundImage":"0", "releasePt":3000, "releaseConditions":"3000イベントP達成", "backgroundImageId":17, "rewards":[
+          {
+            "id":2185, "eventId":144, "seq":1, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2186, "eventId":144, "seq":1, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":144, "seq":2, "caption":"第２話", "title":"マリーの受難", "synopsis":"子供達に大人気のマリーは\nいつものようにバク転をねだられて……！？", "scenarioId":"event144-03", "coverImage":"144_2", "backgroundImage":"0", "releasePt":6000, "releaseConditions":"6000イベントP達成", "backgroundImageId":17, "rewards":[
+          {
+            "id":2187, "eventId":144, "seq":2, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2188, "eventId":144, "seq":2, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":144, "seq":3, "caption":"第３話", "title":"元気の源", "synopsis":"予想以上のハードさに疲れ果てるひまり。\nそこにAfterglowの四人が現れ――", "scenarioId":"event144-04", "coverImage":"144_3", "backgroundImage":"0", "releasePt":15000, "releaseConditions":"15000イベントP達成", "backgroundImageId":17, "rewards":[
+          {
+            "id":2189, "eventId":144, "seq":3, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2190, "eventId":144, "seq":3, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":144, "seq":4, "caption":"第４話", "title":"本当の『マリー』になるために", "synopsis":"キグルミについて語り合う美咲とひまり。\nその瞳は輝きに満ちていて――", "scenarioId":"event144-05", "coverImage":"144_4", "backgroundImage":"0", "releasePt":28000, "releaseConditions":"28000イベントP達成", "backgroundImageId":606, "rewards":[
+          {
+            "id":2191, "eventId":144, "seq":4, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2192, "eventId":144, "seq":4, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":144, "seq":5, "caption":"第５話", "title":"すてきなおもいで", "synopsis":"用事を終え駆けつけたはぐみは\nマリーの交代を申し出るが……？", "scenarioId":"event144-06", "coverImage":"144_5", "backgroundImage":"0", "releasePt":40000, "releaseConditions":"40000イベントP達成", "backgroundImageId":606, "rewards":[
+          {
+            "id":2193, "eventId":144, "seq":5, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2194, "eventId":144, "seq":5, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":144, "seq":6, "caption":"エンディング", "title":"相棒", "synopsis":"美咲とひまり。ミッシェルとマリー。\nそれぞれの思いは、穏やかに交差する。", "scenarioId":"event144-07", "coverImage":"144_6", "backgroundImage":"0", "releasePt":55000, "releaseConditions":"55000イベントP達成", "backgroundImageId":607, "rewards":[
+          {
+            "id":2195, "eventId":144, "seq":6, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2196, "eventId":144, "seq":6, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      }
+    ],
+    "eventAttributeAndCharacterBonus":{
+      "eventId":144, "pointPercent":20, "parameterPercent":20
+    }
+  }
+}
