@@ -257,6 +257,9 @@
   "dialog_lackItemGainMethod_button_toLive":{
     "name":"dialog_lackItemGainMethod_button_toLive", "wording":"ライブ"
   },
+  "birthdayGacha_top_omakeSetNote":{
+    "name":"birthdayGacha_top_omakeSetNote", "wording":"[FF3B72]1回ガチャでは獲得できません[-]"
+  },
   "screen_mainTitle_beginnerPanelMission":{
     "name":"screen_mainTitle_beginnerPanelMission", "wording":"初心者パネルチャレンジ"
   },
@@ -415,6 +418,9 @@
   },
   "starShopWindowGarupaPass_differentPlatformMessage":{
     "name":"starShopWindowGarupaPass_differentPlatformMessage", "wording":"[505050]ご利用の端末に対応していないプラットフォームで[-]\\n[505050]有効期間内の「ガルパPASS」があります。[-]\\n[FF3B72]購入いただいたプラットフォームに対応する端末以外では[-]\\n[FF3B72]「購入/更新」の特典と「有効期間中」の特典を受け取ることができません。[-]\\n\\n[505050]ご利用の端末で特典を受け取るには、[-]\\n[505050]１．以前お使いのプラットフォームでの解約を済ませた上で、[-]\\n[505050]有効期間が切れるまでお待ちください。[-]\\n\\n[505050]２．有効期間が切れたあとに、[-]\\n[505050]ご利用の端末に対応するプラットフォームにて、[-]\\n[505050]改めて購入いただく必要があります。[-]\\n\\n[505050]改めて購入いただく場合でも、以前の購入回数は引き継がれます。[-]\\n\\n[FF3B72]有効期間  {0:00}/{1:00}まで[-]"
+  },
+  "birthdayGacha_gachaSealBalloon":{
+    "name":"birthdayGacha_gachaSealBalloon", "wording":"[FF3B72]100枚[-][505050]で交換可能！[-]"
   },
   "dialog_privateRoomEntrance_titleVersus":{
     "name":"dialog_privateRoomEntrance_titleVersus", "wording":"ルーム検索"
@@ -777,7 +783,7 @@
     "name":"area_apper_birthday", "wording":"誕生日エリア会話出現中！"
   },
   "share_birthdayCard_message":{
-    "name":"share_birthdayCard_message", "wording":"本日{0}は、{1}の{2}担当、{3}の誕生日___4p2j___\\n{4}に贈られたバースデーカードはこちら___4pyo___\\nお誕生日おめでとう___4pi6___‼"
+    "name":"share_birthdayCard_message", "wording":"本日{0}は、{1}の{2}担当、{3}の誕生日___4p2j___\\n{4}に贈られたバースデーフォトはこちら___4pyo___\\nお誕生日おめでとう___4pi6___‼"
   },
   "dialog_generalElection_voteBandSelect_title":{
     "name":"dialog_generalElection_voteBandSelect_title", "wording":"投票選択"
@@ -907,6 +913,9 @@
   },
   "dialog_garupaCup2ndEntry_descriptionResult":{
     "name":"dialog_garupaCup2ndEntry_descriptionResult", "wording":"[505050]1次予選ライブはエントリーしなくてもプレイできます。\\n第2回ガルパ杯参加希望の方はエントリーする必要があります。\\n１次予選終了後、合計予選ハイスコアをもとに、\\n地方2次予選の出場者の選出を行います。[-]"
+  },
+  "birthdayPage_shareLabel":{
+    "name":"birthdayPage_shareLabel", "wording":"[FF3B72]SNS[-][505050]でシェア！[-]"
   },
   "dialog_profileConfig_twitterNameShortCode":{
     "name":"dialog_profileConfig_twitterNameShortCode", "wording":"..."
@@ -1295,6 +1304,9 @@
   "word_tweetBandEmoji_poppinParty":{
     "name":"word_tweetBandEmoji_poppinParty", "wording":"4q2Q"
   },
+  "birthdayGacha_top_omakeSet":{
+    "name":"birthdayGacha_top_omakeSet", "wording":"10回ガチャでピンズ獲得"
+  },
   "specialSkinDetail_button_title":{
     "name":"specialSkinDetail_button_title", "wording":"個別設定"
   },
@@ -1474,6 +1486,9 @@
   },
   "dialog_profileFrameSettings_radio_normal":{
     "name":"dialog_profileFrameSettings_radio_normal", "wording":"通常"
+  },
+  "gachaTop_birthdayGachaExtra_description":{
+    "name":"gachaTop_birthdayGachaExtra_description", "wording":"[505050]今回の[-][FF3B72]10回ガチャ[-][505050]で[-]"
   },
   "pickupMember_changeImageButton_toAfter":{
     "name":"pickupMember_changeImageButton_toAfter", "wording":"特訓後に変更"
@@ -2405,6 +2420,9 @@
   "dialog_twitterAuth_getPinButton":{
     "name":"dialog_twitterAuth_getPinButton", "wording":"PINコードを取得"
   },
+  "button_graphicalInfo_birthdayPage":{
+    "name":"button_graphicalInfo_birthdayPage", "wording":"誕生日ページ"
+  },
   "biography_characterProfile_grade":{
     "name":"biography_characterProfile_grade", "wording":"学年"
   },
@@ -2482,6 +2500,9 @@
   },
   "dialog_exMissionHint_progressMusicLevelClear":{
     "name":"dialog_exMissionHint_progressMusicLevelClear", "wording":"楽曲レベル{0}のクリア楽曲数"
+  },
+  "birthdayPage_showBirthdayPhotoButton_label":{
+    "name":"birthdayPage_showBirthdayPhotoButton_label", "wording":"バースデーフォトを見る"
   },
   "header_subTitle_comicSelectFourFrame":{
     "name":"header_subTitle_comicSelectFourFrame", "wording":"もっと！ガルパライフ"
@@ -3309,7 +3330,7 @@
     "name":"mission_transitionButton_boxGacha", "wording":"ごほうび箱"
   },
   "dialog_birthdayCard_title":{
-    "name":"dialog_birthdayCard_title", "wording":"バースデーカード"
+    "name":"dialog_birthdayCard_title", "wording":"バースデーフォト"
   },
   "dialog_unlockAreaItem_contentsText":{
     "name":"dialog_unlockAreaItem_contentsText", "wording":"「{0}」の{1}で\\n「{2}」が\\n購入できるようになりました！"
@@ -3609,7 +3630,7 @@
     "name":"menuList_comic_button", "wording":"コミック"
   },
   "dialog_birthdayCard_info_title":{
-    "name":"dialog_birthdayCard_info_title", "wording":"バースデーカードについて"
+    "name":"dialog_birthdayCard_info_title", "wording":"バースデーフォトについて"
   },
   "button_graphicalInfo_newYear":{
     "name":"button_graphicalInfo_newYear", "wording":"キャンペーンTOP"
@@ -4052,6 +4073,9 @@
   "bandStoryChapterSpecialPage_actionButton_read":{
     "name":"bandStoryChapterSpecialPage_actionButton_read", "wording":"読む"
   },
+  "graphicalInfo_title_birthday2021":{
+    "name":"graphicalInfo_title_birthday2021", "wording":"誕生日特設ページ公開＆誕生日記念ガチャ開催！"
+  },
   "dialog_pendingPurchaseReflectSucceeded_title":{
     "name":"dialog_pendingPurchaseReflectSucceeded_title", "wording":"購入の復元"
   },
@@ -4318,6 +4342,9 @@
   },
   "dialog_profileConfig_tabProfileDesignSettings_moveToSelectPageButton":{
     "name":"dialog_profileConfig_tabProfileDesignSettings_moveToSelectPageButton", "wording":"フレーム・ピンズを変更"
+  },
+  "birthdayPage_showBirthdayStoryAgainButton_label":{
+    "name":"birthdayPage_showBirthdayStoryAgainButton_label", "wording":"誕生日ストーリーを見る"
   },
   "tutorial_slideTitle_specialMusicScore":{
     "name":"tutorial_slideTitle_specialMusicScore", "wording":"難易度SPECIALをプレイしよう！"
