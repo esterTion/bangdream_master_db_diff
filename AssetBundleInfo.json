@@ -1,5 +1,5 @@
 {
-  "version":"5.0.0.210", "bundles":{
+  "version":"5.0.0.300", "bundles":{
     "actionset/group0":{
       "bundleName":"actionset/group0", "hash":"f74bac54dcaa2312fb0f5bd98409e65fbb9fa2f9e157d254bf4c792a14cb05b9", "category":"StartApp", "crc":696391923, "fileSize":15754
     },
@@ -15867,6 +15867,9 @@
     "event/loginbonus/ohmori_release":{
       "bundleName":"event/loginbonus/ohmori_release", "hash":"f8810022c5bc7cfd94b9f87dab08a8dc70186a32b1257f6d367a36051dd8d5b0", "category":"AsNeeded", "crc":1263999035, "fileSize":1438251
     },
+    "event/loginbonus/one_of_us_release":{
+      "bundleName":"event/loginbonus/one_of_us_release", "hash":"7ce6a317e160ccf2b0b4a2a904bba33e67ba8a1ec748c35ff7d4f7bdf8197495", "category":"AsNeeded", "crc":2525646649, "fileSize":1678082
+    },
     "event/loginbonus/pastelpalettes_3rd_1":{
       "bundleName":"event/loginbonus/pastelpalettes_3rd_1", "hash":"0facc2f42139cf747bbde1e0609c8a3e54021a270d5e6831a03ddef7e8718e4b", "category":"AsNeeded", "crc":2870191764, "fileSize":1681806
     },
@@ -19200,6 +19203,12 @@
       ],
       "fileSize":1885061
     },
+    "gacha/screen/gacha745":{
+      "bundleName":"gacha/screen/gacha745", "hash":"2afd170c98910ed53d35c9e9dc35422d4cc2973dab3416f243be0d3663faae55", "category":"AsNeeded", "crc":2694200569, "dependencies":[
+        "effect/common_materials"
+      ],
+      "fileSize":1732979
+    },
     "gacha/spin":{
       "bundleName":"gacha/spin", "hash":"4f55b6c25e8c7c0d1ce857aa365428fbab9a17185e7c6b24419f42393a908dbf", "category":"StartApp", "crc":421721563, "fileSize":2885712
     },
@@ -19369,7 +19378,7 @@
       "bundleName":"graphicalinfo/newyear_2020_slide", "hash":"82b0c95c16dec16d6ff54d2981dd5c45b90304f554b96636d885dfeaa460612d", "category":"AsNeeded", "crc":3563270288, "fileSize":329934
     },
     "homebanner":{
-      "bundleName":"homebanner", "hash":"dc0d48427baed2bec41a3a5731dfe9a9578e1801cf37bea8d19805e333aba690", "category":"StartApp", "crc":1881001872, "fileSize":51068252
+      "bundleName":"homebanner", "hash":"3c9a4951b0cb0774d3d6d69e750b4504578e1801cf37bea8d19805e333aba690", "category":"StartApp", "crc":3845202290, "fileSize":51132853
     },
     "ingameskin/bgskin/skin00":{
       "bundleName":"ingameskin/bgskin/skin00", "hash":"c7798cb32bd05bf8ee2e769a6e83a648bb71af161f99855ea24133093d7e43e7", "category":"StartApp", "crc":4273868056, "fileSize":2028214
@@ -25876,7 +25885,7 @@
       "bundleName":"musicjacket/musicjacket320", "hash":"dbb7fd435f76da030fcb5ecc5828c4a9d92f1e842314b4613e47be965cd59365", "category":"StartApp", "crc":3832365472, "fileSize":1667776
     },
     "musicjacket/musicjacket330":{
-      "bundleName":"musicjacket/musicjacket330", "hash":"fd3d481c2c8d5e43d51ca37aca6ad050e6834f9eb9ec79dd3220eac6aa379498", "category":"StartApp", "crc":150219882, "fileSize":312835
+      "bundleName":"musicjacket/musicjacket330", "hash":"d36a052e1f828b46d1e1e44e37c21ae0e6834f9eb9ec79dd3220eac6aa379498", "category":"StartApp", "crc":715137122, "fileSize":415462
     },
     "musicjacket/musicjacket40":{
       "bundleName":"musicjacket/musicjacket40", "hash":"097452c6af644be56c30b0a5bc790e480d470b96301ad6195da10f9e1ed9727d", "category":"StartApp", "crc":4033880007, "fileSize":1648686
@@ -25978,7 +25987,7 @@
       "bundleName":"musicscore/musicscore30", "hash":"a3afe38cd32c5285ff5e6084aff5dafbc5b27e1ea4e296309ab3e139b04eb514", "category":"StartApp", "crc":3496959551, "fileSize":2604221
     },
     "musicscore/musicscore300":{
-      "bundleName":"musicscore/musicscore300", "hash":"e84f078d5068e11167b585b00971a3b4b6fdb8221c0a357ecfbcfe315dad2a81", "category":"StartApp", "crc":1718730284, "fileSize":3066481
+      "bundleName":"musicscore/musicscore300", "hash":"a72b989970c32eb9e6b307f83a2067cdb6fdb8221c0a357ecfbcfe315dad2a81", "category":"StartApp", "crc":221360978, "fileSize":3072201
     },
     "musicscore/musicscore310":{
       "bundleName":"musicscore/musicscore310", "hash":"65da15ce243b801d2083c89acf7fdea73727ce6337548f9fd23a0739d9bfadf4", "category":"StartApp", "crc":1616470463, "fileSize":3630958
@@ -25987,7 +25996,7 @@
       "bundleName":"musicscore/musicscore320", "hash":"82e133ebc4e372e1f5455d319f580e5c6924263004ea17a184723836cf7454c9", "category":"StartApp", "crc":694208000, "fileSize":2947786
     },
     "musicscore/musicscore330":{
-      "bundleName":"musicscore/musicscore330", "hash":"6b2387082b29f3042e37852ec97bed08febf1d3de32699eac43c74ecf16c2861", "category":"StartApp", "crc":874371826, "fileSize":424606
+      "bundleName":"musicscore/musicscore330", "hash":"34d7f2463ee2542f94605db966b5e86ffebf1d3de32699eac43c74ecf16c2861", "category":"StartApp", "crc":2299694690, "fileSize":782703
     },
     "musicscore/musicscore40":{
       "bundleName":"musicscore/musicscore40", "hash":"a0ae7afc6c878aa3ecf06dd93eaf1414f57b255396121440a7908522839abcd7", "category":"StartApp", "crc":2036672952, "fileSize":2439520
@@ -31238,6 +31247,9 @@
     },
     "sound/bgm322":{
       "bundleName":"sound/bgm322", "hash":"120c49ede1661e17643d300ce01d9007c7990ca9de9c7da5f4b20a464d7a6e2d", "category":"AsNeeded", "crc":3804376968, "fileSize":3935891
+    },
+    "sound/bgm323":{
+      "bundleName":"sound/bgm323", "hash":"78aea523ca4871bddd3d110755c4e6f34e11dc9ff325d0ad0b75ef30f0d16e9b", "category":"AsNeeded", "crc":725222904, "fileSize":3362024
     },
     "sound/common":{
       "bundleName":"sound/common", "hash":"781958abede0f06917d7c65dbeab0362976046ccb221619c8fd6c9c66deeaabe", "category":"StartApp", "crc":3192165004, "fileSize":1210896
@@ -40282,7 +40294,7 @@
       "bundleName":"sound/voice/scenario_tutorial/mainstory26", "hash":"da9dfc13783ae164307ca59fc536d9c421608f22c49d43cc0fbad40cbfb97250", "category":"Tutorial", "crc":2169512967, "fileSize":1243042
     },
     "sound/voice/system":{
-      "bundleName":"sound/voice/system", "hash":"4098eda46ecddb8476894881615bc1819cc8c3324280622329fa89e7625717e0", "category":"AdditionalVoice", "crc":1436878833, "fileSize":39957838
+      "bundleName":"sound/voice/system", "hash":"990934b70150e32f368eb84864700f719cc8c3324280622329fa89e7625717e0", "category":"AdditionalVoice", "crc":1142176767, "fileSize":39931232
     },
     "sound_tutorial/bgm024":{
       "bundleName":"sound_tutorial/bgm024", "hash":"507d2dc05212710fcba1ce136d32db6d82cf156baab2b1145fa7473d888ae844", "category":"Tutorial", "crc":3888861860, "fileSize":4441218
