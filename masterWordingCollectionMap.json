@@ -95,6 +95,9 @@
   "missionDescription_accountSnsInherit_ios":{
     "name":"missionDescription_accountSnsInherit_ios", "wording":"データ引き継ぎ画面からGame Centerとデータ連携をしよう"
   },
+  "dialog_rhythmgameRetire_annotatedLB":{
+    "name":"dialog_rhythmgameRetire_annotatedLB", "wording":"※中断した場合、ライブ報酬を獲得できません。\\n消費したライブブーストも戻りません。"
+  },
   "biography_characterAlbum_notExistMessage":{
     "name":"biography_characterAlbum_notExistMessage", "wording":"絞り込み条件に該当するメンバーがいません。"
   },
@@ -272,6 +275,9 @@
   "dialog_downloadForMVView_message":{
     "name":"dialog_downloadForMVView_message", "wording":"データダウンロード後、MVを再生します。\\nWi-Fi環境でのダウンロードをおすすめします。"
   },
+  "dialog_rhythmgameRetry_body":{
+    "name":"dialog_rhythmgameRetry_body", "wording":"リトライしてライブを最初からプレイしますか？"
+  },
   "dialog_storySelectMusicDialog_title":{
     "name":"dialog_storySelectMusicDialog_title", "wording":"楽曲詳細"
   },
@@ -386,6 +392,9 @@
   "cellHeader_cdLiveReward_completeCount":{
     "name":"cellHeader_cdLiveReward_completeCount", "wording":"{0} 回達成"
   },
+  "dialog_rhythmgameGameOverRetire_body":{
+    "name":"dialog_rhythmgameGameOverRetire_body", "wording":"リタイアしてホーム画面に戻りますか？"
+  },
   "tryLiveEvent_tryLevelReward_cellExtra":{
     "name":"tryLiveEvent_tryLevelReward_cellExtra", "wording":"すべてのEXトライレベル{0}をクリア"
   },
@@ -394,6 +403,9 @@
   },
   "dialog_exMissionFilter_filterFragment":{
     "name":"dialog_exMissionFilter_filterFragment", "wording":"かけら"
+  },
+  "dialog_liveSetting_LightModeBrightness":{
+    "name":"dialog_liveSetting_LightModeBrightness", "wording":"背景の明るさ"
   },
   "dialog_twitterAuth_description":{
     "name":"dialog_twitterAuth_description", "wording":"Twitterと連携するにはPINコードを取得して\\nTwitterとの連携を認証する必要があります。"
@@ -722,9 +734,6 @@
   "dialog_sort_alreadyOwn":{
     "name":"dialog_sort_alreadyOwn", "wording":"獲得済み"
   },
-  "dialog_rhythmgamePause_practiceBody":{
-    "name":"dialog_rhythmgamePause_practiceBody", "wording":"リハーサルを中断してホームに戻りますか？"
-  },
   "randomSelect_SortDialog_levelSort_annotation":{
     "name":"randomSelect_SortDialog_levelSort_annotation", "wording":"※絞り込みをした状態で「ランダム選曲」を行うと、\b絞り込みの中からランダムで選曲されます。"
   },
@@ -757,6 +766,9 @@
   },
   "dialog_exchangetitle_seal":{
     "name":"dialog_exchangetitle_seal", "wording":"このアイテムと交換しますか？"
+  },
+  "dialog_rhythmgamePause_retryableBody":{
+    "name":"dialog_rhythmgamePause_retryableBody", "wording":"ライブを一時停止しました。\nライブを再開しますか？\nまた、リトライで最初からプレイできます。"
   },
   "dialog_garupaPassTermsOfServiceWebViewDialog_title":{
     "name":"dialog_garupaPassTermsOfServiceWebViewDialog_title", "wording":"利用規約"
@@ -814,6 +826,9 @@
   },
   "eventStory_releaseCondition_userRank":{
     "name":"eventStory_releaseCondition_userRank", "wording":"ユーザーのランク{0}で解放"
+  },
+  "dialog_mainBandSetDialog_message":{
+    "name":"dialog_mainBandSetDialog_message", "wording":"{0}はメインバンドに\\n設定されていません。\\n\\nメインバンドに設定しますか？"
   },
   "dialog_liveSettings_tapVibration":{
     "name":"dialog_liveSettings_tapVibration", "wording":"タップ時振動"
@@ -992,6 +1007,9 @@
   "dialog_deckRecommend_priorityMember":{
     "name":"dialog_deckRecommend_priorityMember", "wording":"メンバー"
   },
+  "dialog_areaItemChange_button":{
+    "name":"dialog_areaItemChange_button", "wording":"置き換える"
+  },
   "costumeSelect_defaultCell_cellContent":{
     "name":"costumeSelect_defaultCell_cellContent", "wording":"※メイン設定で編成されていない場合は\\n「{0}」になります。"
   },
@@ -1133,6 +1151,9 @@
   "gachaTop_allMemberGachaStep4_partLabel":{
     "name":"gachaTop_allMemberGachaStep4_partLabel", "wording":"ドラム"
   },
+  "dialog_areaItemEffect_bestCompositionTitle":{
+    "name":"dialog_areaItemEffect_bestCompositionTitle", "wording":"編成バンドに最適なエリアアイテムを設置完了"
+  },
   "dialog_matchingBonus_rewardCaution":{
     "name":"dialog_matchingBonus_rewardCaution", "wording":"※「SNS招待」「近くの人を募集」以外で参加したプレイヤーはカウントされません。\\n※報酬は最大{0}回獲得することが可能です。"
   },
@@ -1156,6 +1177,9 @@
   },
   "newYearCard_checkCardDialog_campaignDetail":{
     "name":"newYearCard_checkCardDialog_campaignDetail", "wording":"キャンペーン詳細"
+  },
+  "dialog_rhythmgameRetry_buttonRetry":{
+    "name":"dialog_rhythmgameRetry_buttonRetry", "wording":"リトライ"
   },
   "dialog_liveSettings_standard":{
     "name":"dialog_liveSettings_standard", "wording":"標準"
@@ -1382,6 +1406,9 @@
   "snsShare_newYearCardTextureTemplete_message":{
     "name":"snsShare_newYearCardTextureTemplete_message", "wording":"#ガルパゆく年くる年___4piA___\\n年賀状キャンペーン___4pyS______4p2j___\\n\\n{0}のみんなから年賀状が届いたよ___4pmq___\\n年賀状はアプリ内で1月10日まで見れます___4pi6___\\n\\n___4pyo___年賀状を見に行く___4qyH___\\nhttps://bit.ly/33jwSL1"
   },
+  "lightMode_illust_random":{
+    "name":"lightMode_illust_random", "wording":"バンドのメンバーからランダム"
+  },
   "generalElection_commentBanner_aggregate":{
     "name":"generalElection_commentBanner_aggregate", "wording":"集計中"
   },
@@ -1393,6 +1420,9 @@
   },
   "dialog_liveSettings_soundTap":{
     "name":"dialog_liveSettings_soundTap", "wording":"タップ音"
+  },
+  "dialog_mainBandSetDialog_checkbox":{
+    "name":"dialog_mainBandSetDialog_checkbox", "wording":"メインバンドに合わせてエリアアイテムを設置"
   },
   "dialog_liveSetting_MVBrightness":{
     "name":"dialog_liveSetting_MVBrightness", "wording":"MVライブモード明るさ"
@@ -1760,6 +1790,9 @@
   "dialog_eventRewardBoxGacha_helpTitle":{
     "name":"dialog_eventRewardBoxGacha_helpTitle", "wording":"{0}とは"
   },
+  "dialog_liveSettings_lightModeCaption":{
+    "name":"dialog_liveSettings_lightModeCaption", "wording":"軽量モード"
+  },
   "tutorial_slideTitle_practiceMode":{
     "name":"tutorial_slideTitle_practiceMode", "wording":"リハーサル機能とは"
   },
@@ -1825,6 +1858,9 @@
   },
   "dialog_itemSetDetail_itemCount":{
     "name":"dialog_itemSetDetail_itemCount", "wording":"×{0}"
+  },
+  "dialog_rhythmgameRetire_body":{
+    "name":"dialog_rhythmgameRetire_body", "wording":"ライブを中断してホーム画面に戻りますか？"
   },
   "eventRewardBoxGacha_settingDialog_AutoStopSubtitle":{
     "name":"eventRewardBoxGacha_settingDialog_AutoStopSubtitle", "wording":"スペシャル枠獲得時の自動停止"
@@ -2141,6 +2177,9 @@
   "eventStory_releaseCondition_bandRank":{
     "name":"eventStory_releaseCondition_bandRank", "wording":"{0}の\\nバンドランク{1}で解放"
   },
+  "dialog_rhythmgameRetry_title":{
+    "name":"dialog_rhythmgameRetry_title", "wording":"リトライ"
+  },
   "word_progressRate_format":{
     "name":"word_progressRate_format", "wording":"{0}/{1}"
   },
@@ -2237,6 +2276,9 @@
   "dialog_April2021StoryAllReadDialog_message":{
     "name":"dialog_April2021StoryAllReadDialog_message", "wording":"ストーリーをもう一度見たい場合は、「特設ページ」内の\\n各メンバーをタップしてください。"
   },
+  "dialog_rhythmgameRetire_title":{
+    "name":"dialog_rhythmgameRetire_title", "wording":"中断"
+  },
   "dialog_gachaSealInheritDialog_title":{
     "name":"dialog_gachaSealInheritDialog_title", "wording":"ガチャシール引き継ぎ"
   },
@@ -2281,6 +2323,9 @@
   },
   "graphicalInformation_goto_collaboOriginalMusicPage":{
     "name":"graphicalInformation_goto_collaboOriginalMusicPage", "wording":"期間限定楽曲へ"
+  },
+  "dialog_mainBandSelected_areaItemChange":{
+    "name":"dialog_mainBandSelected_areaItemChange", "wording":"{0}\\n\\nメインバンドの総合力が最も高くなるように\\nエリアアイテムを置き換えますか？\\n"
   },
   "dialog_generalElection_voteComplete_balloonShare":{
     "name":"dialog_generalElection_voteComplete_balloonShare", "wording":"[FF3B72]初回シェア時[-]\\n[505050]投票券プレゼント[-]"
@@ -2341,6 +2386,9 @@
   },
   "dialog_privacyPolicy_title":{
     "name":"dialog_privacyPolicy_title", "wording":"プライバシーポリシー"
+  },
+  "dialog_bestAreaItemSetDialog_message":{
+    "name":"dialog_bestAreaItemSetDialog_message", "wording":"バンド編成を変更したため、\\nエリアアイテムが最適ではない場合があります。\\n\\n{0}の総合力が最も高くなるように\\nエリアアイテムを置き換えますか？\\n"
   },
   "comicTop_subTitle_comicSelect":{
     "name":"comicTop_subTitle_comicSelect", "wording":"コミック選択"
@@ -2702,6 +2750,9 @@
   "dialog_button_savePicture":{
     "name":"dialog_button_savePicture", "wording":"画像を保存"
   },
+  "lightMode_illust_leader":{
+    "name":"lightMode_illust_leader", "wording":"バンドのリーダーで固定"
+  },
   "missionTitle_accountSnsInherit_ios":{
     "name":"missionTitle_accountSnsInherit_ios", "wording":"データ引き継ぎ画面からGame Centerとデータ連携をしよう"
   },
@@ -2711,8 +2762,14 @@
   "dialog_musicSortFilter_bandOther":{
     "name":"dialog_musicSortFilter_bandOther", "wording":"その他"
   },
+  "dialog_rhythmgamePause_body":{
+    "name":"dialog_rhythmgamePause_body", "wording":"ライブを一時停止しました。\nライブを再開しますか？"
+  },
   "dialog_profileCharacterIllustDone_message":{
     "name":"dialog_profileCharacterIllustDone_message", "wording":"プロフィールイラストを設定しました。"
+  },
+  "dialog_rhythmgameFailed_body":{
+    "name":"dialog_rhythmgameFailed_body", "wording":"ライフがなくなってしまいました。\nライブを最初からプレイしたい場合はリトライを選択してください。\nライブを続きからプレイしたい場合はコンティニューを選択してください。\n※スターを50個消費することで、ライフを全回復してコンティニューできます※"
   },
   "dialog_miracleTicketExchangeSearchFavoriteMember_confirmButton":{
     "name":"dialog_miracleTicketExchangeSearchFavoriteMember_confirmButton", "wording":"探す"
@@ -2827,6 +2884,9 @@
   },
   "gachaTop_stepUpGacha_slash":{
     "name":"gachaTop_stepUpGacha_slash", "wording":"/"
+  },
+  "dialog_rhythmgameGameOver_retryableMessage":{
+    "name":"dialog_rhythmgameGameOver_retryableMessage", "wording":"ライフがなくなってしまいました。\\nスターを{0}個消費して、ライフを全回復した状態でコンティニューしますか？\\nまた、リトライで最初からプレイできます。"
   },
   "word_lottery_hagumiluck":{
     "name":"word_lottery_hagumiluck", "wording":"コロッケ吉"
@@ -3542,6 +3602,9 @@
   "biography_areaTalk_areaTalk":{
     "name":"biography_areaTalk_areaTalk", "wording":"エリアアイテム"
   },
+  "dialog_rhythmgameRetire_annotatedChallengeLive":{
+    "name":"dialog_rhythmgameRetire_annotatedChallengeLive", "wording":"※中断した場合、ライブ報酬を獲得できません。\\n消費したチャレンジPも戻りません。"
+  },
   "dialog_liveSettings_coreMVCharacterCutIn":{
     "name":"dialog_liveSettings_coreMVCharacterCutIn", "wording":"MVライブメンバーカットイン"
   },
@@ -3605,11 +3668,17 @@
   "word_alreadyHaveMember":{
     "name":"word_alreadyHaveMember", "wording":"獲得済みメンバー"
   },
+  "dialog_mainBandSetDialog_title":{
+    "name":"dialog_mainBandSetDialog_title", "wording":"メインバンドの確認"
+  },
   "dialog_loginDLDataDownload_title":{
     "name":"dialog_loginDLDataDownload_title", "wording":"ダウンロード項目を選択"
   },
   "newYearCard_checkCardDialog_captionMessage":{
     "name":"newYearCard_checkCardDialog_captionMessage", "wording":"年賀状が届きました！"
+  },
+  "dialog_liveSettings_lightModeIllust":{
+    "name":"dialog_liveSettings_lightModeIllust", "wording":"軽量モード背景設定"
   },
   "musicSelect_musicNameFilter_columnWA":{
     "name":"musicSelect_musicNameFilter_columnWA", "wording":"わ行"
@@ -3823,6 +3892,9 @@
   },
   "dialog_downloadMV_totalSize":{
     "name":"dialog_downloadMV_totalSize", "wording":"必要な空き容量の合計：{0}"
+  },
+  "dialog_areaShopReplace_replaceButton":{
+    "name":"dialog_areaShopReplace_replaceButton", "wording":"置き換える"
   },
   "musicSelect_randomSelectButton_title_free":{
     "name":"musicSelect_randomSelectButton_title_free", "wording":"ランダム\\n選曲"
@@ -4336,6 +4408,9 @@
   },
   "band_sortingKind_skillType":{
     "name":"band_sortingKind_skillType", "wording":"スキル順"
+  },
+  "dialog_bestAreaItemSetDialog_title":{
+    "name":"dialog_bestAreaItemSetDialog_title", "wording":"エリアアイテムの確認"
   },
   "word_storySeason_season1":{
     "name":"word_storySeason_season1", "wording":"シーズン1"
