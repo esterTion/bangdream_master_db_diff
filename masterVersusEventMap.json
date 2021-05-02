@@ -1,3 +1,164 @@
-[
-  
-]
+{
+  "149":{
+    "eventId":149, "attributes":[
+      {
+        "eventId":149, "attribute":"cool", "percent":10
+      }
+    ],
+    "characters":[
+      {
+        "eventId":149, "characterId":21, "percent":20, "seq":5
+      },
+      {
+        "eventId":149, "characterId":22, "percent":20, "seq":4
+      },
+      {
+        "eventId":149, "characterId":23, "percent":20, "seq":2
+      },
+      {
+        "eventId":149, "characterId":24, "percent":20, "seq":3
+      },
+      {
+        "eventId":149, "characterId":25, "percent":20, "seq":1
+      }
+    ],
+    "stories":[
+      {
+        "eventId":149, "seq":0, "caption":"オープニング", "title":"ためらい", "synopsis":"何やら思い悩んでいる様子の燐子は\nリサに話を聞いて欲しいと切り出し……？", "scenarioId":"event149-01", "coverImage":"149_0", "backgroundImage":"0", "releasePt":0, "releaseConditions":"オープニングシナリオ", "backgroundImageId":23, "rewards":[
+          {
+            "id":2284, "eventId":149, "seq":0, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2285, "eventId":149, "seq":0, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":149, "seq":1, "caption":"第１話", "title":"そして、また", "synopsis":"スタジオ練習に励むRoselia。\n友希那は新曲についての意見を求めるが……", "scenarioId":"event149-02", "coverImage":"149_1", "backgroundImage":"0", "releasePt":1500, "releaseConditions":"1500イベントP達成", "backgroundImageId":33, "rewards":[
+          {
+            "id":2286, "eventId":149, "seq":1, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2287, "eventId":149, "seq":1, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":149, "seq":2, "caption":"第２話", "title":"二度あることは……！？", "synopsis":"決められない自分に思い悩む燐子。\nゲームで息抜きをしようとするが……？", "scenarioId":"event149-03", "coverImage":"149_2", "backgroundImage":"0", "releasePt":4000, "releaseConditions":"4000イベントP達成", "backgroundImageId":259, "rewards":[
+          {
+            "id":2288, "eventId":149, "seq":2, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2289, "eventId":149, "seq":2, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":149, "seq":3, "caption":"第３話", "title":"運命", "synopsis":"リサに誘われ、ショッピングに向かう燐子。\nここでも二者択一が待ち受けていて……？", "scenarioId":"event149-04", "coverImage":"149_3", "backgroundImage":"0", "releasePt":9000, "releaseConditions":"9000イベントP達成", "backgroundImageId":76, "rewards":[
+          {
+            "id":2290, "eventId":149, "seq":3, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2291, "eventId":149, "seq":3, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":149, "seq":4, "caption":"第４話", "title":"どちらでもない答え", "synopsis":"ファミレスを訪れる二人。メニューで悩む\nリサに、燐子が告げたのは……？", "scenarioId":"event149-05", "coverImage":"149_4", "backgroundImage":"0", "releasePt":17500, "releaseConditions":"17500イベントP達成", "backgroundImageId":54, "rewards":[
+          {
+            "id":2292, "eventId":149, "seq":4, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2293, "eventId":149, "seq":4, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":149, "seq":5, "caption":"第５話", "title":"集う心", "synopsis":"授業を終えたリサと友希那。\n話題はやはりあのことで……", "scenarioId":"event149-06", "coverImage":"149_5", "backgroundImage":"0", "releasePt":25000, "releaseConditions":"25000イベントP達成", "backgroundImageId":8, "rewards":[
+          {
+            "id":2294, "eventId":149, "seq":5, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2295, "eventId":149, "seq":5, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":149, "seq":6, "caption":"エンディング", "title":"決断", "synopsis":"迷い、悩み続けた燐子が導き出した\n『自分なりの答え』とは……？", "scenarioId":"event149-07", "coverImage":"149_6", "backgroundImage":"0", "releasePt":35000, "releaseConditions":"35000イベントP達成", "backgroundImageId":363, "rewards":[
+          {
+            "id":2296, "eventId":149, "seq":6, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2297, "eventId":149, "seq":6, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      }
+    ],
+    "musics":[
+      {
+        "eventId":149, "musicId":330, "seq":1, "musicRankingRewards":[
+          {
+            "id":2359, "eventId":149, "musicId":330, "fromRank":1, "toRank":1, "resourceType":"degree", "resourceId":3128, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2360, "eventId":149, "musicId":330, "fromRank":1, "toRank":1, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2361, "eventId":149, "musicId":330, "fromRank":2, "toRank":2, "resourceType":"degree", "resourceId":3129, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2362, "eventId":149, "musicId":330, "fromRank":2, "toRank":2, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2363, "eventId":149, "musicId":330, "fromRank":3, "toRank":3, "resourceType":"degree", "resourceId":3130, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2364, "eventId":149, "musicId":330, "fromRank":3, "toRank":3, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2365, "eventId":149, "musicId":330, "fromRank":4, "toRank":10, "resourceType":"degree", "resourceId":3131, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2366, "eventId":149, "musicId":330, "fromRank":4, "toRank":10, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2367, "eventId":149, "musicId":330, "fromRank":11, "toRank":100, "resourceType":"degree", "resourceId":3132, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2368, "eventId":149, "musicId":330, "fromRank":11, "toRank":100, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2369, "eventId":149, "musicId":330, "fromRank":101, "toRank":1000, "resourceType":"practice_ticket", "resourceId":7, "quantity":5, "recommendFlg":0
+          },
+          {
+            "id":2370, "eventId":149, "musicId":330, "fromRank":1001, "toRank":2000, "resourceType":"practice_ticket", "resourceId":7, "quantity":3, "recommendFlg":0
+          },
+          {
+            "id":2371, "eventId":149, "musicId":330, "fromRank":2001, "toRank":5000, "resourceType":"practice_ticket", "resourceId":7, "quantity":2, "recommendFlg":0
+          },
+          {
+            "id":2372, "eventId":149, "musicId":330, "fromRank":5001, "toRank":10000, "resourceType":"practice_ticket", "resourceId":7, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2373, "eventId":149, "musicId":330, "fromRank":10001, "toRank":20000, "resourceType":"practice_ticket", "resourceId":6, "quantity":5, "recommendFlg":0
+          },
+          {
+            "id":2374, "eventId":149, "musicId":330, "fromRank":20001, "toRank":30000, "resourceType":"practice_ticket", "resourceId":6, "quantity":3, "recommendFlg":0
+          },
+          {
+            "id":2375, "eventId":149, "musicId":330, "fromRank":30001, "toRank":50000, "resourceType":"practice_ticket", "resourceId":6, "quantity":2, "recommendFlg":0
+          },
+          {
+            "id":2376, "eventId":149, "musicId":330, "fromRank":50001, "toRank":100000, "resourceType":"practice_ticket", "resourceId":6, "quantity":1, "recommendFlg":0
+          }
+        ]
+      }
+    ],
+    "eventCharacterParameterBonus":{
+      "eventId":149, "performance":50, "technique":0, "visual":0
+    },
+    "eventAttributeAndCharacterBonus":{
+      "eventId":149, "pointPercent":0, "parameterPercent":20
+    }
+  }
+}
