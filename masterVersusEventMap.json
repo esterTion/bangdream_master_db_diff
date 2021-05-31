@@ -1,3 +1,164 @@
-[
-  
-]
+{
+  "152":{
+    "eventId":152, "attributes":[
+      {
+        "eventId":152, "attribute":"powerful", "percent":10
+      }
+    ],
+    "characters":[
+      {
+        "eventId":152, "characterId":6, "percent":20, "seq":1
+      },
+      {
+        "eventId":152, "characterId":7, "percent":20, "seq":4
+      },
+      {
+        "eventId":152, "characterId":8, "percent":20, "seq":5
+      },
+      {
+        "eventId":152, "characterId":9, "percent":20, "seq":2
+      },
+      {
+        "eventId":152, "characterId":10, "percent":20, "seq":3
+      }
+    ],
+    "stories":[
+      {
+        "eventId":152, "seq":0, "caption":"オープニング", "title":"なんでもない夜", "synopsis":"巴の家でお泊り会をすることになった五人。\nふと、巴があるものを取り出す。", "scenarioId":"event152-01", "coverImage":"152_0", "backgroundImage":"0", "releasePt":0, "releaseConditions":"オープニングシナリオ", "backgroundImageId":120, "rewards":[
+          {
+            "id":2326, "eventId":152, "seq":0, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2327, "eventId":152, "seq":0, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":152, "seq":1, "caption":"第１話", "title":"「願」の章", "synopsis":"朝、ひまりが不思議なランプを持ってくる。\n五人はそれぞれ、ランプに願いをかける。", "scenarioId":"event152-02", "coverImage":"152_1", "backgroundImage":"0", "releasePt":1500, "releaseConditions":"1500イベントP達成", "backgroundImageId":5, "rewards":[
+          {
+            "id":2328, "eventId":152, "seq":1, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2329, "eventId":152, "seq":1, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":152, "seq":2, "caption":"第２話", "title":"「乗」の章", "synopsis":"朝、つぐみが生徒会の仕事をしている。\nつぐみがチェックしていたのは……", "scenarioId":"event152-03", "coverImage":"152_2", "backgroundImage":"0", "releasePt":4000, "releaseConditions":"4000イベントP達成", "backgroundImageId":10, "rewards":[
+          {
+            "id":2330, "eventId":152, "seq":2, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2331, "eventId":152, "seq":2, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":152, "seq":3, "caption":"第３話", "title":"「扉」の章", "synopsis":"CiRCLEの片隅にあった不思議な扉。\nその向こうに広がっていたものは……", "scenarioId":"event152-04", "coverImage":"152_3", "backgroundImage":"0", "releasePt":9000, "releaseConditions":"9000イベントP達成", "backgroundImageId":28, "rewards":[
+          {
+            "id":2332, "eventId":152, "seq":3, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2333, "eventId":152, "seq":3, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":152, "seq":4, "caption":"第４話", "title":"「永」の章", "synopsis":"そこは過去であり、現在であり、未来。\n蘭は夢を見る。", "scenarioId":"event152-05", "coverImage":"152_4", "backgroundImage":"0", "releasePt":17500, "releaseConditions":"17500イベントP達成", "backgroundImageId":72, "rewards":[
+          {
+            "id":2334, "eventId":152, "seq":4, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2335, "eventId":152, "seq":4, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":152, "seq":5, "caption":"第５話", "title":"「夕」の章", "synopsis":"蘭は夢から醒める。\nけれどまだ、二人は夢を見ている。", "scenarioId":"event152-06", "coverImage":"152_5", "backgroundImage":"0", "releasePt":25000, "releaseConditions":"25000イベントP達成", "backgroundImageId":527, "rewards":[
+          {
+            "id":2336, "eventId":152, "seq":5, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2337, "eventId":152, "seq":5, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":152, "seq":6, "caption":"エンディング", "title":"なんでもない朝", "synopsis":"夢が終わる。\nそして、朝がやってくる。", "scenarioId":"event152-07", "coverImage":"152_6", "backgroundImage":"0", "releasePt":35000, "releaseConditions":"35000イベントP達成", "backgroundImageId":5, "rewards":[
+          {
+            "id":2338, "eventId":152, "seq":6, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2339, "eventId":152, "seq":6, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      }
+    ],
+    "musics":[
+      {
+        "eventId":152, "musicId":340, "seq":1, "musicRankingRewards":[
+          {
+            "id":2377, "eventId":152, "musicId":340, "fromRank":1, "toRank":1, "resourceType":"degree", "resourceId":3189, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2378, "eventId":152, "musicId":340, "fromRank":1, "toRank":1, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2379, "eventId":152, "musicId":340, "fromRank":2, "toRank":2, "resourceType":"degree", "resourceId":3190, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2380, "eventId":152, "musicId":340, "fromRank":2, "toRank":2, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2381, "eventId":152, "musicId":340, "fromRank":3, "toRank":3, "resourceType":"degree", "resourceId":3191, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2382, "eventId":152, "musicId":340, "fromRank":3, "toRank":3, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2383, "eventId":152, "musicId":340, "fromRank":4, "toRank":10, "resourceType":"degree", "resourceId":3192, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2384, "eventId":152, "musicId":340, "fromRank":4, "toRank":10, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2385, "eventId":152, "musicId":340, "fromRank":11, "toRank":100, "resourceType":"degree", "resourceId":3193, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2386, "eventId":152, "musicId":340, "fromRank":11, "toRank":100, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2387, "eventId":152, "musicId":340, "fromRank":101, "toRank":1000, "resourceType":"practice_ticket", "resourceId":7, "quantity":5, "recommendFlg":0
+          },
+          {
+            "id":2388, "eventId":152, "musicId":340, "fromRank":1001, "toRank":2000, "resourceType":"practice_ticket", "resourceId":7, "quantity":3, "recommendFlg":0
+          },
+          {
+            "id":2389, "eventId":152, "musicId":340, "fromRank":2001, "toRank":5000, "resourceType":"practice_ticket", "resourceId":7, "quantity":2, "recommendFlg":0
+          },
+          {
+            "id":2390, "eventId":152, "musicId":340, "fromRank":5001, "toRank":10000, "resourceType":"practice_ticket", "resourceId":7, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2391, "eventId":152, "musicId":340, "fromRank":10001, "toRank":20000, "resourceType":"practice_ticket", "resourceId":6, "quantity":5, "recommendFlg":0
+          },
+          {
+            "id":2392, "eventId":152, "musicId":340, "fromRank":20001, "toRank":30000, "resourceType":"practice_ticket", "resourceId":6, "quantity":3, "recommendFlg":0
+          },
+          {
+            "id":2393, "eventId":152, "musicId":340, "fromRank":30001, "toRank":50000, "resourceType":"practice_ticket", "resourceId":6, "quantity":2, "recommendFlg":0
+          },
+          {
+            "id":2394, "eventId":152, "musicId":340, "fromRank":50001, "toRank":100000, "resourceType":"practice_ticket", "resourceId":6, "quantity":1, "recommendFlg":0
+          }
+        ]
+      }
+    ],
+    "eventCharacterParameterBonus":{
+      "eventId":152, "performance":0, "technique":0, "visual":50
+    },
+    "eventAttributeAndCharacterBonus":{
+      "eventId":152, "pointPercent":0, "parameterPercent":20
+    }
+  }
+}
