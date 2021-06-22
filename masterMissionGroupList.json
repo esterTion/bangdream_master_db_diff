@@ -6408,329 +6408,106 @@
     "type":"ex_mission"
   },
   {
-    "missionGroupId":520, "missionResetType":"none", "startAt":1622786400000, "endAt":1624168799000, "rewardEndAt":1624168799000, "tabLabel":"期間限定", "header":{
-      "assetBundleName":"home_live_mission", "url":"mission/mission_210604_QVfYwg.html"
-    },
-    "missionList":[
+    "missionGroupId":521, "missionResetType":"none", "startAt":1624168800000, "endAt":1624881599000, "rewardEndAt":1625032799000, "eventId":154, "homeEffectType":"collabo", "tabLabel":"コラボ", "missionList":[
       {
-        "missionId":10000106, "transitionMethod":"live", "transitionId":0, "seq":10, "detailList":[
+        "missionId":10000095, "transitionMethod":"none", "seq":10, "detailList":[
           {
-            "seq":1, "title":"Poppin'Partyの楽曲を1回クリアしよう", "description":"Poppin'Partyの楽曲を1回クリアしよう", "maxProgress":1, "valueId":200005, "reward":{
-              "UNKNOWN_1":10000106, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":50
-            }
-          }
-        ],
-        "labelText":"特別", "typeIndex":30
-      },
-      {
-        "missionId":10000107, "transitionMethod":"live", "transitionId":0, "seq":20, "detailList":[
-          {
-            "seq":1, "title":"Poppin'Partyの楽曲を3回クリアしよう", "description":"Poppin'Partyの楽曲を3回クリアしよう", "maxProgress":3, "valueId":200005, "reward":{
-              "UNKNOWN_1":10000107, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"practice_ticket", "resourceId":39, "quantity":1
-            }
-          }
-        ],
-        "labelText":"特別", "typeIndex":30
-      },
-      {
-        "missionId":10000108, "transitionMethod":"live", "transitionId":0, "seq":30, "detailList":[
-          {
-            "seq":1, "title":"Poppin'Partyの楽曲を5回クリアしよう", "description":"Poppin'Partyの楽曲を5回クリアしよう", "maxProgress":5, "valueId":200005, "reward":{
-              "UNKNOWN_1":10000108, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":50
-            }
-          }
-        ],
-        "labelText":"特別", "typeIndex":30
-      },
-      {
-        "missionId":10000109, "transitionMethod":"live", "transitionId":0, "seq":40, "detailList":[
-          {
-            "seq":1, "title":"Poppin'Partyの楽曲を10回クリアしよう", "description":"Poppin'Partyの楽曲を10回クリアしよう", "maxProgress":10, "valueId":200005, "reward":{
-              "UNKNOWN_1":10000109, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"practice_ticket", "resourceId":39, "quantity":1
-            }
-          }
-        ],
-        "labelText":"特別", "typeIndex":30
-      },
-      {
-        "missionId":10000110, "transitionMethod":"live", "transitionId":0, "seq":50, "detailList":[
-          {
-            "seq":1, "title":"Afterglowの楽曲を1回クリアしよう", "description":"Afterglowの楽曲を1回クリアしよう", "maxProgress":1, "valueId":200006, "reward":{
-              "UNKNOWN_1":10000110, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":50
-            }
-          }
-        ],
-        "labelText":"特別", "typeIndex":30
-      },
-      {
-        "missionId":10000111, "transitionMethod":"live", "transitionId":0, "seq":60, "detailList":[
-          {
-            "seq":1, "title":"Afterglowの楽曲を3回クリアしよう", "description":"Afterglowの楽曲を3回クリアしよう", "maxProgress":3, "valueId":200006, "reward":{
-              "UNKNOWN_1":10000111, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"practice_ticket", "resourceId":40, "quantity":1
-            }
-          }
-        ],
-        "labelText":"特別", "typeIndex":30
-      },
-      {
-        "missionId":10000112, "transitionMethod":"live", "transitionId":0, "seq":70, "detailList":[
-          {
-            "seq":1, "title":"Afterglowの楽曲を5回クリアしよう", "description":"Afterglowの楽曲を5回クリアしよう", "maxProgress":5, "valueId":200006, "reward":{
-              "UNKNOWN_1":10000112, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":50
-            }
-          }
-        ],
-        "labelText":"特別", "typeIndex":30
-      },
-      {
-        "missionId":10000113, "transitionMethod":"live", "transitionId":0, "seq":80, "detailList":[
-          {
-            "seq":1, "title":"Afterglowの楽曲を10回クリアしよう", "description":"Afterglowの楽曲を10回クリアしよう", "maxProgress":10, "valueId":200006, "reward":{
-              "UNKNOWN_1":10000113, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"practice_ticket", "resourceId":40, "quantity":1
-            }
-          }
-        ],
-        "labelText":"特別", "typeIndex":30
-      },
-      {
-        "missionId":10000114, "transitionMethod":"live", "transitionId":0, "seq":90, "detailList":[
-          {
-            "seq":1, "title":"Pastel＊Palettesの楽曲を1回クリアしよう", "description":"Pastel＊Palettesの楽曲を1回クリアしよう", "maxProgress":1, "valueId":200007, "reward":{
-              "UNKNOWN_1":10000114, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":50
-            }
-          }
-        ],
-        "labelText":"特別", "typeIndex":30
-      },
-      {
-        "missionId":10000115, "transitionMethod":"live", "transitionId":0, "seq":100, "detailList":[
-          {
-            "seq":1, "title":"Pastel＊Palettesの楽曲を3回クリアしよう", "description":"Pastel＊Palettesの楽曲を3回クリアしよう", "maxProgress":3, "valueId":200007, "reward":{
-              "UNKNOWN_1":10000115, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"practice_ticket", "resourceId":42, "quantity":1
-            }
-          }
-        ],
-        "labelText":"特別", "typeIndex":30
-      },
-      {
-        "missionId":10000116, "transitionMethod":"live", "transitionId":0, "seq":110, "detailList":[
-          {
-            "seq":1, "title":"Pastel＊Palettesの楽曲を5回クリアしよう", "description":"Pastel＊Palettesの楽曲を5回クリアしよう", "maxProgress":5, "valueId":200007, "reward":{
-              "UNKNOWN_1":10000116, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":50
-            }
-          }
-        ],
-        "labelText":"特別", "typeIndex":30
-      },
-      {
-        "missionId":10000117, "transitionMethod":"live", "transitionId":0, "seq":120, "detailList":[
-          {
-            "seq":1, "title":"Pastel＊Palettesの楽曲を10回クリアしよう", "description":"Pastel＊Palettesの楽曲を10回クリアしよう", "maxProgress":10, "valueId":200007, "reward":{
-              "UNKNOWN_1":10000117, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"practice_ticket", "resourceId":42, "quantity":1
-            }
-          }
-        ],
-        "labelText":"特別", "typeIndex":30
-      },
-      {
-        "missionId":10000118, "transitionMethod":"live", "transitionId":0, "seq":130, "detailList":[
-          {
-            "seq":1, "title":"Roseliaの楽曲を1回クリアしよう", "description":"Roseliaの楽曲を1回クリアしよう", "maxProgress":1, "valueId":200008, "reward":{
-              "UNKNOWN_1":10000118, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":50
-            }
-          }
-        ],
-        "labelText":"特別", "typeIndex":30
-      },
-      {
-        "missionId":10000119, "transitionMethod":"live", "transitionId":0, "seq":140, "detailList":[
-          {
-            "seq":1, "title":"Roseliaの楽曲を3回クリアしよう", "description":"Roseliaの楽曲を3回クリアしよう", "maxProgress":3, "valueId":200008, "reward":{
-              "UNKNOWN_1":10000119, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"practice_ticket", "resourceId":43, "quantity":1
-            }
-          }
-        ],
-        "labelText":"特別", "typeIndex":30
-      },
-      {
-        "missionId":10000120, "transitionMethod":"live", "transitionId":0, "seq":150, "detailList":[
-          {
-            "seq":1, "title":"Roseliaの楽曲を5回クリアしよう", "description":"Roseliaの楽曲を5回クリアしよう", "maxProgress":5, "valueId":200008, "reward":{
-              "UNKNOWN_1":10000120, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":50
-            }
-          }
-        ],
-        "labelText":"特別", "typeIndex":30
-      },
-      {
-        "missionId":10000121, "transitionMethod":"live", "transitionId":0, "seq":160, "detailList":[
-          {
-            "seq":1, "title":"Roseliaの楽曲を10回クリアしよう", "description":"Roseliaの楽曲を10回クリアしよう", "maxProgress":10, "valueId":200008, "reward":{
-              "UNKNOWN_1":10000121, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"practice_ticket", "resourceId":43, "quantity":1
-            }
-          }
-        ],
-        "labelText":"特別", "typeIndex":30
-      },
-      {
-        "missionId":10000122, "transitionMethod":"live", "transitionId":0, "seq":170, "detailList":[
-          {
-            "seq":1, "title":"ハロー、ハッピーワールド！の楽曲を1回クリアしよう", "description":"ハロー、ハッピーワールド！の楽曲を1回クリアしよう", "maxProgress":1, "valueId":200009, "reward":{
-              "UNKNOWN_1":10000122, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":50
-            }
-          }
-        ],
-        "labelText":"特別", "typeIndex":30
-      },
-      {
-        "missionId":10000123, "transitionMethod":"live", "transitionId":0, "seq":180, "detailList":[
-          {
-            "seq":1, "title":"ハロー、ハッピーワールド！の楽曲を3回クリアしよう", "description":"ハロー、ハッピーワールド！の楽曲を3回クリアしよう", "maxProgress":3, "valueId":200009, "reward":{
-              "UNKNOWN_1":10000123, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"practice_ticket", "resourceId":41, "quantity":1
-            }
-          }
-        ],
-        "labelText":"特別", "typeIndex":30
-      },
-      {
-        "missionId":10000124, "transitionMethod":"live", "transitionId":0, "seq":190, "detailList":[
-          {
-            "seq":1, "title":"ハロー、ハッピーワールド！の楽曲を5回クリアしよう", "description":"ハロー、ハッピーワールド！の楽曲を5回クリアしよう", "maxProgress":5, "valueId":200009, "reward":{
-              "UNKNOWN_1":10000124, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":50
-            }
-          }
-        ],
-        "labelText":"特別", "typeIndex":30
-      },
-      {
-        "missionId":10000125, "transitionMethod":"live", "transitionId":0, "seq":200, "detailList":[
-          {
-            "seq":1, "title":"ハロー、ハッピーワールド！の楽曲を10回クリアしよう", "description":"ハロー、ハッピーワールド！の楽曲を10回クリアしよう", "maxProgress":10, "valueId":200009, "reward":{
-              "UNKNOWN_1":10000125, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"practice_ticket", "resourceId":41, "quantity":1
-            }
-          }
-        ],
-        "labelText":"特別", "typeIndex":30
-      },
-      {
-        "missionId":10000126, "transitionMethod":"live", "transitionId":0, "seq":210, "detailList":[
-          {
-            "seq":1, "title":"Morfonicaの楽曲を1回クリアしよう", "description":"Morfonicaの楽曲を1回クリアしよう", "maxProgress":1, "valueId":200001, "reward":{
-              "UNKNOWN_1":10000126, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":50
-            }
-          }
-        ],
-        "labelText":"特別", "typeIndex":30
-      },
-      {
-        "missionId":10000127, "transitionMethod":"live", "transitionId":0, "seq":220, "detailList":[
-          {
-            "seq":1, "title":"Morfonicaの楽曲を3回クリアしよう", "description":"Morfonicaの楽曲を3回クリアしよう", "maxProgress":3, "valueId":200001, "reward":{
-              "UNKNOWN_1":10000127, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"practice_ticket", "resourceId":44, "quantity":1
-            }
-          }
-        ],
-        "labelText":"特別", "typeIndex":30
-      },
-      {
-        "missionId":10000128, "transitionMethod":"live", "transitionId":0, "seq":230, "detailList":[
-          {
-            "seq":1, "title":"Morfonicaの楽曲を5回クリアしよう", "description":"Morfonicaの楽曲を5回クリアしよう", "maxProgress":5, "valueId":200001, "reward":{
-              "UNKNOWN_1":10000128, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":50
-            }
-          }
-        ],
-        "labelText":"特別", "typeIndex":30
-      },
-      {
-        "missionId":10000129, "transitionMethod":"live", "transitionId":0, "seq":240, "detailList":[
-          {
-            "seq":1, "title":"Morfonicaの楽曲を10回クリアしよう", "description":"Morfonicaの楽曲を10回クリアしよう", "maxProgress":10, "valueId":200001, "reward":{
-              "UNKNOWN_1":10000129, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"practice_ticket", "resourceId":44, "quantity":1
-            }
-          }
-        ],
-        "labelText":"特別", "typeIndex":30
-      },
-      {
-        "missionId":10000130, "transitionMethod":"live", "transitionId":0, "seq":250, "detailList":[
-          {
-            "seq":1, "title":"RAISE A SUILENの楽曲を1回クリアしよう", "description":"RAISE A SUILENの楽曲を1回クリアしよう", "maxProgress":1, "valueId":200021, "reward":{
-              "UNKNOWN_1":10000130, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":50
-            }
-          }
-        ],
-        "labelText":"特別", "typeIndex":30
-      },
-      {
-        "missionId":10000131, "transitionMethod":"live", "transitionId":0, "seq":260, "detailList":[
-          {
-            "seq":1, "title":"RAISE A SUILENの楽曲を3回クリアしよう", "description":"RAISE A SUILENの楽曲を3回クリアしよう", "maxProgress":3, "valueId":200021, "reward":{
-              "UNKNOWN_1":10000131, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"practice_ticket", "resourceId":50, "quantity":1
-            }
-          }
-        ],
-        "labelText":"特別", "typeIndex":30
-      },
-      {
-        "missionId":10000132, "transitionMethod":"live", "transitionId":0, "seq":270, "detailList":[
-          {
-            "seq":1, "title":"RAISE A SUILENの楽曲を5回クリアしよう", "description":"RAISE A SUILENの楽曲を5回クリアしよう", "maxProgress":5, "valueId":200021, "reward":{
-              "UNKNOWN_1":10000132, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":50
-            }
-          }
-        ],
-        "labelText":"特別", "typeIndex":30
-      },
-      {
-        "missionId":10000133, "transitionMethod":"live", "transitionId":0, "seq":280, "detailList":[
-          {
-            "seq":1, "title":"RAISE A SUILENの楽曲を10回クリアしよう", "description":"RAISE A SUILENの楽曲を10回クリアしよう", "maxProgress":10, "valueId":200021, "reward":{
-              "UNKNOWN_1":10000133, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"practice_ticket", "resourceId":50, "quantity":1
-            }
-          }
-        ],
-        "labelText":"特別", "typeIndex":30
-      },
-      {
-        "missionId":10000134, "transitionMethod":"none", "transitionId":0, "seq":290, "detailList":[
-          {
-            "seq":1, "title":"おうちでたくさんライブを楽しもう！ミッションをすべてクリアしよう", "description":"おうちでたくさんライブを楽しもう！ミッションをすべてクリアしよう", "maxProgress":31, "reward":{
-              "UNKNOWN_1":10000134, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":300
+            "seq":1, "title":"全てのコラボミッションをクリアしよう", "description":"全てのコラボミッションをクリアしよう", "maxProgress":9, "reward":{
+              "UNKNOWN_1":10000095, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"degree_set", "resourceId":1, "quantity":1
             }
           }
         ],
         "labelText":"特別", "typeIndex":44
       },
       {
-        "missionId":10000135, "transitionMethod":"live", "transitionId":0, "seq":281, "detailList":[
+        "missionId":10000096, "transitionMethod":"event_top", "transitionId":154, "seq":20, "detailList":[
           {
-            "seq":1, "title":"ライブを10回クリアしよう", "description":"ライブを10回クリアしよう", "maxProgress":10, "reward":{
-              "UNKNOWN_1":10000135, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"live_boost_recovery_item", "resourceId":2, "quantity":1
+            "seq":1, "title":"イベントストーリーのオープニングを読もう", "description":"イベントTOPに移動して、イベントストーリーのオープニングを読もう", "maxProgress":1, "valueId":200062, "reward":{
+              "UNKNOWN_1":10000096, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"live_boost_recovery_item", "resourceId":32, "quantity":1
             }
           }
         ],
-        "labelText":"特別", "typeIndex":40
+        "labelText":"特別", "typeIndex":45
       },
       {
-        "missionId":10000136, "transitionMethod":"live", "transitionId":0, "seq":282, "detailList":[
+        "missionId":10000097, "transitionMethod":"live", "transitionId":0, "seq":30, "detailList":[
           {
-            "seq":1, "title":"ライブを30回クリアしよう", "description":"ライブを30回クリアしよう", "maxProgress":30, "reward":{
-              "UNKNOWN_1":10000136, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"live_boost_recovery_item", "resourceId":2, "quantity":1
+            "seq":1, "title":"カバー楽曲「徒花ネクロマンシー」を1回クリアしよう", "description":"フリーライブもしくは、協力ライブの楽曲選択画面で「徒花ネクロマンシー」を選択してライブをクリアしよう", "maxProgress":1, "valueId":200063, "reward":{
+              "UNKNOWN_1":10000097, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"costume", "resourceId":1178, "quantity":1
             }
           }
         ],
-        "labelText":"特別", "typeIndex":40
+        "labelText":"特別", "typeIndex":28
       },
       {
-        "missionId":10000137, "transitionMethod":"live", "transitionId":0, "seq":283, "detailList":[
+        "missionId":10000098, "transitionMethod":"event_badge_exchange", "transitionId":154, "seq":40, "detailList":[
           {
-            "seq":1, "title":"ライブを50回クリアしよう", "description":"ライブを50回クリアしよう", "maxProgress":50, "reward":{
-              "UNKNOWN_1":10000137, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"live_boost_recovery_item", "resourceId":2, "quantity":1
+            "seq":1, "title":"水玉リボン交換所でアイテムを交換しよう", "description":"交換所の水玉リボン交換所で、アイテムを1個交換しよう", "maxProgress":1, "valueId":200064, "reward":{
+              "UNKNOWN_1":10000098, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"live_boost_recovery_item", "resourceId":32, "quantity":1
             }
           }
         ],
-        "labelText":"特別", "typeIndex":40
+        "labelText":"特別", "typeIndex":41
+      },
+      {
+        "missionId":10000099, "transitionMethod":"live", "transitionId":0, "seq":50, "detailList":[
+          {
+            "seq":1, "title":"コラボスタンプを使おう", "description":"協力ライブで、「レアスタンプ」タブにあるコラボスタンプ5種のうち、いずれかを使おう", "maxProgress":1, "valueId":200065, "reward":{
+              "UNKNOWN_1":10000099, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":50
+            }
+          }
+        ],
+        "labelText":"特別", "typeIndex":84
+      },
+      {
+        "missionId":10000101, "transitionMethod":"event_badge_exchange", "transitionId":154, "seq":70, "detailList":[
+          {
+            "seq":1, "title":"水玉リボン交換所でコラボピンズを交換しよう", "description":"交換所の水玉リボン交換所で、コラボピンズを交換しよう", "maxProgress":1, "valueId":200066, "reward":{
+              "UNKNOWN_1":10000101, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":50
+            }
+          }
+        ],
+        "labelText":"特別", "typeIndex":41
+      },
+      {
+        "missionId":10000102, "transitionMethod":"event_top", "transitionId":154, "seq":80, "detailList":[
+          {
+            "seq":1, "title":"累計イベントPボーナスで★3[サムライゾンビ]若宮イヴを獲得しよう", "description":"フリーライブもしくは、協力ライブでイベントPを集めて、累計イベントP100000の報酬★3[サムライゾンビ]若宮イヴを獲得しよう", "maxProgress":100000, "valueId":200068, "reward":{
+              "UNKNOWN_1":10000102, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":50
+            }
+          }
+        ],
+        "labelText":"特別", "typeIndex":39
+      },
+      {
+        "missionId":10000103, "transitionMethod":"event_top", "transitionId":154, "seq":90, "detailList":[
+          {
+            "seq":1, "title":"イベントストーリーを全話読もう", "description":"イベントTOPに移動して、イベントストーリーを最後まで読もう", "maxProgress":7, "valueId":200069, "reward":{
+              "UNKNOWN_1":10000103, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":50
+            }
+          }
+        ],
+        "labelText":"特別", "typeIndex":45
+      },
+      {
+        "missionId":10000104, "transitionMethod":"event_top", "transitionId":154, "seq":100, "detailList":[
+          {
+            "seq":1, "title":"累計イベントPボーナスで★3[フヘヘゾンビ]大和麻弥を獲得しよう", "description":"フリーライブもしくは、協力ライブでイベントPを集めて、累計イベントP150000の報酬★3[フヘヘゾンビ]大和麻弥を獲得しよう", "maxProgress":150000, "valueId":200070, "reward":{
+              "UNKNOWN_1":10000104, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":50
+            }
+          }
+        ],
+        "labelText":"特別", "typeIndex":39
+      },
+      {
+        "missionId":10000105, "transitionMethod":"event_badge_exchange", "transitionId":154, "seq":110, "detailList":[
+          {
+            "seq":1, "title":"水玉リボン交換所でコラボピンズを全て交換しよう", "description":"交換所の水玉リボン交換所で、コラボピンズを全て交換しよう", "maxProgress":5, "valueId":200071, "reward":{
+              "UNKNOWN_1":10000105, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":50
+            }
+          }
+        ],
+        "labelText":"特別", "typeIndex":41
       }
     ],
     "type":"limited"
