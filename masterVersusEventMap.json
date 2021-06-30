@@ -1,3 +1,164 @@
-[
-  
-]
+{
+  "155":{
+    "eventId":155, "attributes":[
+      {
+        "eventId":155, "attribute":"pure", "percent":10
+      }
+    ],
+    "characters":[
+      {
+        "eventId":155, "characterId":3, "percent":20, "seq":5
+      },
+      {
+        "eventId":155, "characterId":4, "percent":20, "seq":4
+      },
+      {
+        "eventId":155, "characterId":7, "percent":20, "seq":1
+      },
+      {
+        "eventId":155, "characterId":11, "percent":20, "seq":2
+      },
+      {
+        "eventId":155, "characterId":22, "percent":20, "seq":3
+      }
+    ],
+    "stories":[
+      {
+        "eventId":155, "seq":0, "caption":"オープニング", "title":"ひまわり畑はどこにある？", "synopsis":"いつものようにパンを買いに来たモカ。\n沙綾は何やらお悩み中で――", "scenarioId":"event155-01", "coverImage":"155_0", "backgroundImage":"0", "releasePt":0, "releaseConditions":"オープニングシナリオ", "backgroundImageId":64, "rewards":[
+          {
+            "id":2368, "eventId":155, "seq":0, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2369, "eventId":155, "seq":0, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":155, "seq":1, "caption":"第１話", "title":"風のあつまる海のまち", "synopsis":"写真集にあった田舎町にやってきた一同。\nひまわり畑の手がかりを探していると――", "scenarioId":"event155-02", "coverImage":"155_1", "backgroundImage":"0", "releasePt":3000, "releaseConditions":"3000イベントP達成", "backgroundImageId":715, "rewards":[
+          {
+            "id":2370, "eventId":155, "seq":1, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2371, "eventId":155, "seq":1, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":155, "seq":2, "caption":"第２話", "title":"堤防にて", "synopsis":"紗夜に連れられて海沿いに到着したモカ達。\nしばし思い思いの時間を過ごす。", "scenarioId":"event155-03", "coverImage":"155_2", "backgroundImage":"0", "releasePt":8000, "releaseConditions":"8000イベントP達成", "backgroundImageId":714, "rewards":[
+          {
+            "id":2372, "eventId":155, "seq":2, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2373, "eventId":155, "seq":2, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":155, "seq":3, "caption":"第３話", "title":"廃線の先に待つもの", "synopsis":"森の中に佇む廃駅を発見した一行。\n廃線の先には、なにやら古いトンネルが。", "scenarioId":"event155-04", "coverImage":"155_3", "backgroundImage":"0", "releasePt":18000, "releaseConditions":"18000イベントP達成", "backgroundImageId":533, "rewards":[
+          {
+            "id":2374, "eventId":155, "seq":3, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2375, "eventId":155, "seq":3, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":155, "seq":4, "caption":"第４話", "title":"モカちゃんスタイル炸裂", "synopsis":"つかの間の休息をとる一同。\nひまわり畑を探すこころに、モカは――", "scenarioId":"event155-05", "coverImage":"155_4", "backgroundImage":"0", "releasePt":35000, "releaseConditions":"35000イベントP達成", "backgroundImageId":490, "rewards":[
+          {
+            "id":2376, "eventId":155, "seq":4, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2377, "eventId":155, "seq":4, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":155, "seq":5, "caption":"第５話", "title":"歩調をあわせて", "synopsis":"徐々に日が傾いてくる。\nひまわり畑探しを諦めようとしたその時――", "scenarioId":"event155-06", "coverImage":"155_5", "backgroundImage":"0", "releasePt":50000, "releaseConditions":"50000イベントP達成", "backgroundImageId":97, "rewards":[
+          {
+            "id":2378, "eventId":155, "seq":5, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2379, "eventId":155, "seq":5, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":155, "seq":6, "caption":"エンディング", "title":"小さな大発見", "synopsis":"モカとこころに追いついた沙綾達。\nそこに広がっていたものは――", "scenarioId":"event155-07", "coverImage":"155_6", "backgroundImage":"0", "releasePt":70000, "releaseConditions":"70000イベントP達成", "backgroundImageId":533, "rewards":[
+          {
+            "id":2380, "eventId":155, "seq":6, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2381, "eventId":155, "seq":6, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      }
+    ],
+    "musics":[
+      {
+        "eventId":155, "musicId":345, "seq":1, "musicRankingRewards":[
+          {
+            "id":2449, "eventId":155, "musicId":345, "fromRank":1, "toRank":1, "resourceType":"degree", "resourceId":3355, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2450, "eventId":155, "musicId":345, "fromRank":1, "toRank":1, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2451, "eventId":155, "musicId":345, "fromRank":2, "toRank":2, "resourceType":"degree", "resourceId":3356, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2452, "eventId":155, "musicId":345, "fromRank":2, "toRank":2, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2453, "eventId":155, "musicId":345, "fromRank":3, "toRank":3, "resourceType":"degree", "resourceId":3357, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2454, "eventId":155, "musicId":345, "fromRank":3, "toRank":3, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2455, "eventId":155, "musicId":345, "fromRank":4, "toRank":10, "resourceType":"degree", "resourceId":3358, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2456, "eventId":155, "musicId":345, "fromRank":4, "toRank":10, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2457, "eventId":155, "musicId":345, "fromRank":11, "toRank":100, "resourceType":"degree", "resourceId":3359, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2458, "eventId":155, "musicId":345, "fromRank":11, "toRank":100, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2459, "eventId":155, "musicId":345, "fromRank":101, "toRank":1000, "resourceType":"practice_ticket", "resourceId":7, "quantity":5, "recommendFlg":0
+          },
+          {
+            "id":2460, "eventId":155, "musicId":345, "fromRank":1001, "toRank":2000, "resourceType":"practice_ticket", "resourceId":7, "quantity":3, "recommendFlg":0
+          },
+          {
+            "id":2461, "eventId":155, "musicId":345, "fromRank":2001, "toRank":5000, "resourceType":"practice_ticket", "resourceId":7, "quantity":2, "recommendFlg":0
+          },
+          {
+            "id":2462, "eventId":155, "musicId":345, "fromRank":5001, "toRank":10000, "resourceType":"practice_ticket", "resourceId":7, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2463, "eventId":155, "musicId":345, "fromRank":10001, "toRank":20000, "resourceType":"practice_ticket", "resourceId":6, "quantity":5, "recommendFlg":0
+          },
+          {
+            "id":2464, "eventId":155, "musicId":345, "fromRank":20001, "toRank":30000, "resourceType":"practice_ticket", "resourceId":6, "quantity":3, "recommendFlg":0
+          },
+          {
+            "id":2465, "eventId":155, "musicId":345, "fromRank":30001, "toRank":50000, "resourceType":"practice_ticket", "resourceId":6, "quantity":2, "recommendFlg":0
+          },
+          {
+            "id":2466, "eventId":155, "musicId":345, "fromRank":50001, "toRank":100000, "resourceType":"practice_ticket", "resourceId":6, "quantity":1, "recommendFlg":0
+          }
+        ]
+      }
+    ],
+    "eventCharacterParameterBonus":{
+      "eventId":155, "performance":0, "technique":0, "visual":50
+    },
+    "eventAttributeAndCharacterBonus":{
+      "eventId":155, "pointPercent":0, "parameterPercent":20
+    }
+  }
+}
