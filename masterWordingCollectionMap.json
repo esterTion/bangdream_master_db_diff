@@ -41,6 +41,9 @@
   "dialog_confirmViewMV_message":{
     "name":"dialog_confirmViewMV_message", "wording":"[505050]MVを再生します。\\nよろしいですか？[-]\\n\\n[FF3B72]MV再生モード画質設定：{0}[-]"
   },
+  "button_garupaCupEntry_entryDone":{
+    "name":"button_garupaCupEntry_entryDone", "wording":"エントリー済み"
+  },
   "dialog_situationTrainingPreTraining_message2":{
     "name":"dialog_situationTrainingPreTraining_message2", "wording":"※一致しないキャラやバンド用の\\nスキル練習チケットが選択されています。"
   },
@@ -52,6 +55,9 @@
   },
   "dialog_mvSelect_caption":{
     "name":"dialog_mvSelect_caption", "wording":"MV選択"
+  },
+  "garupaCup_topTeamEntry_you":{
+    "name":"garupaCup_topTeamEntry_you", "wording":"YOU"
   },
   "dialog_multi_existsSamePassword":{
     "name":"dialog_multi_existsSamePassword", "wording":"同じ番号のルームが存在します\\nもう一度ルーム作成をお願いします"
@@ -97,6 +103,9 @@
   },
   "dialog_liveClearAPIError_notStartedLive":{
     "name":"dialog_liveClearAPIError_notStartedLive", "wording":"通信が切断されました。\\nなお、ライブ結果は正常に反映されております。\\n\\nライブ結果が反映されていない場合は、\\nお問い合わせください。"
+  },
+  "garupaCup_topTeamEntry_buttonInput":{
+    "name":"garupaCup_topTeamEntry_buttonInput", "wording":"ID入力"
   },
   "dialog_specialLotteryResult_title":{
     "name":"dialog_specialLotteryResult_title", "wording":"おみくじキャンペーンプレゼント"
@@ -227,6 +236,9 @@
   "word_high":{
     "name":"word_high", "wording":"高"
   },
+  "dialog_GarupaCupTeamUnestablished_annotation2":{
+    "name":"dialog_GarupaCupTeamUnestablished_annotation2", "wording":"一緒に参加するプレイヤー全員が、ガルパ杯TOPページの\n「チーム戦」よりそれぞれ他2名のIDを登録し、\n3名の登録内容が一致するとチームが成立します。\n\n入力をしてもチームが成立しない場合は、\n同じチームの他プレイヤー含め、\nIDが正しく入力されていることをご確認ください。"
+  },
   "dialog_liveSettings_toDefault":{
     "name":"dialog_liveSettings_toDefault", "wording":"デフォルトに戻す"
   },
@@ -236,14 +248,23 @@
   "transitionButton_button_profile":{
     "name":"transitionButton_button_profile", "wording":"プロフィール"
   },
+  "garupaCup_playerIdSearchDialog_description":{
+    "name":"garupaCup_playerIdSearchDialog_description", "wording":"プレイヤーのIDを入力してください。"
+  },
   "dialog_event_characterAlbum_text_unable":{
     "name":"dialog_event_characterAlbum_text_unable", "wording":"イベント「{0}」の新メンバーです。\\n現在、開催中のイベント、及び\\nミッシェルシール交換所では獲得できません。"
+  },
+  "garupaCup_teamMemberApplyCancelFinishDialog_title":{
+    "name":"garupaCup_teamMemberApplyCancelFinishDialog_title", "wording":"取り消し完了"
   },
   "eventStory_event_limitedTimeFormat":{
     "name":"eventStory_event_limitedTimeFormat", "wording":"yyyy/MM/dd〜"
   },
   "tryLiveEvent_tryTargetDialogCell_levelDiv":{
     "name":"tryLiveEvent_tryTargetDialogCell_levelDiv", "wording":"/"
+  },
+  "garupaCup_topTeamEntry_description":{
+    "name":"garupaCup_topTeamEntry_description", "wording":"チーム成立後にチームメンバーの変更や\\nチームの解散をすることはできません。"
   },
   "word_countdownLiveSpecialPage_broadCastRemaind":{
     "name":"word_countdownLiveSpecialPage_broadCastRemaind", "wording":"[505050]結果は[FF3B72]現在放送中[505050]の\\n生放送内にて先行公開！"
@@ -253,6 +274,9 @@
   },
   "dialog_liveSettings_feverMode":{
     "name":"dialog_liveSettings_feverMode", "wording":"FEVER演出"
+  },
+  "dialog_garupaCupEntry_teamEntryButton":{
+    "name":"dialog_garupaCupEntry_teamEntryButton", "wording":"チーム戦にエントリー"
   },
   "dialog_movieSkip_title":{
     "name":"dialog_movieSkip_title", "wording":"スキップ"
@@ -311,6 +335,9 @@
   "newYearCard_preparationDialog_bandReselectButton":{
     "name":"newYearCard_preparationDialog_bandReselectButton", "wording":"バンドを\\n選択し直す"
   },
+  "dialog_garupaCupTeamEntryConfirmDialog_title":{
+    "name":"dialog_garupaCupTeamEntryConfirmDialog_title", "wording":"チーム戦にエントリー"
+  },
   "dialog_mvViewPause_title":{
     "name":"dialog_mvViewPause_title", "wording":"一時中断"
   },
@@ -352,6 +379,9 @@
   },
   "dialog_downloadSize":{
     "name":"dialog_downloadSize", "wording":"ダウンロードサイズ"
+  },
+  "garupaCup_topTeamEntry_buttonCancel":{
+    "name":"garupaCup_topTeamEntry_buttonCancel", "wording":"取り消し"
   },
   "dialog_sort_characterAlbum_training_all":{
     "name":"dialog_sort_characterAlbum_training_all", "wording":"すべて"
@@ -422,6 +452,9 @@
   "biography_characterProfile_buttonEpisode2":{
     "name":"biography_characterProfile_buttonEpisode2", "wording":"自己紹介エピソード2"
   },
+  "dialog_garupaCupEntry_selectAnnotation":{
+    "name":"dialog_garupaCupEntry_selectAnnotation", "wording":"エントリーする大会種別を選択してください。"
+  },
   "area_apper_birthday":{
     "name":"area_apper_birthday", "wording":"誕生日エリア会話出現中！"
   },
@@ -470,8 +503,14 @@
   "dialog_downloadForMVLive_message":{
     "name":"dialog_downloadForMVLive_message", "wording":"データダウンロード後、ライブを開始します。\\nWi-Fi環境でのダウンロードをおすすめします。"
   },
+  "dialog_GarupaCupTeamUnestablished_title":{
+    "name":"dialog_GarupaCupTeamUnestablished_title", "wording":"チームの成立について"
+  },
   "dialog_profileFrameSettings_radio_band":{
     "name":"dialog_profileFrameSettings_radio_band", "wording":"バンド"
+  },
+  "dialog_garupaCupEntry_description":{
+    "name":"dialog_garupaCupEntry_description", "wording":"[505050]ガルパ杯参加希望の方は[-][FF3B72]1次予選ライブを1回以上プレイした上で\nエントリー[-][505050]を行ってください。\n1次予選終了後、合計予選ハイスコアをもとに、\n2次予選の出場者の選出を行います。[-]"
   },
   "eventResult_eventItemOverrideBase":{
     "name":"eventResult_eventItemOverrideBase", "wording":"獲得"
@@ -488,11 +527,11 @@
   "dialog_starRecall_title":{
     "name":"dialog_starRecall_title", "wording":"返金分有償スター回収"
   },
-  "dialog_garupaCup2ndEntry_descriptionResult":{
-    "name":"dialog_garupaCup2ndEntry_descriptionResult", "wording":"[505050]1次予選ライブはエントリーしなくてもプレイできます。\\n第2回ガルパ杯参加希望の方はエントリーする必要があります。\\n１次予選終了後、合計予選ハイスコアをもとに、\\n地方2次予選の出場者の選出を行います。[-]"
-  },
   "dialog_profileConfig_twitterNameShortCode":{
     "name":"dialog_profileConfig_twitterNameShortCode", "wording":"..."
+  },
+  "dialog_garupaCupClosed_message":{
+    "name":"dialog_garupaCupClosed_message", "wording":"開催期間が終了しました。"
   },
   "gacha_top_spinButtonLock_once_a_day_over_the_3_star_once":{
     "name":"gacha_top_spinButtonLock_once_a_day_over_the_3_star_once", "wording":"本日分は\\n引き終わりました。"
@@ -842,6 +881,9 @@
   "eventStory_releaseCondition_allBandRank":{
     "name":"eventStory_releaseCondition_allBandRank", "wording":"全てのバンドの\\nバンドランク{0}以上で解放"
   },
+  "dialog_garupaCupEntry_entryAnnotation":{
+    "name":"dialog_garupaCupEntry_entryAnnotation", "wording":"予選通過者は合計予選ハイスコアが高い順に決まり、ハイスコアが同じ場合は\nスコア記録先着順に決まります。エントリー日時は選出に影響されません。\n個人戦・チーム戦両方にエントリーすることもできます。"
+  },
   "eventRewardBoxGacha_autoStopDialog_summary":{
     "name":"eventRewardBoxGacha_autoStopDialog_summary", "wording":"スペシャル枠の{0}を獲得したため\\n交換を停止しました。"
   },
@@ -911,6 +953,9 @@
   "dialog_exMissionHint_captionMission":{
     "name":"dialog_exMissionHint_captionMission", "wording":"ミッション"
   },
+  "garupaCup_aboutSatisfiedTeamDialog_title":{
+    "name":"garupaCup_aboutSatisfiedTeamDialog_title", "wording":"チームの成立について"
+  },
   "dialog_gachaSealDetailInformation_titleExpiredChangeResource":{
     "name":"dialog_gachaSealDetailInformation_titleExpiredChangeResource", "wording":"今回のガチャシール変換について"
   },
@@ -925,6 +970,9 @@
   },
   "word_album":{
     "name":"word_album", "wording":"アルバム"
+  },
+  "garupaCup_PlayerIdRegisterDialog_content":{
+    "name":"garupaCup_PlayerIdRegisterDialog_content", "wording":"このプレイヤーを登録しますか？"
   },
   "dialog_eventRewardBoxGacha_helpTitle":{
     "name":"dialog_eventRewardBoxGacha_helpTitle", "wording":"{0}とは"
@@ -964,6 +1012,9 @@
   },
   "newYearHolidaysPage_endOfYear_bandSelectPeriod":{
     "name":"newYearHolidaysPage_endOfYear_bandSelectPeriod", "wording":"バンド選択期間 {0}まで"
+  },
+  "garupaCup_playerIdRegisterDialog_title":{
+    "name":"garupaCup_playerIdRegisterDialog_title", "wording":"プレイヤーID登録"
   },
   "dialog_starRecall_paidStarRecall":{
     "name":"dialog_starRecall_paidStarRecall", "wording":"回収有償スター"
@@ -1139,9 +1190,6 @@
   "dialog_degreeSetDetail_title":{
     "name":"dialog_degreeSetDetail_title", "wording":"称号詳細"
   },
-  "dialog_garupaCup2ndEntry_descriptionTop":{
-    "name":"dialog_garupaCup2ndEntry_descriptionTop", "wording":"[505050]1次予選ライブはエントリーしなくてもプレイできます。\\n第2回ガルパ杯参加希望の方は[-][FF3B72]1次予選ライブを1回以上プレイした上で、\\nエントリー[-][505050]する必要があります。\\n1次予選終了後、合計予選ハイスコアをもとに、\\n地方2次予選の出場者の選出を行います。[-]"
-  },
   "dialog_decksort_membersort":{
     "name":"dialog_decksort_membersort", "wording":"メンバー並べ替え"
   },
@@ -1160,11 +1208,11 @@
   "biography_backstage_notExist":{
     "name":"biography_backstage_notExist", "wording":"該当するラウンジ会話がありません。"
   },
+  "dialog_garupaCupTeamEntryConfirmDialog_annotation":{
+    "name":"dialog_garupaCupTeamEntryConfirmDialog_annotation", "wording":"チーム戦に出場するには、一緒に参加するプレイヤー全員が\\nそれぞれエントリーを行う必要があります。"
+  },
   "share_birthdayCard_hashTag":{
     "name":"share_birthdayCard_hashTag", "wording":"#バンドリ #ガルパ #{0}誕生日"
-  },
-  "dialog_garupaCup2ndEntry_confirm":{
-    "name":"dialog_garupaCup2ndEntry_confirm", "wording":"第2回ガルパ杯にエントリーしますか？"
   },
   "word_lottery_ruiluck":{
     "name":"word_lottery_ruiluck", "wording":"効率吉"
@@ -1463,6 +1511,9 @@
   "graphicalInfo_title_ras":{
     "name":"graphicalInfo_title_ras", "wording":"RAISE A SUILEN 登場！"
   },
+  "garupaCup_aboutSatisfiedTeamDialog_content":{
+    "name":"garupaCup_aboutSatisfiedTeamDialog_content", "wording":"[505050]チーム戦にエントリーするには、チームの成立が必要となります。\n\n一緒に参加するプレイヤー全員が、それぞれ他2名のIDを登録し、\n3名の登録内容が一致するとチームが成立します。\n\nチームが成立すると各プレイヤーのスコアを確認できるようになります。[-]\n\n[FF3B72]チーム成立後にチームメンバーの変更や\nチームの解散をすることはできません。[-]"
+  },
   "biography_characterProfile_buttonEpisode":{
     "name":"biography_characterProfile_buttonEpisode", "wording":"自己紹介エピソード"
   },
@@ -1727,6 +1778,9 @@
   "generalElection_balloon_resultReport":{
     "name":"generalElection_balloon_resultReport", "wording":"最終順位\\n発表中！"
   },
+  "garupaCup_tutorialSlideSecond_title":{
+    "name":"garupaCup_tutorialSlideSecond_title", "wording":"ガルパ杯 2次予選に参加しよう！"
+  },
   "dialog_specialSkinDetailSetting_description":{
     "name":"dialog_specialSkinDetailSetting_description", "wording":"「適用しない」を選択することで、該当項目のライブスキンを\n　個別に設定することができます。"
   },
@@ -1753,6 +1807,9 @@
   },
   "gachaTop_haveTicket":{
     "name":"gachaTop_haveTicket", "wording":"所持数"
+  },
+  "dialog_garupaCupEntryConfirmDialog_userNameFormat":{
+    "name":"dialog_garupaCupEntryConfirmDialog_userNameFormat", "wording":"プレイヤー名：{0}"
   },
   "word_requiredStorageSizePlayMovie_format":{
     "name":"word_requiredStorageSizePlayMovie_format", "wording":"再生に必要な空き容量：{0}以上"
@@ -1871,6 +1928,9 @@
   "dialog_sealExchange_filterAll":{
     "name":"dialog_sealExchange_filterAll", "wording":"すべて"
   },
+  "garupaCup_teamMemberApplyCancelFinishDialog_content":{
+    "name":"garupaCup_teamMemberApplyCancelFinishDialog_content", "wording":"プレイヤーの登録を取り消しました。"
+  },
   "dialog_garupaPassNoNeedRestore_message":{
     "name":"dialog_garupaPassNoNeedRestore_message", "wording":"「購入の復元」の必要が無い、または以前購入いただいた\\nプラットフォームIDと一致しないため、\\n「購入の復元」ができませんでした。\\n\\nご利用中のプラットフォームIDとプレイヤーIDをご確認ください。"
   },
@@ -1924,6 +1984,9 @@
   },
   "dialog_liveBonusDescription_message":{
     "name":"dialog_liveBonusDescription_message", "wording":"■デイリーライブボーナス\n1日1回、ライブをクリアした時に、複数のアイテムから1つ選んで獲得できます。\nアイテムはあらかじめ選択しておくこともでき、受け取り時のアイテム選択を省略することができます。\n毎日4:00にライブボーナスの獲得状況がリセットされ、また獲得できるようになります。\nフリーライブ、協力ライブ、対バンライブ、チャレンジライブ等、いずれかのライブで1日につき1回のみ獲得できます。\nリハーサル機能、デモプレイ機能では獲得できません。\n\n■累計ライブボーナス\nデイリーライブボーナスを7回受け取ると、累計ライブボーナスを獲得できます。\nデイリーライブボーナスの受け取りが途中で途切れても累計ライブボーナスの達成度はリセットされません。"
+  },
+  "dialog_garupaCupEntryEnded_message":{
+    "name":"dialog_garupaCupEntryEnded_message", "wording":"エントリー期間が終了しました。"
   },
   "privateRoom_lineInviteCode_message":{
     "name":"privateRoom_lineInviteCode_message", "wording":"一緒に{0}をしよう___4pyo___\\n下記リンクから、招待したプレイヤーが作成した{1}に参加することができるよ___4pi6___\\n{2}"
@@ -2060,6 +2123,9 @@
   "word_publishContentFinished":{
     "name":"word_publishContentFinished", "wording":"公開期間は終了しました。\nタイトルに戻ります。"
   },
+  "garupaCup_playerIdSearchDialog_title":{
+    "name":"garupaCup_playerIdSearchDialog_title", "wording":"プレイヤーID入力"
+  },
   "word_mission":{
     "name":"word_mission", "wording":"ミッション"
   },
@@ -2111,6 +2177,9 @@
   "word_countdownLiveSpecialPage_LastHourMessageNormal":{
     "name":"word_countdownLiveSpecialPage_LastHourMessageNormal", "wording":"ラスト3時間！\\nみんなで年越しを楽しもう！\\n結果は0:10に公開！"
   },
+  "garupaCup_teamMemberApplicationcancelDialog_cancel":{
+    "name":"garupaCup_teamMemberApplicationcancelDialog_cancel", "wording":"取り消し"
+  },
   "bandStoryChapterSpecialPage_tab_mvAndPrecedingStory":{
     "name":"bandStoryChapterSpecialPage_tab_mvAndPrecedingStory", "wording":"3章予告 / 先行公開"
   },
@@ -2128,6 +2197,9 @@
   },
   "specialMusic_coin_detail":{
     "name":"specialMusic_coin_detail", "wording":"期間限定!!10周年を迎えた\\n第2期fripSideが歌う\\n「final phase」でライブしよう♪"
+  },
+  "garupaCup_teamMemberApplicationcancelDialog_content":{
+    "name":"garupaCup_teamMemberApplicationcancelDialog_content", "wording":"このプレイヤーの登録を取り消しますか？"
   },
   "dialog_event_characterAlbum_open":{
     "name":"dialog_event_characterAlbum_open", "wording":"イベントへ"
@@ -2432,6 +2504,9 @@
   "dialog_starShop_penalty":{
     "name":"dialog_starShop_penalty", "wording":"課金停止中です。"
   },
+  "dialog_rhythmgameRetire_garupaCup3rdBody":{
+    "name":"dialog_rhythmgameRetire_garupaCup3rdBody", "wording":"ライブを中断してガルパ杯TOPページに戻りますか？"
+  },
   "dialog_panelmission_description":{
     "name":"dialog_panelmission_description", "wording":"プレゼントを受け取りました！"
   },
@@ -2452,6 +2527,9 @@
   },
   "worldMap_areaIcon_timelineTalkAppearance":{
     "name":"worldMap_areaIcon_timelineTalkAppearance", "wording":"特別会話出現中！"
+  },
+  "dialog_garupaCupClosed_backTitle":{
+    "name":"dialog_garupaCupClosed_backTitle", "wording":"タイトルに戻ります。"
   },
   "dialog_sort_captionSkill":{
     "name":"dialog_sort_captionSkill", "wording":"スキル絞り込み"
@@ -2482,6 +2560,9 @@
   },
   "dialog_profileDesignSelect_changedCaution":{
     "name":"dialog_profileDesignSelect_changedCaution", "wording":"変更されたデコレーションがあります。\\n設定せずに他の画面へ移動しても\\nよろしいですか？"
+  },
+  "garupaCup_PlayerIdRegisterDialog_description":{
+    "name":"garupaCup_PlayerIdRegisterDialog_description", "wording":"[FF3B72]チーム成立後にチームメンバーの変更や\\nチームの解散をすることはできません。[-]"
   },
   "newYearCard_bandSelectDialog_title":{
     "name":"newYearCard_bandSelectDialog_title", "wording":"バンドを選択"
@@ -2516,6 +2597,9 @@
   "dialog_favoriteStampEdit_saveMessage":{
     "name":"dialog_favoriteStampEdit_saveMessage", "wording":"スタンプを設定しました。\\nルーム選択画面に戻ります。"
   },
+  "garupaCup_duplicateMemberInputErrorDialog_content":{
+    "name":"garupaCup_duplicateMemberInputErrorDialog_content", "wording":"既に登録されているプレイヤーIDです。"
+  },
   "dialog_rhythmgameGameOverRetire_body":{
     "name":"dialog_rhythmgameGameOverRetire_body", "wording":"リタイアしてホーム画面に戻りますか？"
   },
@@ -2527,6 +2611,9 @@
   },
   "dialog_eventRewardBoxGacha_rewardListAttention":{
     "name":"dialog_eventRewardBoxGacha_rewardListAttention", "wording":"スペシャル枠の{0}を獲得すると、すべての{0}を\\n獲得しなくても次の{0}箱へ進むことができます。"
+  },
+  "dialog_garupaCupEntryConfirmDialog_userIDFormat":{
+    "name":"dialog_garupaCupEntryConfirmDialog_userIDFormat", "wording":"ID：{0}"
   },
   "dialog_demoPlaySelect_message":{
     "name":"dialog_demoPlaySelect_message", "wording":"デモプレイとはライブが自動で進行する機能です。\\nタップのタイミングなどを確認できます。"
@@ -2590,6 +2677,9 @@
   },
   "dialog_rhythmgamePause_practiceTitle":{
     "name":"dialog_rhythmgamePause_practiceTitle", "wording":"一時中断"
+  },
+  "garupaCup_word_teamMatch":{
+    "name":"garupaCup_word_teamMatch", "wording":"チーム戦"
   },
   "dialog_eventRewardBoxGacha_receiveReward":{
     "name":"dialog_eventRewardBoxGacha_receiveReward", "wording":"{0}を獲得しました"
@@ -2771,9 +2861,6 @@
   "dialog_twitterApiError_messageGetPin":{
     "name":"dialog_twitterApiError_messageGetPin", "wording":"Twitterアカウントの連携に失敗しました。\\nPINコードを取得してください。\\n\\n何度も発生する場合は\\nゲーム内の[サポート]→[ゲーム進行・動作全般]\\nよりお問い合わせください。"
   },
-  "dialog_rhythmgamePause_garupaCup2ndBody":{
-    "name":"dialog_rhythmgamePause_garupaCup2ndBody", "wording":"{0}ライブを中断して\\nガルパ杯TOPページに戻りますか？[-]\\n{1}消費した挑戦可能回数は戻りません。[-]"
-  },
   "dialog_garupaPassNotesWebViewDialog_title":{
     "name":"dialog_garupaPassNotesWebViewDialog_title", "wording":"注意事項"
   },
@@ -2807,6 +2894,9 @@
   "starShop_itemSet_onThePeriod":{
     "name":"starShop_itemSet_onThePeriod", "wording":"販売期間　{0}まで"
   },
+  "garupaCup_teamMemberApplicationcancelDialog_title":{
+    "name":"garupaCup_teamMemberApplicationcancelDialog_title", "wording":"取り消し確認"
+  },
   "costumeSelect_defaultCell_cellContent":{
     "name":"costumeSelect_defaultCell_cellContent", "wording":"※メイン設定で編成されていない場合は\\n「{0}」になります。"
   },
@@ -2839,6 +2929,9 @@
   },
   "transitionButton_button_highscoreRating":{
     "name":"transitionButton_button_highscoreRating", "wording":"ハイスコア\\nレーティング"
+  },
+  "dialog_GarupaCupTeamUnestablished_annotation":{
+    "name":"dialog_GarupaCupTeamUnestablished_annotation", "wording":"チームが成立していないため、チーム戦にエントリーできません。"
   },
   "tryLiveEvent_tryTargetDialogCell_ex":{
     "name":"tryLiveEvent_tryTargetDialogCell_ex", "wording":"EX"
@@ -2962,6 +3055,9 @@
   },
   "dialog_exMissionFilter_captionRewardFilter":{
     "name":"dialog_exMissionFilter_captionRewardFilter", "wording":"報酬絞り込み"
+  },
+  "garupaCup_playerInfo_content":{
+    "name":"garupaCup_playerInfo_content", "wording":"プレイヤー情報"
   },
   "newYearCard_preparationDialog_description2":{
     "name":"newYearCard_preparationDialog_description2", "wording":"※バンド選択期間内にバンドを選択しなかった場合は、\\n7つのバンドのうちランダムで1つのバンドが選択され、\\nそのバンドの年賀状を見ることができます。"
@@ -3094,6 +3190,9 @@
   },
   "dialog_garupaPassDuplicateUpdateDialog_description":{
     "name":"dialog_garupaPassDuplicateUpdateDialog_description", "wording":"[505050]ご利用の端末に対応していないプラットフォームで\\n「ガルパPASS」の更新がありました。\\n[-][FF3B72]更新のあったプラットフォームに対応する端末以外では\\n特典を受け取ることができません。[-]\\n\\n[505050]以前お使いのプラットフォームで契約している「ガルパPASS」\\nを必ずご自身で解約を行ってください。[-]"
+  },
+  "garupaCup_teamMemberApplyFinishDialog_title":{
+    "name":"garupaCup_teamMemberApplyFinishDialog_title", "wording":"登録完了"
   },
   "gachaTop_button_stopTryOn":{
     "name":"gachaTop_button_stopTryOn", "wording":"試着をやめる"
@@ -3311,6 +3410,9 @@
   "dialog_sort_skillSortJudgeWithScoreUp":{
     "name":"dialog_sort_skillSortJudgeWithScoreUp", "wording":"スコアアップ付き\\n判定強化"
   },
+  "garupaCup_musicSelectCell_quoteSource2nd":{
+    "name":"garupaCup_musicSelectCell_quoteSource2nd", "wording":"ガルパ杯２次予選楽曲"
+  },
   "dialog_sort_characterAlbum_obtained":{
     "name":"dialog_sort_characterAlbum_obtained", "wording":"獲得状態"
   },
@@ -3358,6 +3460,9 @@
   },
   "dialog_systemSettings_AutoSelectMusic_description":{
     "name":"dialog_systemSettings_AutoSelectMusic_description", "wording":"※「ランダム選曲表示」をONにしている場合、協力ライブや対バンライブでランダム選曲を行った際に、\\n　楽曲シャッフル画面で自分の名前の上に「ランダム選曲」と表示されます。"
+  },
+  "graphicalInfo_title_qualify2021":{
+    "name":"graphicalInfo_title_qualify2021", "wording":"第3回ガルパ杯 1次予選開催！"
   },
   "word_notSetFavoriteMessage_description":{
     "name":"word_notSetFavoriteMessage_description", "wording":"お気に入りスタンプは協力ライブのルーム選択画面から設定することができます。"
@@ -3554,6 +3659,9 @@
   "biography_characterProfile_grade":{
     "name":"biography_characterProfile_grade", "wording":"学年"
   },
+  "garupaCup_result_comboRateCaution":{
+    "name":"garupaCup_result_comboRateCaution", "wording":"ガルパ杯ではコンボ数に応じて\\n1リズムアイコンあたりのスコアが\\n増加しません。"
+  },
   "word_requiredTotalStorageSizePlayMovie_format":{
     "name":"word_requiredTotalStorageSizePlayMovie_format", "wording":"必要な空き容量の合計：{0}"
   },
@@ -3565,6 +3673,9 @@
   },
   "dialog_areaItemRecommend_allType":{
     "name":"dialog_areaItemRecommend_allType", "wording":"すべてのタイプ"
+  },
+  "garupaCup_musicSelectCell_quoteSource1st":{
+    "name":"garupaCup_musicSelectCell_quoteSource1st", "wording":"ガルパ杯１次予選楽曲"
   },
   "comicTop_buttonLabelDescription_singleFrameComic":{
     "name":"comicTop_buttonLabelDescription_singleFrameComic", "wording":"メンバーたちの日常を切り取った１コマコミック"
@@ -3658,6 +3769,9 @@
   },
   "dailyLive_rewardSettingDialog_checkBoxDescription":{
     "name":"dailyLive_rewardSettingDialog_checkBoxDescription", "wording":"※チェックを入れると、達成時のアイテム選択を省略できます。"
+  },
+  "garupaCup_topTeamEntry_caption":{
+    "name":"garupaCup_topTeamEntry_caption", "wording":"一緒にチーム戦に参加するプレイヤーの\\nIDを入力してください。"
   },
   "header_title_comicSelectFourFrame":{
     "name":"header_title_comicSelectFourFrame", "wording":"コミック"
@@ -3797,6 +3911,9 @@
   "dialog_musicShopBuyComplete_title":{
     "name":"dialog_musicShopBuyComplete_title", "wording":"購入完了"
   },
+  "garupaCup_duplicateMemberInputErrorDialog_title":{
+    "name":"garupaCup_duplicateMemberInputErrorDialog_title", "wording":"エラー"
+  },
   "tab_cdLiveReward_bonus":{
     "name":"tab_cdLiveReward_bonus", "wording":"カウントダウンライブボーナス"
   },
@@ -3823,6 +3940,9 @@
   },
   "pickupMember_footter_message2":{
     "name":"pickupMember_footter_message2", "wording":"※スキルLv.5の状態を表示しています。"
+  },
+  "garupaCup_playerIdRegisterDialog_lastConfirm":{
+    "name":"garupaCup_playerIdRegisterDialog_lastConfirm", "wording":"チーム成立後は、チームメンバーの変更や\\nチームの解散をすることができません。\\nよろしいですか？"
   },
   "biography_characterProfile_part":{
     "name":"biography_characterProfile_part", "wording":"パート"
@@ -3931,6 +4051,9 @@
   },
   "dialog_twitter_logout_button":{
     "name":"dialog_twitter_logout_button", "wording":"アカウント連携を解除"
+  },
+  "dialog_garupaCupEntryConfirmDialog_body":{
+    "name":"dialog_garupaCupEntryConfirmDialog_body", "wording":"ガルパ杯にエントリーしますか？"
   },
   "dialog_AprilFool2021EventClosed_title":{
     "name":"dialog_AprilFool2021EventClosed_title", "wording":"エラー"
@@ -4085,6 +4208,9 @@
   "generalElection_errorMessage_maintenance_description":{
     "name":"generalElection_errorMessage_maintenance_description", "wording":"ただいま総選挙ページのメンテナンス中です。\\n申し訳ありませんが、メンテナンスが終わるまで\\nしばらくお待ちください。"
   },
+  "dialog_garupaCupEntry_individualEntryButton":{
+    "name":"dialog_garupaCupEntry_individualEntryButton", "wording":"個人戦にエントリー"
+  },
   "dialog_comicSort_bandButton":{
     "name":"dialog_comicSort_bandButton", "wording":"５人を選択"
   },
@@ -4154,6 +4280,9 @@
   "biography_areaTalk_areaTalk":{
     "name":"biography_areaTalk_areaTalk", "wording":"エリアアイテム"
   },
+  "dialog_garupaCupIndividualEntryConfirmDialog_title":{
+    "name":"dialog_garupaCupIndividualEntryConfirmDialog_title", "wording":"個人戦にエントリー"
+  },
   "dialog_liveSettings_coreMVCharacterCutIn":{
     "name":"dialog_liveSettings_coreMVCharacterCutIn", "wording":"MVライブメンバーカットイン"
   },
@@ -4220,6 +4349,9 @@
   "dialog_exMissionFilter_filterBoost":{
     "name":"dialog_exMissionFilter_filterBoost", "wording":"ブースト"
   },
+  "dialog_GarupaCupAlreadyInformedTeam_content":{
+    "name":"dialog_GarupaCupAlreadyInformedTeam_content", "wording":"既にチームが成立しています。"
+  },
   "menuList_comic_button":{
     "name":"menuList_comic_button", "wording":"コミック"
   },
@@ -4237,6 +4369,9 @@
   },
   "dialog_continuousPlay_skip":{
     "name":"dialog_continuousPlay_skip", "wording":"をスキップして\\nストーリー選択画面へ戻りますか？"
+  },
+  "garupaCup_teamMemberApplyFinishDialog_content":{
+    "name":"garupaCup_teamMemberApplyFinishDialog_content", "wording":"プレイヤーIDの登録を完了しました。"
   },
   "dialog_pendingGarupaPassExistTakeOver_message":{
     "name":"dialog_pendingGarupaPassExistTakeOver_message", "wording":"「ガルパPASS」の中断されたストア決済処理があるため、\\nデータ引き継ぎを行うことができません。\\n\\nタイトル画面よりログインいただき、「購入の復元」をお試しください。\\n\\n■「購入の復元」ご利用方法■\\n[メニュー] > [スターショップ] > [ガルパPASS]画面へ遷移後、\\n「購入の復元」をタップ。"
@@ -4315,6 +4450,12 @@
   },
   "newYearHolidaysPage_newYear_newYearCardAppealText":{
     "name":"newYearHolidaysPage_newYear_newYearCardAppealText", "wording":"バンドメンバーの年賀状を見よう!"
+  },
+  "garupaCup_word_individualMatch":{
+    "name":"garupaCup_word_individualMatch", "wording":"個人戦"
+  },
+  "garupaCup_tutorialSlideFirst_title":{
+    "name":"garupaCup_tutorialSlideFirst_title", "wording":"ガルパ杯 1次予選に参加しよう！"
   },
   "biography_AreaTalk_notExistMessage":{
     "name":"biography_AreaTalk_notExistMessage", "wording":"該当するエリア会話がありません。"
@@ -4399,6 +4540,9 @@
   },
   "newYearCard_bandSelectDialog_selectPeriodLimit":{
     "name":"newYearCard_bandSelectDialog_selectPeriodLimit", "wording":"バンド選択期間　{0}まで"
+  },
+  "garupaCup_playerIdRegisterDialog_register":{
+    "name":"garupaCup_playerIdRegisterDialog_register", "wording":"登録"
   },
   "newMusicIntroduction_musicInfo_tagCover":{
     "name":"newMusicIntroduction_musicInfo_tagCover", "wording":"カバー"
@@ -4570,6 +4714,9 @@
   },
   "dialog_bestAreaItemSetDialog_title":{
     "name":"dialog_bestAreaItemSetDialog_title", "wording":"エリアアイテムの確認"
+  },
+  "garupaCup_topTeamEntry_playerIndex":{
+    "name":"garupaCup_topTeamEntry_playerIndex", "wording":"プレイヤー{0}"
   },
   "word_lottery_eveluck":{
     "name":"word_lottery_eveluck", "wording":"ブシドー吉"
