@@ -1,5 +1,23 @@
 [
   {
+    "missionGroupId":12, "missionResetType":"daily", "startAt":1628650800000, "endAt":1629611999000, "rewardEndAt":1629658799000, "tabLabel":"デイリー", "header":{
+      "assetBundleName":"limit_up_202108", "url":"mission/mission_210811_kHTWEG.html"
+    },
+    "missionList":[
+      {
+        "missionId":1000009, "transitionMethod":"live", "transitionId":0, "seq":30, "detailList":[
+          {
+            "seq":1, "title":"ライブを1回クリアしよう", "description":"ライブを1回クリアしよう", "maxProgress":1, "reward":{
+              "UNKNOWN_1":1000009, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"live_boost_recovery_item", "resourceId":1, "quantity":3
+            }
+          }
+        ],
+        "labelText":"デイリー", "typeIndex":40
+      }
+    ],
+    "type":"limited"
+  },
+  {
     "missionGroupId":101, "missionResetType":"none", "startAt":1500397200000, "endAt":4087299600000, "rewardEndAt":4087299600000, "missionList":[
       {
         "missionId":1, "transitionMethod":"live", "transitionId":0, "seq":30, "detailList":[
@@ -6485,5 +6503,113 @@
       }
     ],
     "type":"ex_mission"
+  },
+  {
+    "missionGroupId":522, "missionResetType":"none", "startAt":1628650800000, "endAt":1629611999000, "rewardEndAt":1629611999000, "tabLabel":"期間限定", "header":{
+      "assetBundleName":"limit_up_202108", "url":"mission/mission_210811_kHTWEG.html"
+    },
+    "missionList":[
+      {
+        "missionId":10000138, "transitionMethod":"live", "transitionId":0, "seq":20, "detailList":[
+          {
+            "seq":1, "title":"ライブを1回クリアしよう", "description":"ライブを1回クリアしよう", "maxProgress":1, "reward":{
+              "UNKNOWN_1":10000138, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":50
+            }
+          }
+        ],
+        "labelText":"特別", "typeIndex":40
+      },
+      {
+        "missionId":10000139, "transitionMethod":"live", "transitionId":0, "seq":30, "detailList":[
+          {
+            "seq":1, "title":"ライブを3回クリアしよう", "description":"ライブを3回クリアしよう", "maxProgress":3, "reward":{
+              "UNKNOWN_1":10000139, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"live_boost_recovery_item", "resourceId":1, "quantity":3
+            }
+          }
+        ],
+        "labelText":"特別", "typeIndex":40
+      },
+      {
+        "missionId":10000140, "transitionMethod":"live", "transitionId":0, "seq":40, "detailList":[
+          {
+            "seq":1, "title":"ライブを5回クリアしよう", "description":"ライブを5回クリアしよう", "maxProgress":5, "reward":{
+              "UNKNOWN_1":10000140, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"coin", "resourceId":0, "quantity":50000
+            }
+          }
+        ],
+        "labelText":"特別", "typeIndex":40
+      },
+      {
+        "missionId":10000141, "transitionMethod":"live", "transitionId":0, "seq":50, "detailList":[
+          {
+            "seq":1, "title":"ライブを10回クリアしよう", "description":"ライブを10回クリアしよう", "maxProgress":10, "reward":{
+              "UNKNOWN_1":10000141, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"live_boost_recovery_item", "resourceId":1, "quantity":3
+            }
+          }
+        ],
+        "labelText":"特別", "typeIndex":40
+      },
+      {
+        "missionId":10000142, "transitionMethod":"live", "transitionId":0, "seq":60, "detailList":[
+          {
+            "seq":1, "title":"ライブを15回クリアしよう", "description":"ライブを15回クリアしよう", "maxProgress":15, "reward":{
+              "UNKNOWN_1":10000142, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"coin", "resourceId":0, "quantity":50000
+            }
+          }
+        ],
+        "labelText":"特別", "typeIndex":40
+      },
+      {
+        "missionId":10000143, "transitionMethod":"live", "transitionId":0, "seq":70, "detailList":[
+          {
+            "seq":1, "title":"ライブを20回クリアしよう", "description":"ライブを20回クリアしよう", "maxProgress":20, "reward":{
+              "UNKNOWN_1":10000143, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"live_boost_recovery_item", "resourceId":1, "quantity":3
+            }
+          }
+        ],
+        "labelText":"特別", "typeIndex":40
+      },
+      {
+        "missionId":10000144, "transitionMethod":"live", "transitionId":0, "seq":80, "detailList":[
+          {
+            "seq":1, "title":"ライブを25回クリアしよう", "description":"ライブを25回クリアしよう", "maxProgress":25, "reward":{
+              "UNKNOWN_1":10000144, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"item", "resourceId":14, "quantity":5
+            }
+          }
+        ],
+        "labelText":"特別", "typeIndex":40
+      },
+      {
+        "missionId":10000145, "transitionMethod":"live", "transitionId":0, "seq":90, "detailList":[
+          {
+            "seq":1, "title":"ライブを30回クリアしよう", "description":"ライブを30回クリアしよう", "maxProgress":30, "reward":{
+              "UNKNOWN_1":10000145, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"live_boost_recovery_item", "resourceId":1, "quantity":3
+            }
+          }
+        ],
+        "labelText":"特別", "typeIndex":40
+      },
+      {
+        "missionId":10000146, "transitionMethod":"live", "transitionId":0, "seq":100, "detailList":[
+          {
+            "seq":1, "title":"ライブを35回クリアしよう", "description":"ライブを35回クリアしよう", "maxProgress":35, "reward":{
+              "UNKNOWN_1":10000146, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"item", "resourceId":14, "quantity":5
+            }
+          }
+        ],
+        "labelText":"特別", "typeIndex":40
+      },
+      {
+        "missionId":10000147, "transitionMethod":"live", "transitionId":0, "seq":110, "detailList":[
+          {
+            "seq":1, "title":"ライブを40回クリアしよう", "description":"ライブを40回クリアしよう", "maxProgress":40, "reward":{
+              "UNKNOWN_1":10000147, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"live_boost_recovery_item", "resourceId":1, "quantity":5
+            }
+          }
+        ],
+        "labelText":"特別", "typeIndex":40
+      }
+    ],
+    "type":"limited"
   }
 ]

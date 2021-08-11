@@ -1,3 +1,384 @@
-[
-  
-]
+{
+  "159":{
+    "eventId":159, "attributes":[
+      {
+        "eventId":159, "attribute":"happy", "percent":10
+      }
+    ],
+    "characters":[
+      {
+        "eventId":159, "characterId":7, "percent":20, "seq":5
+      },
+      {
+        "eventId":159, "characterId":10, "percent":20, "seq":2
+      },
+      {
+        "eventId":159, "characterId":18, "percent":20, "seq":4
+      },
+      {
+        "eventId":159, "characterId":20, "percent":20, "seq":3
+      },
+      {
+        "eventId":159, "characterId":29, "percent":20, "seq":1
+      }
+    ],
+    "stories":[
+      {
+        "eventId":159, "seq":0, "caption":"オープニング", "title":"つくしのやりたいこと", "synopsis":"アトリエに集まったつくし達。\nそれぞれ、夏休みを満喫しているようで……", "scenarioId":"event159-01", "coverImage":"159_0", "backgroundImage":"0", "releasePt":0, "releaseConditions":"オープニングシナリオ", "backgroundImageId":478, "rewards":[
+          {
+            "id":2441, "eventId":159, "seq":0, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2442, "eventId":159, "seq":0, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":159, "seq":1, "caption":"第１話", "title":"挑戦！羽沢珈琲店", "synopsis":"羽沢珈琲店でアルバイトを始めたつくし。\n練習のおかげで好調に見えたが……？", "scenarioId":"event159-02", "coverImage":"159_1", "backgroundImage":"0", "releasePt":2000, "releaseConditions":"2000イベントP達成", "backgroundImageId":53, "rewards":[
+          {
+            "id":2443, "eventId":159, "seq":1, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2444, "eventId":159, "seq":1, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":159, "seq":2, "caption":"第２話", "title":"皆伝！イヴの特訓", "synopsis":"つくしのアルバイト１日目が終了。\nつぐみ達から見たつくしの出来栄えは……？", "scenarioId":"event159-03", "coverImage":"159_2", "backgroundImage":"0", "releasePt":6000, "releaseConditions":"6000イベントP達成", "backgroundImageId":394, "rewards":[
+          {
+            "id":2445, "eventId":159, "seq":2, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2446, "eventId":159, "seq":2, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":159, "seq":3, "caption":"第３話", "title":"モカの『いつもの』", "synopsis":"つくしのアルバイト２日目。\n羽沢珈琲店を訪ねてきたのは……！？", "scenarioId":"event159-04", "coverImage":"159_3", "backgroundImage":"0", "releasePt":12000, "releaseConditions":"12000イベントP達成", "backgroundImageId":53, "rewards":[
+          {
+            "id":2447, "eventId":159, "seq":3, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2448, "eventId":159, "seq":3, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":159, "seq":4, "caption":"第４話", "title":"つくしとつぐみの共通点", "synopsis":"完璧に仕事をしてみせると意気込むつくし。\nしかし、初めてのランチタイムが始まり――", "scenarioId":"event159-05", "coverImage":"159_4", "backgroundImage":"0", "releasePt":22000, "releaseConditions":"22000イベントP達成", "backgroundImageId":53, "rewards":[
+          {
+            "id":2449, "eventId":159, "seq":4, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2450, "eventId":159, "seq":4, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":159, "seq":5, "caption":"第５話", "title":"一歩ずつ、一つずつ", "synopsis":"ランチタイムでの失敗に落ち込むつくし。\nそんなつくしにつぐみは……？", "scenarioId":"event159-06", "coverImage":"159_5", "backgroundImage":"0", "releasePt":30000, "releaseConditions":"30000イベントP達成", "backgroundImageId":394, "rewards":[
+          {
+            "id":2451, "eventId":159, "seq":5, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2452, "eventId":159, "seq":5, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":159, "seq":6, "caption":"エンディング", "title":"輝ける自分に", "synopsis":"つくしが見つけた今の自分にも\n『できる』こととは――", "scenarioId":"event159-07", "coverImage":"159_6", "backgroundImage":"0", "releasePt":50000, "releaseConditions":"50000イベントP達成", "backgroundImageId":53, "rewards":[
+          {
+            "id":2453, "eventId":159, "seq":6, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2454, "eventId":159, "seq":6, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      }
+    ],
+    "musics":[
+      {
+        "eventId":159, "musicId":352, "seq":1, "musicAchievements":[
+          {
+            "eventId":159, "musicId":352, "achievementType":"full_combo_easy", "resourceType":"coin", "resourceId":0, "quantity":10000
+          },
+          {
+            "eventId":159, "musicId":352, "achievementType":"full_combo_expert", "resourceType":"coin", "resourceId":0, "quantity":50000
+          },
+          {
+            "eventId":159, "musicId":352, "achievementType":"full_combo_hard", "resourceType":"coin", "resourceId":0, "quantity":30000
+          },
+          {
+            "eventId":159, "musicId":352, "achievementType":"full_combo_normal", "resourceType":"coin", "resourceId":0, "quantity":20000
+          },
+          {
+            "eventId":159, "musicId":352, "achievementType":"score_rank_a", "resourceType":"practice_ticket", "resourceId":2, "quantity":1
+          },
+          {
+            "eventId":159, "musicId":352, "achievementType":"score_rank_b", "resourceType":"practice_ticket", "resourceId":2, "quantity":1
+          },
+          {
+            "eventId":159, "musicId":352, "achievementType":"score_rank_c", "resourceType":"practice_ticket", "resourceId":2, "quantity":1
+          },
+          {
+            "eventId":159, "musicId":352, "achievementType":"score_rank_s", "resourceType":"practice_ticket", "resourceId":6, "quantity":1
+          },
+          {
+            "eventId":159, "musicId":352, "achievementType":"score_rank_ss", "resourceType":"practice_ticket", "resourceId":6, "quantity":1
+          }
+        ],
+        "musicRankingRewards":[
+          {
+            "id":2485, "eventId":159, "musicId":352, "fromRank":1, "toRank":1, "resourceType":"degree", "resourceId":3650, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2486, "eventId":159, "musicId":352, "fromRank":1, "toRank":1, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2487, "eventId":159, "musicId":352, "fromRank":2, "toRank":2, "resourceType":"degree", "resourceId":3651, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2488, "eventId":159, "musicId":352, "fromRank":2, "toRank":2, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2489, "eventId":159, "musicId":352, "fromRank":3, "toRank":3, "resourceType":"degree", "resourceId":3652, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2490, "eventId":159, "musicId":352, "fromRank":3, "toRank":3, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2491, "eventId":159, "musicId":352, "fromRank":4, "toRank":10, "resourceType":"degree", "resourceId":3653, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2492, "eventId":159, "musicId":352, "fromRank":4, "toRank":10, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2493, "eventId":159, "musicId":352, "fromRank":11, "toRank":100, "resourceType":"degree", "resourceId":3654, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2494, "eventId":159, "musicId":352, "fromRank":11, "toRank":100, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2495, "eventId":159, "musicId":352, "fromRank":101, "toRank":1000, "resourceType":"practice_ticket", "resourceId":7, "quantity":5, "recommendFlg":0
+          },
+          {
+            "id":2496, "eventId":159, "musicId":352, "fromRank":1001, "toRank":2000, "resourceType":"practice_ticket", "resourceId":7, "quantity":3, "recommendFlg":0
+          },
+          {
+            "id":2497, "eventId":159, "musicId":352, "fromRank":2001, "toRank":5000, "resourceType":"practice_ticket", "resourceId":7, "quantity":2, "recommendFlg":0
+          },
+          {
+            "id":2498, "eventId":159, "musicId":352, "fromRank":5001, "toRank":10000, "resourceType":"practice_ticket", "resourceId":7, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2499, "eventId":159, "musicId":352, "fromRank":10001, "toRank":20000, "resourceType":"practice_ticket", "resourceId":6, "quantity":5, "recommendFlg":0
+          },
+          {
+            "id":2500, "eventId":159, "musicId":352, "fromRank":20001, "toRank":30000, "resourceType":"practice_ticket", "resourceId":6, "quantity":3, "recommendFlg":0
+          },
+          {
+            "id":2501, "eventId":159, "musicId":352, "fromRank":30001, "toRank":50000, "resourceType":"practice_ticket", "resourceId":6, "quantity":2, "recommendFlg":0
+          },
+          {
+            "id":2502, "eventId":159, "musicId":352, "fromRank":50001, "toRank":100000, "resourceType":"practice_ticket", "resourceId":6, "quantity":1, "recommendFlg":0
+          }
+        ]
+      },
+      {
+        "eventId":159, "musicId":163, "seq":2, "musicAchievements":[
+          {
+            "eventId":159, "musicId":163, "achievementType":"full_combo_easy", "resourceType":"coin", "resourceId":0, "quantity":10000
+          },
+          {
+            "eventId":159, "musicId":163, "achievementType":"full_combo_expert", "resourceType":"coin", "resourceId":0, "quantity":50000
+          },
+          {
+            "eventId":159, "musicId":163, "achievementType":"full_combo_hard", "resourceType":"coin", "resourceId":0, "quantity":30000
+          },
+          {
+            "eventId":159, "musicId":163, "achievementType":"full_combo_normal", "resourceType":"coin", "resourceId":0, "quantity":20000
+          },
+          {
+            "eventId":159, "musicId":163, "achievementType":"full_combo_special", "resourceType":"coin", "resourceId":0, "quantity":50000
+          },
+          {
+            "eventId":159, "musicId":163, "achievementType":"score_rank_a", "resourceType":"practice_ticket", "resourceId":2, "quantity":1
+          },
+          {
+            "eventId":159, "musicId":163, "achievementType":"score_rank_b", "resourceType":"practice_ticket", "resourceId":2, "quantity":1
+          },
+          {
+            "eventId":159, "musicId":163, "achievementType":"score_rank_c", "resourceType":"practice_ticket", "resourceId":2, "quantity":1
+          },
+          {
+            "eventId":159, "musicId":163, "achievementType":"score_rank_s", "resourceType":"practice_ticket", "resourceId":6, "quantity":1
+          },
+          {
+            "eventId":159, "musicId":163, "achievementType":"score_rank_ss", "resourceType":"practice_ticket", "resourceId":6, "quantity":1
+          }
+        ],
+        "musicRankingRewards":[
+          {
+            "id":2503, "eventId":159, "musicId":163, "fromRank":1, "toRank":1, "resourceType":"degree", "resourceId":3655, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2504, "eventId":159, "musicId":163, "fromRank":1, "toRank":1, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2505, "eventId":159, "musicId":163, "fromRank":2, "toRank":2, "resourceType":"degree", "resourceId":3656, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2506, "eventId":159, "musicId":163, "fromRank":2, "toRank":2, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2507, "eventId":159, "musicId":163, "fromRank":3, "toRank":3, "resourceType":"degree", "resourceId":3657, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2508, "eventId":159, "musicId":163, "fromRank":3, "toRank":3, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2509, "eventId":159, "musicId":163, "fromRank":4, "toRank":10, "resourceType":"degree", "resourceId":3658, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2510, "eventId":159, "musicId":163, "fromRank":4, "toRank":10, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2511, "eventId":159, "musicId":163, "fromRank":11, "toRank":100, "resourceType":"degree", "resourceId":3659, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2512, "eventId":159, "musicId":163, "fromRank":11, "toRank":100, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2513, "eventId":159, "musicId":163, "fromRank":101, "toRank":1000, "resourceType":"practice_ticket", "resourceId":7, "quantity":5, "recommendFlg":0
+          },
+          {
+            "id":2514, "eventId":159, "musicId":163, "fromRank":1001, "toRank":2000, "resourceType":"practice_ticket", "resourceId":7, "quantity":3, "recommendFlg":0
+          },
+          {
+            "id":2515, "eventId":159, "musicId":163, "fromRank":2001, "toRank":5000, "resourceType":"practice_ticket", "resourceId":7, "quantity":2, "recommendFlg":0
+          },
+          {
+            "id":2516, "eventId":159, "musicId":163, "fromRank":5001, "toRank":10000, "resourceType":"practice_ticket", "resourceId":7, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2517, "eventId":159, "musicId":163, "fromRank":10001, "toRank":20000, "resourceType":"practice_ticket", "resourceId":6, "quantity":5, "recommendFlg":0
+          },
+          {
+            "id":2518, "eventId":159, "musicId":163, "fromRank":20001, "toRank":30000, "resourceType":"practice_ticket", "resourceId":6, "quantity":3, "recommendFlg":0
+          },
+          {
+            "id":2519, "eventId":159, "musicId":163, "fromRank":30001, "toRank":50000, "resourceType":"practice_ticket", "resourceId":6, "quantity":2, "recommendFlg":0
+          },
+          {
+            "id":2520, "eventId":159, "musicId":163, "fromRank":50001, "toRank":100000, "resourceType":"practice_ticket", "resourceId":6, "quantity":1, "recommendFlg":0
+          }
+        ]
+      },
+      {
+        "eventId":159, "musicId":279, "seq":3, "musicAchievements":[
+          {
+            "eventId":159, "musicId":279, "achievementType":"full_combo_easy", "resourceType":"coin", "resourceId":0, "quantity":10000
+          },
+          {
+            "eventId":159, "musicId":279, "achievementType":"full_combo_expert", "resourceType":"coin", "resourceId":0, "quantity":50000
+          },
+          {
+            "eventId":159, "musicId":279, "achievementType":"full_combo_hard", "resourceType":"coin", "resourceId":0, "quantity":30000
+          },
+          {
+            "eventId":159, "musicId":279, "achievementType":"full_combo_normal", "resourceType":"coin", "resourceId":0, "quantity":20000
+          },
+          {
+            "eventId":159, "musicId":279, "achievementType":"full_combo_special", "resourceType":"coin", "resourceId":0, "quantity":50000
+          },
+          {
+            "eventId":159, "musicId":279, "achievementType":"score_rank_a", "resourceType":"practice_ticket", "resourceId":2, "quantity":1
+          },
+          {
+            "eventId":159, "musicId":279, "achievementType":"score_rank_b", "resourceType":"practice_ticket", "resourceId":2, "quantity":1
+          },
+          {
+            "eventId":159, "musicId":279, "achievementType":"score_rank_c", "resourceType":"practice_ticket", "resourceId":2, "quantity":1
+          },
+          {
+            "eventId":159, "musicId":279, "achievementType":"score_rank_s", "resourceType":"practice_ticket", "resourceId":6, "quantity":1
+          },
+          {
+            "eventId":159, "musicId":279, "achievementType":"score_rank_ss", "resourceType":"practice_ticket", "resourceId":6, "quantity":1
+          }
+        ],
+        "musicRankingRewards":[
+          {
+            "id":2521, "eventId":159, "musicId":279, "fromRank":1, "toRank":1, "resourceType":"degree", "resourceId":3660, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2522, "eventId":159, "musicId":279, "fromRank":1, "toRank":1, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2523, "eventId":159, "musicId":279, "fromRank":2, "toRank":2, "resourceType":"degree", "resourceId":3661, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2524, "eventId":159, "musicId":279, "fromRank":2, "toRank":2, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2525, "eventId":159, "musicId":279, "fromRank":3, "toRank":3, "resourceType":"degree", "resourceId":3662, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2526, "eventId":159, "musicId":279, "fromRank":3, "toRank":3, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2527, "eventId":159, "musicId":279, "fromRank":4, "toRank":10, "resourceType":"degree", "resourceId":3663, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2528, "eventId":159, "musicId":279, "fromRank":4, "toRank":10, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2529, "eventId":159, "musicId":279, "fromRank":11, "toRank":100, "resourceType":"degree", "resourceId":3664, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2530, "eventId":159, "musicId":279, "fromRank":11, "toRank":100, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2531, "eventId":159, "musicId":279, "fromRank":101, "toRank":1000, "resourceType":"practice_ticket", "resourceId":7, "quantity":5, "recommendFlg":0
+          },
+          {
+            "id":2532, "eventId":159, "musicId":279, "fromRank":1001, "toRank":2000, "resourceType":"practice_ticket", "resourceId":7, "quantity":3, "recommendFlg":0
+          },
+          {
+            "id":2533, "eventId":159, "musicId":279, "fromRank":2001, "toRank":5000, "resourceType":"practice_ticket", "resourceId":7, "quantity":2, "recommendFlg":0
+          },
+          {
+            "id":2534, "eventId":159, "musicId":279, "fromRank":5001, "toRank":10000, "resourceType":"practice_ticket", "resourceId":7, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2535, "eventId":159, "musicId":279, "fromRank":10001, "toRank":20000, "resourceType":"practice_ticket", "resourceId":6, "quantity":5, "recommendFlg":0
+          },
+          {
+            "id":2536, "eventId":159, "musicId":279, "fromRank":20001, "toRank":30000, "resourceType":"practice_ticket", "resourceId":6, "quantity":3, "recommendFlg":0
+          },
+          {
+            "id":2537, "eventId":159, "musicId":279, "fromRank":30001, "toRank":50000, "resourceType":"practice_ticket", "resourceId":6, "quantity":2, "recommendFlg":0
+          },
+          {
+            "id":2538, "eventId":159, "musicId":279, "fromRank":50001, "toRank":100000, "resourceType":"practice_ticket", "resourceId":6, "quantity":1, "recommendFlg":0
+          }
+        ]
+      }
+    ],
+    "challengeCosts":[
+      {
+        "eventId":159, "seq":1, "cost":200, "ratio":1
+      },
+      {
+        "eventId":159, "seq":2, "cost":400, "ratio":2
+      },
+      {
+        "eventId":159, "seq":3, "cost":800, "ratio":4
+      }
+    ],
+    "eventCharacterParameterBonus":{
+      "eventId":159, "performance":0, "technique":0, "visual":50
+    },
+    "eventAttributeAndCharacterBonus":{
+      "eventId":159, "pointPercent":20, "parameterPercent":20
+    }
+  }
+}
