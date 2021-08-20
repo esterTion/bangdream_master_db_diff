@@ -1,5 +1,5 @@
 {
-  "version":"5.5.0.200", "bundles":{
+  "version":"5.5.0.300", "bundles":{
     "actionset/group0":{
       "bundleName":"actionset/group0", "hash":"f74bac54dcaa2312fb0f5bd98409e65fbb9fa2f9e157d254bf4c792a14cb05b9", "category":"StartApp", "crc":696391923, "fileSize":15754
     },
@@ -16872,6 +16872,9 @@
     "event/loginbonus/fes_event":{
       "bundleName":"event/loginbonus/fes_event", "hash":"fcc946ef25f5a1a465d34eba63440397340a5e34f944daad90e4ec13fd0056d1", "category":"AsNeeded", "crc":1911353104, "fileSize":1737734
     },
+    "event/loginbonus/filmlive_2nd_roadshow":{
+      "bundleName":"event/loginbonus/filmlive_2nd_roadshow", "hash":"16aedbfd8aa410efa300cac5a5d2a5955c5d47d0c145d4cb9d4a603c7e991030", "category":"AsNeeded", "crc":2722199810, "fileSize":1159980
+    },
     "event/loginbonus/filmlive_kohyo_kinen":{
       "bundleName":"event/loginbonus/filmlive_kohyo_kinen", "hash":"16d5ad6f0f2b64bc657161a3dac3626d8364f1fab30cdac87fc8f2e8794ac294", "category":"AsNeeded", "crc":181007601, "fileSize":2112385
     },
@@ -20916,6 +20919,12 @@
       ],
       "fileSize":1259802
     },
+    "gacha/screen/gacha839":{
+      "bundleName":"gacha/screen/gacha839", "hash":"da4af34dffdd66fb3fa2319f28e0c2da71e5685b6b5cfc1dc14347dd0e865ea1", "category":"AsNeeded", "crc":4216207697, "dependencies":[
+        "effect/common_materials"
+      ],
+      "fileSize":1559818
+    },
     "gacha/spin":{
       "bundleName":"gacha/spin", "hash":"426e41ef01f147b91a808f48fa6ec400ab9a17185e7c6b24419f42393a908dbf", "category":"StartApp", "crc":1234188455, "fileSize":2979165
     },
@@ -21154,7 +21163,7 @@
       "bundleName":"graphicalinfo/qualify_2021_slide", "hash":"1867ce5e7c05ca089982d29798648a7c1bc7fcb114022053ed2bad27930d5822", "category":"AsNeeded", "crc":999397104, "fileSize":440199
     },
     "homebanner":{
-      "bundleName":"homebanner", "hash":"eff2e19bb83d1b7587459e43fce3a4ab578e1801cf37bea8d19805e333aba690", "category":"StartApp", "crc":3205621962, "fileSize":57086647
+      "bundleName":"homebanner", "hash":"a2c98d6671ed0fa6a661690c0456bc7e578e1801cf37bea8d19805e333aba690", "category":"StartApp", "crc":4042980494, "fileSize":57136863
     },
     "ingameskin/bgskin/skin00":{
       "bundleName":"ingameskin/bgskin/skin00", "hash":"c7798cb32bd05bf8ee2e769a6e83a648bb71af161f99855ea24133093d7e43e7", "category":"StartApp", "crc":4273868056, "fileSize":2028214
@@ -21445,7 +21454,7 @@
       "bundleName":"ingameskin/noteskin_tutorial/skin00sample", "hash":"6c885748c2545b9053629485ac3865ed93d1eb5733ddf79dc31ecc51f37350ea", "category":"Tutorial", "crc":2897360274, "fileSize":82513
     },
     "ingameskin/stagelight":{
-      "bundleName":"ingameskin/stagelight", "hash":"d3ede9125150fe74d3699f4ef5820894bfd701eba717d0128e7f6ef003916729", "category":"AsNeeded", "crc":2615093844, "fileSize":7895
+      "bundleName":"ingameskin/stagelight", "hash":"73b8862d7e2b40a89c77cbf96c310d59bfd701eba717d0128e7f6ef003916729", "category":"AsNeeded", "crc":696428402, "fileSize":8101
     },
     "ingameskin/stageskin/challenge":{
       "bundleName":"ingameskin/stageskin/challenge", "hash":"48c2a8387c8e7e38b3941202c64d068333d1c4ff93bee891b08b36362c78c8e3", "category":"AsNeeded", "crc":770370804, "dependencies":[
@@ -28201,7 +28210,7 @@
       "bundleName":"musicjacket/musicjacket350", "hash":"4e6d291ff5ba7a2e9a9015f0c69e891c03dc52590142399ce4c8e8cd080734ca", "category":"StartApp", "crc":1667833885, "fileSize":1454921
     },
     "musicjacket/musicjacket360":{
-      "bundleName":"musicjacket/musicjacket360", "hash":"c690c37e2fe100cf020d429bfcc142185bfd7d959ec78c74e8d677c0d2e45220", "category":"StartApp", "crc":1592459169, "fileSize":263452
+      "bundleName":"musicjacket/musicjacket360", "hash":"6a5ca46568e96a024bb3606a31afca9f5bfd7d959ec78c74e8d677c0d2e45220", "category":"StartApp", "crc":3095055641, "fileSize":373934
     },
     "musicjacket/musicjacket40":{
       "bundleName":"musicjacket/musicjacket40", "hash":"097452c6af644be56c30b0a5bc790e480d470b96301ad6195da10f9e1ed9727d", "category":"StartApp", "crc":4033880007, "fileSize":1648686
@@ -28321,7 +28330,7 @@
       "bundleName":"musicscore/musicscore350", "hash":"a5ee39a14d9c3e3abe81f6094c3a9b36a8718430fe3238fcbb6d1f4a2634c850", "category":"StartApp", "crc":2747669720, "fileSize":3570977
     },
     "musicscore/musicscore360":{
-      "bundleName":"musicscore/musicscore360", "hash":"10e8a1467cb9fe1b8adee8e999931a7d6a2cc9f1a590f1045de373a756b89f07", "category":"StartApp", "crc":2177089653, "fileSize":926672
+      "bundleName":"musicscore/musicscore360", "hash":"6548dcb096b269697d608259b79c56b36a2cc9f1a590f1045de373a756b89f07", "category":"StartApp", "crc":2839358094, "fileSize":1377205
     },
     "musicscore/musicscore40":{
       "bundleName":"musicscore/musicscore40", "hash":"a0ae7afc6c878aa3ecf06dd93eaf1414f57b255396121440a7908522839abcd7", "category":"StartApp", "crc":2036672952, "fileSize":2439520
@@ -34098,6 +34107,9 @@
     "sound/bgm352":{
       "bundleName":"sound/bgm352", "hash":"9d9f8da108610ff694ae183343216da78c3aceec6a89ae464f66781cc0624e39", "category":"AsNeeded", "crc":3877475156, "fileSize":4005212
     },
+    "sound/bgm353":{
+      "bundleName":"sound/bgm353", "hash":"be2fbfa6d42a28b2ddda60e375d76e327d88ebc5832e83d232e21438cd49e7e6", "category":"AsNeeded", "crc":3467375805, "fileSize":3842477
+    },
     "sound/common":{
       "bundleName":"sound/common", "hash":"781958abede0f06917d7c65dbeab0362976046ccb221619c8fd6c9c66deeaabe", "category":"StartApp", "crc":3192165004, "fileSize":1210896
     },
@@ -37249,7 +37261,7 @@
       "bundleName":"sound/voice/scenario/birthdaystory33", "hash":"058e6471f2bc9888c58d874798b5ee0d07f27c44d96033dcf0d187faab2208df", "category":"AsNeeded", "crc":2787981290, "fileSize":347733
     },
     "sound/voice/scenario/birthdaystory34":{
-      "bundleName":"sound/voice/scenario/birthdaystory34", "hash":"628b1f8b0ede6f472d392c7b2c664d15389d7ef268c2c9f746dba1f0819b228b", "category":"AsNeeded", "crc":783770670, "fileSize":364366
+      "bundleName":"sound/voice/scenario/birthdaystory34", "hash":"ecdcd79561d3b32a7c784a581aab815b389d7ef268c2c9f746dba1f0819b228b", "category":"AsNeeded", "crc":2847828527, "fileSize":364367
     },
     "sound/voice/scenario/birthdaystory4":{
       "bundleName":"sound/voice/scenario/birthdaystory4", "hash":"ee149fd5c6ffaf7f1f1a4b24138ebdd2ea5f86529b2f64ff2cd9c04b538032b9", "category":"AsNeeded", "crc":567591486, "fileSize":84937
@@ -37273,7 +37285,7 @@
       "bundleName":"sound/voice/scenario/birthdaystory91", "hash":"9d4c1f55f89cdd6a28b92526866a2a44bb22da550da4f48151d18632e774e88b", "category":"AsNeeded", "crc":2333525360, "fileSize":347814
     },
     "sound/voice/scenario/birthdaystory92":{
-      "bundleName":"sound/voice/scenario/birthdaystory92", "hash":"48d8ca2eae5f1670325bc3fd9c8629f8c3c48b6aa6721d411333149c02a1a304", "category":"AsNeeded", "crc":3227966883, "fileSize":364355
+      "bundleName":"sound/voice/scenario/birthdaystory92", "hash":"1ed282448478e3ad733aae5487131e07c3c48b6aa6721d411333149c02a1a304", "category":"AsNeeded", "crc":165576638, "fileSize":364331
     },
     "sound/voice/scenario/birthdaystory93":{
       "bundleName":"sound/voice/scenario/birthdaystory93", "hash":"060658cc8ade664227c78125fb40d95ae232136dd38057e112a34b3953a7b50a", "category":"AsNeeded", "crc":1004220681, "fileSize":445437
