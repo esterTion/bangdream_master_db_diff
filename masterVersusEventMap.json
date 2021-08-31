@@ -1,3 +1,164 @@
-[
-  
-]
+{
+  "161":{
+    "eventId":161, "attributes":[
+      {
+        "eventId":161, "attribute":"pure", "percent":10
+      }
+    ],
+    "characters":[
+      {
+        "eventId":161, "characterId":6, "percent":20, "seq":3
+      },
+      {
+        "eventId":161, "characterId":7, "percent":20, "seq":4
+      },
+      {
+        "eventId":161, "characterId":8, "percent":20, "seq":1
+      },
+      {
+        "eventId":161, "characterId":9, "percent":20, "seq":2
+      },
+      {
+        "eventId":161, "characterId":10, "percent":20, "seq":5
+      }
+    ],
+    "stories":[
+      {
+        "eventId":161, "seq":0, "caption":"オープニング", "title":"初遠征", "synopsis":"対バンの誘いから遠征を決意する巴達。\nしかし、思わぬ障壁が待ち受けていて……？", "scenarioId":"event161-01", "coverImage":"161_0", "backgroundImage":"0", "releasePt":0, "releaseConditions":"オープニングシナリオ", "backgroundImageId":29, "rewards":[
+          {
+            "id":2469, "eventId":161, "seq":0, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2470, "eventId":161, "seq":0, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":161, "seq":1, "caption":"第１話", "title":"サービスエリア", "synopsis":"一同はまりなの車に乗り、\nサービスエリアにやってくるが……？", "scenarioId":"event161-02", "coverImage":"161_1", "backgroundImage":"0", "releasePt":1500, "releaseConditions":"1500イベントP達成", "backgroundImageId":293, "rewards":[
+          {
+            "id":2471, "eventId":161, "seq":1, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2472, "eventId":161, "seq":1, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":161, "seq":2, "caption":"第２話", "title":"ユメウツツ", "synopsis":"休憩スペースで眠っていた蘭、\n目覚めるとまりなの車が見当たらず……？", "scenarioId":"event161-03", "coverImage":"161_2", "backgroundImage":"0", "releasePt":4000, "releaseConditions":"4000イベントP達成", "backgroundImageId":293, "rewards":[
+          {
+            "id":2473, "eventId":161, "seq":2, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2474, "eventId":161, "seq":2, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":161, "seq":3, "caption":"第３話", "title":"楽しいドライブ……？", "synopsis":"道案内をするひまり達。\nだが、カーナビは古いものらしく……？", "scenarioId":"event161-04", "coverImage":"161_3", "backgroundImage":"0", "releasePt":9000, "releaseConditions":"9000イベントP達成", "backgroundImageId":725, "rewards":[
+          {
+            "id":2475, "eventId":161, "seq":3, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2476, "eventId":161, "seq":3, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":161, "seq":4, "caption":"第４話", "title":"大ピンチ！", "synopsis":"モカが車酔いから回復し、\nライブに向けて本格的に動き出すが……？", "scenarioId":"event161-05", "coverImage":"161_4", "backgroundImage":"0", "releasePt":17500, "releaseConditions":"17500イベントP達成", "backgroundImageId":725, "rewards":[
+          {
+            "id":2477, "eventId":161, "seq":4, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2478, "eventId":161, "seq":4, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":161, "seq":5, "caption":"第５話", "title":"まりなの言葉", "synopsis":"トラブルの連続で落ち込むひまりだが、\nまりなからある話を聞いて……？", "scenarioId":"event161-06", "coverImage":"161_5", "backgroundImage":"0", "releasePt":25000, "releaseConditions":"25000イベントP達成", "backgroundImageId":725, "rewards":[
+          {
+            "id":2479, "eventId":161, "seq":5, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2480, "eventId":161, "seq":5, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":161, "seq":6, "caption":"エンディング", "title":"遠征の先に", "synopsis":"ようやく辿り着いたライブ会場。\n初遠征の成果は果たして――", "scenarioId":"event161-07", "coverImage":"161_6", "backgroundImage":"0", "releasePt":35000, "releaseConditions":"35000イベントP達成", "backgroundImageId":194, "rewards":[
+          {
+            "id":2481, "eventId":161, "seq":6, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2482, "eventId":161, "seq":6, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      }
+    ],
+    "musics":[
+      {
+        "eventId":161, "musicId":356, "seq":1, "musicRankingRewards":[
+          {
+            "id":2539, "eventId":161, "musicId":356, "fromRank":1, "toRank":1, "resourceType":"degree", "resourceId":3710, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2540, "eventId":161, "musicId":356, "fromRank":1, "toRank":1, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2541, "eventId":161, "musicId":356, "fromRank":2, "toRank":2, "resourceType":"degree", "resourceId":3711, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2542, "eventId":161, "musicId":356, "fromRank":2, "toRank":2, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2543, "eventId":161, "musicId":356, "fromRank":3, "toRank":3, "resourceType":"degree", "resourceId":3712, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2544, "eventId":161, "musicId":356, "fromRank":3, "toRank":3, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2545, "eventId":161, "musicId":356, "fromRank":4, "toRank":10, "resourceType":"degree", "resourceId":3713, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2546, "eventId":161, "musicId":356, "fromRank":4, "toRank":10, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2547, "eventId":161, "musicId":356, "fromRank":11, "toRank":100, "resourceType":"degree", "resourceId":3714, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2548, "eventId":161, "musicId":356, "fromRank":11, "toRank":100, "resourceType":"practice_ticket", "resourceId":8, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2549, "eventId":161, "musicId":356, "fromRank":101, "toRank":1000, "resourceType":"practice_ticket", "resourceId":7, "quantity":5, "recommendFlg":0
+          },
+          {
+            "id":2550, "eventId":161, "musicId":356, "fromRank":1001, "toRank":2000, "resourceType":"practice_ticket", "resourceId":7, "quantity":3, "recommendFlg":0
+          },
+          {
+            "id":2551, "eventId":161, "musicId":356, "fromRank":2001, "toRank":5000, "resourceType":"practice_ticket", "resourceId":7, "quantity":2, "recommendFlg":0
+          },
+          {
+            "id":2552, "eventId":161, "musicId":356, "fromRank":5001, "toRank":10000, "resourceType":"practice_ticket", "resourceId":7, "quantity":1, "recommendFlg":0
+          },
+          {
+            "id":2553, "eventId":161, "musicId":356, "fromRank":10001, "toRank":20000, "resourceType":"practice_ticket", "resourceId":6, "quantity":5, "recommendFlg":0
+          },
+          {
+            "id":2554, "eventId":161, "musicId":356, "fromRank":20001, "toRank":30000, "resourceType":"practice_ticket", "resourceId":6, "quantity":3, "recommendFlg":0
+          },
+          {
+            "id":2555, "eventId":161, "musicId":356, "fromRank":30001, "toRank":50000, "resourceType":"practice_ticket", "resourceId":6, "quantity":2, "recommendFlg":0
+          },
+          {
+            "id":2556, "eventId":161, "musicId":356, "fromRank":50001, "toRank":100000, "resourceType":"practice_ticket", "resourceId":6, "quantity":1, "recommendFlg":0
+          }
+        ]
+      }
+    ],
+    "eventCharacterParameterBonus":{
+      "eventId":161, "performance":0, "technique":0, "visual":50
+    },
+    "eventAttributeAndCharacterBonus":{
+      "eventId":161, "pointPercent":0, "parameterPercent":20
+    }
+  }
+}
