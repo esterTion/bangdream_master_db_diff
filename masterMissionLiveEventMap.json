@@ -1,3 +1,101 @@
-[
-  
-]
+{
+  "162":{
+    "eventId":162, "attributes":[
+      {
+        "eventId":162, "attribute":"powerful", "percent":10
+      }
+    ],
+    "characters":[
+      {
+        "eventId":162, "characterId":12, "percent":20, "seq":1
+      },
+      {
+        "eventId":162, "characterId":17, "percent":20, "seq":4
+      },
+      {
+        "eventId":162, "characterId":19, "percent":20, "seq":2
+      },
+      {
+        "eventId":162, "characterId":24, "percent":20, "seq":5
+      },
+      {
+        "eventId":162, "characterId":32, "percent":20, "seq":3
+      }
+    ],
+    "stories":[
+      {
+        "eventId":162, "seq":0, "caption":"オープニング", "title":"あなたにとって『劇的』とは？", "synopsis":"演劇部の脚本作りに悩む薫と麻弥。\nすると、奇妙な放送が流れてきて……", "scenarioId":"event162-01", "coverImage":"162_0", "backgroundImage":"0", "releasePt":0, "releaseConditions":"オープニングシナリオ", "backgroundImageId":643, "rewards":[
+          {
+            "id":2483, "eventId":162, "seq":0, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2484, "eventId":162, "seq":0, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":162, "seq":1, "caption":"第１話", "title":"大役をキミにっ☆", "synopsis":"悩んでいるロックを見つけた薫と麻弥。\nお昼の放送について尋ねると……", "scenarioId":"event162-02", "coverImage":"162_1", "backgroundImage":"0", "releasePt":3000, "releaseConditions":"3000イベントP達成", "backgroundImageId":404, "rewards":[
+          {
+            "id":2485, "eventId":162, "seq":1, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2486, "eventId":162, "seq":1, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":162, "seq":2, "caption":"第２話", "title":"儚さ増し増し！演技レッスン", "synopsis":"ロックに演技指導を行うことにした薫達。\n教室にロックを迎えに行くのだが……", "scenarioId":"event162-03", "coverImage":"162_2", "backgroundImage":"0", "releasePt":6000, "releaseConditions":"6000イベントP達成", "backgroundImageId":142, "rewards":[
+          {
+            "id":2487, "eventId":162, "seq":2, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2488, "eventId":162, "seq":2, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":162, "seq":3, "caption":"第３話", "title":"秘技、王子七変化", "synopsis":"薫と麻弥が『劇的』を探し始めて数日――\n思うような『劇的』はまだ見つからず……", "scenarioId":"event162-04", "coverImage":"162_3", "backgroundImage":"0", "releasePt":15000, "releaseConditions":"15000イベントP達成", "backgroundImageId":726, "rewards":[
+          {
+            "id":2489, "eventId":162, "seq":3, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2490, "eventId":162, "seq":3, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":162, "seq":4, "caption":"第４話", "title":"本当の願い", "synopsis":"校内放送の成功を喜ぶ薫達。\nしかし、ロックの様子は違っていて……？", "scenarioId":"event162-05", "coverImage":"162_4", "backgroundImage":"0", "releasePt":28000, "releaseConditions":"28000イベントP達成", "backgroundImageId":372, "rewards":[
+          {
+            "id":2491, "eventId":162, "seq":4, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2492, "eventId":162, "seq":4, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":162, "seq":5, "caption":"第５話", "title":"私は『私』の信じたやり方で", "synopsis":"演劇部の練習を終えた薫と麻弥。\n屋上で佇むロックを見つけるが……", "scenarioId":"event162-06", "coverImage":"162_5", "backgroundImage":"0", "releasePt":40000, "releaseConditions":"40000イベントP達成", "backgroundImageId":36, "rewards":[
+          {
+            "id":2493, "eventId":162, "seq":5, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2494, "eventId":162, "seq":5, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":162, "seq":6, "caption":"エンディング", "title":"『劇的』は瀬田薫の日常の中に", "synopsis":"ロックを勇気づけることに成功した薫達。\n果たして校内放送は成功するのか！？", "scenarioId":"event162-07", "coverImage":"162_6", "backgroundImage":"0", "releasePt":55000, "releaseConditions":"55000イベントP達成", "backgroundImageId":405, "rewards":[
+          {
+            "id":2495, "eventId":162, "seq":6, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2496, "eventId":162, "seq":6, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      }
+    ],
+    "eventAttributeAndCharacterBonus":{
+      "eventId":162, "pointPercent":20, "parameterPercent":0
+    }
+  }
+}
