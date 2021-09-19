@@ -6442,6 +6442,14 @@
             "releaseCondition":{
               "hint":"・判定をPERFECTにするスキルをもったメンバーを編成しよう\\n※同じ楽曲の別難易度はそれぞれクリア楽曲数にカウントされます", "releaseRank":50
             }
+          },
+          {
+            "seq":5, "title":"[505050]ALL PERFECTクリア楽曲数を[FF3B72]200[-]以上にしよう[-]", "description":"ALL PERFECTクリア楽曲数を200以上にしよう", "maxProgress":200, "reward":{
+              "UNKNOWN_1":100035, "UNKNOWN_2":5, "UNKNOWN_3":1, "resourceType":"degree", "resourceId":3785, "quantity":1
+            },
+            "releaseCondition":{
+              "hint":"・判定をPERFECTにするスキルをもったメンバーを編成しよう\\n※同じ楽曲の別難易度はそれぞれクリア楽曲数にカウントされます", "releaseRank":50
+            }
           }
         ],
         "typeIndex":89
@@ -6479,12 +6487,35 @@
             "releaseCondition":{
               "hint":"・判定をPERFECTにするスキルをもったメンバーを編成しよう\\n※同じ楽曲の別難易度はそれぞれクリア楽曲数にカウントされます", "releaseRank":50
             }
+          },
+          {
+            "seq":5, "title":"[505050]難易度EXPERT以上のALL PERFECTクリア楽曲数を[FF3B72]200[-]以上にしよう[-]", "description":"難易度EXPERT以上のALL PERFECTクリア楽曲数を200以上にしよう", "maxProgress":200, "reward":{
+              "UNKNOWN_1":100036, "UNKNOWN_2":5, "UNKNOWN_3":1, "resourceType":"degree", "resourceId":3786, "quantity":1
+            },
+            "releaseCondition":{
+              "hint":"・判定をPERFECTにするスキルをもったメンバーを編成しよう\\n※同じ楽曲の別難易度はそれぞれクリア楽曲数にカウントされます", "releaseRank":50
+            }
           }
         ],
         "typeIndex":90
       }
     ],
     "type":"ex_mission"
+  },
+  {
+    "missionGroupId":524, "missionResetType":"daily", "startAt":1632117600000, "endAt":1632830399000, "rewardEndAt":1632855599000, "eventId":163, "missionList":[
+      {
+        "missionId":1000010, "transitionMethod":"live", "transitionId":0, "seq":1000, "detailList":[
+          {
+            "seq":1, "title":"チームライブで1回勝利しよう", "description":"チームライブで1回勝利しよう", "maxProgress":1, "reward":{
+              "UNKNOWN_1":1000010, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"coin", "resourceId":0, "quantity":10000
+            }
+          }
+        ],
+        "labelText":"デイリー", "typeIndex":88
+      }
+    ],
+    "type":"limited"
   },
   {
     "missionGroupId":1027, "missionResetType":"none", "startAt":1631253600000, "endAt":1631966399000, "rewardEndAt":1632117599000, "eventId":162, "missionList":[

@@ -1,4 +1,131 @@
 {
+  "163":{
+    "eventId":163, "attributes":[
+      {
+        "eventId":163, "attribute":"happy", "percent":10
+      }
+    ],
+    "characters":[
+      {
+        "eventId":163, "characterId":7, "percent":20, "seq":4
+      },
+      {
+        "eventId":163, "characterId":16, "percent":20, "seq":2
+      },
+      {
+        "eventId":163, "characterId":19, "percent":20, "seq":3
+      },
+      {
+        "eventId":163, "characterId":23, "percent":20, "seq":1
+      },
+      {
+        "eventId":163, "characterId":35, "percent":20, "seq":5
+      }
+    ],
+    "stories":[
+      {
+        "eventId":163, "seq":0, "caption":"オープニング", "title":"初めてのお仕事", "synopsis":"音楽事務所に所属したRoselia。\nリサ達は初めての写真撮影を経験していく", "scenarioId":"event163-01", "coverImage":"163_0", "backgroundImage":"0", "releasePt":0, "releaseConditions":"オープニングシナリオ", "backgroundImageId":264, "rewards":[
+          {
+            "id":2497, "eventId":163, "seq":0, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2498, "eventId":163, "seq":0, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":163, "seq":1, "caption":"第１話", "title":"お仕事の極意", "synopsis":"バイトの前に、出かけようとしていたリサ。\nその途中、彩と麻弥に会い……", "scenarioId":"event163-02", "coverImage":"163_1", "backgroundImage":"0", "releasePt":2000, "releaseConditions":"2000イベントP達成", "backgroundImageId":5, "rewards":[
+          {
+            "id":2499, "eventId":163, "seq":1, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2500, "eventId":163, "seq":1, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":163, "seq":2, "caption":"第２話", "title":"変わりゆく環境", "synopsis":"今度は香澄とひまりに出会ったリサ。\nすると、二人からサインを求められ……", "scenarioId":"event163-03", "coverImage":"163_2", "backgroundImage":"0", "releasePt":6000, "releaseConditions":"6000イベントP達成", "backgroundImageId":5, "rewards":[
+          {
+            "id":2501, "eventId":163, "seq":2, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2502, "eventId":163, "seq":2, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":163, "seq":3, "caption":"第３話", "title":"覚悟", "synopsis":"メジャーの世界に進むRoseliaに、\nチュチュはある忠告をする……", "scenarioId":"event163-04", "coverImage":"163_3", "backgroundImage":"0", "releasePt":12000, "releaseConditions":"12000イベントP達成", "backgroundImageId":23, "rewards":[
+          {
+            "id":2503, "eventId":163, "seq":3, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2504, "eventId":163, "seq":3, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":163, "seq":4, "caption":"第４話", "title":"茜色の帰り道", "synopsis":"バイトの帰り道、モカと一緒に歩く商店街。\nリサは二人が出会った頃のことを思い出す", "scenarioId":"event163-05", "coverImage":"163_4", "backgroundImage":"0", "releasePt":22000, "releaseConditions":"22000イベントP達成", "backgroundImageId":18, "rewards":[
+          {
+            "id":2505, "eventId":163, "seq":4, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2506, "eventId":163, "seq":4, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":163, "seq":5, "caption":"第５話", "title":"電車に揺られて", "synopsis":"バイトをやめるかもしれない――その未来に\n迷い、戸惑うリサに、彩は優しく寄り添う", "scenarioId":"event163-06", "coverImage":"163_5", "backgroundImage":"0", "releasePt":30000, "releaseConditions":"30000イベントP達成", "backgroundImageId":10, "rewards":[
+          {
+            "id":2507, "eventId":163, "seq":5, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2508, "eventId":163, "seq":5, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":163, "seq":6, "caption":"エンディング", "title":"全てひっくるめて", "synopsis":"迷いが吹っ切れたリサは、\nメジャーの世界を歩いていく覚悟を示す", "scenarioId":"event163-07", "coverImage":"163_6", "backgroundImage":"0", "releasePt":50000, "releaseConditions":"50000イベントP達成", "backgroundImageId":649, "rewards":[
+          {
+            "id":2509, "eventId":163, "seq":6, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2510, "eventId":163, "seq":6, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      }
+    ],
+    "eventAttributeAndCharacterBonus":{
+      "eventId":163, "pointPercent":20, "parameterPercent":20
+    },
+    "teamList":[
+      {
+        "eventId":163, "teamId":1, "teamName":"ファッション", "iconFileName":"img_team_1_red", "themeTitle":"アルバイトするならどっち？"
+      },
+      {
+        "eventId":163, "teamId":2, "teamName":"飲食", "iconFileName":"img_team_2_blue", "themeTitle":"アルバイトするならどっち？"
+      }
+    ],
+    "teamRewards":[
+      {
+        "festivalResultType":"lose", "seq":1, "resourceType":"star", "quantity":100
+      },
+      {
+        "festivalResultType":"lose", "seq":2, "resourceType":"live_boost_recovery_item", "resourceId":1, "quantity":5
+      },
+      {
+        "festivalResultType":"win", "seq":1, "resourceType":"star", "quantity":100
+      },
+      {
+        "festivalResultType":"win", "seq":2, "resourceType":"live_boost_recovery_item", "resourceId":2, "quantity":1
+      },
+      {
+        "festivalResultType":"win", "seq":3, "resourceType":"michelle_seal", "quantity":50
+      }
+    ],
+    "themeTitle":"アルバイトするならどっち？", "eventCharacterParameterBonus":{
+      "eventId":163, "performance":0, "technique":50, "visual":0
+    }
+  },
   "157":{
     "eventId":157, "attributes":[
       {

@@ -896,6 +896,28 @@
     ],
     "seq":24, "purchaseMenuId":4, "homeBalloonPriority":30, "homeBalloonMessage":"お得なスターキャンペーン♪", "recommendSeq":0
   },
+  "88":{
+    "purchaseId":88, "purchaseCategory":"item_set", "productName":"4.5周年記念スターセットB", "description":"[505050FF]４３２０個（有償３６００個 [-][FF3B72FF]＋ 無償７２０個[-][505050FF]）[-]", "label":"キャンペーン", "purchaseLimit":1, "publishedAt":1632031200000, "closedAt":1633845599000, "detail":[
+      {
+        "purchaseId":88, "seq":1, "resourceType":"paid_star", "quantity":3600
+      },
+      {
+        "purchaseId":88, "seq":2, "resourceType":"star", "quantity":720
+      }
+    ],
+    "seq":15, "purchaseMenuId":2, "homeBalloonPriority":30, "homeBalloonMessage":"4.5周年記念スターセット販売中♪", "recommendSeq":0
+  },
+  "89":{
+    "purchaseId":89, "purchaseCategory":"item_set", "productName":"4.5周年記念スターセットA", "description":"[505050FF]１０２００個（有償８５００個 [-][FF3B72FF]＋ 無償１７００個[-][505050FF]）[-]", "label":"キャンペーン", "purchaseLimit":1, "publishedAt":1632031200000, "closedAt":1633845599000, "detail":[
+      {
+        "purchaseId":89, "seq":1, "resourceType":"paid_star", "quantity":8500
+      },
+      {
+        "purchaseId":89, "seq":2, "resourceType":"star", "quantity":1700
+      }
+    ],
+    "seq":14, "purchaseMenuId":2, "homeBalloonPriority":30, "homeBalloonMessage":"4.5周年記念スターセット販売中♪", "recommendAssetBundleName":"star_set2109", "recommendSeq":10
+  },
   "102":{
     "purchaseId":102, "purchaseCategory":"star", "productName":"スターB", "description":"[505050FF]３６０個[-]", "publishedAt":1569855600000, "detail":[
       {
