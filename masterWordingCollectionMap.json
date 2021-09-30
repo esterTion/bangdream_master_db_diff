@@ -74,6 +74,9 @@
   "menuList_privacyPolicy_button":{
     "name":"menuList_privacyPolicy_button", "wording":"プライバシーポリシー"
   },
+  "medleyEvent_selectMusic_label":{
+    "name":"medleyEvent_selectMusic_label", "wording":"楽曲を選択してください"
+  },
   "dialog_pinsDetail_title":{
     "name":"dialog_pinsDetail_title", "wording":"ピンズ詳細"
   },
@@ -380,6 +383,9 @@
   "dialog_musicSortFilter_original":{
     "name":"dialog_musicSortFilter_original", "wording":"オリジナル"
   },
+  "medley_bandEdit_notEnoughMember":{
+    "name":"medley_bandEdit_notEnoughMember", "wording":"メンバーが不足しているため、\nおすすめ編成ができません。\n\n※メドレーバンド編成では、同一メンバーを\n使用することはできません。\n※メンバーは、各バンドのバンドストーリー読了\nや、ガチャなどで獲得することができます。"
+  },
   "musicSelect_musicNameFilter_columnTA":{
     "name":"musicSelect_musicNameFilter_columnTA", "wording":"た行"
   },
@@ -530,6 +536,9 @@
   "eventResult_eventItemOverrideBase":{
     "name":"eventResult_eventItemOverrideBase", "wording":"獲得"
   },
+  "medley_warehouse_footerDescription":{
+    "name":"medley_warehouse_footerDescription", "wording":"エリアアイテムはメドレーバンドにも共通で適用されます。"
+  },
   "graphicalInfo_title_spicon":{
     "name":"graphicalInfo_title_spicon", "wording":"「SPリズムアイコン」が難易度SPECIALに登場！"
   },
@@ -580,6 +589,15 @@
   },
   "dialog_few_storage_MV":{
     "name":"dialog_few_storage_MV", "wording":"端末の空き容量が不足しているため、\\nMVを再生することができません。\\n"
+  },
+  "medleyEvent_musicSelect_button":{
+    "name":"medleyEvent_musicSelect_button", "wording":"楽曲選択"
+  },
+  "medley_eventPointResult_scoreBounus":{
+    "name":"medley_eventPointResult_scoreBounus", "wording":"スコアボーナス"
+  },
+  "medleyEvent_randomSelect_button":{
+    "name":"medleyEvent_randomSelect_button", "wording":"一括おまかせ楽曲選択"
   },
   "dialog_deckRecommend_priorityMember":{
     "name":"dialog_deckRecommend_priorityMember", "wording":"メンバー"
@@ -782,6 +800,9 @@
   "teamLiveFestival_stageSelect_rotationUpdateRestTimePrefix":{
     "name":"teamLiveFestival_stageSelect_rotationUpdateRestTimePrefix", "wording":"あと"
   },
+  "deckEdit_recommend_medleyEventNote":{
+    "name":"deckEdit_recommend_medleyEventNote", "wording":"※メドレーライブ用の他バンドに編成されているメンバーは編成されません。"
+  },
   "biography_characterProfile_hatedFood":{
     "name":"biography_characterProfile_hatedFood", "wording":"嫌いな食べ物"
   },
@@ -805,6 +826,9 @@
   },
   "snsShare_newYearCardTextureTemplete_message":{
     "name":"snsShare_newYearCardTextureTemplete_message", "wording":"#ガルパゆく年くる年___4piA___\\n年賀状キャンペーン___4pyS______4p2j___\\n\\n{0}のみんなから年賀状が届いたよ___4pmq___\\n年賀状はアプリ内で1月10日まで見れます___4pi6___\\n\\n___4pyo___年賀状を見に行く___4qyH___\\nhttps://bit.ly/33jwSL1"
+  },
+  "dialog_medleyEventEditDeckAttentionDialog_mainContext":{
+    "name":"dialog_medleyEventEditDeckAttentionDialog_mainContext", "wording":"メドレーバンドを編成すると\nイベントに参加することができます"
   },
   "dialog_liveSettings_soundTap":{
     "name":"dialog_liveSettings_soundTap", "wording":"タップ音"
@@ -982,6 +1006,9 @@
   },
   "starShop_itemSet_setDetail":{
     "name":"starShop_itemSet_setDetail", "wording":"セット\\n内容"
+  },
+  "medleyLiveResult_musicLevele":{
+    "name":"medleyLiveResult_musicLevele", "wording":"楽曲レベル"
   },
   "dialog_musicSortFilter_notAllPerfect":{
     "name":"dialog_musicSortFilter_notAllPerfect", "wording":"未オール\nパーフェクト"
@@ -1334,8 +1361,14 @@
   "word_countdownLiveSpecialPage_broadCast":{
     "name":"word_countdownLiveSpecialPage_broadCast", "wording":"生放送"
   },
+  "medley_intermediatePage_comboNumberCaption":{
+    "name":"medley_intermediatePage_comboNumberCaption", "wording":"継続中のコンボ数"
+  },
   "teamLiveFestival_stageSelect_rotationStageAndMusicListButtonCaption":{
     "name":"teamLiveFestival_stageSelect_rotationStageAndMusicListButtonCaption", "wording":"スケジュール"
+  },
+  "dialog_medleyEventSuspensionConfirm_contents":{
+    "name":"dialog_medleyEventSuspensionConfirm_contents", "wording":"メドレーライブを終了しますか？\\n報酬やイベントPは、現在のライブ結果に\\n応じて獲得することができます。"
   },
   "dialog_liveBoostLackStar_title":{
     "name":"dialog_liveBoostLackStar_title", "wording":"所持スター不足"
@@ -1802,6 +1835,9 @@
   "mission_noMissionLiveEvent_message":{
     "name":"mission_noMissionLiveEvent_message", "wording":"現在挑戦可能な\\nイベントミッションはありません。"
   },
+  "medley_eventPointResult_eventScore":{
+    "name":"medley_eventPointResult_eventScore", "wording":"イベントスコア"
+  },
   "word_lottery_mashiroluck":{
     "name":"word_lottery_mashiroluck", "wording":"輝き吉"
   },
@@ -1942,6 +1978,9 @@
   },
   "dialog_pendingPurchaseReflectFailed_title":{
     "name":"dialog_pendingPurchaseReflectFailed_title", "wording":"購入の復元"
+  },
+  "event_top_medalCount":{
+    "name":"event_top_medalCount", "wording":"個"
   },
   "dialog_liveSettings_coreCharacterCutIn":{
     "name":"dialog_liveSettings_coreCharacterCutIn", "wording":"メンバーカットイン"
@@ -2096,14 +2135,23 @@
   "dialog_memberExchangeConfirm_title":{
     "name":"dialog_memberExchangeConfirm_title", "wording":"このメンバーと交換しますか？"
   },
+  "dialog_medleyLiveSuspension_body1":{
+    "name":"dialog_medleyLiveSuspension_body1", "wording":"ライブを中断しますか？\n1曲以上ライブをクリアしている場合は\nリザルト画面へ移動します。"
+  },
+  "dialog_medleyLiveSuspension_body2":{
+    "name":"dialog_medleyLiveSuspension_body2", "wording":"※中断した楽曲分のライブブーストは消費されません。\n※中断した場合、クリアした楽曲分の\nイベントPやライブ報酬を獲得できます。"
+  },
   "dialog_liveBonusDescription_message":{
-    "name":"dialog_liveBonusDescription_message", "wording":"■デイリーライブボーナス\n1日1回、ライブをクリアした時に、複数のアイテムから1つ選んで獲得できます。\nアイテムはあらかじめ選択しておくこともでき、受け取り時のアイテム選択を省略することができます。\n毎日4:00にライブボーナスの獲得状況がリセットされ、また獲得できるようになります。\nフリーライブ、協力ライブ、対バンライブ、チャレンジライブ、チームライブ等、いずれかのライブで1日につき1回のみ獲得できます。\nリハーサル機能、デモプレイ機能では獲得できません。\n\n■累計ライブボーナス\nデイリーライブボーナスを7回受け取ると、累計ライブボーナスを獲得できます。\nデイリーライブボーナスの受け取りが途中で途切れても累計ライブボーナスの達成度はリセットされません。"
+    "name":"dialog_liveBonusDescription_message", "wording":"■デイリーライブボーナス\n1日1回、ライブをクリアした時に、複数のアイテムから1つ選んで獲得できます。\nアイテムはあらかじめ選択しておくこともでき、受け取り時のアイテム選択を省略することができます。\n毎日4:00にライブボーナスの獲得状況がリセットされ、また獲得できるようになります。\nフリーライブ、協力ライブ、対バンライブ、チャレンジライブ、チームライブ、メドレーライブ等、いずれかのライブで1日につき1回のみ獲得できます。\nリハーサル機能、デモプレイ機能では獲得できません。\n\n■累計ライブボーナス\nデイリーライブボーナスを7回受け取ると、累計ライブボーナスを獲得できます。\nデイリーライブボーナスの受け取りが途中で途切れても累計ライブボーナスの達成度はリセットされません。"
   },
   "dialog_garupaCupEntryEnded_message":{
     "name":"dialog_garupaCupEntryEnded_message", "wording":"エントリー期間が終了しました。"
   },
   "privateRoom_lineInviteCode_message":{
     "name":"privateRoom_lineInviteCode_message", "wording":"一緒に{0}をしよう___4pyo___\\n下記リンクから、招待したプレイヤーが作成した{1}に参加することができるよ___4pi6___\\n{2}"
+  },
+  "medley_bandEdit_deckSelectButtonPrefix":{
+    "name":"medley_bandEdit_deckSelectButtonPrefix", "wording":"メドレー"
   },
   "dialog_movieViewPause_message":{
     "name":"dialog_movieViewPause_message", "wording":"ムービーの再生を中断しますか？"
@@ -2444,6 +2492,9 @@
   "dialog_stepUpSetItemDetail_title":{
     "name":"dialog_stepUpSetItemDetail_title", "wording":"セット内容詳細"
   },
+  "medley_eventPointResult_medleyBounus":{
+    "name":"medley_eventPointResult_medleyBounus", "wording":"メドレーボーナス"
+  },
   "dialog_areaItemRecommend_allBand":{
     "name":"dialog_areaItemRecommend_allBand", "wording":"すべてのバンド"
   },
@@ -2612,6 +2663,9 @@
   "aprilFool2021_regionDialog_liveButton":{
     "name":"aprilFool2021_regionDialog_liveButton", "wording":"ライブ"
   },
+  "medley_eventPointResult_description":{
+    "name":"medley_eventPointResult_description", "wording":"メドレーライブイベントでは\\n続けてクリアしたライブ数に応じて算出される\\nメドレーボーナスとクリアしたライブの合計スコア\\nに応じて算出されるスコアボーナスの合計が、\\n獲得イベントPになります。"
+  },
   "dialog_sealExchange_filterCostume":{
     "name":"dialog_sealExchange_filterCostume", "wording":"衣装"
   },
@@ -2707,6 +2761,9 @@
   },
   "garupaCup_PlayerIdRegisterDialog_description":{
     "name":"garupaCup_PlayerIdRegisterDialog_description", "wording":"[FF3B72]チーム成立後にチームメンバーの変更や\\nチームの解散をすることはできません。[-]"
+  },
+  "deckEdit_medleyEvent_noEventBonus":{
+    "name":"deckEdit_medleyEvent_noEventBonus", "wording":"メドレーライブ用のバンド編成に\\nのみボーナスが発生します"
   },
   "newYearCard_bandSelectDialog_title":{
     "name":"newYearCard_bandSelectDialog_title", "wording":"バンドを選択"
@@ -2828,6 +2885,9 @@
   "header_subTitle_teamLiveFestivalStageSelect":{
     "name":"header_subTitle_teamLiveFestivalStageSelect", "wording":"チームライブTOP"
   },
+  "header_subTitle_medleyEventCategorySelect":{
+    "name":"header_subTitle_medleyEventCategorySelect", "wording":"メドレー選択"
+  },
   "dialog_rhythmgamePause_practiceTitle":{
     "name":"dialog_rhythmgamePause_practiceTitle", "wording":"一時中断"
   },
@@ -2842,6 +2902,9 @@
   },
   "medley_scoreRank_plus":{
     "name":"medley_scoreRank_plus", "wording":"+"
+  },
+  "dialog_medleyEventEditDeckAttentionDialog_header":{
+    "name":"dialog_medleyEventEditDeckAttentionDialog_header", "wording":"メドレーライブイベント開催中！"
   },
   "cell_exMission_progressFreeScore":{
     "name":"cell_exMission_progressFreeScore", "wording":"[505050]フリーライブスコア[-] [FF3B72]{0}[-]"
@@ -2932,6 +2995,9 @@
   },
   "dialog_liveSettings_inGameModeLive2dMaintenance":{
     "name":"dialog_liveSettings_inGameModeLive2dMaintenance", "wording":"※ただいまLive2Dモードのメンテナンス中です。詳しくはお知らせをご覧ください。"
+  },
+  "medley_eventPointResult_gotEventBadge":{
+    "name":"medley_eventPointResult_gotEventBadge", "wording":"獲得バッジ"
   },
   "dialog_exMissionFilter_captionMissionFilter":{
     "name":"dialog_exMissionFilter_captionMissionFilter", "wording":"ミッション絞り込み"
@@ -3152,6 +3218,9 @@
   "dialog_areaItemEffect_bestCompositionTitle":{
     "name":"dialog_areaItemEffect_bestCompositionTitle", "wording":"編成バンドに最適なエリアアイテムを設置完了"
   },
+  "word_totalParam":{
+    "name":"word_totalParam", "wording":"総合力"
+  },
   "teamLiveFestival_teamLiveTop_currentMusicList":{
     "name":"teamLiveFestival_teamLiveTop_currentMusicList", "wording":"現在の楽曲リスト"
   },
@@ -3232,6 +3301,9 @@
   },
   "dialog_exMissionFilter_captionRewardFilter":{
     "name":"dialog_exMissionFilter_captionRewardFilter", "wording":"報酬絞り込み"
+  },
+  "medleyEvent_editBandAttentionBalloon_description":{
+    "name":"medleyEvent_editBandAttentionBalloon_description", "wording":"メドレーバンド\n編成をしよう！"
   },
   "teamLiveFestival_resultMemberDetailDialog_ownTeamScore":{
     "name":"teamLiveFestival_resultMemberDetailDialog_ownTeamScore", "wording":"自分のチームのスコア"
@@ -3359,6 +3431,9 @@
   "dialog_profileFrameSettings_radio_normal":{
     "name":"dialog_profileFrameSettings_radio_normal", "wording":"通常"
   },
+  "medleyEvent_difficultySelect_startButton":{
+    "name":"medleyEvent_difficultySelect_startButton", "wording":"{0}曲目スタート！"
+  },
   "dialog_billingPenalty_executeBillingStop":{
     "name":"dialog_billingPenalty_executeBillingStop", "wording":"返金分の有償スターが回収できないことが複数回確認され、\\n悪質な行為と判断されたため、課金停止措置を実施しました。"
   },
@@ -3424,6 +3499,9 @@
   },
   "generalElection_commentBanner_openingDay":{
     "name":"generalElection_commentBanner_openingDay", "wording":"本日より投票受付中！"
+  },
+  "medleyResultHeader_themeMedley":{
+    "name":"medleyResultHeader_themeMedley", "wording":"課題メドレー"
   },
   "biography_areaTalk_buttonWatch":{
     "name":"biography_areaTalk_buttonWatch", "wording":"見る"
@@ -3617,11 +3695,20 @@
   "dialog_sort_characterAlbum_obtained":{
     "name":"dialog_sort_characterAlbum_obtained", "wording":"獲得状態"
   },
+  "header_subTitle_assignmentMedley":{
+    "name":"header_subTitle_assignmentMedley", "wording":"課題メドレー"
+  },
   "transitionButton_button_option":{
     "name":"transitionButton_button_option", "wording":"オプション"
   },
+  "header_mainTitle_medleySelectMusic":{
+    "name":"header_mainTitle_medleySelectMusic", "wording":"メドレーライブ"
+  },
   "dialog_miracleTicket_description":{
     "name":"dialog_miracleTicket_description", "wording":"※{0}は「メニュー」から\\n「交換所」で対象メンバーと交換できます。"
+  },
+  "dialog_medleyEventSuspensionConfirm_title":{
+    "name":"dialog_medleyEventSuspensionConfirm_title", "wording":"確認"
   },
   "teamLiveFestival_rotationStageList_stageTypeTimeFormat":{
     "name":"teamLiveFestival_rotationStageList_stageTypeTimeFormat", "wording":"HH:mm"
@@ -3689,8 +3776,14 @@
   "teamLiveFestival_top_battleGaugeQuestion":{
     "name":"teamLiveFestival_top_battleGaugeQuestion", "wording":"????"
   },
+  "medley_eventPointResult_eventPointMultipler":{
+    "name":"medley_eventPointResult_eventPointMultipler", "wording":"倍!"
+  },
   "dialog_liveSettings_liveEffectCaption":{
     "name":"dialog_liveSettings_liveEffectCaption", "wording":"ライブ演出"
+  },
+  "medley_eventPointResult_baseEventPoint":{
+    "name":"medley_eventPointResult_baseEventPoint", "wording":"基本イベントP"
   },
   "dialog_specialSkinChange_description":{
     "name":"dialog_specialSkinChange_description", "wording":"期間限定ライブスキンを設定しますか？"
@@ -3782,6 +3875,12 @@
   "graphicalInformation_goto_collaboOriginalMusicPage":{
     "name":"graphicalInformation_goto_collaboOriginalMusicPage", "wording":"期間限定楽曲へ"
   },
+  "medley_intermediatePageSuspension_anotate":{
+    "name":"medley_intermediatePageSuspension_anotate", "wording":"※現在までのプレイした楽曲数分のスコアで、メドレー\\nスコアランクや獲得できるイベントPが決定されます。"
+  },
+  "header_subTitle_medleyDeckEdit":{
+    "name":"header_subTitle_medleyDeckEdit", "wording":"メドレーバンド編成"
+  },
   "dialog_generalElection_voteComplete_balloonShare":{
     "name":"dialog_generalElection_voteComplete_balloonShare", "wording":"[FF3B72]初回シェア時[-]\\n[505050]投票券プレゼント[-]"
   },
@@ -3790,6 +3889,9 @@
   },
   "word_favorite":{
     "name":"word_favorite", "wording":"お気に入り"
+  },
+  "dialog_liveBoostSetting_medleyDescription":{
+    "name":"dialog_liveBoostSetting_medleyDescription", "wording":"※メドレーライブでは、消費するライブブーストを各楽曲ごとにライブ開始前に選択できます。"
   },
   "dialog_twitterDisconnectFinish_message":{
     "name":"dialog_twitterDisconnectFinish_message", "wording":"Twitterアカウントの連携を解除しました。"
@@ -3884,8 +3986,14 @@
   "teamLiveFestival_battleStatusDialog_title":{
     "name":"teamLiveFestival_battleStatusDialog_title", "wording":"フェスバトル状況"
   },
+  "dialog_medleyLiveRetire_body2":{
+    "name":"dialog_medleyLiveRetire_body2", "wording":"※リタイアした楽曲分のライブブーストは消費されません。\n※リタイアした場合、クリアした楽曲分の\nイベントPやライブ報酬を獲得できます。"
+  },
   "button_graphicalInfo_birthdayPage":{
     "name":"button_graphicalInfo_birthdayPage", "wording":"誕生日ページ"
+  },
+  "dialog_medleyLiveRetire_body1":{
+    "name":"dialog_medleyLiveRetire_body1", "wording":"リタイアしますか？\n1曲以上ライブをクリアしている場合は\nリザルト画面へ移動します。"
   },
   "biography_characterProfile_grade":{
     "name":"biography_characterProfile_grade", "wording":"学年"
@@ -3991,6 +4099,9 @@
   },
   "newYearHolidaysPage_loginAnimation1_title":{
     "name":"newYearHolidaysPage_loginAnimation1_title", "wording":"新年のご挨拶"
+  },
+  "header_mainTitle_medleyEvent":{
+    "name":"header_mainTitle_medleyEvent", "wording":"メドレーライブ"
   },
   "generalElection_description_preOpen":{
     "name":"generalElection_description_preOpen", "wording":"投票期間開始まで\\nしばらくお待ち下さい。"
@@ -4253,6 +4364,9 @@
   "dialog_mvViewPause_message":{
     "name":"dialog_mvViewPause_message", "wording":"MVの再生を中断しますか？"
   },
+  "medley_deckName_format":{
+    "name":"medley_deckName_format", "wording":"メドレー{0}曲目"
+  },
   "dailyLive_rewardSelectCell_selectButtonDisableLabel":{
     "name":"dailyLive_rewardSelectCell_selectButtonDisableLabel", "wording":"選択"
   },
@@ -4379,6 +4493,9 @@
   "april2019_storyList_tabA":{
     "name":"april2019_storyList_tabA", "wording":"パンVSクッキー"
   },
+  "medleyResultHeader_freeMedley":{
+    "name":"medleyResultHeader_freeMedley", "wording":"自由メドレー"
+  },
   "word_player_index":{
     "name":"word_player_index", "wording":"P"
   },
@@ -4417,6 +4534,9 @@
   },
   "mission_limited_complete_notice":{
     "name":"mission_limited_complete_notice", "wording":"{0}ミッション達成！"
+  },
+  "medleyLiveResult_musicNotPlay":{
+    "name":"medleyLiveResult_musicNotPlay", "wording":"未クリア"
   },
   "dialog_generalElection_vote":{
     "name":"dialog_generalElection_vote", "wording":"投票"
@@ -4583,6 +4703,9 @@
   "word_alreadyHaveMember":{
     "name":"word_alreadyHaveMember", "wording":"獲得済みメンバー"
   },
+  "medley_bandEdit_areaItemRecommend":{
+    "name":"medley_bandEdit_areaItemRecommend", "wording":"メドレーライブ用のバンド編成を変更したため、\nエリアアイテムが最適ではない可能性があります。\n\nメドレーライブ用のバンドの合計総合力が\n最も高くなるようにエリアアイテムを\n置き換えますか？"
+  },
   "musicSelect_musicNameFilter_columnWA":{
     "name":"musicSelect_musicNameFilter_columnWA", "wording":"わ行"
   },
@@ -4624,6 +4747,9 @@
   },
   "mission_liveEvent_eventEnd_caption":{
     "name":"mission_liveEvent_eventEnd_caption", "wording":"イベントは終了しました"
+  },
+  "medley_intermediatePage_invalidTokenErrorMessage":{
+    "name":"medley_intermediatePage_invalidTokenErrorMessage", "wording":"通信エラーが発生しました。\\nタイトルに戻ります。"
   },
   "word_demoPlay":{
     "name":"word_demoPlay", "wording":"デモプレイ"
@@ -4673,6 +4799,9 @@
   "generalElection_electionTicketNum":{
     "name":"generalElection_electionTicketNum", "wording":"投票券所持数"
   },
+  "medley_bandEdit_deckSelectButtonSuffix":{
+    "name":"medley_bandEdit_deckSelectButtonSuffix", "wording":"曲目"
+  },
   "starShop_itemSet_purchaseLimitCount":{
     "name":"starShop_itemSet_purchaseLimitCount", "wording":"[505050]購入可能回数[-]\\n[FF395A]あと{0}回[-]"
   },
@@ -4693,6 +4822,9 @@
   },
   "musicSelect_musicNameFilter_columnYA":{
     "name":"musicSelect_musicNameFilter_columnYA", "wording":"や行"
+  },
+  "header_subTitle_freeMedley":{
+    "name":"header_subTitle_freeMedley", "wording":"自由メドレー"
   },
   "generalElection_description_interimReport":{
     "name":"generalElection_description_interimReport", "wording":"公式ページにて中間結果発表中！"
@@ -4802,6 +4934,9 @@
   "dialog_copyConfirm_takeOverText":{
     "name":"dialog_copyConfirm_takeOverText", "wording":"引き継ぎID、パスワードをコピーしました。"
   },
+  "dialog_rhythmgameGameOver_message":{
+    "name":"dialog_rhythmgameGameOver_message", "wording":"ライフがなくなってしまいました。\\nスターを{0}個消費することで、\\nライフを全回復してコンティニューできます。"
+  },
   "dialog_generalElection_voteComplete_aboutShare":{
     "name":"dialog_generalElection_voteComplete_aboutShare", "wording":"投票内容の\\nシェアについて"
   },
@@ -4858,6 +4993,9 @@
   },
   "bandStoryChapterSpecialPage_title_mainBandStory":{
     "name":"bandStoryChapterSpecialPage_title_mainBandStory", "wording":"シーズン{0}"
+  },
+  "medleyEvent_totalPower_title":{
+    "name":"medleyEvent_totalPower_title", "wording":"メドレーバンド総合力"
   },
   "miracleTicketExchange_list_title":{
     "name":"miracleTicketExchange_list_title", "wording":"交換可能メンバー一覧"
@@ -4922,6 +5060,9 @@
   "dialog_miracleTicketExchangeSearchFavoriteMember_notice":{
     "name":"dialog_miracleTicketExchangeSearchFavoriteMember_notice", "wording":"※「{0}」で\\n交換可能なメンバーのみ探すことができます"
   },
+  "dialog_medleyEventEditDeckAttentionDialog_subContext":{
+    "name":"dialog_medleyEventEditDeckAttentionDialog_subContext", "wording":"まずはメドレーバンドを編成♪"
+  },
   "word_lottery_sayaluck":{
     "name":"word_lottery_sayaluck", "wording":"パン吉"
   },
@@ -4952,6 +5093,9 @@
   "gachaTop_gachaSealInfo_checkMemberButton":{
     "name":"gachaTop_gachaSealInfo_checkMemberButton", "wording":"選べるメンバーを確認"
   },
+  "medleyEvent_numberNBand_label":{
+    "name":"medleyEvent_numberNBand_label", "wording":"{0}曲目バンド"
+  },
   "tryLiveEvent_tryTargetDialogCell_musicTitle":{
     "name":"tryLiveEvent_tryTargetDialogCell_musicTitle", "wording":"楽曲"
   },
@@ -4979,6 +5123,9 @@
   "word_lottery_tokoluck":{
     "name":"word_lottery_tokoluck", "wording":"パない吉"
   },
+  "medley_eventPointResult_gotEventBadgeCount":{
+    "name":"medley_eventPointResult_gotEventBadgeCount", "wording":"枚"
+  },
   "dialog_purchaseError_productListResponseTimeout":{
     "name":"dialog_purchaseError_productListResponseTimeout", "wording":"通信エラーが発生しました。"
   },
@@ -5000,11 +5147,17 @@
   "band_sortingKind_skillType":{
     "name":"band_sortingKind_skillType", "wording":"スキル順"
   },
+  "header_subTitle_medleyEventIntermediatePage":{
+    "name":"header_subTitle_medleyEventIntermediatePage", "wording":"中間ページ"
+  },
   "dialog_bestAreaItemSetDialog_title":{
     "name":"dialog_bestAreaItemSetDialog_title", "wording":"エリアアイテムの確認"
   },
   "garupaCup_topTeamEntry_playerIndex":{
     "name":"garupaCup_topTeamEntry_playerIndex", "wording":"プレイヤー{0}"
+  },
+  "medley_intermediatePage_scoreCaption":{
+    "name":"medley_intermediatePage_scoreCaption", "wording":"現在のスコア"
   },
   "word_lottery_eveluck":{
     "name":"word_lottery_eveluck", "wording":"ブシドー吉"
@@ -5035,6 +5188,9 @@
   },
   "teamLiveFestival_eventPointResult_winBonus":{
     "name":"teamLiveFestival_eventPointResult_winBonus", "wording":"勝利ボーナス"
+  },
+  "medley_eventPointResult_gotEventPoint":{
+    "name":"medley_eventPointResult_gotEventPoint", "wording":"獲得イベントP"
   },
   "birthdayPage_showBirthdayStoryAgainButton_label":{
     "name":"birthdayPage_showBirthdayStoryAgainButton_label", "wording":"誕生日ストーリーを見る"
