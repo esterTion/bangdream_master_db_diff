@@ -1,5 +1,20 @@
 [
   {
+    "missionGroupId":14, "missionResetType":"daily", "startAt":1637388000000, "endAt":1638100799000, "rewardEndAt":1638125999000, "eventId":169, "missionList":[
+      {
+        "missionId":1000012, "transitionMethod":"live", "transitionId":0, "seq":1000, "detailList":[
+          {
+            "seq":1, "title":"チームライブで1回勝利しよう", "description":"チームライブで1回勝利しよう", "maxProgress":1, "reward":{
+              "UNKNOWN_1":1000012, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"coin", "resourceId":0, "quantity":10000
+            }
+          }
+        ],
+        "labelText":"デイリー", "typeIndex":88
+      }
+    ],
+    "type":"limited"
+  },
+  {
     "missionGroupId":101, "missionResetType":"none", "startAt":1500397200000, "endAt":4087299600000, "rewardEndAt":4087299600000, "missionList":[
       {
         "missionId":1, "transitionMethod":"live", "transitionId":0, "seq":30, "detailList":[
