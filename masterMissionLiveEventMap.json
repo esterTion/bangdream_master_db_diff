@@ -1,1 +1,101 @@
-[]
+{
+  "169":{
+    "eventId":169, "attributes":[
+      {
+        "eventId":169, "attribute":"cool", "percent":10
+      }
+    ],
+    "characters":[
+      {
+        "eventId":169, "characterId":6, "percent":20, "seq":2
+      },
+      {
+        "eventId":169, "characterId":7, "percent":20, "seq":1
+      },
+      {
+        "eventId":169, "characterId":8, "percent":20, "seq":3
+      },
+      {
+        "eventId":169, "characterId":9, "percent":20, "seq":4
+      },
+      {
+        "eventId":169, "characterId":10, "percent":20, "seq":5
+      }
+    ],
+    "stories":[
+      {
+        "eventId":169, "seq":0, "caption":"オープニング", "title":"モカの音色", "synopsis":"スタジオで練習をするAfterglow。\nモカのギターからはいつになく熱い音が――", "scenarioId":"event169-01", "coverImage":"169_0", "backgroundImage":"0", "releasePt":0, "releaseConditions":"オープニングシナリオ", "backgroundImageId":33, "rewards":[
+          {
+            "id":2598, "eventId":169, "seq":0, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2599, "eventId":169, "seq":0, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":169, "seq":1, "caption":"第１話", "title":"今のAfterglow", "synopsis":"ライブに向けてセトリについて悩む一同。\nそんな中、新曲作成の話が持ち上がり……", "scenarioId":"event169-02", "coverImage":"169_1", "backgroundImage":"0", "releasePt":3000, "releaseConditions":"3000イベントP達成", "backgroundImageId":8, "rewards":[
+          {
+            "id":2600, "eventId":169, "seq":1, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2601, "eventId":169, "seq":1, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":169, "seq":2, "caption":"第２話", "title":"いつも通りの中に", "synopsis":"今のモカはどんな景色を見ているのか。\nそう思いモカを観察してみる蘭だったが――", "scenarioId":"event169-03", "coverImage":"169_2", "backgroundImage":"0", "releasePt":6000, "releaseConditions":"6000イベントP達成", "backgroundImageId":23, "rewards":[
+          {
+            "id":2602, "eventId":169, "seq":2, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2603, "eventId":169, "seq":2, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":169, "seq":3, "caption":"第３話", "title":"スクリブル", "synopsis":"休憩中、蘭はモカのカバンを発見する。\nそこからこぼれ落ちていたものは……", "scenarioId":"event169-04", "coverImage":"169_3", "backgroundImage":"0", "releasePt":15000, "releaseConditions":"15000イベントP達成", "backgroundImageId":33, "rewards":[
+          {
+            "id":2604, "eventId":169, "seq":3, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2605, "eventId":169, "seq":3, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":169, "seq":4, "caption":"第４話", "title":"あの日と同じ茜の下で", "synopsis":"モカのギターの音が変わった理由。\nいつも通りの中で蘭が見つけた答えとは……", "scenarioId":"event169-05", "coverImage":"169_4", "backgroundImage":"0", "releasePt":28000, "releaseConditions":"28000イベントP達成", "backgroundImageId":13, "rewards":[
+          {
+            "id":2606, "eventId":169, "seq":4, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2607, "eventId":169, "seq":4, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":169, "seq":5, "caption":"第５話", "title":"それぞれの色、重なり合って", "synopsis":"作曲を始めたAfterglow。モカの\n好きなフレーズに各々の好きが重なって――", "scenarioId":"event169-06", "coverImage":"169_5", "backgroundImage":"0", "releasePt":40000, "releaseConditions":"40000イベントP達成", "backgroundImageId":33, "rewards":[
+          {
+            "id":2608, "eventId":169, "seq":5, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2609, "eventId":169, "seq":5, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":169, "seq":6, "caption":"エンディング", "title":"遠く、遠く", "synopsis":"新曲を携え迎えたライブ本番。\nステージにあがる蘭の瞳に映るものは……", "scenarioId":"event169-07", "coverImage":"169_6", "backgroundImage":"0", "releasePt":55000, "releaseConditions":"55000イベントP達成", "backgroundImageId":28, "rewards":[
+          {
+            "id":2610, "eventId":169, "seq":6, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2611, "eventId":169, "seq":6, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      }
+    ],
+    "eventAttributeAndCharacterBonus":{
+      "eventId":169, "pointPercent":20, "parameterPercent":0
+    }
+  }
+}
