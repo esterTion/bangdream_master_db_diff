@@ -1,5 +1,5 @@
 {
-  "version":"5.8.0.350", "bundles":{
+  "version":"5.8.0.400", "bundles":{
     "actionset/group0":{
       "bundleName":"actionset/group0", "hash":"f74bac54dcaa2312fb0f5bd98409e65fbb9fa2f9e157d254bf4c792a14cb05b9", "category":"StartApp", "crc":510601681, "fileSize":15768
     },
@@ -7,7 +7,7 @@
       "bundleName":"actionset/group1", "hash":"9a0296d8754e657ff1da648257d653f4fb8724020f9d6f7d9e0821a4f3bc4dbb", "category":"StartApp", "crc":180847784, "fileSize":15899
     },
     "actionset/group156":{
-      "bundleName":"actionset/group156", "hash":"3c42a0a8d971a515835e0521027888fe831708bdb64ab7cee34166be76443a0c", "category":"StartApp", "crc":2909415343, "fileSize":9536
+      "bundleName":"actionset/group156", "hash":"5877a100b3c1886486dab9bfa08a82c4831708bdb64ab7cee34166be76443a0c", "category":"StartApp", "crc":1051510335, "fileSize":9656
     },
     "actionset/group2":{
       "bundleName":"actionset/group2", "hash":"a691ed1c3b31a7adf156e141a916d2f491c1a6002ceffcd513150530370a7c3d", "category":"StartApp", "crc":889775501, "fileSize":15849
@@ -2449,7 +2449,7 @@
       "bundleName":"bg/scenario67", "hash":"9a331cd4ac064f3f7f9db7fd8bdd45d700830c37a03acd002fb9420ce990e2dc", "category":"AsNeeded", "crc":1841863919, "fileSize":7510594
     },
     "bg/scenario68":{
-      "bundleName":"bg/scenario68", "hash":"e9f25d4be6d091f29fc6b99335df1666023803dd4f72c705f6b3b569ab2916af", "category":"AsNeeded", "crc":1285998264, "fileSize":3455105
+      "bundleName":"bg/scenario68", "hash":"3cc998512b84028f80b06bfb630d33f3023803dd4f72c705f6b3b569ab2916af", "category":"AsNeeded", "crc":3853192900, "fileSize":4383847
     },
     "bg/scenario69":{
       "bundleName":"bg/scenario69", "hash":"b5420914e800b87940bf80b15231cc625d8db16743824804e3d735ab0da91d5a", "category":"AsNeeded", "crc":3720164670, "fileSize":3059736
@@ -2780,6 +2780,9 @@
     },
     "birthday/chu2_2020/topscreen":{
       "bundleName":"birthday/chu2_2020/topscreen", "hash":"2665c5bb75d0eb58868a75acf11d57f4b54984693f0a7d2cdc91b5324a92596a", "category":"AsNeeded", "crc":1548072058, "fileSize":522666
+    },
+    "birthday/chu2_2021/topscreen":{
+      "bundleName":"birthday/chu2_2021/topscreen", "hash":"f4108f7e4eb4c1c8f542faed04a2bf33feabf43fa03196b6e5aa2189010e8d71", "category":"AsNeeded", "crc":3779433869, "fileSize":1682062
     },
     "birthday/eve_2018/topscreen":{
       "bundleName":"birthday/eve_2018/topscreen", "hash":"e7540b615197ab3e5cd9c09b94750431aff72a2c66961959a295dcc618999ebb", "category":"AsNeeded", "crc":4222098461, "dependencies":[
@@ -3349,10 +3352,10 @@
       "bundleName":"birthdayintroduction/resource/yukina_2021", "hash":"1e789109a81b58fdf80a13b18bf9010813240f3f6e5a88291ada887223e0c135", "category":"AsNeeded", "crc":2591421210, "fileSize":153528
     },
     "birthdayintroduction2021":{
-      "bundleName":"birthdayintroduction2021", "hash":"ac10815eece44d4d6aca876f32559260c225dbb8386923bbe78b85dd3f9acc3d", "category":"StartApp", "crc":3743068271, "dependencies":[
+      "bundleName":"birthdayintroduction2021", "hash":"4d1e7a4153548161509ba4a641a06fb8c225dbb8386923bbe78b85dd3f9acc3d", "category":"StartApp", "crc":3171052899, "dependencies":[
         "bg/scenario24", "birthday/animationbase", "birthdayintroduction/resource/sayo_2021", "newyearholidays/countdownlive/resultanimation"
       ],
-      "fileSize":3766729
+      "fileSize":3766731
     },
     "changedstamp/001":{
       "bundleName":"changedstamp/001", "hash":"b69457a03f7402b8827fd3f978203b7ff8f7d312a752322274167b83ce6ea379", "category":"StartApp", "crc":948012716, "fileSize":336857
@@ -6872,6 +6875,9 @@
     },
     "characters/ingameresourceset/res035015":{
       "bundleName":"characters/ingameresourceset/res035015", "hash":"4d37c9aaf20ab7cccc7d80847cf931f3970871c5f151518c2abcd205501a86c2", "category":"AsNeeded", "crc":4127095731, "fileSize":507029
+    },
+    "characters/ingameresourceset/res035016":{
+      "bundleName":"characters/ingameresourceset/res035016", "hash":"d6a3071b730d400748570079eeba1816ef2015de9d0327e8cb26c49dc5de7eed", "category":"AsNeeded", "crc":3800803870, "fileSize":557849
     },
     "characters/ingameresourceset_tutorial/res001001":{
       "bundleName":"characters/ingameresourceset_tutorial/res001001", "hash":"8ba61fcd9729d2b4274a78b77a77a001e6eadfa954c6efca00207bc8af8e6b40", "category":"Tutorial", "crc":3361199911, "fileSize":461452
@@ -10806,6 +10812,9 @@
     "characters/livesd/sd035015":{
       "bundleName":"characters/livesd/sd035015", "hash":"f7773f1f234de9e9ac8ec7ac14775463de387ede2023cfa9007a9477e429d4a0", "category":"AsNeeded", "crc":1094248078, "fileSize":563430
     },
+    "characters/livesd/sd035016":{
+      "bundleName":"characters/livesd/sd035016", "hash":"2ca35963ec2cd033327eb59862cc0dff1d6fbc053c27a3af3243e1a76aa08fab", "category":"AsNeeded", "crc":3451344312, "fileSize":502582
+    },
     "characters/livesd_tutorial/sd001043":{
       "bundleName":"characters/livesd_tutorial/sd001043", "hash":"7801b187a937d3e2d7c4d91270046cde6bc5547cb0dc05da8e6cef5313ad3608", "category":"Tutorial", "crc":4235860039, "fileSize":439251
     },
@@ -14301,6 +14310,9 @@
     "characters/resourceset/res035015":{
       "bundleName":"characters/resourceset/res035015", "hash":"edd8672d31d55a571a0d0cbd1900ac162a328dfb21aadedffc2de25eb420ab88", "category":"AsNeeded", "crc":198728146, "fileSize":1916108
     },
+    "characters/resourceset/res035016":{
+      "bundleName":"characters/resourceset/res035016", "hash":"fb44bfb725f743bf9bedd31b020ffe0b3f6593e42bb506516c107076f05bb543", "category":"AsNeeded", "crc":4267598781, "fileSize":1337706
+    },
     "characters/resourceset/selfintroduction001":{
       "bundleName":"characters/resourceset/selfintroduction001", "hash":"9cf0ca3959bb8a279d0368b9f81efa085bbee6c056c1e4377d95eda502bd587e", "category":"AsNeeded", "crc":1531001422, "fileSize":5319
     },
@@ -16816,7 +16828,7 @@
       "bundleName":"deco/frame/deco_frame009", "hash":"95ae0c0682ecc3868391216b526c28f0998cdae5d3baae3a009d2aba1ac03deb", "category":"StartApp", "crc":948702411, "fileSize":6663
     },
     "deco/pins":{
-      "bundleName":"deco/pins", "hash":"8a6e90032fb3e18d20537840a3bb2c3ab11bbce95512a2944e50985e51585085", "category":"StartApp", "crc":574188692, "fileSize":519965
+      "bundleName":"deco/pins", "hash":"65fcb5ab555eeecffaa0cdb5b228d2adb11bbce95512a2944e50985e51585085", "category":"StartApp", "crc":3443598413, "fileSize":525281
     },
     "effect/common_materials":{
       "bundleName":"effect/common_materials", "hash":"b1ed6621481333eedbee9ddd7c38b7d428f239d9f33706cf5c29231391c24fc1", "category":"StartApp", "crc":797262605, "fileSize":297319
@@ -22263,6 +22275,12 @@
       ],
       "fileSize":1075525
     },
+    "gacha/screen/gacha890":{
+      "bundleName":"gacha/screen/gacha890", "hash":"a99a1e6d0d98219a00bd6457401c462e04f397a1cee7d130aef2274893154863", "category":"AsNeeded", "crc":1829505281, "dependencies":[
+        "effect/common_materials"
+      ],
+      "fileSize":1415100
+    },
     "gacha/screen/gacha909":{
       "bundleName":"gacha/screen/gacha909", "hash":"7792486b56f5ee0329ffce4d3935e8f28009fe69502d59ff06df5b9fc821c1c3", "category":"AsNeeded", "crc":3475642518, "dependencies":[
         "effect/common_materials"
@@ -22400,6 +22418,9 @@
     },
     "graphicalinfo/birthday_chisato2021":{
       "bundleName":"graphicalinfo/birthday_chisato2021", "hash":"60ac9e68f5ba961ca25d09636718432be5b6a3c24c0781167ac8fec153066152", "category":"AsNeeded", "crc":4070393589, "fileSize":388121
+    },
+    "graphicalinfo/birthday_chu22021":{
+      "bundleName":"graphicalinfo/birthday_chu22021", "hash":"97c4b48ef2d8603605b2f85b8a2992ef851fe815908defb87641922292841c97", "category":"AsNeeded", "crc":2565248225, "fileSize":422428
     },
     "graphicalinfo/birthday_eve2021":{
       "bundleName":"graphicalinfo/birthday_eve2021", "hash":"f7a4bd7205b89da067faacfc25cf13383b8edb122890b5270a31b4a7245e312a", "category":"AsNeeded", "crc":2279814153, "fileSize":416539
@@ -22561,7 +22582,7 @@
       "bundleName":"graphicalinfo/qualify_2021_slide", "hash":"f39584c82881ee171dd70e5d4f6842b11bc7fcb114022053ed2bad27930d5822", "category":"AsNeeded", "crc":3058507727, "fileSize":440214
     },
     "homebanner":{
-      "bundleName":"homebanner", "hash":"47a227ce9e63e029178f3ef4d23df6f8578e1801cf37bea8d19805e333aba690", "category":"StartApp", "crc":1014850973, "fileSize":61734248
+      "bundleName":"homebanner", "hash":"4366764860111f6f9b6f5ba703ffc88f578e1801cf37bea8d19805e333aba690", "category":"StartApp", "crc":1713383973, "fileSize":61853741
     },
     "ingameskin/bgskin/skin00":{
       "bundleName":"ingameskin/bgskin/skin00", "hash":"c7798cb32bd05bf8ee2e769a6e83a648bb71af161f99855ea24133093d7e43e7", "category":"StartApp", "crc":4212413049, "fileSize":2028228
@@ -28413,6 +28434,9 @@
     "live2d/chara/035_2021af":{
       "bundleName":"live2d/chara/035_2021af", "hash":"3cddeeee92fa0bd44c9d91f20115e7ff40889696a52002cac737bf3d603b6d12", "category":"AsNeeded", "crc":2193064194, "fileSize":1161518
     },
+    "live2d/chara/035_birthday_2021":{
+      "bundleName":"live2d/chara/035_birthday_2021", "hash":"a88cf49d21fcc6643a88ba44c1f296d2c7dbbdfbcf2bf17ed3018696efce863f", "category":"AsNeeded", "crc":3294151086, "fileSize":1181133
+    },
     "live2d/chara/035_dream_festival_2":{
       "bundleName":"live2d/chara/035_dream_festival_2", "hash":"14971dfae9ef980d3e2561b490ff856636afddc137764e87700cf9bc65ef2310", "category":"AsNeeded", "crc":804298486, "fileSize":1262589
     },
@@ -31251,6 +31275,9 @@
     "pickupsituation/1365":{
       "bundleName":"pickupsituation/1365", "hash":"076a8345e99e8399a16c664fb102816e85161538c8eb2886382742fedf51ea65", "category":"AsNeeded", "crc":3775668342, "fileSize":122272
     },
+    "pickupsituation/1366":{
+      "bundleName":"pickupsituation/1366", "hash":"f32583767efd556a2864fcf574eec14f4785633aa80264b9f6f786c73183bb06", "category":"AsNeeded", "crc":3514139237, "fileSize":118235
+    },
     "pickupsituation/137":{
       "bundleName":"pickupsituation/137", "hash":"1f0a7dceed42938cf257f225c9365d533add1a75cf27b73ede2b24318ca208ad", "category":"AsNeeded", "crc":438821673, "fileSize":228719
     },
@@ -33757,7 +33784,7 @@
       "bundleName":"scenario/actionset/group44", "hash":"bed8fa0046d8fab84a82ac02b672799accf03da7355bc6ece6d9fa703d8c45b1", "category":"StartApp", "crc":2897996612, "fileSize":5341
     },
     "scenario/actionset/group78":{
-      "bundleName":"scenario/actionset/group78", "hash":"b004f0fc92943ad2038850a6d84da8f00d94fb8c01e7953f01ec9dd5a3bac241", "category":"StartApp", "crc":924758869, "fileSize":53573
+      "bundleName":"scenario/actionset/group78", "hash":"bea710d8eae9a4e0c565ce89cd62079e0d94fb8c01e7953f01ec9dd5a3bac241", "category":"StartApp", "crc":929962267, "fileSize":54640
     },
     "scenario/actionset_tutorial/group390":{
       "bundleName":"scenario/actionset_tutorial/group390", "hash":"44078a1a7a37da03498a1438dbf0f7afcd7356594367d824002881347b712d69", "category":"Tutorial", "crc":551285022, "fileSize":4925
@@ -33811,7 +33838,7 @@
       "bundleName":"scenario/band/021", "hash":"40484783d1a429826537055598e806bf1acc356f51b1ed984134ca37c2f35cc2", "category":"StartApp", "crc":3763308238, "fileSize":153318
     },
     "scenario/birthdaystory":{
-      "bundleName":"scenario/birthdaystory", "hash":"ccd896f57d7e33212ec6e807df6c7e8371c2b287304b181dea2f3942bea81952", "category":"AsNeeded", "crc":1020404066, "fileSize":57498
+      "bundleName":"scenario/birthdaystory", "hash":"989540d222d65a39bda9b8c5e51cf1d771c2b287304b181dea2f3942bea81952", "category":"AsNeeded", "crc":3624906992, "fileSize":58823
     },
     "scenario/digeststory/001":{
       "bundleName":"scenario/digeststory/001", "hash":"2b4bb15d6358773ae552349cefe345311bf5faf3168527e29f76e5c92e9f3b93", "category":"AsNeeded", "crc":2553116248, "fileSize":17702
@@ -37840,7 +37867,7 @@
       "bundleName":"sound/voice/birthday/character9", "hash":"4d4a807f5e73a770d2b08ab3fa6435f2e8d53c5e2a88f94555be757d7417eaab", "category":"AsNeeded", "crc":1005419620, "fileSize":14513
     },
     "sound/voice/gacha/birthdayspin":{
-      "bundleName":"sound/voice/gacha/birthdayspin", "hash":"3e5825eb9f9e8627000c8699250777626bd6bdb851ab64b767ef5bb4f1f6faea", "category":"StartApp", "crc":1205319177, "fileSize":14559
+      "bundleName":"sound/voice/gacha/birthdayspin", "hash":"71934c4bed5f65ee0f1a209b920dc4356bd6bdb851ab64b767ef5bb4f1f6faea", "category":"StartApp", "crc":429230520, "fileSize":33043
     },
     "sound/voice/gacha/limitedspin":{
       "bundleName":"sound/voice/gacha/limitedspin", "hash":"9803f83300eaddc32aee08b224be5f321fd14d36b920dec995d16df2cba124a7", "category":"StartApp", "crc":2137852770, "fileSize":76759
@@ -38239,7 +38266,7 @@
       "bundleName":"sound/voice/scenario/actionset/actionset10", "hash":"db1e24123eb9d00b68ae6acf23e002acbaa2e0f9a003380007f04e49ea250c50", "category":"AdditionalVoice", "crc":1230620380, "fileSize":24634659
     },
     "sound/voice/scenario/actionset/actionset1000":{
-      "bundleName":"sound/voice/scenario/actionset/actionset1000", "hash":"93d6d1552787ab18aa2438f3c49a745fda6085d618e755775512a91bba04d482", "category":"AdditionalVoice", "crc":769878727, "fileSize":13617265
+      "bundleName":"sound/voice/scenario/actionset/actionset1000", "hash":"fe54f1090d2e4b3ff98eea7fc0354091da6085d618e755775512a91bba04d482", "category":"AdditionalVoice", "crc":1819949722, "fileSize":13903551
     },
     "sound/voice/scenario/actionset/actionset1500":{
       "bundleName":"sound/voice/scenario/actionset/actionset1500", "hash":"94ac0efdf709a07f28023d7feb6139935e21ae867c7af1793409bc71aacca79a", "category":"AdditionalVoice", "crc":1245689581, "fileSize":32091249
@@ -39591,6 +39618,9 @@
     "sound/voice/scenario/birthdaystory113":{
       "bundleName":"sound/voice/scenario/birthdaystory113", "hash":"e02bfac2fd2178ddfabe24f88b390b39dad55b2fc6f86fe50a82070c4fc6a429", "category":"AsNeeded", "crc":220811403, "fileSize":396017
     },
+    "sound/voice/scenario/birthdaystory114":{
+      "bundleName":"sound/voice/scenario/birthdaystory114", "hash":"73c0bca6383348f5009a7d01b2ee43b45b0cb1ba04937574d1e32b2ec4fae5c7", "category":"AsNeeded", "crc":1759037176, "fileSize":475805
+    },
     "sound/voice/scenario/birthdaystory12":{
       "bundleName":"sound/voice/scenario/birthdaystory12", "hash":"5c224393b4226fc54d172858b08e5351df6860706d0bff91ce4bd52af51c3fa3", "category":"AsNeeded", "crc":1094185411, "fileSize":125258
     },
@@ -39658,7 +39688,7 @@
       "bundleName":"sound/voice/scenario/birthdaystory33", "hash":"058e6471f2bc9888c58d874798b5ee0d07f27c44d96033dcf0d187faab2208df", "category":"AsNeeded", "crc":4132793847, "fileSize":347747
     },
     "sound/voice/scenario/birthdaystory34":{
-      "bundleName":"sound/voice/scenario/birthdaystory34", "hash":"24642c84bc3d323e3835b663e1d104cb389d7ef268c2c9f746dba1f0819b228b", "category":"AsNeeded", "crc":1484498877, "fileSize":364367
+      "bundleName":"sound/voice/scenario/birthdaystory34", "hash":"719c55296ed10263ca01e9a546ea8cf9389d7ef268c2c9f746dba1f0819b228b", "category":"AsNeeded", "crc":3513727447, "fileSize":364388
     },
     "sound/voice/scenario/birthdaystory4":{
       "bundleName":"sound/voice/scenario/birthdaystory4", "hash":"ee149fd5c6ffaf7f1f1a4b24138ebdd2ea5f86529b2f64ff2cd9c04b538032b9", "category":"AsNeeded", "crc":54651195, "fileSize":84951
@@ -39682,7 +39712,7 @@
       "bundleName":"sound/voice/scenario/birthdaystory91", "hash":"9d4c1f55f89cdd6a28b92526866a2a44bb22da550da4f48151d18632e774e88b", "category":"AsNeeded", "crc":3681460077, "fileSize":347828
     },
     "sound/voice/scenario/birthdaystory92":{
-      "bundleName":"sound/voice/scenario/birthdaystory92", "hash":"3d21641175e81e01be2e1bd2ddb5c4a2c3c48b6aa6721d411333149c02a1a304", "category":"AsNeeded", "crc":3609554398, "fileSize":364380
+      "bundleName":"sound/voice/scenario/birthdaystory92", "hash":"a8824544e569efbf633bcdf5580f3090c3c48b6aa6721d411333149c02a1a304", "category":"AsNeeded", "crc":4223157670, "fileSize":364382
     },
     "sound/voice/scenario/birthdaystory93":{
       "bundleName":"sound/voice/scenario/birthdaystory93", "hash":"060658cc8ade664227c78125fb40d95ae232136dd38057e112a34b3953a7b50a", "category":"AsNeeded", "crc":3240350507, "fileSize":445451
@@ -44038,7 +44068,7 @@
       "bundleName":"sound/voice/scenario/resourceset/res005051", "hash":"d76c29878aba8bf71dc3c49f1fe6edf904cb58eaa28ed867d26c73ea0dcee860", "category":"AsNeeded", "crc":3880975405, "fileSize":967694
     },
     "sound/voice/scenario/resourceset/res005053":{
-      "bundleName":"sound/voice/scenario/resourceset/res005053", "hash":"ee7bf9f3d627b8083d16b0de511cadc7c9f4da255a8e05ebf61b1b24817af5b6", "category":"AsNeeded", "crc":859365964, "fileSize":1672133
+      "bundleName":"sound/voice/scenario/resourceset/res005053", "hash":"f2e50d8baed3db5d097eecbe04c7f8f4c9f4da255a8e05ebf61b1b24817af5b6", "category":"AsNeeded", "crc":1060169334, "fileSize":1672082
     },
     "sound/voice/scenario/resourceset/res005054":{
       "bundleName":"sound/voice/scenario/resourceset/res005054", "hash":"fab2e2ed54959c4d3f82d8be1da5b133d34f5e40b536f0c998564b9c1410d579", "category":"AsNeeded", "crc":3325584323, "fileSize":2004667
@@ -46677,6 +46707,9 @@
     "sound/voice/scenario/resourceset/res035015":{
       "bundleName":"sound/voice/scenario/resourceset/res035015", "hash":"5616233ced3851ecbe7573ea406358731355fa688adca098d898106963cf80ee", "category":"AsNeeded", "crc":2678030448, "fileSize":1512123
     },
+    "sound/voice/scenario/resourceset/res035016":{
+      "bundleName":"sound/voice/scenario/resourceset/res035016", "hash":"c48e8cd3825923b14407bb77d455bd24d209f178477861a56a1e5f5b85fed44a", "category":"AsNeeded", "crc":2423487273, "fileSize":1019370
+    },
     "sound/voice/scenario/resourceset/selfintroduction001":{
       "bundleName":"sound/voice/scenario/resourceset/selfintroduction001", "hash":"62156eab1d05b6594e24ba0d2a87acfca44edee844b2efd9e317d6014e015d81", "category":"AsNeeded", "crc":4191092106, "fileSize":277064
     },
@@ -47002,10 +47035,10 @@
       "bundleName":"specialtraining/effect", "hash":"db977f795b833a23075bd7284ae61ecfe7a20dff29cee187706ce62240e92d4a", "category":"StartApp", "crc":2329856022, "fileSize":5017129
     },
     "stamp/01":{
-      "bundleName":"stamp/01", "hash":"82c8fe05cad098844601778f85806c22b4177963bd21045df2aff8a399646f87", "category":"StartApp", "crc":663353523, "fileSize":7294682
+      "bundleName":"stamp/01", "hash":"ea640d91947a947d22e29da022e4c8bab4177963bd21045df2aff8a399646f87", "category":"StartApp", "crc":2638129473, "fileSize":7323992
     },
     "stampatlas":{
-      "bundleName":"stampatlas", "hash":"8854dee3de6eed2e81ebeeeb43b901ca57be9051b50df4d4c764dbd496577275", "category":"StartApp", "crc":2226829879, "fileSize":8770996
+      "bundleName":"stampatlas", "hash":"53ccaeccb585d423f9e2370dea4b3fd157be9051b50df4d4c764dbd496577275", "category":"StartApp", "crc":364109618, "fileSize":8805798
     },
     "starshop/garupapass":{
       "bundleName":"starshop/garupapass", "hash":"589e9ed5f62cf841675fccebbc2d373d6ee6006ac561653509864400bb69dafb", "category":"StartApp", "crc":1012557817, "fileSize":210431
@@ -52585,7 +52618,7 @@
       "bundleName":"thumb/chara/card00026", "hash":"dc75ebadef4ed73a7a7280cf4f60cb8b9cfe188d96e8afd9eae4b7578de76163", "category":"StartApp", "crc":1998007293, "fileSize":2607279
     },
     "thumb/chara/card00027":{
-      "bundleName":"thumb/chara/card00027", "hash":"85ef2c282eb1803c621123c84c40dc48653331fcd4ff5f4c956a3f8b476d5c7c", "category":"StartApp", "crc":4017833906, "fileSize":1182578
+      "bundleName":"thumb/chara/card00027", "hash":"77add172c5c4c61d83e1072ba71ebbe9653331fcd4ff5f4c956a3f8b476d5c7c", "category":"StartApp", "crc":3373336326, "fileSize":1228620
     },
     "thumb/chara/card_tutorial":{
       "bundleName":"thumb/chara/card_tutorial", "hash":"c077c569b58657f4c81d4588a9da218c57c688417497917f4ff36838ec19986d", "category":"Tutorial", "crc":1905101607, "fileSize":179145
@@ -52651,7 +52684,7 @@
       "bundleName":"thumb/costume/group24", "hash":"33c603857694ea9fc22f76e4e8a94c6aeb10a134910509571db878a1324d6e94", "category":"StartApp", "crc":939959628, "fileSize":988832
     },
     "thumb/costume/group25":{
-      "bundleName":"thumb/costume/group25", "hash":"40795dfca4d5a6974495595aea22758b21dffaecf31eb35cf83ecd2aba3d6f2a", "category":"StartApp", "crc":1783075664, "fileSize":396086
+      "bundleName":"thumb/costume/group25", "hash":"acb51a6bda199156a5e9cb76d6e5007321dffaecf31eb35cf83ecd2aba3d6f2a", "category":"StartApp", "crc":1813966779, "fileSize":415087
     },
     "thumb/costume/group3":{
       "bundleName":"thumb/costume/group3", "hash":"44d8e18444060e2378693581536f8db604cefb8d033cfaa6b9373336c0f39b8d", "category":"StartApp", "crc":406037479, "fileSize":843874
@@ -52678,7 +52711,7 @@
       "bundleName":"thumb/deco/frame", "hash":"a60aa53db204d064725006dbfaf048a973cd63dc38dbf13cdbb4c02d55b1c94e", "category":"StartApp", "crc":3482937946, "fileSize":126555
     },
     "thumb/deco/pins":{
-      "bundleName":"thumb/deco/pins", "hash":"df498d79cf2344327f49abaa21b209fc0e1f650ff1fe429368d23d2f8685426a", "category":"StartApp", "crc":2025804958, "fileSize":1380959
+      "bundleName":"thumb/deco/pins", "hash":"c02ca3573093c54e248af804e2f2096b0e1f650ff1fe429368d23d2f8685426a", "category":"StartApp", "crc":1284218154, "fileSize":1402645
     },
     "thumb/degree":{
       "bundleName":"thumb/degree", "hash":"437ad461f18ffc00d4817ce808059c3f648c817e9312e03f87482718238ba937", "category":"StartApp", "crc":2359486646, "fileSize":7160722
