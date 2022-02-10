@@ -1,4 +1,131 @@
 {
+  "176":{
+    "eventId":176, "attributes":[
+      {
+        "eventId":176, "attribute":"cool", "percent":10
+      }
+    ],
+    "characters":[
+      {
+        "eventId":176, "characterId":26, "percent":20, "seq":5
+      },
+      {
+        "eventId":176, "characterId":27, "percent":20, "seq":1
+      },
+      {
+        "eventId":176, "characterId":28, "percent":20, "seq":3
+      },
+      {
+        "eventId":176, "characterId":29, "percent":20, "seq":2
+      },
+      {
+        "eventId":176, "characterId":30, "percent":20, "seq":4
+      }
+    ],
+    "stories":[
+      {
+        "eventId":176, "seq":0, "caption":"オープニング", "title":"あたしによる、あたしのための！", "synopsis":"会場が予約できなくてもライブがしたい！\n透子が提示したとんでもない解決策とは――", "scenarioId":"event176-01", "coverImage":"176_0", "backgroundImage":"0", "releasePt":0, "releaseConditions":"オープニングシナリオ", "backgroundImageId":478, "rewards":[
+          {
+            "id":2727, "eventId":176, "seq":0, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2728, "eventId":176, "seq":0, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":176, "seq":1, "caption":"第１話", "title":"着々進行中", "synopsis":"トーコレのための準備を進め始めた\n透子だが、問題は想像以上に山積みで……", "scenarioId":"event176-02", "coverImage":"176_1", "backgroundImage":"0", "releasePt":2000, "releaseConditions":"2000イベントP達成", "backgroundImageId":473, "rewards":[
+          {
+            "id":2729, "eventId":176, "seq":1, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2730, "eventId":176, "seq":1, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":176, "seq":2, "caption":"第２話", "title":"トキメキショッピング", "synopsis":"約束通り買い物にやってきたモニカ。\n行き先はショッピングモールではなく……？", "scenarioId":"event176-03", "coverImage":"176_2", "backgroundImage":"0", "releasePt":6000, "releaseConditions":"6000イベントP達成", "backgroundImageId":773, "rewards":[
+          {
+            "id":2731, "eventId":176, "seq":2, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2732, "eventId":176, "seq":2, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":176, "seq":3, "caption":"第３話", "title":"Speak up！", "synopsis":"順風満帆とはいかない準備。しかし透子の\nアイディアはとどまるところを知らず……", "scenarioId":"event176-04", "coverImage":"176_3", "backgroundImage":"0", "releasePt":12000, "releaseConditions":"12000イベントP達成", "backgroundImageId":775, "rewards":[
+          {
+            "id":2733, "eventId":176, "seq":3, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2734, "eventId":176, "seq":3, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":176, "seq":4, "caption":"第４話", "title":"すべての女子高生のため", "synopsis":"買い物の帰り道。透子の隣を歩く\nつくしの表情はどこか複雑そうで――", "scenarioId":"event176-05", "coverImage":"176_4", "backgroundImage":"0", "releasePt":22000, "releaseConditions":"22000イベントP達成", "backgroundImageId":23, "rewards":[
+          {
+            "id":2735, "eventId":176, "seq":4, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2736, "eventId":176, "seq":4, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":176, "seq":5, "caption":"第５話", "title":"最強になれる場所", "synopsis":"ついに迎えたトーコレ当日。大盛況の\n会場には見知った顔も多くいて――", "scenarioId":"event176-06", "coverImage":"176_5", "backgroundImage":"0", "releasePt":30000, "releaseConditions":"30000イベントP達成", "backgroundImageId":774, "rewards":[
+          {
+            "id":2737, "eventId":176, "seq":5, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2738, "eventId":176, "seq":5, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":176, "seq":6, "caption":"エンディング", "title":"Wider×Wider", "synopsis":"無事トーコレを終えたモニカ。アトリエには\nうれしそうにスマホを眺めるつくしの姿が。", "scenarioId":"event176-07", "coverImage":"176_6", "backgroundImage":"0", "releasePt":50000, "releaseConditions":"50000イベントP達成", "backgroundImageId":478, "rewards":[
+          {
+            "id":2739, "eventId":176, "seq":6, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2740, "eventId":176, "seq":6, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      }
+    ],
+    "eventAttributeAndCharacterBonus":{
+      "eventId":176, "pointPercent":20, "parameterPercent":20
+    },
+    "teamList":[
+      {
+        "eventId":176, "teamId":1, "teamName":"ジェラート", "iconFileName":"img_team_1_red", "themeTitle":"食べ歩きするならどっち？"
+      },
+      {
+        "eventId":176, "teamId":2, "teamName":"クレープ", "iconFileName":"img_team_2_blue", "themeTitle":"食べ歩きするならどっち？"
+      }
+    ],
+    "teamRewards":[
+      {
+        "festivalResultType":"lose", "seq":1, "resourceType":"star", "quantity":100
+      },
+      {
+        "festivalResultType":"lose", "seq":2, "resourceType":"live_boost_recovery_item", "resourceId":1, "quantity":5
+      },
+      {
+        "festivalResultType":"win", "seq":1, "resourceType":"star", "quantity":100
+      },
+      {
+        "festivalResultType":"win", "seq":2, "resourceType":"live_boost_recovery_item", "resourceId":2, "quantity":1
+      },
+      {
+        "festivalResultType":"win", "seq":3, "resourceType":"michelle_seal", "quantity":50
+      }
+    ],
+    "themeTitle":"食べ歩きするならどっち？", "eventCharacterParameterBonus":{
+      "eventId":176, "performance":0, "technique":0, "visual":50
+    }
+  },
   "163":{
     "eventId":163, "attributes":[
       {
