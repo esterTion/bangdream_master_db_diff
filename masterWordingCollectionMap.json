@@ -99,7 +99,7 @@
     "name":"dialog_ageAuthPurchaseError_upperMessage15", "wording":"[505050]今月の課金上限に達しました。\\n\\nあなたの課金上限\\n[-][FE2349]16歳未満\\n月額5,400円(税込)まで[-]"
   },
   "starShopWindowGarupaPass_caution":{
-    "name":"starShopWindowGarupaPass_caution", "wording":"注意事項"
+    "name":"starShopWindowGarupaPass_caution", "wording":"注意\\n事項"
   },
   "generalElection_snsShare_message_pastelPalettes":{
     "name":"generalElection_snsShare_message_pastelPalettes", "wording":"「第3回ガールズバンド総選挙」開催中___4pyo___\\nPastel＊Palettesに投票したよ♪みんなと一緒にとびっきりかわいいライブをしよう___4p2j___"
@@ -854,11 +854,17 @@
   "dialog_productBuyableCountOverError_messageProductName":{
     "name":"dialog_productBuyableCountOverError_messageProductName", "wording":"{0}は\\n"
   },
+  "dialog_liveBoostFullUse_title":{
+    "name":"dialog_liveBoostFullUse_title", "wording":"全消費"
+  },
   "privateRoom_lineInviteCode_multiLive":{
     "name":"privateRoom_lineInviteCode_multiLive", "wording":"協力ライブ"
   },
   "dialog_systemSettings_priorityViewMode_description":{
     "name":"dialog_systemSettings_priorityViewMode_description", "wording":"「ビューモード優先設定」をONにしている場合、\\nログイン時やライブ後等でホーム画面に遷移した際に、\\nビューモードで設定されたイラストが表示されるようになります。\\n\\n「ビューモード優先設定」をONにしている場合でも、\\n1枚もイラストが設定されていない場合、\\nまたは一部のエリア会話等の更新があった場合は、\\nホーム画面遷移時にエリアまたはラウンジが表示されます。"
+  },
+  "dialog_garupaPassTermsOfServiceWebViewDialog_button":{
+    "name":"dialog_garupaPassTermsOfServiceWebViewDialog_button", "wording":"利用\\n規約"
   },
   "april2019_dialog_complete_story_title":{
     "name":"april2019_dialog_complete_story_title", "wording":"全てのお話を読み終わりました"
@@ -1919,6 +1925,9 @@
   "gachaTop_currentRASCharacter_label":{
     "name":"gachaTop_currentRASCharacter_label", "wording":"今回のキャラクター"
   },
+  "dialog_liveBoostFullUse_medleyLiveCaution":{
+    "name":"dialog_liveBoostFullUse_medleyLiveCaution", "wording":"メドレーライブでは使用できません。"
+  },
   "dialog_starShop_penaltyAnnotation":{
     "name":"dialog_starShop_penaltyAnnotation", "wording":"※課金停止措置について不明な点がございましたら、\\nタイトル画面の「お問い合わせ」よりお問い合わせください。"
   },
@@ -1963,6 +1972,9 @@
   },
   "musicSelect_musicNameFilter_notSpecified":{
     "name":"musicSelect_musicNameFilter_notSpecified", "wording":"指定なし"
+  },
+  "dialog_liveBoostFullUse_caution":{
+    "name":"dialog_liveBoostFullUse_caution", "wording":"※ライブスタート時の所持数すべてを消費します。（最大10）"
   },
   "gachaTop_allMemberGachaStep1_partLabel":{
     "name":"gachaTop_allMemberGachaStep1_partLabel", "wording":"ボーカル"
@@ -2147,6 +2159,9 @@
   "dialog_confirmOpponentFriendRequestApprove_message":{
     "name":"dialog_confirmOpponentFriendRequestApprove_message", "wording":"フレンド申請を承認します。\\nよろしいですか？"
   },
+  "dialog_liveSettings_comboStatusDisplay":{
+    "name":"dialog_liveSettings_comboStatusDisplay", "wording":"コンボ状態表示"
+  },
   "dialog_miracleTicketExchangeSearchFavoriteMember_title":{
     "name":"dialog_miracleTicketExchangeSearchFavoriteMember_title", "wording":"気になるメンバーを探す"
   },
@@ -2323,6 +2338,9 @@
   },
   "dialog_sealExchange_filterAll":{
     "name":"dialog_sealExchange_filterAll", "wording":"すべて"
+  },
+  "word_liveBoostBonus_rateFormat":{
+    "name":"word_liveBoostBonus_rateFormat", "wording":"{0}倍 !"
   },
   "garupaCup_teamMemberApplyCancelFinishDialog_content":{
     "name":"garupaCup_teamMemberApplyCancelFinishDialog_content", "wording":"プレイヤーの登録を取り消しました。"
@@ -2834,6 +2852,9 @@
   "caption_mission_degreename":{
     "name":"caption_mission_degreename", "wording":"称号「{0}」"
   },
+  "dialog_liveBoostFullUse_fullUsableCountShortage":{
+    "name":"dialog_liveBoostFullUse_fullUsableCountShortage", "wording":"本日分は終了しました。\\n毎日4:00にリセットされます。"
+  },
   "dialog_AprilFool2021StoryUnlock_message":{
     "name":"dialog_AprilFool2021StoryUnlock_message", "wording":"イヴの天下トーイツ！\\n{0}ストーリーが解放されました！"
   },
@@ -3155,6 +3176,9 @@
   "dialog_musicSortFilter_toDefault":{
     "name":"dialog_musicSortFilter_toDefault", "wording":"デフォルトに戻す"
   },
+  "button_liveBoostSetting_fullUseBalloon":{
+    "name":"button_liveBoostSetting_fullUseBalloon", "wording":"全消費 あと{0}回"
+  },
   "word_noCondition":{
     "name":"word_noCondition", "wording":"指定なし"
   },
@@ -3389,6 +3413,9 @@
   "dialog_generalElection_voteBandSelect_title":{
     "name":"dialog_generalElection_voteBandSelect_title", "wording":"投票選択"
   },
+  "dialog_liveSettings_MedleyComboStatusDisplayCheckBox":{
+    "name":"dialog_liveSettings_MedleyComboStatusDisplayCheckBox", "wording":"メドレーライブ時\\n3曲全体で判定"
+  },
   "word_favoriteStamp":{
     "name":"word_favoriteStamp", "wording":"お気に入りスタンプ"
   },
@@ -3491,6 +3518,9 @@
   "dialog_publishConfig_title":{
     "name":"dialog_publishConfig_title", "wording":"プロフィール情報設定"
   },
+  "word_lbUseBadge_spendCount":{
+    "name":"word_lbUseBadge_spendCount", "wording":"({0}消費)"
+  },
   "dialog_profileConfig_tabProfileIllustSettings":{
     "name":"dialog_profileConfig_tabProfileIllustSettings", "wording":"プロフィールイラスト設定"
   },
@@ -3511,6 +3541,9 @@
   },
   "dialog_stepUpGachaStepDetail_star":{
     "name":"dialog_stepUpGachaStepDetail_star", "wording":"{0}個"
+  },
+  "dialog_liveBoostFullUse_liveBoostShortage":{
+    "name":"dialog_liveBoostFullUse_liveBoostShortage", "wording":"ライブブーストの所持数が{0}以上のときに使用可能です。"
   },
   "dialog_animationViewPause_message":{
     "name":"dialog_animationViewPause_message", "wording":"メモリアルアニメーションの再生を中断しますか？"
@@ -3625,6 +3658,9 @@
   },
   "dialog_rhythmgameRetry_buttonRetry":{
     "name":"dialog_rhythmgameRetry_buttonRetry", "wording":"リトライ"
+  },
+  "word_liveBoost_fullUse":{
+    "name":"word_liveBoost_fullUse", "wording":"全消費"
   },
   "dialog_liveSettings_standard":{
     "name":"dialog_liveSettings_standard", "wording":"標準"
@@ -4418,6 +4454,9 @@
   "bandStory_bandSelect_announce":{
     "name":"bandStory_bandSelect_announce", "wording":"バンドを選択して、ストーリーを読もう！"
   },
+  "button_liveBoostSetting_fullUseEnded":{
+    "name":"button_liveBoostSetting_fullUseEnded", "wording":"本日の全消費は使用済みです"
+  },
   "word_showThis":{
     "name":"word_showThis", "wording":"見る"
   },
@@ -4523,6 +4562,9 @@
   "dialog_liveSettings_directionalFlickIconEffect_normal":{
     "name":"dialog_liveSettings_directionalFlickIconEffect_normal", "wording":"大"
   },
+  "dialog_liveBoostFullUse_currentFullUsableCount":{
+    "name":"dialog_liveBoostFullUse_currentFullUsableCount", "wording":"本日あと{0}回"
+  },
   "gachaTop_changeTicket":{
     "name":"gachaTop_changeTicket", "wording":"チケットで引く"
   },
@@ -4555,6 +4597,9 @@
   },
   "dialog_areaItemAllChangedForRAS_title":{
     "name":"dialog_areaItemAllChangedForRAS_title", "wording":"エリアアイテム を一括変更しました！"
+  },
+  "result_button_retryLive":{
+    "name":"result_button_retryLive", "wording":"もう1回ライブ"
   },
   "dialog_musicSortFilter_musicLevel":{
     "name":"dialog_musicSortFilter_musicLevel", "wording":"楽曲レベル順"
