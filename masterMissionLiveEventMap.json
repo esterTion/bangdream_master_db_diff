@@ -1,1 +1,101 @@
-[]
+{
+  "192":{
+    "eventId":192, "attributes":[
+      {
+        "eventId":192, "attribute":"cool", "percent":10
+      }
+    ],
+    "characters":[
+      {
+        "eventId":192, "characterId":1, "percent":20, "seq":3
+      },
+      {
+        "eventId":192, "characterId":2, "percent":20, "seq":4
+      },
+      {
+        "eventId":192, "characterId":3, "percent":20, "seq":2
+      },
+      {
+        "eventId":192, "characterId":4, "percent":20, "seq":5
+      },
+      {
+        "eventId":192, "characterId":5, "percent":20, "seq":1
+      }
+    ],
+    "stories":[
+      {
+        "eventId":192, "seq":0, "caption":"オープニング", "title":"あの夏の一頁", "synopsis":"いつもお世話になってる蔵の大掃除。\nその途中、香澄が見つけたのは……", "scenarioId":"event192-01", "coverImage":"192_0", "backgroundImage":"0", "releasePt":0, "releaseConditions":"オープニングシナリオ", "backgroundImageId":39, "rewards":[
+          {
+            "id":2937, "eventId":192, "seq":0, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2938, "eventId":192, "seq":0, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":192, "seq":1, "caption":"第１話", "title":"セピア色フォトグラフ", "synopsis":"幼い日の有咲が紡いだ言葉たち。\nその中にあった、ほんの小さなひっかかり。", "scenarioId":"event192-02", "coverImage":"192_1", "backgroundImage":"0", "releasePt":3000, "releaseConditions":"3000イベントP達成", "backgroundImageId":39, "rewards":[
+          {
+            "id":2939, "eventId":192, "seq":1, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2940, "eventId":192, "seq":1, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":192, "seq":2, "caption":"第２話", "title":"よくある話、だけど", "synopsis":"祖母と喧嘩した理由が思い出せない有咲。\nそんな有咲に、りみは語りかける。", "scenarioId":"event192-03", "coverImage":"192_2", "backgroundImage":"0", "releasePt":6000, "releaseConditions":"6000イベントP達成", "backgroundImageId":1, "rewards":[
+          {
+            "id":2941, "eventId":192, "seq":2, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2942, "eventId":192, "seq":2, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":192, "seq":3, "caption":"第３話", "title":"約束なんて守れない", "synopsis":"祖母との喧嘩の理由を探すポピパ一同。\nそんな中で、有咲が思い出す昔の話。", "scenarioId":"event192-04", "coverImage":"192_3", "backgroundImage":"0", "releasePt":15000, "releaseConditions":"15000イベントP達成", "backgroundImageId":78, "rewards":[
+          {
+            "id":2943, "eventId":192, "seq":3, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2944, "eventId":192, "seq":3, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":192, "seq":4, "caption":"第４話", "title":"ビター・ベター・メモリー", "synopsis":"有咲のため、試行錯誤を続ける一同。\nそんな彼女たちに、有咲は明るく言い放つ。", "scenarioId":"event192-05", "coverImage":"192_4", "backgroundImage":"0", "releasePt":28000, "releaseConditions":"28000イベントP達成", "backgroundImageId":1, "rewards":[
+          {
+            "id":2945, "eventId":192, "seq":4, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2946, "eventId":192, "seq":4, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":192, "seq":5, "caption":"第５話", "title":"約束をもう一度", "synopsis":"あの日何かがあって。それから色々あって。\nそうして有咲は今、ここにいる。", "scenarioId":"event192-06", "coverImage":"192_5", "backgroundImage":"0", "releasePt":40000, "releaseConditions":"40000イベントP達成", "backgroundImageId":78, "rewards":[
+          {
+            "id":2947, "eventId":192, "seq":5, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2948, "eventId":192, "seq":5, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":192, "seq":6, "caption":"エンディング", "title":"いつかこの日を唄うために", "synopsis":"夏が近づき、空は今日も快晴。\nいつか来る未来のために、少女たちは走る。", "scenarioId":"event192-07", "coverImage":"192_6", "backgroundImage":"0", "releasePt":55000, "releaseConditions":"55000イベントP達成", "backgroundImageId":5, "rewards":[
+          {
+            "id":2949, "eventId":192, "seq":6, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":2950, "eventId":192, "seq":6, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      }
+    ],
+    "eventAttributeAndCharacterBonus":{
+      "eventId":192, "pointPercent":20, "parameterPercent":0
+    }
+  }
+}
