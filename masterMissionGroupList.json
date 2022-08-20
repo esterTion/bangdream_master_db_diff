@@ -1,20 +1,5 @@
 [
   {
-    "missionGroupId":18, "missionResetType":"daily", "startAt":1660197600000, "endAt":1660823999000, "rewardEndAt":1660849199000, "eventId":195, "missionList":[
-      {
-        "missionId":1000019, "transitionMethod":"live", "transitionId":0, "seq":1000, "detailList":[
-          {
-            "seq":1, "title":"チームライブで1回勝利しよう", "description":"チームライブで1回勝利しよう", "maxProgress":1, "reward":{
-              "UNKNOWN_1":1000019, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"coin", "resourceId":0, "quantity":10000
-            }
-          }
-        ],
-        "labelText":"デイリー", "typeIndex":88
-      }
-    ],
-    "type":"limited"
-  },
-  {
     "missionGroupId":101, "missionResetType":"none", "startAt":1500397200000, "endAt":4087299600000, "rewardEndAt":4087299600000, "missionList":[
       {
         "missionId":1, "transitionMethod":"live", "transitionId":0, "seq":30, "detailList":[
@@ -6707,5 +6692,130 @@
       }
     ],
     "type":"ex_mission"
+  },
+  {
+    "missionGroupId":529, "missionResetType":"none", "startAt":1660975200000, "endAt":1661774399000, "rewardEndAt":1661925599000, "eventId":196, "homeEffectType":"collabo", "tabLabel":"コラボ", "missionList":[
+      {
+        "missionId":10000194, "transitionMethod":"none", "transitionId":0, "seq":10, "detailList":[
+          {
+            "seq":1, "title":"全てのコラボミッションをクリアしよう", "description":"全てのコラボミッションをクリアしよう", "maxProgress":11, "reward":{
+              "UNKNOWN_1":10000194, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"degree_set", "resourceId":3, "quantity":1
+            }
+          }
+        ],
+        "labelText":"コラボ", "typeIndex":44
+      },
+      {
+        "missionId":10000195, "transitionMethod":"event_top", "transitionId":196, "seq":20, "detailList":[
+          {
+            "seq":1, "title":"イベントストーリーのオープニングを読もう", "description":"イベントTOPに移動して、イベントストーリーのオープニングを読もう", "maxProgress":1, "valueId":200086, "reward":{
+              "UNKNOWN_1":10000195, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"live_boost_recovery_item", "resourceId":40, "quantity":1
+            }
+          }
+        ],
+        "labelText":"コラボ", "typeIndex":45
+      },
+      {
+        "missionId":10000196, "transitionMethod":"live", "transitionId":0, "seq":30, "detailList":[
+          {
+            "seq":1, "title":"カバー楽曲「Memento」を1回クリアしよう", "description":"フリーライブ、協力ライブもしくは、チャレンジライブの楽曲選択画面で「Memento」を選択してライブをクリアしよう", "maxProgress":1, "valueId":200087, "reward":{
+              "UNKNOWN_1":10000196, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"coin", "resourceId":0, "quantity":10000
+            }
+          }
+        ],
+        "labelText":"コラボ", "typeIndex":28
+      },
+      {
+        "missionId":10000197, "transitionMethod":"live", "transitionId":0, "seq":40, "detailList":[
+          {
+            "seq":1, "title":"カバー楽曲「STYX HELIX」を1回クリアしよう", "description":"フリーライブ、協力ライブもしくは、チャレンジライブの楽曲選択画面で「STYX HELIX」を選択してライブをクリアしよう", "maxProgress":1, "valueId":200088, "reward":{
+              "UNKNOWN_1":10000197, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"coin", "resourceId":0, "quantity":10000
+            }
+          }
+        ],
+        "labelText":"コラボ", "typeIndex":28
+      },
+      {
+        "missionId":10000198, "transitionMethod":"live", "transitionId":0, "seq":50, "detailList":[
+          {
+            "seq":1, "title":"カバー楽曲「Realize」を1回クリアしよう", "description":"フリーライブ、協力ライブもしくは、チャレンジライブの楽曲選択画面で「Realize」を選択してライブをクリアしよう", "maxProgress":1, "valueId":200089, "reward":{
+              "UNKNOWN_1":10000198, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"coin", "resourceId":0, "quantity":10000
+            }
+          }
+        ],
+        "labelText":"コラボ", "typeIndex":28
+      },
+      {
+        "missionId":10000199, "transitionMethod":"live", "transitionId":0, "seq":60, "detailList":[
+          {
+            "seq":1, "title":"カバー楽曲「Redo」を1回クリアしよう", "description":"フリーライブもしくは、協力ライブの楽曲選択画面で「Redo」を選択してライブをクリアしよう", "maxProgress":1, "valueId":200090, "reward":{
+              "UNKNOWN_1":10000199, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"coin", "resourceId":0, "quantity":10000
+            }
+          }
+        ],
+        "labelText":"コラボ", "typeIndex":28
+      },
+      {
+        "missionId":10000200, "transitionMethod":"live", "transitionId":0, "seq":70, "detailList":[
+          {
+            "seq":1, "title":"カバー楽曲「Stay Alive」を1回クリアしよう", "description":"フリーライブもしくは、協力ライブの楽曲選択画面で「Stay Alive」を選択してライブをクリアしよう", "maxProgress":1, "valueId":200091, "reward":{
+              "UNKNOWN_1":10000200, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"coin", "resourceId":0, "quantity":10000
+            }
+          }
+        ],
+        "labelText":"コラボ", "typeIndex":28
+      },
+      {
+        "missionId":10000201, "transitionMethod":"live", "transitionId":0, "seq":80, "detailList":[
+          {
+            "seq":1, "title":"カバー楽曲「Paradisus-Paradoxum」を1回クリアしよう", "description":"フリーライブもしくは、協力ライブの楽曲選択画面で「Paradisus-Paradoxum」を選択してライブをクリアしよう", "maxProgress":1, "valueId":200092, "reward":{
+              "UNKNOWN_1":10000201, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"coin", "resourceId":0, "quantity":10000
+            }
+          }
+        ],
+        "labelText":"コラボ", "typeIndex":28
+      },
+      {
+        "missionId":10000202, "transitionMethod":"limited_exchange", "transitionId":12, "seq":90, "detailList":[
+          {
+            "seq":1, "title":"コラボアイテム交換所でアイテムを交換しよう", "description":"ライブで集めた「徽章」を使用して、交換所の「Re:ゼロから始める異世界生活」コラボ交換所で、メンバーやアイテムなどのいずれかを交換しよう", "maxProgress":1, "valueId":200093, "reward":{
+              "UNKNOWN_1":10000202, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":50
+            }
+          }
+        ],
+        "labelText":"コラボ", "typeIndex":92
+      },
+      {
+        "missionId":10000203, "transitionMethod":"event_top", "transitionId":196, "seq":100, "detailList":[
+          {
+            "seq":1, "title":"累計イベントP報酬で★3[華麗なる魔術師]瀬田薫を獲得しよう", "description":"フリーライブ、協力ライブもしくは、チャレンジライブでイベントPを集めて、累計イベントP100000の報酬★3[華麗なる魔術師]瀬田薫を獲得しよう", "maxProgress":100000, "valueId":200086, "reward":{
+              "UNKNOWN_1":10000203, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"live_boost_recovery_item", "resourceId":40, "quantity":1
+            }
+          }
+        ],
+        "labelText":"コラボ", "typeIndex":39
+      },
+      {
+        "missionId":10000204, "transitionMethod":"event_top", "transitionId":196, "seq":110, "detailList":[
+          {
+            "seq":1, "title":"イベントストーリーを全話読もう", "description":"イベントTOPに移動して、イベントストーリーを最後まで読もう", "maxProgress":7, "valueId":200086, "reward":{
+              "UNKNOWN_1":10000204, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"live_boost_recovery_item", "resourceId":40, "quantity":1
+            }
+          }
+        ],
+        "labelText":"コラボ", "typeIndex":45
+      },
+      {
+        "missionId":10000205, "transitionMethod":"none", "transitionId":0, "seq":120, "detailList":[
+          {
+            "seq":1, "title":"「瀬田 薫」のライブ衣装を「華麗なる魔術師」に変更しよう", "description":"イベントPを集めて累計イベントP100000の報酬★3[華麗なる魔術師]瀬田薫を獲得し、バンドTOPから移動できるライブ衣装画面で「瀬田 薫」の衣装を変更しよう", "maxProgress":1, "valueId":200094, "reward":{
+              "UNKNOWN_1":10000205, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"item", "resourceId":14, "quantity":10
+            }
+          }
+        ],
+        "labelText":"コラボ", "typeIndex":17
+      }
+    ],
+    "type":"limited"
   }
 ]
