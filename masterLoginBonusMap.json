@@ -96,25 +96,25 @@
     ],
     "assetMap":{
       "1":{
-        "loginBonusId":31, "days":1, "resourceName":"comeback_20171211_day1", "voiceId":"eventLoginBonus1"
+        "loginBonusId":31, "days":1, "resourceName":"star", "voiceId":"eventLoginBonus1"
       },
       "2":{
-        "loginBonusId":31, "days":2, "resourceName":"comeback_20171211_day2", "voiceId":"eventLoginBonus1"
+        "loginBonusId":31, "days":2, "resourceName":"star", "voiceId":"eventLoginBonus1"
       },
       "3":{
-        "loginBonusId":31, "days":3, "resourceName":"comeback_20171211_day3", "voiceId":"eventLoginBonus1"
+        "loginBonusId":31, "days":3, "resourceName":"star", "voiceId":"eventLoginBonus1"
       },
       "4":{
-        "loginBonusId":31, "days":4, "resourceName":"comeback_20171211_day4", "voiceId":"eventLoginBonus1"
+        "loginBonusId":31, "days":4, "resourceName":"star", "voiceId":"eventLoginBonus1"
       },
       "5":{
-        "loginBonusId":31, "days":5, "resourceName":"comeback_20171211_day5", "voiceId":"eventLoginBonus1"
+        "loginBonusId":31, "days":5, "resourceName":"star", "voiceId":"eventLoginBonus1"
       },
       "6":{
-        "loginBonusId":31, "days":6, "resourceName":"comeback_20171211_day6", "voiceId":"eventLoginBonus1"
+        "loginBonusId":31, "days":6, "resourceName":"star", "voiceId":"eventLoginBonus1"
       },
       "7":{
-        "loginBonusId":31, "days":7, "resourceName":"comeback_20171211_day7", "voiceId":"eventLoginBonus1"
+        "loginBonusId":31, "days":7, "resourceName":"star", "voiceId":"eventLoginBonus1"
       }
     }
   },
@@ -4109,6 +4109,9 @@
       },
       {
         "loginBonusId":375, "days":7, "resourceType":"item", "resourceId":13, "quantity":10, "seq":2, "grantType":"present"
+      },
+      {
+        "loginBonusId":375, "days":7, "resourceType":"star", "quantity":250, "seq":3, "grantType":"present"
       }
     ],
     "assetMap":[]
@@ -5369,6 +5372,56 @@
     "loginBonusId":474, "loginBonusType":"event", "caption":"「夏に閉じこめて」発売記念", "assetBundleName":"natsuni_release", "publishedAt":1661925600000, "closedAt":1662184799000, "details":[
       {
         "loginBonusId":474, "days":1, "resourceType":"star", "quantity":100, "seq":1, "grantType":"present"
+      }
+    ],
+    "assetMap":[]
+  },
+  "475":{
+    "loginBonusId":475, "loginBonusType":"event", "caption":"5.5周年記念ログインキャンペーン", "assetBundleName":"5.5th_anniversary_login", "publishedAt":1662962400000, "closedAt":1666205999000, "details":[
+      {
+        "loginBonusId":475, "days":1, "resourceType":"star", "quantity":550, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":475, "days":1, "resourceType":"item", "resourceId":13, "quantity":100, "seq":2, "grantType":"present"
+      },
+      {
+        "loginBonusId":475, "days":2, "resourceType":"star", "quantity":550, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":475, "days":3, "resourceType":"star", "quantity":550, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":475, "days":4, "resourceType":"star", "quantity":550, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":475, "days":5, "resourceType":"star", "quantity":550, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":475, "days":6, "resourceType":"star", "quantity":550, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":475, "days":7, "resourceType":"star", "quantity":550, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":475, "days":8, "resourceType":"star", "quantity":550, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":475, "days":9, "resourceType":"star", "quantity":550, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":475, "days":10, "resourceType":"star", "quantity":550, "seq":1, "grantType":"present"
+      }
+    ],
+    "assetMap":{
+      "1":{
+        "loginBonusId":475, "days":1, "resourceName":"2018_newyear_countdown_day1", "voiceId":"eventLoginBonus1"
+      }
+    }
+  },
+  "476":{
+    "loginBonusId":476, "loginBonusType":"event", "caption":"「寄る辺のSunny, Sunny」発売記念", "assetBundleName":"yorube_release", "publishedAt":1663135200000, "closedAt":1663394399000, "details":[
+      {
+        "loginBonusId":476, "days":1, "resourceType":"star", "quantity":100, "seq":1, "grantType":"present"
       }
     ],
     "assetMap":[]
