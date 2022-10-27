@@ -5490,6 +5490,90 @@
     ],
     "assetMap":[]
   },
+  "485":{
+    "loginBonusId":485, "loginBonusType":"event", "caption":"コラボ開催記念", "assetBundleName":"satan_kinen", "publishedAt":1667023200000, "closedAt":1667887199000, "details":[
+      {
+        "loginBonusId":485, "days":1, "resourceType":"star", "quantity":1000, "seq":1, "grantType":"present"
+      },
+      {
+        "loginBonusId":485, "days":1, "resourceType":"item", "resourceId":13, "quantity":50, "seq":2, "grantType":"present"
+      }
+    ],
+    "assetMap":{
+      "1":{
+        "loginBonusId":485, "days":1, "resourceName":"no_icon", "voiceId":"eventLoginBonus1"
+      }
+    }
+  },
+  "486":{
+    "loginBonusId":486, "loginBonusType":"event", "caption":"コラボ開催記念コラボスタンプ5個セット", "assetBundleName":"satan_stamp", "publishedAt":1667023200000, "closedAt":1667887199000, "details":[
+      {
+        "loginBonusId":486, "days":1, "resourceType":"stamp", "resourceId":371, "quantity":1, "seq":1, "grantType":"direct"
+      },
+      {
+        "loginBonusId":486, "days":1, "resourceType":"stamp", "resourceId":372, "quantity":1, "seq":2, "grantType":"direct"
+      },
+      {
+        "loginBonusId":486, "days":1, "resourceType":"stamp", "resourceId":373, "quantity":1, "seq":3, "grantType":"direct"
+      },
+      {
+        "loginBonusId":486, "days":1, "resourceType":"stamp", "resourceId":374, "quantity":1, "seq":4, "grantType":"direct"
+      },
+      {
+        "loginBonusId":486, "days":1, "resourceType":"stamp", "resourceId":375, "quantity":1, "seq":5, "grantType":"direct"
+      }
+    ],
+    "assetMap":{
+      "1":{
+        "loginBonusId":486, "days":1, "resourceName":"no_icon", "voiceId":"eventLoginBonus1"
+      }
+    }
+  },
+  "487":{
+    "loginBonusId":487, "loginBonusType":"event", "caption":"コラボ開催記念ログインキャンペーンの", "assetBundleName":"satan_voice", "publishedAt":1667023200000, "closedAt":1667069999000, "details":[
+      {
+        "loginBonusId":487, "days":1, "resourceType":"star", "quantity":150, "seq":1, "grantType":"present"
+      }
+    ],
+    "assetMap":{
+      "1":{
+        "loginBonusId":487, "days":1, "resourceName":"star", "voiceId":"eventLoginBonus1", "live2d":{
+          "characterId":26, "costumeBundleName":"026_live_event_203_ssr", "serif":"スライムってモンスターだよね？\n悪くないスライムもいるのかな？", "voiceBundleName":"sound/voice/loginbonus/satan", "voice":"sys-tensuralogin-001", "motion":"kime01", "expression":"smile"
+        }
+      }
+    },
+    "itemThumbnailOffset":212
+  },
+  "488":{
+    "loginBonusId":488, "loginBonusType":"event", "caption":"コラボ開催記念ログインキャンペーンの", "assetBundleName":"satan_voice", "publishedAt":1667070000000, "closedAt":1667156399000, "details":[
+      {
+        "loginBonusId":488, "days":1, "resourceType":"star", "quantity":150, "seq":1, "grantType":"present"
+      }
+    ],
+    "assetMap":{
+      "1":{
+        "loginBonusId":488, "days":1, "resourceName":"star", "voiceId":"eventLoginBonus1", "live2d":{
+          "characterId":27, "costumeBundleName":"027_live_event_203_sr", "serif":"なんか料理したい気分！　シロに食べさせてあげよっと", "voiceBundleName":"sound/voice/loginbonus/satan", "voice":"sys-tensuralogin-003", "motion":"kime01", "expression":"smile"
+        }
+      }
+    },
+    "itemThumbnailOffset":212
+  },
+  "489":{
+    "loginBonusId":489, "loginBonusType":"event", "caption":"コラボ開催記念ログインキャンペーンの", "assetBundleName":"satan_voice", "publishedAt":1667156400000, "closedAt":1667242799000, "details":[
+      {
+        "loginBonusId":489, "days":1, "resourceType":"star", "quantity":150, "seq":1, "grantType":"present"
+      }
+    ],
+    "assetMap":{
+      "1":{
+        "loginBonusId":489, "days":1, "resourceName":"star", "voiceId":"eventLoginBonus1", "live2d":{
+          "characterId":28, "costumeBundleName":"028_live_event_203_sr", "serif":"巫女装束ってかわいいよね。\n神社のバイトしてみたいな～", "voiceBundleName":"sound/voice/loginbonus/satan", "voice":"sys-tensuralogin-004", "motion":"kime01", "expression":"smile"
+        }
+      }
+    },
+    "itemThumbnailOffset":212
+  },
   "1002":{
     "loginBonusId":1002, "loginBonusType":"no_asset", "caption":"第3回ガールズバンド総選挙ログインキャンペーン", "publishedAt":1563850800000, "closedAt":1563893999000, "details":[
       {
@@ -5497,6 +5581,21 @@
       }
     ],
     "assetMap":[]
+  },
+  "490":{
+    "loginBonusId":490, "loginBonusType":"event", "caption":"コラボ開催記念ログインキャンペーンの", "assetBundleName":"satan_voice", "publishedAt":1667242800000, "closedAt":1667329199000, "details":[
+      {
+        "loginBonusId":490, "days":1, "resourceType":"star", "quantity":150, "seq":1, "grantType":"present"
+      }
+    ],
+    "assetMap":{
+      "1":{
+        "loginBonusId":490, "days":1, "resourceName":"star", "voiceId":"eventLoginBonus1", "live2d":{
+          "characterId":29, "costumeBundleName":"029_live_event_203_ssr", "serif":"本質を見抜ける目を持つことも、\nリーダーには大事だよね！", "voiceBundleName":"sound/voice/loginbonus/satan", "voice":"sys-tensuralogin-002", "motion":"kime01", "expression":"smile"
+        }
+      }
+    },
+    "itemThumbnailOffset":212
   },
   "1003":{
     "loginBonusId":1003, "loginBonusType":"no_asset", "caption":"第3回ガールズバンド総選挙ログインキャンペーン", "publishedAt":1563894000000, "closedAt":1563980399000, "details":[
@@ -5506,6 +5605,21 @@
     ],
     "assetMap":[]
   },
+  "491":{
+    "loginBonusId":491, "loginBonusType":"event", "caption":"コラボ開催記念ログインキャンペーンの", "assetBundleName":"satan_voice", "publishedAt":1667329200000, "closedAt":1667415599000, "details":[
+      {
+        "loginBonusId":491, "days":1, "resourceType":"star", "quantity":150, "seq":1, "grantType":"present"
+      }
+    ],
+    "assetMap":{
+      "1":{
+        "loginBonusId":491, "days":1, "resourceName":"star", "voiceId":"eventLoginBonus1", "live2d":{
+          "characterId":30, "costumeBundleName":"030_live_event_203_sr", "serif":"一度引き受けた仕事は\n全うするわ。約束は守る主義よ", "voiceBundleName":"sound/voice/loginbonus/satan", "voice":"sys-tensuralogin-005", "motion":"kime01", "expression":"smile"
+        }
+      }
+    },
+    "itemThumbnailOffset":212
+  },
   "1004":{
     "loginBonusId":1004, "loginBonusType":"no_asset", "caption":"第3回ガールズバンド総選挙ログインキャンペーン", "publishedAt":1563980400000, "closedAt":1564066799000, "details":[
       {
@@ -5513,6 +5627,21 @@
       }
     ],
     "assetMap":[]
+  },
+  "492":{
+    "loginBonusId":492, "loginBonusType":"event", "caption":"コラボ開催記念ログインキャンペーンの", "assetBundleName":"satan_voice", "publishedAt":1667415600000, "closedAt":1667501999000, "details":[
+      {
+        "loginBonusId":492, "days":1, "resourceType":"star", "quantity":150, "seq":1, "grantType":"present"
+      }
+    ],
+    "assetMap":{
+      "1":{
+        "loginBonusId":492, "days":1, "resourceName":"star", "voiceId":"eventLoginBonus1", "live2d":{
+          "characterId":26, "costumeBundleName":"026_live_event_203_ssr", "serif":"異世界って言葉を聞くと、\nいろいろ空想しちゃうんだ", "voiceBundleName":"sound/voice/loginbonus/satan", "voice":"sys-tensuralogin-006", "motion":"kime01", "expression":"smile"
+        }
+      }
+    },
+    "itemThumbnailOffset":212
   },
   "1005":{
     "loginBonusId":1005, "loginBonusType":"no_asset", "caption":"第3回ガールズバンド総選挙ログインキャンペーン", "publishedAt":1564066800000, "closedAt":1564153199000, "details":[
@@ -5522,6 +5651,21 @@
     ],
     "assetMap":[]
   },
+  "493":{
+    "loginBonusId":493, "loginBonusType":"event", "caption":"コラボ開催記念ログインキャンペーンの", "assetBundleName":"satan_voice", "publishedAt":1667502000000, "closedAt":1667588399000, "details":[
+      {
+        "loginBonusId":493, "days":1, "resourceType":"star", "quantity":150, "seq":1, "grantType":"present"
+      }
+    ],
+    "assetMap":{
+      "1":{
+        "loginBonusId":493, "days":1, "resourceName":"star", "voiceId":"eventLoginBonus1", "live2d":{
+          "characterId":27, "costumeBundleName":"027_live_event_203_sr", "serif":"あたしレベルになると秘書っぽい\n格好も似合っちゃうんだよな～", "voiceBundleName":"sound/voice/loginbonus/satan", "voice":"sys-tensuralogin-008", "motion":"kime01", "expression":"smile"
+        }
+      }
+    },
+    "itemThumbnailOffset":212
+  },
   "1006":{
     "loginBonusId":1006, "loginBonusType":"no_asset", "caption":"第3回ガールズバンド総選挙ログインキャンペーン", "publishedAt":1564153200000, "closedAt":1564239599000, "details":[
       {
@@ -5529,6 +5673,21 @@
       }
     ],
     "assetMap":[]
+  },
+  "494":{
+    "loginBonusId":494, "loginBonusType":"event", "caption":"コラボ開催記念ログインキャンペーンの", "assetBundleName":"satan_voice", "publishedAt":1667588400000, "closedAt":1667674799000, "details":[
+      {
+        "loginBonusId":494, "days":1, "resourceType":"star", "quantity":150, "seq":1, "grantType":"present"
+      }
+    ],
+    "assetMap":{
+      "1":{
+        "loginBonusId":494, "days":1, "resourceName":"star", "voiceId":"eventLoginBonus1", "live2d":{
+          "characterId":28, "costumeBundleName":"028_live_event_203_sr", "serif":"ふむふむ、この小物はこうやって\n作ればいいんだね。解析終了～", "voiceBundleName":"sound/voice/loginbonus/satan", "voice":"sys-tensuralogin-009", "motion":"kime01", "expression":"smile"
+        }
+      }
+    },
+    "itemThumbnailOffset":212
   },
   "1007":{
     "loginBonusId":1007, "loginBonusType":"no_asset", "caption":"第3回ガールズバンド総選挙ログインキャンペーン", "publishedAt":1564239600000, "closedAt":1564325999000, "details":[
@@ -5538,6 +5697,21 @@
     ],
     "assetMap":[]
   },
+  "495":{
+    "loginBonusId":495, "loginBonusType":"event", "caption":"コラボ開催記念ログインキャンペーンの", "assetBundleName":"satan_voice", "publishedAt":1667674800000, "closedAt":1667761199000, "details":[
+      {
+        "loginBonusId":495, "days":1, "resourceType":"star", "quantity":150, "seq":1, "grantType":"present"
+      }
+    ],
+    "assetMap":{
+      "1":{
+        "loginBonusId":495, "days":1, "resourceName":"star", "voiceId":"eventLoginBonus1", "live2d":{
+          "characterId":29, "costumeBundleName":"029_live_event_203_ssr", "serif":"モニカは、やっぱり特別だよ。\nこういうの親友って言うのかな？", "voiceBundleName":"sound/voice/loginbonus/satan", "voice":"sys-tensuralogin-007", "motion":"kime01", "expression":"smile"
+        }
+      }
+    },
+    "itemThumbnailOffset":212
+  },
   "1008":{
     "loginBonusId":1008, "loginBonusType":"no_asset", "caption":"第3回ガールズバンド総選挙ログインキャンペーン", "publishedAt":1564326000000, "closedAt":1564412399000, "details":[
       {
@@ -5545,6 +5719,21 @@
       }
     ],
     "assetMap":[]
+  },
+  "496":{
+    "loginBonusId":496, "loginBonusType":"event", "caption":"コラボ開催記念ログインキャンペーンの", "assetBundleName":"satan_voice", "publishedAt":1667761200000, "closedAt":1667887199000, "details":[
+      {
+        "loginBonusId":496, "days":1, "resourceType":"star", "quantity":150, "seq":1, "grantType":"present"
+      }
+    ],
+    "assetMap":{
+      "1":{
+        "loginBonusId":496, "days":1, "resourceName":"star", "voiceId":"eventLoginBonus1", "live2d":{
+          "characterId":30, "costumeBundleName":"030_live_event_203_sr", "serif":"召喚魔法が実際に存在したなら、\n人手が必要な時に重宝されそうね", "voiceBundleName":"sound/voice/loginbonus/satan", "voice":"sys-tensuralogin-010", "motion":"kime01", "expression":"smile"
+        }
+      }
+    },
+    "itemThumbnailOffset":212
   },
   "1009":{
     "loginBonusId":1009, "loginBonusType":"no_asset", "caption":"第3回ガールズバンド総選挙ログインキャンペーン", "publishedAt":1564412400000, "closedAt":1564498799000, "details":[
