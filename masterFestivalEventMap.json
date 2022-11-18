@@ -507,6 +507,133 @@
       "eventId":184, "performance":50, "technique":0, "visual":0
     }
   },
+  "205":{
+    "eventId":205, "attributes":[
+      {
+        "eventId":205, "attribute":"cool", "percent":10
+      }
+    ],
+    "characters":[
+      {
+        "eventId":205, "characterId":31, "percent":20, "seq":3
+      },
+      {
+        "eventId":205, "characterId":32, "percent":20, "seq":5
+      },
+      {
+        "eventId":205, "characterId":33, "percent":20, "seq":1
+      },
+      {
+        "eventId":205, "characterId":34, "percent":20, "seq":2
+      },
+      {
+        "eventId":205, "characterId":35, "percent":20, "seq":4
+      }
+    ],
+    "stories":[
+      {
+        "eventId":205, "seq":0, "caption":"オープニング", "title":"あやしい雲行き", "synopsis":"練習前の楽しい雑談。しかしマスキングと\nパレオの間には、不穏な空気が漂って――", "scenarioId":"event205-01", "coverImage":"205_0", "backgroundImage":"0", "releasePt":0, "releaseConditions":"オープニングシナリオ", "backgroundImageId":570, "rewards":[
+          {
+            "id":3119, "eventId":205, "seq":0, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3120, "eventId":205, "seq":0, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":205, "seq":1, "caption":"第１話", "title":"言わない、言えない", "synopsis":"不機嫌全開のマスキング。レイヤとロック、\n２人がかりでなだめようとするのだが……", "scenarioId":"event205-02", "coverImage":"205_1", "backgroundImage":"0", "releasePt":2000, "releaseConditions":"2000イベントP達成", "backgroundImageId":505, "rewards":[
+          {
+            "id":3121, "eventId":205, "seq":1, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3122, "eventId":205, "seq":1, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":205, "seq":2, "caption":"第２話", "title":"決壊", "synopsis":"相変わらずトゲトゲとした２人。\nついには言い争いになってしまい――！？", "scenarioId":"event205-03", "coverImage":"205_2", "backgroundImage":"0", "releasePt":6000, "releaseConditions":"6000イベントP達成", "backgroundImageId":570, "rewards":[
+          {
+            "id":3123, "eventId":205, "seq":2, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3124, "eventId":205, "seq":2, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":205, "seq":3, "caption":"第３話", "title":"あばれんぼうわんちゃん", "synopsis":"事の起こりは数日前。パレオ手製の絵本を\n眺めるマスキングだったが……？", "scenarioId":"event205-04", "coverImage":"205_3", "backgroundImage":"0", "releasePt":12000, "releaseConditions":"12000イベントP達成", "backgroundImageId":570, "rewards":[
+          {
+            "id":3125, "eventId":205, "seq":3, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3126, "eventId":205, "seq":3, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":205, "seq":4, "caption":"第４話", "title":"謝りたい、のに", "synopsis":"ライブを観に出かける５人。マスキングと\nパレオは、仲直りのきっかけを探すが……", "scenarioId":"event205-05", "coverImage":"205_4", "backgroundImage":"0", "releasePt":22000, "releaseConditions":"22000イベントP達成", "backgroundImageId":312, "rewards":[
+          {
+            "id":3127, "eventId":205, "seq":4, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3128, "eventId":205, "seq":4, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":205, "seq":5, "caption":"第５話", "title":"ピンチを乗り越えて", "synopsis":"なんとかバスに間に合った２人。\nいつの間にか空気もやわらいでいて……？", "scenarioId":"event205-06", "coverImage":"205_5", "backgroundImage":"0", "releasePt":30000, "releaseConditions":"30000イベントP達成", "backgroundImageId":888, "rewards":[
+          {
+            "id":3129, "eventId":205, "seq":5, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3130, "eventId":205, "seq":5, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":205, "seq":6, "caption":"エンディング", "title":"伝えそびれた言葉", "synopsis":"無事仲直りを果たした２人。そんな時、\nマスキングの元にメッセージが届いて――", "scenarioId":"event205-07", "coverImage":"205_6", "backgroundImage":"0", "releasePt":50000, "releaseConditions":"50000イベントP達成", "backgroundImageId":528, "rewards":[
+          {
+            "id":3131, "eventId":205, "seq":6, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3132, "eventId":205, "seq":6, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      }
+    ],
+    "eventAttributeAndCharacterBonus":{
+      "eventId":205, "pointPercent":0, "parameterPercent":20
+    },
+    "teamList":[
+      {
+        "eventId":205, "teamId":1, "teamName":"餃子", "iconFileName":"img_team_1_red", "themeTitle":"ラーメンと一緒に頼むなら？"
+      },
+      {
+        "eventId":205, "teamId":2, "teamName":"チャーハン", "iconFileName":"img_team_2_blue", "themeTitle":"ラーメンと一緒に頼むなら？"
+      }
+    ],
+    "teamRewards":[
+      {
+        "festivalResultType":"lose", "seq":1, "resourceType":"star", "quantity":100
+      },
+      {
+        "festivalResultType":"lose", "seq":2, "resourceType":"live_boost_recovery_item", "resourceId":1, "quantity":5
+      },
+      {
+        "festivalResultType":"win", "seq":1, "resourceType":"star", "quantity":100
+      },
+      {
+        "festivalResultType":"win", "seq":2, "resourceType":"live_boost_recovery_item", "resourceId":2, "quantity":1
+      },
+      {
+        "festivalResultType":"win", "seq":3, "resourceType":"michelle_seal", "quantity":50
+      }
+    ],
+    "themeTitle":"ラーメンと一緒に頼むなら？", "eventCharacterParameterBonus":{
+      "eventId":205, "performance":50, "technique":0, "visual":0
+    }
+  },
   "157":{
     "eventId":157, "attributes":[
       {
