@@ -1,4 +1,20 @@
 {
+  "1024":{
+    "purchaseId":1024, "purchaseCategory":"limited_term", "productName":"毎月買えるお得なスター①", "description":"[505050FF]１２２０個（７８０個 [-][FF3B72FF]＋ ４４０個[-][505050FF]）[-]", "label":"毎月2回限定", "purchaseLimit":2, "publishedAt":1669788000000, "closedAt":1672466399000, "detail":[
+      {
+        "purchaseId":1024, "seq":1, "resourceType":"paid_star", "quantity":1220
+      }
+    ],
+    "seq":25, "purchaseMenuId":4, "homeBalloonPriority":60, "homeBalloonMessage":"毎月買えるお得なスター♪", "recommendSeq":0
+  },
+  "1025":{
+    "purchaseId":1025, "purchaseCategory":"limited_term", "productName":"毎月買えるお得なスター②", "description":"[505050FF]４１５０個（２７００個 [-][FF3B72FF]＋ １４５０個[-][505050FF]）[-]", "label":"毎月2回限定", "purchaseLimit":2, "publishedAt":1669788000000, "closedAt":1672466399000, "detail":[
+      {
+        "purchaseId":1025, "seq":1, "resourceType":"paid_star", "quantity":4150
+      }
+    ],
+    "seq":26, "purchaseMenuId":4, "homeBalloonPriority":60, "homeBalloonMessage":"毎月買えるお得なスター♪", "recommendSeq":0
+  },
   "1":{
     "purchaseId":1, "purchaseCategory":"star", "productName":"スターA", "description":"[505050FF]６０個[-]", "publishedAt":1488294000000, "closedAt":1664895599000, "detail":[
       {
@@ -6,6 +22,14 @@
       }
     ],
     "seq":30, "purchaseMenuId":4, "recommendSeq":0
+  },
+  "1026":{
+    "purchaseId":1026, "purchaseCategory":"limited_term", "productName":"毎月買えるお得なスター③", "description":"[505050FF]６０００個（４０５０個 [-][FF3B72FF]＋ １９５０個[-][505050FF]）[-]", "label":"毎月2回限定", "purchaseLimit":2, "publishedAt":1669788000000, "closedAt":1672466399000, "detail":[
+      {
+        "purchaseId":1026, "seq":1, "resourceType":"paid_star", "quantity":6000
+      }
+    ],
+    "seq":27, "purchaseMenuId":4, "homeBalloonPriority":60, "homeBalloonMessage":"毎月買えるお得なスター♪", "recommendSeq":0
   },
   "2":{
     "purchaseId":2, "purchaseCategory":"star", "productName":"スターB", "description":"[505050FF]３６０個[-]", "publishedAt":1488294000000, "closedAt":1569855599000, "detail":[
@@ -61,7 +85,7 @@
         "purchaseId":8, "seq":1, "resourceType":"premium_pass", "quantity":1
       }
     ],
-    "seq":100, "purchaseMenuId":1, "homeBalloonPriority":50, "homeBalloonMessage":"プレミアムハッピーBOX♪", "recommendAssetBundleName":"happy_box", "recommendSeq":20
+    "seq":100, "purchaseMenuId":1, "homeBalloonPriority":50, "homeBalloonMessage":"プレミアムハッピーBOX♪", "recommendAssetBundleName":"happy_box", "recommendSeq":30
   },
   "9":{
     "purchaseId":9, "purchaseCategory":"limited_term", "productName":"スターB（キャンペーン）", "description":"[505050FF]６００個[-]", "label":"キャンペーン", "purchaseLimit":1, "publishedAt":1498456800000, "closedAt":1499061599000, "detail":[
@@ -380,7 +404,7 @@
         "purchaseId":40, "seq":1, "resourceType":"paid_star", "quantity":360
       }
     ],
-    "seq":10, "purchaseMenuId":3, "recommendAssetBundleName":"garupa_pass", "recommendSeq":30
+    "seq":10, "purchaseMenuId":3, "recommendAssetBundleName":"garupa_pass", "recommendSeq":20
   },
   "41":{
     "purchaseId":41, "purchaseCategory":"limited_term", "productName":"スターC（特別キャンペーン）", "description":"[505050FF]１２００個（７６０個 [-][FF3B72FF]＋ ４４０個[-][505050FF]）[-]", "label":"キャンペーン", "purchaseLimit":2, "publishedAt":1564552800000, "closedAt":1567403999000, "detail":[
@@ -1525,5 +1549,29 @@
       }
     ],
     "seq":27, "purchaseMenuId":4, "homeBalloonPriority":60, "homeBalloonMessage":"毎月買えるお得なスター♪", "recommendSeq":0
+  },
+  "1021":{
+    "purchaseId":1021, "purchaseCategory":"limited_term", "productName":"1600万人突破記念お得なスター①", "description":"[505050FF]１２２０個（７８０個 [-][FF3B72FF]＋ ４４０個[-][505050FF]）[-]", "label":"キャンペーン", "purchaseLimit":2, "publishedAt":1669788000000, "closedAt":1671429599000, "detail":[
+      {
+        "purchaseId":1021, "seq":1, "resourceType":"paid_star", "quantity":1220
+      }
+    ],
+    "seq":22, "purchaseMenuId":4, "homeBalloonPriority":40, "homeBalloonMessage":"お得なスターキャンペーン♪", "recommendSeq":0
+  },
+  "1022":{
+    "purchaseId":1022, "purchaseCategory":"limited_term", "productName":"1600万人突破記念お得なスター②", "description":"[505050FF]４１５０個（２７００個 [-][FF3B72FF]＋ １４５０個[-][505050FF]）[-]", "label":"キャンペーン", "purchaseLimit":2, "publishedAt":1669788000000, "closedAt":1671429599000, "detail":[
+      {
+        "purchaseId":1022, "seq":1, "resourceType":"paid_star", "quantity":4150
+      }
+    ],
+    "seq":23, "purchaseMenuId":4, "homeBalloonPriority":40, "homeBalloonMessage":"お得なスターキャンペーン♪", "recommendSeq":0
+  },
+  "1023":{
+    "purchaseId":1023, "purchaseCategory":"limited_term", "productName":"1600万人突破記念お得なスター③", "description":"[505050FF]６０００個（４０５０個 [-][FF3B72FF]＋ １９５０個[-][505050FF]）[-]", "label":"キャンペーン", "purchaseLimit":2, "publishedAt":1669788000000, "closedAt":1671429599000, "detail":[
+      {
+        "purchaseId":1023, "seq":1, "resourceType":"paid_star", "quantity":6000
+      }
+    ],
+    "seq":24, "purchaseMenuId":4, "homeBalloonPriority":40, "homeBalloonMessage":"お得なスターキャンペーン♪", "recommendSeq":0
   }
 }
