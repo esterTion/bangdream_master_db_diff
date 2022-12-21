@@ -1,1 +1,101 @@
-[]
+{
+  "208":{
+    "eventId":208, "attributes":[
+      {
+        "eventId":208, "attribute":"happy", "percent":10
+      }
+    ],
+    "characters":[
+      {
+        "eventId":208, "characterId":11, "percent":20, "seq":3
+      },
+      {
+        "eventId":208, "characterId":12, "percent":20, "seq":5
+      },
+      {
+        "eventId":208, "characterId":13, "percent":20, "seq":4
+      },
+      {
+        "eventId":208, "characterId":14, "percent":20, "seq":2
+      },
+      {
+        "eventId":208, "characterId":15, "percent":20, "seq":1
+      }
+    ],
+    "stories":[
+      {
+        "eventId":208, "seq":0, "caption":"オープニング", "title":"いつか訪れる日", "synopsis":"突然こころに呼び出された美咲たち。\nそこにいたのは花音、ではなく……", "scenarioId":"event208-01", "coverImage":"208_0", "backgroundImage":"0", "releasePt":0, "releaseConditions":"オープニングシナリオ", "backgroundImageId":44, "rewards":[
+          {
+            "id":3161, "eventId":208, "seq":0, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3162, "eventId":208, "seq":0, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":208, "seq":1, "caption":"第１話", "title":"Let's farewell party!?", "synopsis":"ニコリーナのためのパーティ準備が進む。\nしかし、美咲はどこか心ここにあらずだった", "scenarioId":"event208-02", "coverImage":"208_1", "backgroundImage":"0", "releasePt":3000, "releaseConditions":"3000イベントP達成", "backgroundImageId":323, "rewards":[
+          {
+            "id":3163, "eventId":208, "seq":1, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3164, "eventId":208, "seq":1, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":208, "seq":2, "caption":"第２話", "title":"フェリスウィール・トーク", "synopsis":"遊園地を楽しむ一同。\nその合間に生まれる、密室での会話", "scenarioId":"event208-03", "coverImage":"208_2", "backgroundImage":"0", "releasePt":6000, "releaseConditions":"6000イベントP達成", "backgroundImageId":903, "rewards":[
+          {
+            "id":3165, "eventId":208, "seq":2, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3166, "eventId":208, "seq":2, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":208, "seq":3, "caption":"第３話", "title":"これまでとこれからの笑顔", "synopsis":"日も傾き、ライブの時間が迫る。\nニコリーナはふと、己の心を言葉にする", "scenarioId":"event208-04", "coverImage":"208_3", "backgroundImage":"0", "releasePt":15000, "releaseConditions":"15000イベントP達成", "backgroundImageId":899, "rewards":[
+          {
+            "id":3167, "eventId":208, "seq":3, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3168, "eventId":208, "seq":3, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":208, "seq":4, "caption":"第４話", "title":"「「「大丈夫」」」", "synopsis":"ライブの準備を進める美咲。\nその心に芽生えた、小さな熱に触れる", "scenarioId":"event208-05", "coverImage":"208_4", "backgroundImage":"0", "releasePt":28000, "releaseConditions":"28000イベントP達成", "backgroundImageId":28, "rewards":[
+          {
+            "id":3169, "eventId":208, "seq":4, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3170, "eventId":208, "seq":4, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":208, "seq":5, "caption":"第５話", "title":"ステージの熱", "synopsis":"今は、ミッシェルではない。\n奥沢美咲として立つ、初めてのステージ", "scenarioId":"event208-06", "coverImage":"208_5", "backgroundImage":"0", "releasePt":40000, "releaseConditions":"40000イベントP達成", "backgroundImageId":900, "rewards":[
+          {
+            "id":3171, "eventId":208, "seq":5, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3172, "eventId":208, "seq":5, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":208, "seq":6, "caption":"エンディング", "title":"いつだってこの空は", "synopsis":"ステージを終え、美咲は気持ちを告げる。\n遠い空の彼方に旅立つ人へ", "scenarioId":"event208-07", "coverImage":"208_6", "backgroundImage":"0", "releasePt":55000, "releaseConditions":"55000イベントP達成", "backgroundImageId":901, "rewards":[
+          {
+            "id":3173, "eventId":208, "seq":6, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3174, "eventId":208, "seq":6, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      }
+    ],
+    "eventAttributeAndCharacterBonus":{
+      "eventId":208, "pointPercent":20, "parameterPercent":0
+    }
+  }
+}
