@@ -7142,5 +7142,30 @@
       }
     ],
     "type":"limited"
+  },
+  {
+    "missionGroupId":537, "missionResetType":"none", "startAt":1672380000000, "endAt":1673330399000, "rewardEndAt":1673330399000, "tabLabel":"期間限定", "missionList":[
+      {
+        "missionId":10000264, "transitionMethod":"live", "transitionId":0, "seq":10, "detailList":[
+          {
+            "seq":1, "title":"ライブを50回クリアしよう", "description":"ライブを50回クリアしよう", "maxProgress":50, "reward":{
+              "UNKNOWN_1":10000264, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":100
+            }
+          }
+        ],
+        "labelText":"期間限定", "typeIndex":40
+      },
+      {
+        "missionId":10000265, "transitionMethod":"live", "transitionId":0, "seq":20, "detailList":[
+          {
+            "seq":1, "title":"エクストラ楽曲「シル・ヴ・プレジデント」を1回クリアしよう", "description":"エクストラ楽曲「シル・ヴ・プレジデント」を1回クリアしよう\n※カバー楽曲「シル・ヴ・プレジデント」のクリアでは、ミッションは達成されません。", "maxProgress":1, "valueId":200111, "reward":{
+              "UNKNOWN_1":10000265, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"item", "resourceId":14, "quantity":2
+            }
+          }
+        ],
+        "labelText":"期間限定", "typeIndex":28
+      }
+    ],
+    "type":"limited"
   }
 ]
