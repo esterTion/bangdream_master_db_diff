@@ -126,6 +126,133 @@
       "eventId":176, "performance":0, "technique":0, "visual":50
     }
   },
+  "210":{
+    "eventId":210, "attributes":[
+      {
+        "eventId":210, "attribute":"happy", "percent":10
+      }
+    ],
+    "characters":[
+      {
+        "eventId":210, "characterId":1, "percent":20, "seq":5
+      },
+      {
+        "eventId":210, "characterId":2, "percent":20, "seq":4
+      },
+      {
+        "eventId":210, "characterId":3, "percent":20, "seq":2
+      },
+      {
+        "eventId":210, "characterId":4, "percent":20, "seq":1
+      },
+      {
+        "eventId":210, "characterId":5, "percent":20, "seq":3
+      }
+    ],
+    "stories":[
+      {
+        "eventId":210, "seq":0, "caption":"オープニング", "title":"ねぇ、進路決まった？", "synopsis":"新学期。昼食を楽しむポピパ一同。\n進路の話になるも、沙綾の顔色は冴えず……", "scenarioId":"event210-01", "coverImage":"210_0", "backgroundImage":"0", "releasePt":0, "releaseConditions":"オープニングシナリオ", "backgroundImageId":105, "rewards":[
+          {
+            "id":3189, "eventId":210, "seq":0, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3190, "eventId":210, "seq":0, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":210, "seq":1, "caption":"第１話", "title":"それぞれの希望", "synopsis":"羽沢珈琲店を訪れた沙綾。つぐみとの\n対話を通じて、自らの心の声を聴く。", "scenarioId":"event210-02", "coverImage":"210_1", "backgroundImage":"0", "releasePt":2000, "releaseConditions":"2000イベントP達成", "backgroundImageId":53, "rewards":[
+          {
+            "id":3191, "eventId":210, "seq":1, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3192, "eventId":210, "seq":1, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":210, "seq":2, "caption":"第２話", "title":"さまよう行き先", "synopsis":"父の思いもよらぬ発言に、動揺する沙綾。\n次第に心の歯止めがきかなくなっていき……", "scenarioId":"event210-03", "coverImage":"210_2", "backgroundImage":"0", "releasePt":6000, "releaseConditions":"6000イベントP達成", "backgroundImageId":419, "rewards":[
+          {
+            "id":3193, "eventId":210, "seq":2, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3194, "eventId":210, "seq":2, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":210, "seq":3, "caption":"第３話", "title":"動けない心", "synopsis":"有咲の蔵で昨日のことを打ち明ける沙綾。\nその心はいまだ迷いの中にあり……", "scenarioId":"event210-04", "coverImage":"210_3", "backgroundImage":"0", "releasePt":12000, "releaseConditions":"12000イベントP達成", "backgroundImageId":39, "rewards":[
+          {
+            "id":3195, "eventId":210, "seq":3, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3196, "eventId":210, "seq":3, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":210, "seq":4, "caption":"第４話", "title":"真っ暗に星を探して", "synopsis":"公園に駆けつけたりみ。苦しそうに心中を\n吐露する沙綾に、りみのかけた言葉は――", "scenarioId":"event210-05", "coverImage":"210_4", "backgroundImage":"0", "releasePt":22000, "releaseConditions":"22000イベントP達成", "backgroundImageId":758, "rewards":[
+          {
+            "id":3197, "eventId":210, "seq":4, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3198, "eventId":210, "seq":4, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":210, "seq":5, "caption":"第５話", "title":"父さん", "synopsis":"再び、父と対話する覚悟を決めた沙綾。\n自分で考え、出した答えは――", "scenarioId":"event210-06", "coverImage":"210_5", "backgroundImage":"0", "releasePt":30000, "releaseConditions":"30000イベントP達成", "backgroundImageId":19, "rewards":[
+          {
+            "id":3199, "eventId":210, "seq":5, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3200, "eventId":210, "seq":5, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":210, "seq":6, "caption":"エンディング", "title":"いつかこの空に名前をつけよう", "synopsis":"ついに迎えた三者面談。\n帰り道、娘と父は語り合う。", "scenarioId":"event210-07", "coverImage":"210_6", "backgroundImage":"0", "releasePt":50000, "releaseConditions":"50000イベントP達成", "backgroundImageId":68, "rewards":[
+          {
+            "id":3201, "eventId":210, "seq":6, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3202, "eventId":210, "seq":6, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      }
+    ],
+    "eventAttributeAndCharacterBonus":{
+      "eventId":210, "pointPercent":0, "parameterPercent":20
+    },
+    "teamList":[
+      {
+        "eventId":210, "teamId":1, "teamName":"美術", "iconFileName":"img_team_1_red", "themeTitle":"学校の選択科目にするなら？"
+      },
+      {
+        "eventId":210, "teamId":2, "teamName":"書道", "iconFileName":"img_team_2_blue", "themeTitle":"学校の選択科目にするなら？"
+      }
+    ],
+    "teamRewards":[
+      {
+        "festivalResultType":"lose", "seq":1, "resourceType":"star", "quantity":100
+      },
+      {
+        "festivalResultType":"lose", "seq":2, "resourceType":"live_boost_recovery_item", "resourceId":1, "quantity":5
+      },
+      {
+        "festivalResultType":"win", "seq":1, "resourceType":"star", "quantity":100
+      },
+      {
+        "festivalResultType":"win", "seq":2, "resourceType":"live_boost_recovery_item", "resourceId":2, "quantity":1
+      },
+      {
+        "festivalResultType":"win", "seq":3, "resourceType":"michelle_seal", "quantity":50
+      }
+    ],
+    "themeTitle":"学校の選択科目にするなら？", "eventCharacterParameterBonus":{
+      "eventId":210, "performance":0, "technique":50, "visual":0
+    }
+  },
   "195":{
     "eventId":195, "attributes":[
       {
