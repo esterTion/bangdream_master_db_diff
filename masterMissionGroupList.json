@@ -1,5 +1,20 @@
 [
   {
+    "missionGroupId":22, "missionResetType":"daily", "startAt":1677650400000, "endAt":1681106399000, "rewardEndAt":1681153199000, "tabLabel":"デイリー", "missionList":[
+      {
+        "missionId":1000032, "transitionMethod":"live", "transitionId":0, "seq":10, "detailList":[
+          {
+            "seq":1, "title":"1日1回ライブをクリアしよう", "description":"1日1回ライブをクリアしよう", "maxProgress":1, "reward":{
+              "UNKNOWN_1":1000032, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"limited_item", "resourceId":9, "quantity":5000
+            }
+          }
+        ],
+        "labelText":"デイリー", "typeIndex":40
+      }
+    ],
+    "type":"limited"
+  },
+  {
     "missionGroupId":101, "missionResetType":"none", "startAt":1500397200000, "endAt":4087299600000, "rewardEndAt":4087299600000, "missionList":[
       {
         "missionId":1, "transitionMethod":"live", "transitionId":0, "seq":30, "detailList":[
@@ -6939,121 +6954,6 @@
           }
         ],
         "labelText":"デイリー", "typeIndex":40
-      }
-    ],
-    "type":"limited"
-  },
-  {
-    "missionGroupId":541, "missionResetType":"none", "startAt":1676786400000, "endAt":1677563999000, "rewardEndAt":1677563999000, "tabLabel":"期間限定", "missionList":[
-      {
-        "missionId":10000297, "transitionMethod":"story", "transitionId":0, "seq":100, "detailList":[
-          {
-            "seq":1, "title":"イベント「新緑のラルゴ」のイベントストーリーを読もう", "description":"イベントストーリーのシーズン1から、「新緑のラルゴ」のストーリーのいずれかを読もう", "maxProgress":1, "valueId":200122, "reward":{
-              "UNKNOWN_1":10000297, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":25
-            }
-          }
-        ],
-        "labelText":"期間限定", "typeIndex":93
-      },
-      {
-        "missionId":10000298, "transitionMethod":"story", "transitionId":0, "seq":110, "detailList":[
-          {
-            "seq":1, "title":"イベント「呪われた井戸と学園の幽霊」のイベントストーリーを読もう", "description":"イベントストーリーのシーズン1から、「呪われた井戸と学園の幽霊」のストーリーのいずれかを読もう", "maxProgress":1, "valueId":200123, "reward":{
-              "UNKNOWN_1":10000298, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":25
-            }
-          }
-        ],
-        "labelText":"期間限定", "typeIndex":93
-      },
-      {
-        "missionId":10000299, "transitionMethod":"story", "transitionId":0, "seq":120, "detailList":[
-          {
-            "seq":1, "title":"イベント「舞台裏のメソッド」のイベントストーリーを読もう", "description":"イベントストーリーのシーズン1から、「舞台裏のメソッド」のストーリーのいずれかを読もう", "maxProgress":1, "valueId":200124, "reward":{
-              "UNKNOWN_1":10000299, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":25
-            }
-          }
-        ],
-        "labelText":"期間限定", "typeIndex":93
-      },
-      {
-        "missionId":10000300, "transitionMethod":"story", "transitionId":0, "seq":130, "detailList":[
-          {
-            "seq":1, "title":"イベント「ふたつ星のアンサンブル」のイベントストーリーを読もう", "description":"イベントストーリーのシーズン1から、「ふたつ星のアンサンブル」のストーリーのいずれかを読もう", "maxProgress":1, "valueId":200125, "reward":{
-              "UNKNOWN_1":10000300, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":25
-            }
-          }
-        ],
-        "labelText":"期間限定", "typeIndex":93
-      },
-      {
-        "missionId":10000301, "transitionMethod":"story", "transitionId":0, "seq":140, "detailList":[
-          {
-            "seq":1, "title":"イベント「降るFULL BLOOMING」のイベントストーリーを読もう", "description":"イベントストーリーのシーズン2から、「降るFULL BLOOMING」のストーリーのいずれかを読もう", "maxProgress":1, "valueId":200126, "reward":{
-              "UNKNOWN_1":10000301, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":25
-            }
-          }
-        ],
-        "labelText":"期間限定", "typeIndex":93
-      },
-      {
-        "missionId":10000302, "transitionMethod":"story", "transitionId":0, "seq":150, "detailList":[
-          {
-            "seq":1, "title":"イベント「花咲く学び舎、その片隅で」のイベントストーリーを読もう", "description":"イベントストーリーのシーズン2から、「花咲く学び舎、その片隅で」のストーリーのいずれかを読もう", "maxProgress":1, "valueId":200127, "reward":{
-              "UNKNOWN_1":10000302, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":25
-            }
-          }
-        ],
-        "labelText":"期間限定", "typeIndex":93
-      },
-      {
-        "missionId":10000303, "transitionMethod":"story", "transitionId":0, "seq":160, "detailList":[
-          {
-            "seq":1, "title":"イベント「Runっ♪ in the hallway」のイベントストーリーを読もう", "description":"イベントストーリーのシーズン2から、「Runっ♪ in the hallway」のストーリーのいずれかを読もう", "maxProgress":1, "valueId":200128, "reward":{
-              "UNKNOWN_1":10000303, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":25
-            }
-          }
-        ],
-        "labelText":"期間限定", "typeIndex":93
-      },
-      {
-        "missionId":10000304, "transitionMethod":"story", "transitionId":0, "seq":170, "detailList":[
-          {
-            "seq":1, "title":"イベント「夢と現と百の歌」のイベントストーリーを読もう", "description":"イベントストーリーのシーズン2から、「夢と現と百の歌」のストーリーのいずれかを読もう", "maxProgress":1, "valueId":200129, "reward":{
-              "UNKNOWN_1":10000304, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":25
-            }
-          }
-        ],
-        "labelText":"期間限定", "typeIndex":93
-      },
-      {
-        "missionId":10000305, "transitionMethod":"story", "transitionId":0, "seq":180, "detailList":[
-          {
-            "seq":1, "title":"イベント「幕開けに輝くエスポワール」のイベントストーリーを読もう", "description":"イベントストーリーのシーズン2から、「幕開けに輝くエスポワール」のストーリーのいずれかを読もう", "maxProgress":1, "valueId":200130, "reward":{
-              "UNKNOWN_1":10000305, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":25
-            }
-          }
-        ],
-        "labelText":"期間限定", "typeIndex":93
-      },
-      {
-        "missionId":10000306, "transitionMethod":"story", "transitionId":0, "seq":190, "detailList":[
-          {
-            "seq":1, "title":"イベント「School excursion！！〜花咲川女子学園編〜」のイベントストーリーを読もう", "description":"イベントストーリーのシーズン2から、「School excursion！！〜花咲川女子学園編〜」のストーリーのいずれかを読もう", "maxProgress":1, "valueId":200131, "reward":{
-              "UNKNOWN_1":10000306, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":25
-            }
-          }
-        ],
-        "labelText":"期間限定", "typeIndex":93
-      },
-      {
-        "missionId":10000307, "transitionMethod":"story", "transitionId":0, "seq":200, "detailList":[
-          {
-            "seq":1, "title":"イベント「School excursion！！〜羽丘女子学園編〜」のイベントストーリーを読もう", "description":"イベントストーリーのシーズン2から、「School excursion！！〜羽丘女子学園編〜」のストーリーのいずれかを読もう", "maxProgress":1, "valueId":200132, "reward":{
-              "UNKNOWN_1":10000307, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":25
-            }
-          }
-        ],
-        "labelText":"期間限定", "typeIndex":93
       }
     ],
     "type":"limited"
