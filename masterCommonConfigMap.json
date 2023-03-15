@@ -222,7 +222,7 @@
     "commonConfigId":101, "commonConfigType":"story_recommend_interval_day", "value":"60", "startAt":946652400000, "endAt":4102412400000
   },
   "102":{
-    "commonConfigId":102, "commonConfigType":"is_promotion_video_preview", "value":"TRUE", "startAt":946652400000, "endAt":4102412400000
+    "commonConfigId":102, "commonConfigType":"is_promotion_video_preview", "value":"FALSE", "startAt":946652400000, "endAt":4102412400000
   },
   "103":{
     "commonConfigId":103, "commonConfigType":"execute_recommend_interval_day", "value":"7", "startAt":946652400000, "endAt":4102412400000
@@ -249,10 +249,10 @@
     "commonConfigId":110, "commonConfigType":"april_fool_twitter_enable", "value":"TRUE", "startAt":1617202800000, "endAt":1617461999000
   },
   "111":{
-    "commonConfigId":111, "commonConfigType":"delete_present_history_data_flg_for_3rd_anniversary", "value":"TRUE", "startAt":946652400000, "endAt":4102412400000
+    "commonConfigId":111, "commonConfigType":"delete_present_history_data_flg_for_3rd_anniversary", "value":"FALSE", "startAt":946652400000, "endAt":4102412400000
   },
   "112":{
-    "commonConfigId":112, "commonConfigType":"daily_live_reward_flg", "value":"FALSE", "startAt":946652400000, "endAt":4102412400000
+    "commonConfigId":112, "commonConfigType":"daily_live_reward_flg", "value":"TRUE", "startAt":946652400000, "endAt":4102412400000
   },
   "113":{
     "commonConfigId":113, "commonConfigType":"random_music_select_enabled", "value":"TRUE", "startAt":1591768800000, "endAt":1592481599000
@@ -353,16 +353,52 @@
   "152":{
     "commonConfigId":152, "commonConfigType":"deck_rank_rate_recalc_in_login_enable", "value":"TRUE", "startAt":946652400000, "endAt":4102412400000
   },
+  "153":{
+    "commonConfigId":153, "commonConfigType":"default_season", "value":"3", "startAt":946652400000, "endAt":4102412400000
+  },
   "155":{
     "commonConfigId":155, "commonConfigType":"auto_live_play_count", "value":"10", "startAt":946652400000, "endAt":4102412400000
   },
   "156":{
     "commonConfigId":156, "commonConfigType":"auto_live_note_factor", "value":"0.75", "startAt":946652400000, "endAt":4102412400000
   },
+  "157":{
+    "commonConfigId":157, "commonConfigType":"character_rank_deck_leader_multiplier", "value":"2", "startAt":946652400000, "endAt":4102412400000
+  },
+  "158":{
+    "commonConfigId":158, "commonConfigType":"character_rank_deck_member_multiplier", "value":"1", "startAt":946652400000, "endAt":4102412400000
+  },
   "159":{
     "commonConfigId":159, "commonConfigType":"base_monthly_mission_live_point", "value":"1", "startAt":946652400000, "endAt":4102412400000
   },
   "160":{
     "commonConfigId":160, "commonConfigType":"lb_recovery_dialog", "value":"51", "startAt":946652400000, "endAt":4102412400000
+  },
+  "161":{
+    "commonConfigId":161, "commonConfigType":"character_rank_base_exp", "value":"20", "startAt":946652400000, "endAt":4102412400000
+  },
+  "162":{
+    "commonConfigId":162, "commonConfigType":"ex_mission_release_rank", "value":"50", "startAt":946652400000, "endAt":4102412400000
+  },
+  "163":{
+    "commonConfigId":163, "commonConfigType":"music_large_category_all_color", "value":"#FF3B72", "startAt":946652400000, "endAt":4102412400000
+  },
+  "164":{
+    "commonConfigId":164, "commonConfigType":"music_large_category_3d_live_label_color", "value":"#E6A4E6", "startAt":946652400000, "endAt":4102412400000
+  },
+  "165":{
+    "commonConfigId":165, "commonConfigType":"music_large_category_music_favorite_color", "value":"#FF3B72", "startAt":946652400000, "endAt":4102412400000
+  },
+  "166":{
+    "commonConfigId":166, "commonConfigType":"music_medium_category_music_favorite_color", "value":"#FFEFF3", "startAt":946652400000, "endAt":4102412400000
+  },
+  "167":{
+    "commonConfigId":167, "commonConfigType":"selling_items_quantity_limit", "value":"500000", "startAt":946652400000, "endAt":4102412400000
+  },
+  "168":{
+    "commonConfigId":168, "commonConfigType":"outgame_michelle_scaling_value", "value":"0.6", "startAt":946652400000, "endAt":4102412400000
+  },
+  "169":{
+    "commonConfigId":169, "commonConfigType":"invite_register_bonus_num", "value":"500", "startAt":946652400000, "endAt":4102412400000
   }
 }

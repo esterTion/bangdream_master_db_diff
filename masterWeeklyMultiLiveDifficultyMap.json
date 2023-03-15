@@ -1,107 +1,86 @@
 {
-  "64":{
-    "id":64, "difficulty":"金曜マスタールーム", "requiredTotalParam":180000, "bonusRate":1, "seq":100, "dayOfWeek":6, "resourceName":"room_master_fri", "multiLiveDifficultyType":"master"
+  "131":{
+    "id":131, "difficulty":"【火曜日】だれでもルーム", "requiredTotalParam":0, "bonusRate":1, "seq":120000, "dayOfWeek":3, "resourceName":"room_daredemo_tue", "multiLiveDifficultyType":"daredemo", "matchingLogicId":1
   },
-  "65":{
-    "id":65, "difficulty":"金曜グランドルーム", "requiredTotalParam":250000, "bonusRate":1, "seq":1000, "dayOfWeek":6, "resourceName":"room_grand_fri", "multiLiveDifficultyType":"grand"
+  "132":{
+    "id":132, "difficulty":"【火曜日】スタンダードルーム", "requiredTotalParam":70000, "bonusRate":1, "seq":130000, "dayOfWeek":3, "resourceName":"room_standard_tue", "multiLiveDifficultyType":"standard", "matchingLogicId":2
   },
-  "71":{
-    "id":71, "difficulty":"土曜だれでもルーム", "requiredTotalParam":0, "bonusRate":1, "seq":1, "dayOfWeek":7, "resourceName":"room_daredemo_sat", "multiLiveDifficultyType":"daredemo"
+  "133":{
+    "id":133, "difficulty":"【火曜日】グランドルーム", "requiredTotalParam":250000, "bonusRate":1, "seq":140000, "dayOfWeek":3, "resourceName":"room_advance_tue", "multiLiveDifficultyType":"grand", "matchingLogicId":2
   },
-  "72":{
-    "id":72, "difficulty":"土曜レギュラールーム", "requiredTotalParam":70000, "bonusRate":1, "seq":2, "dayOfWeek":7, "resourceName":"room_regular_sat", "multiLiveDifficultyType":"regular"
+  "134":{
+    "id":134, "difficulty":"【火曜日】レジェンドルーム", "requiredTotalParam":290000, "bonusRate":1, "seq":150000, "dayOfWeek":3, "resourceName":"room_legend_tue", "multiLiveDifficultyType":"legend", "matchingLogicId":2
   },
-  "73":{
-    "id":73, "difficulty":"土曜ベテランルーム", "requiredTotalParam":120000, "bonusRate":1, "seq":10, "dayOfWeek":7, "resourceName":"room_veteran_sat", "multiLiveDifficultyType":"veteran"
+  "141":{
+    "id":141, "difficulty":"【水曜日】だれでもルーム", "requiredTotalParam":0, "bonusRate":1, "seq":120000, "dayOfWeek":4, "resourceName":"room_daredemo_wed", "multiLiveDifficultyType":"daredemo", "matchingLogicId":1
   },
-  "74":{
-    "id":74, "difficulty":"土曜マスタールーム", "requiredTotalParam":180000, "bonusRate":1, "seq":100, "dayOfWeek":7, "resourceName":"room_master_sat", "multiLiveDifficultyType":"master"
+  "142":{
+    "id":142, "difficulty":"【水曜日】スタンダードルーム", "requiredTotalParam":70000, "bonusRate":1, "seq":130000, "dayOfWeek":4, "resourceName":"room_standard_wed", "multiLiveDifficultyType":"standard", "matchingLogicId":2
   },
-  "75":{
-    "id":75, "difficulty":"土曜グランドルーム", "requiredTotalParam":250000, "bonusRate":1, "seq":1000, "dayOfWeek":7, "resourceName":"room_grand_sat", "multiLiveDifficultyType":"grand"
+  "143":{
+    "id":143, "difficulty":"【水曜日】グランドルーム", "requiredTotalParam":250000, "bonusRate":1, "seq":140000, "dayOfWeek":4, "resourceName":"room_advance_wed", "multiLiveDifficultyType":"grand", "matchingLogicId":2
   },
-  "11":{
-    "id":11, "difficulty":"日曜だれでもルーム", "requiredTotalParam":0, "bonusRate":1, "seq":1, "dayOfWeek":1, "resourceName":"room_daredemo_sun", "multiLiveDifficultyType":"daredemo"
+  "144":{
+    "id":144, "difficulty":"【水曜日】レジェンドルーム", "requiredTotalParam":290000, "bonusRate":1, "seq":150000, "dayOfWeek":4, "resourceName":"room_legend_wed", "multiLiveDifficultyType":"legend", "matchingLogicId":2
   },
-  "12":{
-    "id":12, "difficulty":"日曜レギュラールーム", "requiredTotalParam":70000, "bonusRate":1, "seq":2, "dayOfWeek":1, "resourceName":"room_regular_sun", "multiLiveDifficultyType":"regular"
+  "151":{
+    "id":151, "difficulty":"【木曜日】だれでもルーム", "requiredTotalParam":0, "bonusRate":1, "seq":120000, "dayOfWeek":5, "resourceName":"room_daredemo_thu", "multiLiveDifficultyType":"daredemo", "matchingLogicId":1
   },
-  "13":{
-    "id":13, "difficulty":"日曜ベテランルーム", "requiredTotalParam":120000, "bonusRate":1, "seq":10, "dayOfWeek":1, "resourceName":"room_veteran_sun", "multiLiveDifficultyType":"veteran"
+  "152":{
+    "id":152, "difficulty":"【木曜日】スタンダードルーム", "requiredTotalParam":70000, "bonusRate":1, "seq":130000, "dayOfWeek":5, "resourceName":"room_standard_thu", "multiLiveDifficultyType":"standard", "matchingLogicId":2
   },
-  "14":{
-    "id":14, "difficulty":"日曜マスタールーム", "requiredTotalParam":180000, "bonusRate":1, "seq":100, "dayOfWeek":1, "resourceName":"room_master_sun", "multiLiveDifficultyType":"master"
+  "153":{
+    "id":153, "difficulty":"【木曜日】グランドルーム", "requiredTotalParam":250000, "bonusRate":1, "seq":140000, "dayOfWeek":5, "resourceName":"room_advance_thu", "multiLiveDifficultyType":"grand", "matchingLogicId":2
   },
-  "15":{
-    "id":15, "difficulty":"日曜グランドルーム", "requiredTotalParam":250000, "bonusRate":1, "seq":1000, "dayOfWeek":1, "resourceName":"room_grand_sun", "multiLiveDifficultyType":"grand"
+  "154":{
+    "id":154, "difficulty":"【木曜日】レジェンドルーム", "requiredTotalParam":290000, "bonusRate":1, "seq":150000, "dayOfWeek":5, "resourceName":"room_legend_thu", "multiLiveDifficultyType":"legend", "matchingLogicId":2
   },
-  "21":{
-    "id":21, "difficulty":"月曜だれでもルーム", "requiredTotalParam":0, "bonusRate":1, "seq":1, "dayOfWeek":2, "resourceName":"room_daredemo_mon", "multiLiveDifficultyType":"daredemo"
+  "161":{
+    "id":161, "difficulty":"【金曜日】だれでもルーム", "requiredTotalParam":0, "bonusRate":1, "seq":120000, "dayOfWeek":6, "resourceName":"room_daredemo_fri", "multiLiveDifficultyType":"daredemo", "matchingLogicId":1
   },
-  "22":{
-    "id":22, "difficulty":"月曜レギュラールーム", "requiredTotalParam":70000, "bonusRate":1, "seq":2, "dayOfWeek":2, "resourceName":"room_regular_mon", "multiLiveDifficultyType":"regular"
+  "162":{
+    "id":162, "difficulty":"【金曜日】スタンダードルーム", "requiredTotalParam":70000, "bonusRate":1, "seq":130000, "dayOfWeek":6, "resourceName":"room_standard_fri", "multiLiveDifficultyType":"standard", "matchingLogicId":2
   },
-  "23":{
-    "id":23, "difficulty":"月曜ベテランルーム", "requiredTotalParam":120000, "bonusRate":1, "seq":10, "dayOfWeek":2, "resourceName":"room_veteran_mon", "multiLiveDifficultyType":"veteran"
+  "163":{
+    "id":163, "difficulty":"【金曜日】グランドルーム", "requiredTotalParam":250000, "bonusRate":1, "seq":140000, "dayOfWeek":6, "resourceName":"room_advance_fri", "multiLiveDifficultyType":"grand", "matchingLogicId":2
   },
-  "24":{
-    "id":24, "difficulty":"月曜マスタールーム", "requiredTotalParam":180000, "bonusRate":1, "seq":100, "dayOfWeek":2, "resourceName":"room_master_mon", "multiLiveDifficultyType":"master"
+  "164":{
+    "id":164, "difficulty":"【金曜日】レジェンドルーム", "requiredTotalParam":290000, "bonusRate":1, "seq":150000, "dayOfWeek":6, "resourceName":"room_legend_fri", "multiLiveDifficultyType":"legend", "matchingLogicId":2
   },
-  "25":{
-    "id":25, "difficulty":"月曜グランドルーム", "requiredTotalParam":250000, "bonusRate":1, "seq":1000, "dayOfWeek":2, "resourceName":"room_grand_mon", "multiLiveDifficultyType":"grand"
+  "171":{
+    "id":171, "difficulty":"【土曜日】だれでもルーム", "requiredTotalParam":0, "bonusRate":1, "seq":120000, "dayOfWeek":7, "resourceName":"room_daredemo_sat", "multiLiveDifficultyType":"daredemo", "matchingLogicId":1
   },
-  "31":{
-    "id":31, "difficulty":"火曜だれでもルーム", "requiredTotalParam":0, "bonusRate":1, "seq":1, "dayOfWeek":3, "resourceName":"room_daredemo_tue", "multiLiveDifficultyType":"daredemo"
+  "172":{
+    "id":172, "difficulty":"【土曜日】スタンダードルーム", "requiredTotalParam":70000, "bonusRate":1, "seq":130000, "dayOfWeek":7, "resourceName":"room_standard_sat", "multiLiveDifficultyType":"standard", "matchingLogicId":2
   },
-  "32":{
-    "id":32, "difficulty":"火曜レギュラールーム", "requiredTotalParam":70000, "bonusRate":1, "seq":2, "dayOfWeek":3, "resourceName":"room_regular_tue", "multiLiveDifficultyType":"regular"
+  "173":{
+    "id":173, "difficulty":"【土曜日】グランドルーム", "requiredTotalParam":250000, "bonusRate":1, "seq":140000, "dayOfWeek":7, "resourceName":"room_advance_sat", "multiLiveDifficultyType":"grand", "matchingLogicId":2
   },
-  "33":{
-    "id":33, "difficulty":"火曜ベテランルーム", "requiredTotalParam":120000, "bonusRate":1, "seq":10, "dayOfWeek":3, "resourceName":"room_veteran_tue", "multiLiveDifficultyType":"veteran"
+  "174":{
+    "id":174, "difficulty":"【土曜日】レジェンドルーム", "requiredTotalParam":290000, "bonusRate":1, "seq":150000, "dayOfWeek":7, "resourceName":"room_legend_sat", "multiLiveDifficultyType":"legend", "matchingLogicId":2
   },
-  "34":{
-    "id":34, "difficulty":"火曜マスタールーム", "requiredTotalParam":180000, "bonusRate":1, "seq":100, "dayOfWeek":3, "resourceName":"room_master_tue", "multiLiveDifficultyType":"master"
+  "111":{
+    "id":111, "difficulty":"【日曜日】だれでもルーム", "requiredTotalParam":0, "bonusRate":1, "seq":120000, "dayOfWeek":1, "resourceName":"room_daredemo_sun", "multiLiveDifficultyType":"daredemo", "matchingLogicId":1
   },
-  "35":{
-    "id":35, "difficulty":"火曜グランドルーム", "requiredTotalParam":250000, "bonusRate":1, "seq":1000, "dayOfWeek":3, "resourceName":"room_grand_tue", "multiLiveDifficultyType":"grand"
+  "112":{
+    "id":112, "difficulty":"【日曜日】スタンダードルーム", "requiredTotalParam":70000, "bonusRate":1, "seq":130000, "dayOfWeek":1, "resourceName":"room_standard_sun", "multiLiveDifficultyType":"standard", "matchingLogicId":2
   },
-  "41":{
-    "id":41, "difficulty":"水曜だれでもルーム", "requiredTotalParam":0, "bonusRate":1, "seq":1, "dayOfWeek":4, "resourceName":"room_daredemo_wed", "multiLiveDifficultyType":"daredemo"
+  "113":{
+    "id":113, "difficulty":"【日曜日】グランドルーム", "requiredTotalParam":250000, "bonusRate":1, "seq":140000, "dayOfWeek":1, "resourceName":"room_advance_sun", "multiLiveDifficultyType":"grand", "matchingLogicId":2
   },
-  "42":{
-    "id":42, "difficulty":"水曜レギュラールーム", "requiredTotalParam":70000, "bonusRate":1, "seq":2, "dayOfWeek":4, "resourceName":"room_regular_wed", "multiLiveDifficultyType":"regular"
+  "114":{
+    "id":114, "difficulty":"【日曜日】レジェンドルーム", "requiredTotalParam":290000, "bonusRate":1, "seq":150000, "dayOfWeek":1, "resourceName":"room_legend_sun", "multiLiveDifficultyType":"legend", "matchingLogicId":2
   },
-  "43":{
-    "id":43, "difficulty":"水曜ベテランルーム", "requiredTotalParam":120000, "bonusRate":1, "seq":10, "dayOfWeek":4, "resourceName":"room_veteran_wed", "multiLiveDifficultyType":"veteran"
+  "121":{
+    "id":121, "difficulty":"【月曜日】だれでもルーム", "requiredTotalParam":0, "bonusRate":1, "seq":120000, "dayOfWeek":2, "resourceName":"room_daredemo_mon", "multiLiveDifficultyType":"daredemo", "matchingLogicId":1
   },
-  "44":{
-    "id":44, "difficulty":"水曜マスタールーム", "requiredTotalParam":180000, "bonusRate":1, "seq":100, "dayOfWeek":4, "resourceName":"room_master_wed", "multiLiveDifficultyType":"master"
+  "122":{
+    "id":122, "difficulty":"【月曜日】スタンダードルーム", "requiredTotalParam":70000, "bonusRate":1, "seq":130000, "dayOfWeek":2, "resourceName":"room_standard_mon", "multiLiveDifficultyType":"standard", "matchingLogicId":2
   },
-  "45":{
-    "id":45, "difficulty":"水曜グランドルーム", "requiredTotalParam":250000, "bonusRate":1, "seq":1000, "dayOfWeek":4, "resourceName":"room_grand_wed", "multiLiveDifficultyType":"grand"
+  "123":{
+    "id":123, "difficulty":"【月曜日】グランドルーム", "requiredTotalParam":250000, "bonusRate":1, "seq":140000, "dayOfWeek":2, "resourceName":"room_advance_mon", "multiLiveDifficultyType":"grand", "matchingLogicId":2
   },
-  "51":{
-    "id":51, "difficulty":"木曜だれでもルーム", "requiredTotalParam":0, "bonusRate":1, "seq":1, "dayOfWeek":5, "resourceName":"room_daredemo_thu", "multiLiveDifficultyType":"daredemo"
-  },
-  "52":{
-    "id":52, "difficulty":"木曜レギュラールーム", "requiredTotalParam":70000, "bonusRate":1, "seq":2, "dayOfWeek":5, "resourceName":"room_regular_thu", "multiLiveDifficultyType":"regular"
-  },
-  "53":{
-    "id":53, "difficulty":"木曜ベテランルーム", "requiredTotalParam":120000, "bonusRate":1, "seq":10, "dayOfWeek":5, "resourceName":"room_veteran_thu", "multiLiveDifficultyType":"veteran"
-  },
-  "54":{
-    "id":54, "difficulty":"木曜マスタールーム", "requiredTotalParam":180000, "bonusRate":1, "seq":100, "dayOfWeek":5, "resourceName":"room_master_thu", "multiLiveDifficultyType":"master"
-  },
-  "55":{
-    "id":55, "difficulty":"木曜グランドルーム", "requiredTotalParam":250000, "bonusRate":1, "seq":1000, "dayOfWeek":5, "resourceName":"room_grand_thu", "multiLiveDifficultyType":"grand"
-  },
-  "61":{
-    "id":61, "difficulty":"金曜だれでもルーム", "requiredTotalParam":0, "bonusRate":1, "seq":1, "dayOfWeek":6, "resourceName":"room_daredemo_fri", "multiLiveDifficultyType":"daredemo"
-  },
-  "62":{
-    "id":62, "difficulty":"金曜レギュラールーム", "requiredTotalParam":70000, "bonusRate":1, "seq":2, "dayOfWeek":6, "resourceName":"room_regular_fri", "multiLiveDifficultyType":"regular"
-  },
-  "63":{
-    "id":63, "difficulty":"金曜ベテランルーム", "requiredTotalParam":120000, "bonusRate":1, "seq":10, "dayOfWeek":6, "resourceName":"room_veteran_fri", "multiLiveDifficultyType":"veteran"
+  "124":{
+    "id":124, "difficulty":"【月曜日】レジェンドルーム", "requiredTotalParam":290000, "bonusRate":1, "seq":150000, "dayOfWeek":2, "resourceName":"room_legend_mon", "multiLiveDifficultyType":"legend", "matchingLogicId":2
   }
 }

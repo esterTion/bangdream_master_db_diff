@@ -89,7 +89,7 @@
             }
           },
           "7":{
-            "fileName":"icon_area", "typeIndex":77, "maxProgress":1, "title":"画面が切り替わるまでラウンジ会話を見よう", "description":"ラウンジエリアで画面が切り替わるまでキャラクター同士の会話を見よう", "hint":"ラウンジでは、ちびキャラのメンバーたちの会話がアニメーション付きで気軽に楽しめます", "transitionMethod":"backstage", "transitionId":13, "reward":{
+            "fileName":"icon_area", "typeIndex":77, "maxProgress":1, "title":"思い出のラウンジ会話を見よう", "description":"キャラ図鑑のラウンジ会話からちびキャラのメンバーたちの会話を見よう", "hint":"思い出のラウンジ会話では、ちびキャラのメンバーたちの会話がアニメーション付きで楽しめます", "transitionMethod":"band_dict", "reward":{
               "resourceType":"practice_ticket", "resourceId":1, "quantity":100
             }
           },
@@ -121,7 +121,7 @@
             }
           },
           "3":{
-            "fileName":"icon_band", "typeIndex":17, "maxProgress":1, "title":"ライブ衣装を変更しよう", "description":"バンドメニューからライブ衣装を変更しよう", "hint":"ライブ衣装を変更すると、ライブでは設定した衣装を着て演奏しているメンバーの姿を楽しめます", "transitionMethod":"band_costume", "transitionId":0, "reward":{
+            "fileName":"icon_band", "typeIndex":17, "maxProgress":1, "title":"ライブ衣装を変更しよう", "description":"バンドメニューのライブ衣装でLive2D衣装を変更しよう", "hint":"ライブ衣装を変更すると、ライブでは設定した衣装を着て演奏しているメンバーの姿を楽しめます", "transitionMethod":"band_costume", "transitionId":0, "reward":{
               "resourceType":"practice_ticket", "resourceId":2, "quantity":50
             }
           },
@@ -136,17 +136,17 @@
             }
           },
           "6":{
-            "fileName":"icon_band", "typeIndex":79, "maxProgress":1, "title":"バンド紹介を見よう", "description":"バンド・キャラクター図鑑から好きなバンドのバンド紹介を見よう", "hint":"バンド紹介では各バンドの特徴を確認できます", "transitionMethod":"band_dict", "transitionId":0, "reward":{
+            "fileName":"icon_band", "typeIndex":79, "maxProgress":1, "title":"バンド紹介を見よう", "description":"キャラ図鑑から好きなバンドのバンド紹介を見よう", "hint":"バンド紹介では各バンドの特徴を確認できます", "transitionMethod":"band_dict", "transitionId":0, "reward":{
               "resourceType":"item", "resourceId":8, "quantity":500
             }
           },
           "7":{
-            "fileName":"icon_band", "typeIndex":80, "maxProgress":1, "title":"MVを見よう", "description":"バンド・キャラクター図鑑から好きなMVを見よう", "hint":"MVでは対象楽曲のライブ映像などを見ることができます", "transitionMethod":"band_dict", "transitionId":0, "reward":{
+            "fileName":"icon_band", "typeIndex":80, "maxProgress":1, "title":"MVを見よう", "description":"キャラ図鑑から好きなMVを見よう", "hint":"MVでは対象楽曲のライブ映像などを見ることができます", "transitionMethod":"band_dict", "transitionId":0, "reward":{
               "resourceType":"practice_ticket", "resourceId":2, "quantity":50
             }
           },
           "8":{
-            "fileName":"icon_band", "typeIndex":81, "maxProgress":1, "title":"自己紹介エピソードを読もう", "description":"バンド・キャラクター図鑑の好きなメンバーのプロフィールメニューから自己紹介エピソードを読もう", "hint":"自己紹介エピソードではキャラクターが自己紹介しているシーンを楽しめます", "transitionMethod":"band_dict", "transitionId":0, "reward":{
+            "fileName":"icon_band", "typeIndex":81, "maxProgress":1, "title":"自己紹介エピソードを読もう", "description":"キャラ図鑑の好きなメンバーのプロフィールメニューから自己紹介エピソードを読もう", "hint":"自己紹介エピソードではキャラクターが自己紹介しているシーンを楽しめます", "transitionMethod":"band_dict", "transitionId":0, "reward":{
               "resourceType":"item", "resourceId":5, "quantity":500
             }
           },
@@ -188,17 +188,17 @@
             }
           },
           "6":{
-            "fileName":"icon_other", "typeIndex":4, "maxProgress":1, "title":"称号を変更しよう", "description":"プロフィール画面から好きな称号に変更しよう", "hint":"ミッションやイベントなどで獲得できる称号を最大2つまで設定できます", "transitionMethod":"profile", "transitionId":0, "reward":{
+            "fileName":"icon_other", "typeIndex":4, "maxProgress":1, "title":"称号を変更しよう", "description":"プロフィール設定のイラスト・称号画面で好きな称号に変更しよう", "hint":"ミッションやイベントなどで獲得できる称号を最大2つまで設定できます", "transitionMethod":"profile_illustration", "transitionId":0, "reward":{
               "resourceType":"item", "resourceId":12, "quantity":50
             }
           },
           "7":{
-            "fileName":"icon_other", "typeIndex":67, "maxProgress":1, "title":"プロフィールイラストを変更しよう", "description":"プロフィール画面のプロフィールイラスト設定から好きなイラストを設定しよう", "hint":"プロフィールイラストには獲得した好きなメンバーのイラストを設定できます", "transitionMethod":"profile_illustration", "transitionId":0, "reward":{
+            "fileName":"icon_other", "typeIndex":67, "maxProgress":1, "title":"プロフィールイラストを変更しよう", "description":"プロフィール設定のイラスト・称号画面でイラストを設定しよう", "hint":"プロフィールイラストには獲得した好きなメンバーのイラストを設定できます", "transitionMethod":"profile_illustration", "transitionId":0, "reward":{
               "resourceType":"practice_ticket", "resourceId":2, "quantity":50
             }
           },
           "8":{
-            "fileName":"icon_other", "typeIndex":70, "maxProgress":1, "title":"ピンズを設定しよう", "description":"プロフィール画面のデコレーション設定から好きなピンズを設定しよう", "hint":"EXミッションなどで獲得できるフレームやピンズを自由な組み合わせで設定できます", "transitionMethod":"profile_deco", "transitionId":0, "reward":{
+            "fileName":"icon_other", "typeIndex":70, "maxProgress":1, "title":"ピンズを設定しよう", "description":"プロフィール設定のデコレーション画面で好きなピンズを設定しよう", "hint":"EXミッションなどで獲得できるフレームやピンズを自由な組み合わせで設定できます", "transitionMethod":"profile_deco", "transitionId":0, "reward":{
               "resourceType":"item", "resourceId":9, "quantity":50
             }
           },

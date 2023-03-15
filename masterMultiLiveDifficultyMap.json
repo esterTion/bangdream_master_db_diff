@@ -1,17 +1,87 @@
 {
-  "1":{
-    "id":1, "difficulty":"だれでもルーム", "requiredTotalParam":0, "bonusRate":1, "seq":1, "multiLiveDifficultyType":"daredemo"
+  "2001":{
+    "id":2001, "difficulty":"だれでもルーム", "requiredTotalParam":0, "bonusRate":1, "seq":120000, "multiLiveDifficultyType":"daredemo", "matchingLogicId":1, "roomName":"だれでも\\nルーム", "requiredColorCode":"#43D4D6"
   },
-  "2":{
-    "id":2, "difficulty":"レギュラールーム", "requiredTotalParam":70000, "bonusRate":1, "seq":10, "multiLiveDifficultyType":"regular"
+  "2021":{
+    "id":2021, "difficulty":"グランドルーム", "requiredTotalParam":250000, "bonusRate":1, "seq":140000, "multiLiveDifficultyType":"grand", "matchingLogicId":2, "roomName":"グランド\\nルーム", "requiredColorCode":"#204E88", "masterMissionList":[
+      {
+        "missionId":53, "transitionMethod":"live", "transitionId":0, "seq":440, "valueId":18, "detailList":[
+          {
+            "seq":1, "title":"「グランドルーム」をSランクでクリアしよう", "description":"協力ライブで「グランドルーム」をマルチスコアランクSランクでクリアしよう", "maxProgress":1, "reward":{
+              "UNKNOWN_1":53, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":100
+            }
+          }
+        ],
+        "typeIndex":110
+      },
+      {
+        "missionId":54, "transitionMethod":"live", "transitionId":0, "seq":450, "valueId":18, "detailList":[
+          {
+            "seq":1, "title":"「グランドルーム」をSSランクでクリアしよう", "description":"協力ライブで「グランドルーム」をマルチスコアランクSSランクでクリアしよう", "maxProgress":1, "reward":{
+              "UNKNOWN_1":54, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":100
+            }
+          }
+        ],
+        "typeIndex":111
+      }
+    ]
   },
-  "100":{
-    "id":100, "difficulty":"マスタールーム", "requiredTotalParam":180000, "bonusRate":1, "seq":1000, "multiLiveDifficultyType":"master"
+  "2011":{
+    "id":2011, "difficulty":"スタンダードルーム", "requiredTotalParam":70000, "bonusRate":1, "seq":130000, "multiLiveDifficultyType":"standard", "matchingLogicId":1, "roomName":"スタンダード\\nルーム", "requiredColorCode":"#FF6384", "masterMissionList":[
+      {
+        "missionId":51, "transitionMethod":"live", "transitionId":0, "seq":420, "valueId":17, "detailList":[
+          {
+            "seq":1, "title":"「スタンダードルーム」をSランクでクリアしよう", "description":"協力ライブで「スタンダードルーム」をマルチスコアランクSランクでクリアしよう", "maxProgress":1, "reward":{
+              "UNKNOWN_1":51, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":50
+            }
+          }
+        ],
+        "typeIndex":110
+      },
+      {
+        "missionId":52, "transitionMethod":"live", "transitionId":0, "seq":430, "valueId":17, "detailList":[
+          {
+            "seq":1, "title":"「スタンダードルーム」をSSランクでクリアしよう", "description":"協力ライブで「スタンダードルーム」をマルチスコアランクSSランクでクリアしよう", "maxProgress":1, "reward":{
+              "UNKNOWN_1":52, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":50
+            }
+          }
+        ],
+        "typeIndex":111
+      }
+    ]
   },
-  "1000":{
-    "id":1000, "difficulty":"グランドルーム", "requiredTotalParam":250000, "bonusRate":1, "seq":10000, "multiLiveDifficultyType":"grand"
-  },
-  "10":{
-    "id":10, "difficulty":"ベテランルーム", "requiredTotalParam":120000, "bonusRate":1, "seq":100, "multiLiveDifficultyType":"veteran"
+  "2031":{
+    "id":2031, "difficulty":"レジェンドルーム", "requiredTotalParam":290000, "bonusRate":1, "seq":150000, "multiLiveDifficultyType":"legend", "matchingLogicId":2, "roomName":"レジェンド\\nルーム", "requiredColorCode":"#FF8903", "masterMissionList":[
+      {
+        "missionId":55, "transitionMethod":"live", "transitionId":0, "seq":460, "valueId":19, "detailList":[
+          {
+            "seq":1, "title":"「レジェンドルーム」をSランクでクリアしよう", "description":"協力ライブで「レジェンドルーム」をマルチスコアランクSランクでクリアしよう", "maxProgress":1, "reward":{
+              "UNKNOWN_1":55, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":200
+            }
+          }
+        ],
+        "typeIndex":110
+      },
+      {
+        "missionId":56, "transitionMethod":"live", "transitionId":0, "seq":470, "valueId":19, "detailList":[
+          {
+            "seq":1, "title":"「レジェンドルーム」をSSランクでクリアしよう", "description":"協力ライブで「レジェンドルーム」をマルチスコアランクSSランクでクリアしよう", "maxProgress":1, "reward":{
+              "UNKNOWN_1":56, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":200
+            }
+          }
+        ],
+        "typeIndex":111
+      },
+      {
+        "missionId":57, "transitionMethod":"live", "transitionId":0, "seq":480, "valueId":19, "detailList":[
+          {
+            "seq":1, "title":"「レジェンドルーム」をSSSランクでクリアしよう", "description":"協力ライブで「レジェンドルーム」をマルチスコアランクSSSランクでクリアしよう", "maxProgress":1, "reward":{
+              "UNKNOWN_1":57, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":200
+            }
+          }
+        ],
+        "typeIndex":112
+      }
+    ]
   }
 }
