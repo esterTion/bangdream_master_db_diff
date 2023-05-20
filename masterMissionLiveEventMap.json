@@ -1,1 +1,101 @@
-[]
+{
+  "223":{
+    "eventId":223, "attributes":[
+      {
+        "eventId":223, "attribute":"happy", "percent":10
+      }
+    ],
+    "characters":[
+      {
+        "eventId":223, "characterId":26, "percent":20, "seq":4
+      },
+      {
+        "eventId":223, "characterId":27, "percent":20, "seq":3
+      },
+      {
+        "eventId":223, "characterId":28, "percent":20, "seq":5
+      },
+      {
+        "eventId":223, "characterId":29, "percent":20, "seq":1
+      },
+      {
+        "eventId":223, "characterId":30, "percent":20, "seq":2
+      }
+    ],
+    "stories":[
+      {
+        "eventId":223, "seq":0, "caption":"オープニング", "title":"理事会決議通知", "synopsis":"新しい学年になっても絶好調なモニカ。\nそんな中、月ノ森である事件が起きる。", "scenarioId":"event223-01", "coverImage":"223_0", "backgroundImage":"0", "releasePt":0, "releaseConditions":"オープニングシナリオ", "backgroundImageId":473, "mainStoryId":0, "rewards":[
+          {
+            "id":3402, "eventId":223, "seq":0, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3403, "eventId":223, "seq":0, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":223, "seq":1, "caption":"第１話", "title":"校則がもたらした余波", "synopsis":"理事会からの発表で、月ノ森生が戸惑う中、\n校則を巡って瑠唯と透子がぶつかり合う。", "scenarioId":"event223-02", "coverImage":"223_1", "backgroundImage":"0", "releasePt":3000, "releaseConditions":"3000イベントP達成", "backgroundImageId":472, "mainStoryId":0, "rewards":[
+          {
+            "id":3404, "eventId":223, "seq":1, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3405, "eventId":223, "seq":1, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":223, "seq":2, "caption":"第２話", "title":"リーダー失格", "synopsis":"瑠唯と透子の喧嘩を止められず落ち込む\nつくし。七深は２人なら大丈夫と言うが……", "scenarioId":"event223-03", "coverImage":"223_2", "backgroundImage":"0", "releasePt":6000, "releaseConditions":"6000イベントP達成", "backgroundImageId":472, "mainStoryId":0, "rewards":[
+          {
+            "id":3406, "eventId":223, "seq":2, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3407, "eventId":223, "seq":2, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":223, "seq":3, "caption":"第３話", "title":"灰色の月ノ森", "synopsis":"現状の月ノ森に対して戸惑いが広がる中、\nましろが見た景色とは……？", "scenarioId":"event223-04", "coverImage":"223_3", "backgroundImage":"0", "releasePt":15000, "releaseConditions":"15000イベントP達成", "backgroundImageId":478, "mainStoryId":0, "rewards":[
+          {
+            "id":3408, "eventId":223, "seq":3, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3409, "eventId":223, "seq":3, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":223, "seq":4, "caption":"第４話", "title":"いい加減にして！", "synopsis":"再びぶつかり合う瑠唯と透子。\nつくしは２人を必死に止めようとして……", "scenarioId":"event223-05", "coverImage":"223_4", "backgroundImage":"0", "releasePt":28000, "releaseConditions":"28000イベントP達成", "backgroundImageId":478, "mainStoryId":0, "rewards":[
+          {
+            "id":3410, "eventId":223, "seq":4, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3411, "eventId":223, "seq":4, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":223, "seq":5, "caption":"第５話", "title":"バンドを通して見つけたもの", "synopsis":"一致団結したモニカ。バンド活動の許可を\n得るために、資料を作成していく。", "scenarioId":"event223-06", "coverImage":"223_5", "backgroundImage":"0", "releasePt":40000, "releaseConditions":"40000イベントP達成", "backgroundImageId":828, "mainStoryId":0, "rewards":[
+          {
+            "id":3412, "eventId":223, "seq":5, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3413, "eventId":223, "seq":5, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":223, "seq":6, "caption":"エンディング", "title":"月ノ森の精神を取り戻すため", "synopsis":"学校外活動の審査会に提出した\nモニカの資料。その結果は……？", "scenarioId":"event223-07", "coverImage":"223_6", "backgroundImage":"0", "releasePt":55000, "releaseConditions":"55000イベントP達成", "backgroundImageId":961, "mainStoryId":0, "rewards":[
+          {
+            "id":3414, "eventId":223, "seq":6, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3415, "eventId":223, "seq":6, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      }
+    ],
+    "eventAttributeAndCharacterBonus":{
+      "eventId":223, "pointPercent":20, "parameterPercent":0
+    }
+  }
+}

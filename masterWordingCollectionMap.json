@@ -542,6 +542,9 @@
   "dialog_panelmission_receive_title":{
     "name":"dialog_panelmission_receive_title", "wording":"受け取り完了"
   },
+  "dialog_expireShopPeriod_message":{
+    "name":"dialog_expireShopPeriod_message", "wording":"販売期間が終了しました。"
+  },
   "dialog_liveBoostExpend_description1":{
     "name":"dialog_liveBoostExpend_description1", "wording":"※所持数が設定消費数に満たない場合、所持数すべてを消費します。"
   },
@@ -838,9 +841,6 @@
   },
   "dialog_miracleTicketExchangeConfirm_title":{
     "name":"dialog_miracleTicketExchangeConfirm_title", "wording":"このメンバーと交換しますか？"
-  },
-  "teamLiveFestival_stageSelect_restTimeFormat":{
-    "name":"teamLiveFestival_stageSelect_restTimeFormat", "wording":"{0}"
   },
   "dialog_few_storage_MV":{
     "name":"dialog_few_storage_MV", "wording":"端末の空き容量が不足しているため、\\nMVを再生することができません。\\n"
@@ -1353,7 +1353,7 @@
     "name":"dialog_downloadSize_withVoice", "wording":"ボイスあり："
   },
   "teamLiveFestival_matching_waitOpponentTeamMatching":{
-    "name":"teamLiveFestival_matching_waitOpponentTeamMatching", "wording":"対戦相手とマッチング中…"
+    "name":"teamLiveFestival_matching_waitOpponentTeamMatching", "wording":"対戦相手とマッチング中..."
   },
   "header_mainTitle_biography":{
     "name":"header_mainTitle_biography", "wording":"キャラ図鑑"
@@ -1398,7 +1398,7 @@
     "name":"dialog_productBuyableCountOverError_message", "wording":"購入できる回数を超えております。"
   },
   "teamLiveFestival_stageSelect_ruleUpdateRestTimeCaption":{
-    "name":"teamLiveFestival_stageSelect_ruleUpdateRestTimeCaption", "wording":"ルール更新まで"
+    "name":"teamLiveFestival_stageSelect_ruleUpdateRestTimeCaption", "wording":"ルール変更まで"
   },
   "header_mainTitle_profileDesignSetting":{
     "name":"header_mainTitle_profileDesignSetting", "wording":"デコレーション設定"
@@ -1542,7 +1542,7 @@
     "name":"april2019_storyListCell_infoRandom", "wording":"期間限定エリアにランダムで出現中！"
   },
   "dialog_teamLiveFestivalTeamSelectConfirm_message":{
-    "name":"dialog_teamLiveFestivalTeamSelectConfirm_message", "wording":"チームを決定すると\\n後から変更することはできません。\\n\\n「{0}」\\nチームで決定しますか？"
+    "name":"dialog_teamLiveFestivalTeamSelectConfirm_message", "wording":"チームを決定すると\\n後から変更することはできません。\\n\\n「{0}」\\nチームで決定しますか？\\n"
   },
   "screen_profileDesignSelect_tab_member":{
     "name":"screen_profileDesignSelect_tab_member", "wording":"メンバー"
@@ -2041,6 +2041,9 @@
   },
   "musicSelect_musicNameFilter_menuName":{
     "name":"musicSelect_musicNameFilter_menuName", "wording":"50音別"
+  },
+  "teamLiveFestival_eventPointResult_bonusLivePlus":{
+    "name":"teamLiveFestival_eventPointResult_bonusLivePlus", "wording":"+"
   },
   "dialog_friendError_messageAlreadyRelease":{
     "name":"dialog_friendError_messageAlreadyRelease", "wording":"既にフレンドを解除しました。"
@@ -3047,6 +3050,9 @@
   "dialog_areaTalkFilter_title":{
     "name":"dialog_areaTalkFilter_title", "wording":"エリア会話絞り込み"
   },
+  "teamLiveFestival_selectDifficulty_readyButton":{
+    "name":"teamLiveFestival_selectDifficulty_readyButton", "wording":"準備完了"
+  },
   "music_shop_badgeAlert":{
     "name":"music_shop_badgeAlert", "wording":"カバー楽曲を購入することができます。"
   },
@@ -3546,7 +3552,7 @@
     "name":"costume_tryCostume_message", "wording":"試着モード"
   },
   "multiPlay_loading_resourceDownloadAppealMessage":{
-    "name":"multiPlay_loading_resourceDownloadAppealMessage", "wording":"ローディングが遅い場合は、オプションからライブ中メンバー演出の一括ダウンロードを行ってみよう♪"
+    "name":"multiPlay_loading_resourceDownloadAppealMessage", "wording":"ローディングが遅い場合は、オプションからライブ中メンバー演出の事前ダウンロードを行ってみよう♪"
   },
   "dialog_demoPlaySelect_caution":{
     "name":"dialog_demoPlaySelect_caution", "wording":"※デモプレイではスコアは表示、記録されません。"
@@ -3719,6 +3725,9 @@
   "dialog_decorationCharacterIllustConfirm_title":{
     "name":"dialog_decorationCharacterIllustConfirm_title", "wording":"イラスト確認"
   },
+  "teamLiveFestival_teamLiveTop_bandEdit":{
+    "name":"teamLiveFestival_teamLiveTop_bandEdit", "wording":"編成"
+  },
   "dialog_freeMedleyFilteringNothing_description":{
     "name":"dialog_freeMedleyFilteringNothing_description", "wording":"条件に合う楽曲がありません。\\n絞り込み設定をご確認ください。"
   },
@@ -3739,6 +3748,9 @@
   },
   "dialog_rhythmGameSettings_selectable_dontHave":{
     "name":"dialog_rhythmGameSettings_selectable_dontHave", "wording":"未所持のライブスキンが設定されています。\\n以前の設定が適用されますが\\nよろしいですか？"
+  },
+  "teamLiveFestival_eventPointResult_gotEventPMultiplerLabel":{
+    "name":"teamLiveFestival_eventPointResult_gotEventPMultiplerLabel", "wording":"倍!"
   },
   "appealCategory_playerRank_label":{
     "name":"appealCategory_playerRank_label", "wording":"プレイヤー\\nランク"
@@ -3938,6 +3950,9 @@
   "dialog_receivedDailyLiveTotalReward_title":{
     "name":"dialog_receivedDailyLiveTotalReward_title", "wording":"累計ライブボーナス達成！"
   },
+  "teamLiveFestival_matching_noticeSameTeamMatching":{
+    "name":"teamLiveFestival_matching_noticeSameTeamMatching", "wording":"相手チームが見つからなかったため、同じチームも含めてマッチング中..."
+  },
   "dialog_rhythmgameRetire_annotatedLB":{
     "name":"dialog_rhythmgameRetire_annotatedLB", "wording":"※中断した場合、ライブ報酬を獲得できません。"
   },
@@ -4125,7 +4140,7 @@
     "name":"tryLiveEvent_tryTargetDialogCell_titleCombo", "wording":"コンボトライ"
   },
   "teamLiveFestival_eventPointResult_bonusLive":{
-    "name":"teamLiveFestival_eventPointResult_bonusLive", "wording":"＋ボーナスライブ"
+    "name":"teamLiveFestival_eventPointResult_bonusLive", "wording":"ボーナスライブ"
   },
   "storyEvent_story_appeal":{
     "name":"storyEvent_story_appeal", "wording":"限定ストーリーをみよう!"
@@ -4173,7 +4188,7 @@
     "name":"dialog_twitterAuth_description", "wording":"Twitterと連携するにはPINコードを取得して、\\nTwitterとの連携を認証する必要があります。"
   },
   "dialog_eventRewardBoxGacha_rewardListAttention":{
-    "name":"dialog_eventRewardBoxGacha_rewardListAttention", "wording":"スペシャル枠の{0}を獲得すると、すべての{0}を\\n獲得しなくても次の{0}箱へ進むことができます。"
+    "name":"dialog_eventRewardBoxGacha_rewardListAttention", "wording":"スペシャル枠の{0}を獲得すると、すべての{0}を獲得しなくても次の{0}箱へ進むことができます。"
   },
   "dialog_garupaCupEntryConfirmDialog_userIDFormat":{
     "name":"dialog_garupaCupEntryConfirmDialog_userIDFormat", "wording":"ID：{0}"
@@ -4356,7 +4371,7 @@
     "name":"gachaSealHeader_reachingCeiling", "wording":"交換可能枚数に到達しました！"
   },
   "eventRewardBoxGacha_rewardList_emptyBoxInfo":{
-    "name":"eventRewardBoxGacha_rewardList_emptyBoxInfo", "wording":"{0}箱の中身を\\nすべて受け取りました。\\n次の{0}箱へ進みます。"
+    "name":"eventRewardBoxGacha_rewardList_emptyBoxInfo", "wording":"{0}箱の中身を\\nすべて受け取りました"
   },
   "dialog_specialSkinDetailSetting_judge":{
     "name":"dialog_specialSkinDetailSetting_judge", "wording":"期間限定判定テキスト"
@@ -4423,6 +4438,9 @@
   },
   "dialog_garupaPassDuplicateUpdateDialog_caution":{
     "name":"dialog_garupaPassDuplicateUpdateDialog_caution", "wording":"[505050]※複数のプラットフォームで「ガルパPASS」を購入しても\\n効果が重複することはありません。\\n※重複してのお支払いの返金などはお受けできません。[-]"
+  },
+  "teamLiveFestival_stageSelect_restTimePrefix":{
+    "name":"teamLiveFestival_stageSelect_restTimePrefix", "wording":"あと"
   },
   "decoration_settingSyncTop_label":{
     "name":"decoration_settingSyncTop_label", "wording":"プロフィールと合わせる"
@@ -4540,6 +4558,9 @@
   },
   "dialog_bandStory_appeal_title":{
     "name":"dialog_bandStory_appeal_title", "wording":"案内"
+  },
+  "teamLiveFestival_teamLiveTop_currentStage":{
+    "name":"teamLiveFestival_teamLiveTop_currentStage", "wording":"現在のルール"
   },
   "dialog_profileIllustConfig_selectMySelf":{
     "name":"dialog_profileIllustConfig_selectMySelf", "wording":"自分で選ぶ"
@@ -4791,7 +4812,7 @@
     "name":"cell_exMission_progressExpertAllPerfect", "wording":"[505050]EXPERT以上のALL PERFECTクリア楽曲数[-] [FF3B72]{0}[-]"
   },
   "dailyMission_receivedLimit_balloon":{
-    "name":"dailyMission_receivedLimit_balloon", "wording":"MM/dd H:59 まで"
+    "name":"dailyMission_receivedLimit_balloon", "wording":"MM/dd H:59"
   },
   "dialog_generalElection_snsShareReward_description":{
     "name":"dialog_generalElection_snsShareReward_description", "wording":"初回シェアボーナスを受け取りました！"
@@ -4887,7 +4908,7 @@
     "name":"mission_friendInvite_inviteCodeCopyButtonLabel", "wording":"コピー"
   },
   "dialog_teamLiveFestivalPrivateRoomCreate_description":{
-    "name":"dialog_teamLiveFestivalPrivateRoomCreate_description", "wording":"※同じチームのメンバーのみプライベートルームに入室できます。"
+    "name":"dialog_teamLiveFestivalPrivateRoomCreate_description", "wording":"※同じチームのメンバーのみ\\nプライベートルームに入室できます。"
   },
   "appealCategory_allPerfectCount_label":{
     "name":"appealCategory_allPerfectCount_label", "wording":"オール\\nパーフェクト\\n楽曲数"
@@ -5012,6 +5033,9 @@
   "specialSkinDetail_button_title":{
     "name":"specialSkinDetail_button_title", "wording":"個別設定"
   },
+  "teamLiveFestival_boxRewardGacha_button":{
+    "name":"teamLiveFestival_boxRewardGacha_button", "wording":"まりなさんの\\nごほうび箱"
+  },
   "dialog_sort_detailCondition":{
     "name":"dialog_sort_detailCondition", "wording":"こだわり条件"
   },
@@ -5077,6 +5101,9 @@
   },
   "dialog_liveSettings_3dLiveModeQuality_high":{
     "name":"dialog_liveSettings_3dLiveModeQuality_high", "wording":"高"
+  },
+  "word_randomMusicSelect":{
+    "name":"word_randomMusicSelect", "wording":"ランダム選曲"
   },
   "dialog_profileIllustSelectUseMainBandLeader_title":{
     "name":"dialog_profileIllustSelectUseMainBandLeader_title", "wording":"確認"
@@ -5212,6 +5239,9 @@
   },
   "mission_transitionButton_areaShop":{
     "name":"mission_transitionButton_areaShop", "wording":"ショップ"
+  },
+  "eventRewardBoxGacha_autoStopDialog_medalName":{
+    "name":"eventRewardBoxGacha_autoStopDialog_medalName", "wording":"所持{0}"
   },
   "dialog_musicSortFilter_notFullCombo":{
     "name":"dialog_musicSortFilter_notFullCombo", "wording":"未フルコンボ"
@@ -5609,6 +5639,9 @@
   "header_title_comicSelectSingleFrame":{
     "name":"header_title_comicSelectSingleFrame", "wording":"コミック"
   },
+  "eventRewardBoxGacha_result_goNext":{
+    "name":"eventRewardBoxGacha_result_goNext", "wording":"次のごほうび箱へ"
+  },
   "episode_watchButton_label":{
     "name":"episode_watchButton_label", "wording":"読む"
   },
@@ -5664,7 +5697,7 @@
     "name":"bandStoryChapterSpecialPage_caption_trailer", "wording":"予告ムービー"
   },
   "teamLiveFestival_matching_waitSameTeamMatching":{
-    "name":"teamLiveFestival_matching_waitSameTeamMatching", "wording":"同じチームのメンバーとマッチング中…"
+    "name":"teamLiveFestival_matching_waitSameTeamMatching", "wording":"{0}チームのメンバーとマッチング中..."
   },
   "header_subTitle_decorationCostumeSelect":{
     "name":"header_subTitle_decorationCostumeSelect", "wording":"Live2D"
@@ -5851,9 +5884,6 @@
   },
   "appealHighScoreRating_total_label":{
     "name":"appealHighScoreRating_total_label", "wording":"合計"
-  },
-  "teamLiveFestival_matching_noticeSameTteamMatching":{
-    "name":"teamLiveFestival_matching_noticeSameTteamMatching", "wording":"相手チームが見つからなかったため、同じチームも含めて対戦相手を探しています…"
   },
   "dialog_rhythmGameSettings_liveSkin_missionButtonLabel":{
     "name":"dialog_rhythmGameSettings_liveSkin_missionButtonLabel", "wording":"EXミッション"
@@ -6396,7 +6426,7 @@
     "name":"graphicalInfo_title_deck_rank", "wording":"新機能「編成ランク」登場！"
   },
   "dialog_teamLiveFestivalTeamSelectConfirm_randomMessage":{
-    "name":"dialog_teamLiveFestivalTeamSelectConfirm_randomMessage", "wording":"チームを決定すると\\n後から変更することはできません。\\n\\nおまかせでチームを決定しますか？"
+    "name":"dialog_teamLiveFestivalTeamSelectConfirm_randomMessage", "wording":"チームを決定すると\\n後から変更することはできません。\\n\\nおまかせでチームを決定しますか？\\n"
   },
   "word_setting_confirm":{
     "name":"word_setting_confirm", "wording":"設定完了"
@@ -7429,6 +7459,9 @@
   },
   "dialog_generalElection_voteComplete_aboutShare":{
     "name":"dialog_generalElection_voteComplete_aboutShare", "wording":"投票内容の\\nシェアについて"
+  },
+  "multiPlay_userCell_notSelectState":{
+    "name":"multiPlay_userCell_notSelectState", "wording":"選択中･･･"
   },
   "dialog_trailerMovieConfirm_title":{
     "name":"dialog_trailerMovieConfirm_title", "wording":"データダウンロード"
