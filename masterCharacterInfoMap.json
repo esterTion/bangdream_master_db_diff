@@ -72,10 +72,10 @@
           "characterId":1, "basicSeasonId":1, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"00101", "live2dAssetBundleName":"001_school_winter-2023", "seasonType":"season_3"
         },
         {
-          "characterId":1, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00001_2023", "live2dAssetBundleName":"001_casual-2023", "seasonType":"season_3"
+          "characterId":1, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SUMMER", "sdAssetBundleName":"00001_casual_summer_2023", "live2dAssetBundleName":"001_casual_summer-2023", "seasonType":"season_3"
         },
         {
-          "characterId":1, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"00101", "live2dAssetBundleName":"001_school_winter-2023", "seasonType":"season_3"
+          "characterId":1, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"00101_summer", "live2dAssetBundleName":"001_school_summer-2023", "seasonType":"season_3"
         },
         {
           "characterId":1, "basicSeasonId":3, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00001_2023", "live2dAssetBundleName":"001_casual-2023", "seasonType":"season_3"
@@ -219,10 +219,10 @@
           "characterId":2, "basicSeasonId":1, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"00102", "live2dAssetBundleName":"002_school_winter-2023", "seasonType":"season_3"
         },
         {
-          "characterId":2, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00002_2023", "live2dAssetBundleName":"002_casual-2023", "seasonType":"season_3"
+          "characterId":2, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SUMMER", "sdAssetBundleName":"00002_casual_summer_2023", "live2dAssetBundleName":"002_casual_summer-2023", "seasonType":"season_3"
         },
         {
-          "characterId":2, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"00102", "live2dAssetBundleName":"002_school_winter-2023", "seasonType":"season_3"
+          "characterId":2, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"00102_summer", "live2dAssetBundleName":"002_school_summer-2023", "seasonType":"season_3"
         },
         {
           "characterId":2, "basicSeasonId":3, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00002_2023", "live2dAssetBundleName":"002_casual-2023", "seasonType":"season_3"
@@ -366,10 +366,10 @@
           "characterId":3, "basicSeasonId":1, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"00103", "live2dAssetBundleName":"003_school_winter-2023", "seasonType":"season_3"
         },
         {
-          "characterId":3, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00003_2023", "live2dAssetBundleName":"003_casual-2023", "seasonType":"season_3"
+          "characterId":3, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SUMMER", "sdAssetBundleName":"00003_casual_summer_2023", "live2dAssetBundleName":"003_casual_summer-2023", "seasonType":"season_3"
         },
         {
-          "characterId":3, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"00103", "live2dAssetBundleName":"003_school_winter-2023", "seasonType":"season_3"
+          "characterId":3, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"00103_summer", "live2dAssetBundleName":"003_school_summer-2023", "seasonType":"season_3"
         },
         {
           "characterId":3, "basicSeasonId":3, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00003_2023", "live2dAssetBundleName":"003_casual-2023", "seasonType":"season_3"
@@ -472,6 +472,11 @@
   },
   "1028":{
     "characterId":1028, "characterType":"common", "characterName":"モブA 花咲川冬服", "ruby":"もぶえーはなさきがわ(S)", "firstName":"花咲川冬服", "lastName":"モブA", "sdAssetBundleName":"01028", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1028, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01028_summer", "live2dAssetBundleName":"1028", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1028, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01028", "live2dAssetBundleName":"1028", "seasonType":"season_1"
@@ -513,10 +518,10 @@
           "characterId":4, "basicSeasonId":1, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"00104", "live2dAssetBundleName":"004_school_winter-2023", "seasonType":"season_3"
         },
         {
-          "characterId":4, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00004_2023", "live2dAssetBundleName":"004_casual-2023", "seasonType":"season_3"
+          "characterId":4, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SUMMER", "sdAssetBundleName":"00004_casual_summer_2023", "live2dAssetBundleName":"004_casual_summer-2023", "seasonType":"season_3"
         },
         {
-          "characterId":4, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"00104", "live2dAssetBundleName":"004_school_winter-2023", "seasonType":"season_3"
+          "characterId":4, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"00104_summer", "live2dAssetBundleName":"004_school_summer-2023", "seasonType":"season_3"
         },
         {
           "characterId":4, "basicSeasonId":3, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00004_2023", "live2dAssetBundleName":"004_casual-2023", "seasonType":"season_3"
@@ -619,6 +624,11 @@
   },
   "1029":{
     "characterId":1029, "characterType":"common", "characterName":"モブB 花咲川冬服", "ruby":"もぶびーはなさきがわ(S)", "firstName":"花咲川冬服", "lastName":"モブB", "sdAssetBundleName":"01029", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1029, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01029_summer", "live2dAssetBundleName":"1029", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1029, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01029", "live2dAssetBundleName":"1029", "seasonType":"season_1"
@@ -660,10 +670,10 @@
           "characterId":5, "basicSeasonId":1, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"00105", "live2dAssetBundleName":"005_school_winter-2023", "seasonType":"season_3"
         },
         {
-          "characterId":5, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00005_2023", "live2dAssetBundleName":"005_casual-2023", "seasonType":"season_3"
+          "characterId":5, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SUMMER", "sdAssetBundleName":"00005_casual_summer_2023", "live2dAssetBundleName":"005_casual_summer-2023", "seasonType":"season_3"
         },
         {
-          "characterId":5, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"00105", "live2dAssetBundleName":"005_school_winter-2023", "seasonType":"season_3"
+          "characterId":5, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"00105_summer", "live2dAssetBundleName":"005_school_summer-2023", "seasonType":"season_3"
         },
         {
           "characterId":5, "basicSeasonId":3, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00005_2023", "live2dAssetBundleName":"005_casual-2023", "seasonType":"season_3"
@@ -766,6 +776,11 @@
   },
   "1030":{
     "characterId":1030, "characterType":"common", "characterName":"モブC 花咲川冬服", "ruby":"もぶしーはなさきがわ(S)", "firstName":"花咲川冬服", "lastName":"モブC", "sdAssetBundleName":"01030", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1030, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01030_summer", "live2dAssetBundleName":"1030", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1030, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01030", "live2dAssetBundleName":"1030", "seasonType":"season_1"
@@ -807,10 +822,10 @@
           "characterId":6, "basicSeasonId":1, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"00106_2023", "live2dAssetBundleName":"006_school_winter-2023", "seasonType":"season_3"
         },
         {
-          "characterId":6, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00006_2023", "live2dAssetBundleName":"006_casual-2023", "seasonType":"season_3"
+          "characterId":6, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SUMMER", "sdAssetBundleName":"00006_casual_summer_2023", "live2dAssetBundleName":"006_casual_summer-2023", "seasonType":"season_3"
         },
         {
-          "characterId":6, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"00106_2023", "live2dAssetBundleName":"006_school_winter-2023", "seasonType":"season_3"
+          "characterId":6, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"00106_summer_2023", "live2dAssetBundleName":"006_school_summer-2023", "seasonType":"season_3"
         },
         {
           "characterId":6, "basicSeasonId":3, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00006_2023", "live2dAssetBundleName":"006_casual-2023", "seasonType":"season_3"
@@ -913,6 +928,11 @@
   },
   "1031":{
     "characterId":1031, "characterType":"common", "characterName":"モブA 星ヶ丘1年冬服", "ruby":"もぶえーほしがおかいちねんふゆふく(S)", "firstName":"星ヶ丘1年冬服", "lastName":"モブA", "sdAssetBundleName":"01031", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1031, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01031_summer", "live2dAssetBundleName":"1031", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1031, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01031", "live2dAssetBundleName":"1031", "seasonType":"season_1"
@@ -954,10 +974,10 @@
           "characterId":7, "basicSeasonId":1, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"00107_2023", "live2dAssetBundleName":"007_school_winter-2023", "seasonType":"season_3"
         },
         {
-          "characterId":7, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00007_2023", "live2dAssetBundleName":"007_casual-2023", "seasonType":"season_3"
+          "characterId":7, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SUMMER", "sdAssetBundleName":"00007_casual_summer_2023", "live2dAssetBundleName":"007_casual_summer-2023", "seasonType":"season_3"
         },
         {
-          "characterId":7, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"00107_2023", "live2dAssetBundleName":"007_school_winter-2023", "seasonType":"season_3"
+          "characterId":7, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"00107_summer_2023", "live2dAssetBundleName":"007_school_summer-2023", "seasonType":"season_3"
         },
         {
           "characterId":7, "basicSeasonId":3, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00007_2023", "live2dAssetBundleName":"007_casual-2023", "seasonType":"season_3"
@@ -1060,6 +1080,11 @@
   },
   "1032":{
     "characterId":1032, "characterType":"common", "characterName":"モブB 星ヶ丘1年冬服", "ruby":"もぶびーほしがおかいちねんふゆふく(S)", "firstName":"星ヶ丘1年冬服", "lastName":"モブB", "sdAssetBundleName":"01032", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1032, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01032_summer", "live2dAssetBundleName":"1032", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1032, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01032", "live2dAssetBundleName":"1032", "seasonType":"season_1"
@@ -1101,10 +1126,10 @@
           "characterId":8, "basicSeasonId":1, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"00108_2023", "live2dAssetBundleName":"008_school_winter-2023", "seasonType":"season_3"
         },
         {
-          "characterId":8, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00008_2023", "live2dAssetBundleName":"008_casual-2023", "seasonType":"season_3"
+          "characterId":8, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SUMMER", "sdAssetBundleName":"00008_casual_summer_2023", "live2dAssetBundleName":"008_casual_summer-2023", "seasonType":"season_3"
         },
         {
-          "characterId":8, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"00108_2023", "live2dAssetBundleName":"008_school_winter-2023", "seasonType":"season_3"
+          "characterId":8, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"00108_summer_2023", "live2dAssetBundleName":"008_school_summer-2023", "seasonType":"season_3"
         },
         {
           "characterId":8, "basicSeasonId":3, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00008_2023", "live2dAssetBundleName":"008_casual-2023", "seasonType":"season_3"
@@ -1207,6 +1232,11 @@
   },
   "1033":{
     "characterId":1033, "characterType":"common", "characterName":"モブC 星ヶ丘1年冬服", "ruby":"もぶしーほしがおかいちねんふゆふく(S)", "firstName":"星ヶ丘1年冬服", "lastName":"モブC", "sdAssetBundleName":"01033", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1033, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01033_summer", "live2dAssetBundleName":"1033", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1033, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01033", "live2dAssetBundleName":"1033", "seasonType":"season_1"
@@ -1248,10 +1278,10 @@
           "characterId":9, "basicSeasonId":1, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"00109_2023", "live2dAssetBundleName":"009_school_winter-2023", "seasonType":"season_3"
         },
         {
-          "characterId":9, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00009_2023", "live2dAssetBundleName":"009_casual-2023", "seasonType":"season_3"
+          "characterId":9, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SUMMER", "sdAssetBundleName":"00009_casual_summer_2023", "live2dAssetBundleName":"009_casual_summer-2023", "seasonType":"season_3"
         },
         {
-          "characterId":9, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"00109_2023", "live2dAssetBundleName":"009_school_winter-2023", "seasonType":"season_3"
+          "characterId":9, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"00109_summer_2023", "live2dAssetBundleName":"009_school_summer-2023", "seasonType":"season_3"
         },
         {
           "characterId":9, "basicSeasonId":3, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00009_2023", "live2dAssetBundleName":"009_casual-2023", "seasonType":"season_3"
@@ -1354,6 +1384,11 @@
   },
   "1034":{
     "characterId":1034, "characterType":"common", "characterName":"モブA 星ヶ丘2年冬服", "ruby":"もぶえーほしがおかにねんふゆふく(S)", "firstName":"星ヶ丘2年冬服", "lastName":"モブA", "sdAssetBundleName":"01034", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1034, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01034_summer", "live2dAssetBundleName":"1034", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1034, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01034", "live2dAssetBundleName":"1034", "seasonType":"season_1"
@@ -1395,10 +1430,10 @@
           "characterId":10, "basicSeasonId":1, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"00110_2023", "live2dAssetBundleName":"010_school_winter-2023", "seasonType":"season_3"
         },
         {
-          "characterId":10, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00010_2023", "live2dAssetBundleName":"010_casual-2023", "seasonType":"season_3"
+          "characterId":10, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SUMMER", "sdAssetBundleName":"00010_casual_summer_2023", "live2dAssetBundleName":"010_casual_summer-2023", "seasonType":"season_3"
         },
         {
-          "characterId":10, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"00110_2023", "live2dAssetBundleName":"010_school_winter-2023", "seasonType":"season_3"
+          "characterId":10, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"00110_summer_2023", "live2dAssetBundleName":"010_school_summer-2023", "seasonType":"season_3"
         },
         {
           "characterId":10, "basicSeasonId":3, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00010_2023", "live2dAssetBundleName":"010_casual-2023", "seasonType":"season_3"
@@ -1501,6 +1536,11 @@
   },
   "1035":{
     "characterId":1035, "characterType":"common", "characterName":"モブB 星ヶ丘2年冬服", "ruby":"もぶびーほしがおかにねんふゆふく(S)", "firstName":"星ヶ丘2年冬服", "lastName":"モブB", "sdAssetBundleName":"01035", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1035, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01035_summer", "live2dAssetBundleName":"1035", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1035, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01035", "live2dAssetBundleName":"1035", "seasonType":"season_1"
@@ -1542,10 +1582,10 @@
           "characterId":11, "basicSeasonId":1, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"00111", "live2dAssetBundleName":"011_school_winter-2023", "seasonType":"season_3"
         },
         {
-          "characterId":11, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00011_2023", "live2dAssetBundleName":"011_casual-2023", "seasonType":"season_3"
+          "characterId":11, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SUMMER", "sdAssetBundleName":"00011_casual_summer_2023", "live2dAssetBundleName":"011_casual_summer-2023", "seasonType":"season_3"
         },
         {
-          "characterId":11, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"00111", "live2dAssetBundleName":"011_school_winter-2023", "seasonType":"season_3"
+          "characterId":11, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"00111_summer", "live2dAssetBundleName":"011_school_summer-2023", "seasonType":"season_3"
         },
         {
           "characterId":11, "basicSeasonId":3, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00011_2023", "live2dAssetBundleName":"011_casual-2023", "seasonType":"season_3"
@@ -1648,6 +1688,11 @@
   },
   "1036":{
     "characterId":1036, "characterType":"common", "characterName":"モブC 星ヶ丘2年冬服", "ruby":"もぶしーほしがおかにねんふゆふく(S)", "firstName":"星ヶ丘2年冬服", "lastName":"モブC", "sdAssetBundleName":"01036", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1036, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01036_summer", "live2dAssetBundleName":"1036", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1036, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01036", "live2dAssetBundleName":"1036", "seasonType":"season_1"
@@ -1686,7 +1731,7 @@
           "characterId":12, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00012_2023", "live2dAssetBundleName":"012_casual-2023", "seasonType":"season_3"
         },
         {
-          "characterId":12, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00012_2023", "live2dAssetBundleName":"012_casual-2023", "seasonType":"season_3"
+          "characterId":12, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SUMMER", "sdAssetBundleName":"00012_casual_summer_2023", "live2dAssetBundleName":"012_casual_summer-2023", "seasonType":"season_3"
         },
         {
           "characterId":12, "basicSeasonId":3, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00012_2023", "live2dAssetBundleName":"012_casual-2023", "seasonType":"season_3"
@@ -1789,6 +1834,11 @@
   },
   "1037":{
     "characterId":1037, "characterType":"common", "characterName":"モブA2 花咲川冬服", "ruby":"もぶえーつーはなさきがわ(S)", "firstName":"花咲川冬服", "lastName":"モブA2", "sdAssetBundleName":"01028", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1037, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01028_summer", "live2dAssetBundleName":"1028", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1037, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01028", "live2dAssetBundleName":"1028", "seasonType":"season_1"
@@ -1830,10 +1880,10 @@
           "characterId":13, "basicSeasonId":1, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"00113", "live2dAssetBundleName":"013_school_winter-2023", "seasonType":"season_3"
         },
         {
-          "characterId":13, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00013_2023", "live2dAssetBundleName":"013_casual-2023", "seasonType":"season_3"
+          "characterId":13, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SUMMER", "sdAssetBundleName":"00013_casual_summer_2023", "live2dAssetBundleName":"013_casual_summer-2023", "seasonType":"season_3"
         },
         {
-          "characterId":13, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"00113", "live2dAssetBundleName":"013_school_winter-2023", "seasonType":"season_3"
+          "characterId":13, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"00113_summer", "live2dAssetBundleName":"013_school_summer-2023", "seasonType":"season_3"
         },
         {
           "characterId":13, "basicSeasonId":3, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00013_2023", "live2dAssetBundleName":"013_casual-2023", "seasonType":"season_3"
@@ -1936,6 +1986,11 @@
   },
   "1038":{
     "characterId":1038, "characterType":"common", "characterName":"モブB2 花咲川冬服", "ruby":"もぶびーつーはなさきがわ(S)", "firstName":"花咲川冬服", "lastName":"モブB2", "sdAssetBundleName":"01029", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1038, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01029_summer", "live2dAssetBundleName":"1029", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1038, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01029", "live2dAssetBundleName":"1029", "seasonType":"season_1"
@@ -1974,7 +2029,7 @@
           "characterId":14, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00014_2023", "live2dAssetBundleName":"014_casual-2023", "seasonType":"season_3"
         },
         {
-          "characterId":14, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00014_2023", "live2dAssetBundleName":"014_casual-2023", "seasonType":"season_3"
+          "characterId":14, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SUMMER", "sdAssetBundleName":"00014_casual_summer_2023", "live2dAssetBundleName":"014_casual_summer-2023", "seasonType":"season_3"
         },
         {
           "characterId":14, "basicSeasonId":3, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00014_2023", "live2dAssetBundleName":"014_casual-2023", "seasonType":"season_3"
@@ -2077,6 +2132,11 @@
   },
   "1039":{
     "characterId":1039, "characterType":"common", "characterName":"モブC2 花咲川冬服", "ruby":"もぶしーつーはなさきがわ(S)", "firstName":"花咲川冬服", "lastName":"モブC2", "sdAssetBundleName":"01030", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1039, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01030_summer", "live2dAssetBundleName":"1030", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1039, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01030", "live2dAssetBundleName":"1030", "seasonType":"season_1"
@@ -2118,10 +2178,10 @@
           "characterId":15, "basicSeasonId":1, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"00115", "live2dAssetBundleName":"015_school_winter-2023", "seasonType":"season_3"
         },
         {
-          "characterId":15, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00015_2023", "live2dAssetBundleName":"015_casual-2023", "seasonType":"season_3"
+          "characterId":15, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SUMMER", "sdAssetBundleName":"00015_casual_summer_2023", "live2dAssetBundleName":"015_casual_summer-2023", "seasonType":"season_3"
         },
         {
-          "characterId":15, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"00115", "live2dAssetBundleName":"015_school_winter-2023", "seasonType":"season_3"
+          "characterId":15, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"00115_summer", "live2dAssetBundleName":"015_school_summer-2023", "seasonType":"season_3"
         },
         {
           "characterId":15, "basicSeasonId":3, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00015_2023", "live2dAssetBundleName":"015_casual-2023", "seasonType":"season_3"
@@ -2219,6 +2279,11 @@
   },
   "1040":{
     "characterId":1040, "characterType":"common", "characterName":"モブA2 星ヶ丘1年冬服", "ruby":"もぶえーつーほしがおかいちねんふゆふく(S)", "firstName":"星ヶ丘1年冬服", "lastName":"モブA2", "sdAssetBundleName":"01031", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1040, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01031_summer", "live2dAssetBundleName":"1031", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1040, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01031", "live2dAssetBundleName":"1031", "seasonType":"season_1"
@@ -2257,7 +2322,7 @@
           "characterId":16, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00016_2023", "live2dAssetBundleName":"016_casual-2023", "seasonType":"season_3"
         },
         {
-          "characterId":16, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00016_2023", "live2dAssetBundleName":"016_casual-2023", "seasonType":"season_3"
+          "characterId":16, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SUMMER", "sdAssetBundleName":"00016_casual_summer_2023", "live2dAssetBundleName":"016_casual_summer-2023", "seasonType":"season_3"
         },
         {
           "characterId":16, "basicSeasonId":3, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00016_2023", "live2dAssetBundleName":"016_casual-2023", "seasonType":"season_3"
@@ -2360,6 +2425,11 @@
   },
   "1041":{
     "characterId":1041, "characterType":"common", "characterName":"モブB2 星ヶ丘1年冬服", "ruby":"もぶびーつーほしがおかいちねんふゆふく(S)", "firstName":"星ヶ丘1年冬服", "lastName":"モブB2", "sdAssetBundleName":"01032", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1041, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01032_summer", "live2dAssetBundleName":"1032", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1041, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01032", "live2dAssetBundleName":"1032", "seasonType":"season_1"
@@ -2398,7 +2468,7 @@
           "characterId":17, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00017_2023", "live2dAssetBundleName":"017_casual-2023", "seasonType":"season_3"
         },
         {
-          "characterId":17, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00017_2023", "live2dAssetBundleName":"017_casual-2023", "seasonType":"season_3"
+          "characterId":17, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SUMMER", "sdAssetBundleName":"00017_casual_summer_2023", "live2dAssetBundleName":"017_casual_summer-2023", "seasonType":"season_3"
         },
         {
           "characterId":17, "basicSeasonId":3, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00017_2023", "live2dAssetBundleName":"017_casual-2023", "seasonType":"season_3"
@@ -2501,6 +2571,11 @@
   },
   "1042":{
     "characterId":1042, "characterType":"common", "characterName":"モブC2 星ヶ丘1年冬服", "ruby":"もぶしーつーほしがおかいちねんふゆふく(S)", "firstName":"星ヶ丘1年冬服", "lastName":"モブC2", "sdAssetBundleName":"01033", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1042, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01033_summer", "live2dAssetBundleName":"1033", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1042, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01033", "live2dAssetBundleName":"1033", "seasonType":"season_1"
@@ -2539,7 +2614,7 @@
           "characterId":18, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00018_2023", "live2dAssetBundleName":"018_casual-2023", "seasonType":"season_3"
         },
         {
-          "characterId":18, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00018_2023", "live2dAssetBundleName":"018_casual-2023", "seasonType":"season_3"
+          "characterId":18, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SUMMER", "sdAssetBundleName":"00018_casual_summer_2023", "live2dAssetBundleName":"018_casual_summer-2023", "seasonType":"season_3"
         },
         {
           "characterId":18, "basicSeasonId":3, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00018_2023", "live2dAssetBundleName":"018_casual-2023", "seasonType":"season_3"
@@ -2642,6 +2717,11 @@
   },
   "1043":{
     "characterId":1043, "characterType":"common", "characterName":"モブA2 星ヶ丘2年冬服", "ruby":"もぶえーつーほしがおかにねんふゆふく(S)", "firstName":"星ヶ丘2年冬服", "lastName":"モブA2", "sdAssetBundleName":"01034", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1043, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01034_summer", "live2dAssetBundleName":"1034", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1043, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01034", "live2dAssetBundleName":"1034", "seasonType":"season_1"
@@ -2680,7 +2760,7 @@
           "characterId":19, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00019_2023", "live2dAssetBundleName":"019_casual-2023", "seasonType":"season_3"
         },
         {
-          "characterId":19, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00019_2023", "live2dAssetBundleName":"019_casual-2023", "seasonType":"season_3"
+          "characterId":19, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SUMMER", "sdAssetBundleName":"00019_casual_summer_2023", "live2dAssetBundleName":"019_casual_summer-2023", "seasonType":"season_3"
         },
         {
           "characterId":19, "basicSeasonId":3, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00019_2023", "live2dAssetBundleName":"019_casual-2023", "seasonType":"season_3"
@@ -2783,6 +2863,11 @@
   },
   "1044":{
     "characterId":1044, "characterType":"common", "characterName":"モブB2 星ヶ丘2年冬服", "ruby":"もぶびーつーほしがおかにねんふゆふく(S)", "firstName":"星ヶ丘2年冬服", "lastName":"モブB2", "sdAssetBundleName":"01035", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1044, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01035_summer", "live2dAssetBundleName":"1035", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1044, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01035", "live2dAssetBundleName":"1035", "seasonType":"season_1"
@@ -2824,10 +2909,10 @@
           "characterId":20, "basicSeasonId":1, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"00120", "live2dAssetBundleName":"020_school_winter-2023", "seasonType":"season_3"
         },
         {
-          "characterId":20, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00020_2023", "live2dAssetBundleName":"020_casual-2023", "seasonType":"season_3"
+          "characterId":20, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SUMMER", "sdAssetBundleName":"00020_casual_summer_2023", "live2dAssetBundleName":"020_casual_summer-2023", "seasonType":"season_3"
         },
         {
-          "characterId":20, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"00120", "live2dAssetBundleName":"020_school_winter-2023", "seasonType":"season_3"
+          "characterId":20, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"00120_summer", "live2dAssetBundleName":"020_school_summer-2023", "seasonType":"season_3"
         },
         {
           "characterId":20, "basicSeasonId":3, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00020_2023", "live2dAssetBundleName":"020_casual-2023", "seasonType":"season_3"
@@ -2930,6 +3015,11 @@
   },
   "1045":{
     "characterId":1045, "characterType":"common", "characterName":"モブC2 星ヶ丘2年冬服", "ruby":"もぶしーつーほしがおかにねんふゆふく(S)", "firstName":"星ヶ丘2年冬服", "lastName":"モブC2", "sdAssetBundleName":"01036", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1045, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01036_summer", "live2dAssetBundleName":"1036", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1045, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01036", "live2dAssetBundleName":"1036", "seasonType":"season_1"
@@ -2968,7 +3058,7 @@
           "characterId":21, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00021_2023", "live2dAssetBundleName":"021_casual-2023", "seasonType":"season_3"
         },
         {
-          "characterId":21, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00021_2023", "live2dAssetBundleName":"021_casual-2023", "seasonType":"season_3"
+          "characterId":21, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SUMMER", "sdAssetBundleName":"00021_casual_summer_2023", "live2dAssetBundleName":"021_casual_summer-2023", "seasonType":"season_3"
         },
         {
           "characterId":21, "basicSeasonId":3, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00021_2023", "live2dAssetBundleName":"021_casual-2023", "seasonType":"season_3"
@@ -3109,7 +3199,7 @@
           "characterId":22, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00022_2023", "live2dAssetBundleName":"022_casual-2023", "seasonType":"season_3"
         },
         {
-          "characterId":22, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00022_2023", "live2dAssetBundleName":"022_casual-2023", "seasonType":"season_3"
+          "characterId":22, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SUMMER", "sdAssetBundleName":"00022_casual_summer_2023", "live2dAssetBundleName":"022_casual_summer-2023", "seasonType":"season_3"
         },
         {
           "characterId":22, "basicSeasonId":3, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00022_2023", "live2dAssetBundleName":"022_casual-2023", "seasonType":"season_3"
@@ -3250,7 +3340,7 @@
           "characterId":23, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00023_2023", "live2dAssetBundleName":"023_casual-2023", "seasonType":"season_3"
         },
         {
-          "characterId":23, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00023_2023", "live2dAssetBundleName":"023_casual-2023", "seasonType":"season_3"
+          "characterId":23, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SUMMER", "sdAssetBundleName":"00023_casual_summer_2023", "live2dAssetBundleName":"023_casual_summer-2023", "seasonType":"season_3"
         },
         {
           "characterId":23, "basicSeasonId":3, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00023_2023", "live2dAssetBundleName":"023_casual-2023", "seasonType":"season_3"
@@ -3394,10 +3484,10 @@
           "characterId":24, "basicSeasonId":1, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"00124_2023", "live2dAssetBundleName":"024_school_winter-2023", "seasonType":"season_3"
         },
         {
-          "characterId":24, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00024_2023", "live2dAssetBundleName":"024_casual-2023", "seasonType":"season_3"
+          "characterId":24, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SUMMER", "sdAssetBundleName":"00024_casual_summer_2023", "live2dAssetBundleName":"024_casual_summer-2023", "seasonType":"season_3"
         },
         {
-          "characterId":24, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"00124_2023", "live2dAssetBundleName":"024_school_winter-2023", "seasonType":"season_3"
+          "characterId":24, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"00124_summer_2023", "live2dAssetBundleName":"024_school_summer-2023", "seasonType":"season_3"
         },
         {
           "characterId":24, "basicSeasonId":3, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00024_2023", "live2dAssetBundleName":"024_casual-2023", "seasonType":"season_3"
@@ -3538,7 +3628,7 @@
           "characterId":25, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00025_2023", "live2dAssetBundleName":"025_casual-2023", "seasonType":"season_3"
         },
         {
-          "characterId":25, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00025_2023", "live2dAssetBundleName":"025_casual-2023", "seasonType":"season_3"
+          "characterId":25, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SUMMER", "sdAssetBundleName":"00025_casual_summer_2023", "live2dAssetBundleName":"025_casual_summer-2023", "seasonType":"season_3"
         },
         {
           "characterId":25, "basicSeasonId":3, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00025_2023", "live2dAssetBundleName":"025_casual-2023", "seasonType":"season_3"
@@ -3682,10 +3772,10 @@
           "characterId":26, "basicSeasonId":1, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"00126", "live2dAssetBundleName":"026_school_winter-2023", "seasonType":"season_3"
         },
         {
-          "characterId":26, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00026_2023", "live2dAssetBundleName":"026_casual-2023", "seasonType":"season_3"
+          "characterId":26, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SUMMER", "sdAssetBundleName":"00026_casual_summer_2023", "live2dAssetBundleName":"026_casual_summer-2023", "seasonType":"season_3"
         },
         {
-          "characterId":26, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"00126", "live2dAssetBundleName":"026_school_winter-2023", "seasonType":"season_3"
+          "characterId":26, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"00126_summer", "live2dAssetBundleName":"026_school_summer-2023", "seasonType":"season_3"
         },
         {
           "characterId":26, "basicSeasonId":3, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00026_2023", "live2dAssetBundleName":"026_casual-2023", "seasonType":"season_3"
@@ -3792,10 +3882,10 @@
           "characterId":27, "basicSeasonId":1, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"00127", "live2dAssetBundleName":"027_school_winter-2023", "seasonType":"season_3"
         },
         {
-          "characterId":27, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00027_2023", "live2dAssetBundleName":"027_casual-2023", "seasonType":"season_3"
+          "characterId":27, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SUMMER", "sdAssetBundleName":"00027_casual_summer_2023", "live2dAssetBundleName":"027_casual_summer-2023", "seasonType":"season_3"
         },
         {
-          "characterId":27, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"00127", "live2dAssetBundleName":"027_school_winter-2023", "seasonType":"season_3"
+          "characterId":27, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"00127_summer", "live2dAssetBundleName":"027_school_summer-2023", "seasonType":"season_3"
         },
         {
           "characterId":27, "basicSeasonId":3, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00027_2023", "live2dAssetBundleName":"027_casual-2023", "seasonType":"season_3"
@@ -3902,10 +3992,10 @@
           "characterId":28, "basicSeasonId":1, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"00128", "live2dAssetBundleName":"028_school_winter-2023", "seasonType":"season_3"
         },
         {
-          "characterId":28, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00028_2023", "live2dAssetBundleName":"028_casual-2023", "seasonType":"season_3"
+          "characterId":28, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SUMMER", "sdAssetBundleName":"00028_casual_summer_2023", "live2dAssetBundleName":"028_casual_summer-2023", "seasonType":"season_3"
         },
         {
-          "characterId":28, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"00128", "live2dAssetBundleName":"028_school_winter-2023", "seasonType":"season_3"
+          "characterId":28, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"00128_summer", "live2dAssetBundleName":"028_school_summer-2023", "seasonType":"season_3"
         },
         {
           "characterId":28, "basicSeasonId":3, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00028_2023", "live2dAssetBundleName":"028_casual-2023", "seasonType":"season_3"
@@ -4012,10 +4102,10 @@
           "characterId":29, "basicSeasonId":1, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"00129", "live2dAssetBundleName":"029_school_winter-2023", "seasonType":"season_3"
         },
         {
-          "characterId":29, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00029_2023", "live2dAssetBundleName":"029_casual-2023", "seasonType":"season_3"
+          "characterId":29, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SUMMER", "sdAssetBundleName":"00029_casual_summer_2023", "live2dAssetBundleName":"029_casual_summer-2023", "seasonType":"season_3"
         },
         {
-          "characterId":29, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"00129", "live2dAssetBundleName":"029_school_winter-2023", "seasonType":"season_3"
+          "characterId":29, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"00129_summer", "live2dAssetBundleName":"029_school_summer-2023", "seasonType":"season_3"
         },
         {
           "characterId":29, "basicSeasonId":3, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00029_2023", "live2dAssetBundleName":"029_casual-2023", "seasonType":"season_3"
@@ -4122,10 +4212,10 @@
           "characterId":30, "basicSeasonId":1, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"00130", "live2dAssetBundleName":"030_school_winter-2023", "seasonType":"season_3"
         },
         {
-          "characterId":30, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00030_2023", "live2dAssetBundleName":"030_casual-2023", "seasonType":"season_3"
+          "characterId":30, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SUMMER", "sdAssetBundleName":"00030_casual_summer_2023", "live2dAssetBundleName":"030_casual_summer-2023", "seasonType":"season_3"
         },
         {
-          "characterId":30, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"00130", "live2dAssetBundleName":"030_school_winter-2023", "seasonType":"season_3"
+          "characterId":30, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"00130_summer", "live2dAssetBundleName":"030_school_summer-2023", "seasonType":"season_3"
         },
         {
           "characterId":30, "basicSeasonId":3, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00030_2023", "live2dAssetBundleName":"030_casual-2023", "seasonType":"season_3"
@@ -4229,7 +4319,7 @@
           "characterId":31, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00031_2023", "live2dAssetBundleName":"031_casual-2023", "seasonType":"season_3"
         },
         {
-          "characterId":31, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00031_2023", "live2dAssetBundleName":"031_casual-2023", "seasonType":"season_3"
+          "characterId":31, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SUMMER", "sdAssetBundleName":"00031_casual_summer_2023", "live2dAssetBundleName":"031_casual_summer-2023", "seasonType":"season_3"
         },
         {
           "characterId":31, "basicSeasonId":3, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00031_2023", "live2dAssetBundleName":"031_casual-2023", "seasonType":"season_3"
@@ -4330,10 +4420,10 @@
           "characterId":32, "basicSeasonId":1, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"00132_2023", "live2dAssetBundleName":"032_school_winter-2023", "seasonType":"season_3"
         },
         {
-          "characterId":32, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00032_2023", "live2dAssetBundleName":"032_casual-2023", "seasonType":"season_3"
+          "characterId":32, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SUMMER", "sdAssetBundleName":"00032_casual_summer_2023", "live2dAssetBundleName":"032_casual_summer-2023", "seasonType":"season_3"
         },
         {
-          "characterId":32, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"00132_2023", "live2dAssetBundleName":"032_school_winter-2023", "seasonType":"season_3"
+          "characterId":32, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"00132_summer_2023", "live2dAssetBundleName":"032_school_summer-2023", "seasonType":"season_3"
         },
         {
           "characterId":32, "basicSeasonId":3, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00032_2023", "live2dAssetBundleName":"032_casual-2023", "seasonType":"season_3"
@@ -4437,7 +4527,7 @@
           "characterId":33, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00033_2023", "live2dAssetBundleName":"033_casual-2023", "seasonType":"season_3"
         },
         {
-          "characterId":33, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00033_2023", "live2dAssetBundleName":"033_casual-2023", "seasonType":"season_3"
+          "characterId":33, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SUMMER", "sdAssetBundleName":"00033_casual_summer_2023", "live2dAssetBundleName":"033_casual_summer-2023", "seasonType":"season_3"
         },
         {
           "characterId":33, "basicSeasonId":3, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00033_2023", "live2dAssetBundleName":"033_casual-2023", "seasonType":"season_3"
@@ -4523,7 +4613,7 @@
           "characterId":34, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00034_2023", "live2dAssetBundleName":"034_casual-2023", "seasonType":"season_3"
         },
         {
-          "characterId":34, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00034_2023", "live2dAssetBundleName":"034_casual-2023", "seasonType":"season_3"
+          "characterId":34, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SUMMER", "sdAssetBundleName":"00034_casual_summer_2023", "live2dAssetBundleName":"034_casual_summer-2023", "seasonType":"season_3"
         },
         {
           "characterId":34, "basicSeasonId":3, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00034_2023", "live2dAssetBundleName":"034_casual-2023", "seasonType":"season_3"
@@ -4609,7 +4699,7 @@
           "characterId":35, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00035_2023", "live2dAssetBundleName":"035_casual-2023", "seasonType":"season_3"
         },
         {
-          "characterId":35, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00035_2023", "live2dAssetBundleName":"035_casual-2023", "seasonType":"season_3"
+          "characterId":35, "basicSeasonId":2, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SUMMER", "sdAssetBundleName":"00035_casual_summer_2023", "live2dAssetBundleName":"035_casual_summer-2023", "seasonType":"season_3"
         },
         {
           "characterId":35, "basicSeasonId":3, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"00035_2023", "live2dAssetBundleName":"035_casual-2023", "seasonType":"season_3"
@@ -5059,6 +5149,11 @@
   },
   "1073":{
     "characterId":1073, "characterType":"common", "characterName":"モブA3 星ヶ丘1年冬服", "ruby":"もぶえーすりーほしがおかいちねんふゆふく(S)", "firstName":"星ヶ丘1年冬服", "lastName":"モブA3", "sdAssetBundleName":"01031", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1073, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01031_summer", "live2dAssetBundleName":"1031", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1073, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01031", "live2dAssetBundleName":"1031", "seasonType":"season_1"
@@ -5089,6 +5184,11 @@
   },
   "1074":{
     "characterId":1074, "characterType":"common", "characterName":"モブB3 星ヶ丘1年冬服", "ruby":"もぶびーすりーほしがおかいちねんふゆふく(S)", "firstName":"星ヶ丘1年冬服", "lastName":"モブB3", "sdAssetBundleName":"01032", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1074, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01032_summer", "live2dAssetBundleName":"1032", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1074, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01032", "live2dAssetBundleName":"1032", "seasonType":"season_1"
@@ -5119,6 +5219,11 @@
   },
   "1075":{
     "characterId":1075, "characterType":"common", "characterName":"モブC3 星ヶ丘1年冬服", "ruby":"もぶしーすりーほしがおかいちねんふゆふく(S)", "firstName":"星ヶ丘1年冬服", "lastName":"モブC3", "sdAssetBundleName":"01033", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1075, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01033_summer", "live2dAssetBundleName":"1033", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1075, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01033", "live2dAssetBundleName":"1033", "seasonType":"season_1"
@@ -5149,6 +5254,11 @@
   },
   "1076":{
     "characterId":1076, "characterType":"common", "characterName":"モブA3 花咲川冬服", "ruby":"もぶえーすりーはなさきがわ(S)", "firstName":"花咲川冬服", "lastName":"モブA3", "sdAssetBundleName":"01028", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1076, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01028_summer", "live2dAssetBundleName":"1028", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1076, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01028", "live2dAssetBundleName":"1028", "seasonType":"season_1"
@@ -5179,6 +5289,11 @@
   },
   "1077":{
     "characterId":1077, "characterType":"common", "characterName":"モブB3 花咲川冬服", "ruby":"もぶびーすりーはなさきがわ(S)", "firstName":"花咲川冬服", "lastName":"モブB3", "sdAssetBundleName":"01029", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1077, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01029_summer", "live2dAssetBundleName":"1029", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1077, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01029", "live2dAssetBundleName":"1029", "seasonType":"season_1"
@@ -5209,6 +5324,11 @@
   },
   "1078":{
     "characterId":1078, "characterType":"common", "characterName":"モブC3 花咲川冬服", "ruby":"もぶしーすりーはなさきがわ(S)", "firstName":"花咲川冬服", "lastName":"モブC3", "sdAssetBundleName":"01030", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1078, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01030_summer", "live2dAssetBundleName":"1030", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1078, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01030", "live2dAssetBundleName":"1030", "seasonType":"season_1"
@@ -5509,6 +5629,11 @@
   },
   "1089":{
     "characterId":1089, "characterType":"common", "characterName":"モブD 花女", "ruby":"もぶでぃー(S)", "firstName":"花女", "lastName":"モブD", "sdAssetBundleName":"01089", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1089, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01089_summer", "live2dAssetBundleName":"1089", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1089, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01089", "live2dAssetBundleName":"1089", "seasonType":"season_1"
@@ -5539,6 +5664,11 @@
   },
   "1090":{
     "characterId":1090, "characterType":"common", "characterName":"モブD 花女羽丘女子学園1年冬服", "ruby":"もぶでぃー(S)", "firstName":"羽丘女子学園1年冬服", "lastName":"モブD", "sdAssetBundleName":"01090", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1090, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01090_summer", "live2dAssetBundleName":"1090", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1090, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01090", "live2dAssetBundleName":"1090", "seasonType":"season_1"
@@ -5569,6 +5699,11 @@
   },
   "1091":{
     "characterId":1091, "characterType":"common", "characterName":"モブD 羽丘女子学園1年冬服羽丘女子学園2年冬服", "ruby":"もぶでぃー(S)", "firstName":"羽丘女子学園2年冬服", "lastName":"モブD", "sdAssetBundleName":"01091", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1091, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01091_summer", "live2dAssetBundleName":"1091", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1091, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01091", "live2dAssetBundleName":"1091", "seasonType":"season_1"
@@ -5599,6 +5734,11 @@
   },
   "1092":{
     "characterId":1092, "characterType":"common", "characterName":"モブD 中等部服", "ruby":"もぶでぃー(S)", "firstName":"中等部服", "lastName":"モブD", "sdAssetBundleName":"01092", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1092, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01092_summer", "live2dAssetBundleName":"1092", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1092, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01092", "live2dAssetBundleName":"1092", "seasonType":"season_1"
@@ -5899,6 +6039,11 @@
   },
   "1102":{
     "characterId":1102, "characterType":"common", "characterName":"モブE 花女", "ruby":"もぶいー(S)", "firstName":"花女", "lastName":"モブE", "sdAssetBundleName":"01102", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1102, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01102_summer", "live2dAssetBundleName":"1102", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1102, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01102", "live2dAssetBundleName":"1102", "seasonType":"season_1"
@@ -5929,6 +6074,11 @@
   },
   "1103":{
     "characterId":1103, "characterType":"common", "characterName":"モブE 羽丘女子学園1年冬服", "ruby":"もぶいー(S)", "firstName":"羽丘女子学園1年冬服", "lastName":"モブE", "sdAssetBundleName":"01103", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1103, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01103_summer", "live2dAssetBundleName":"1103", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1103, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01103", "live2dAssetBundleName":"1103", "seasonType":"season_1"
@@ -5959,6 +6109,11 @@
   },
   "1104":{
     "characterId":1104, "characterType":"common", "characterName":"モブE 羽丘女子学園2年冬服", "ruby":"もぶいー(S)", "firstName":"羽丘女子学園2年冬服", "lastName":"モブE", "sdAssetBundleName":"01104", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1104, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01104_summer", "live2dAssetBundleName":"1104", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1104, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01104", "live2dAssetBundleName":"1104", "seasonType":"season_1"
@@ -5989,6 +6144,11 @@
   },
   "1105":{
     "characterId":1105, "characterType":"common", "characterName":"モブE 中等部服", "ruby":"もぶいー(S)", "firstName":"中等部服", "lastName":"モブE", "sdAssetBundleName":"01105", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1105, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01105_summer", "live2dAssetBundleName":"1105", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1105, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01105", "live2dAssetBundleName":"1105", "seasonType":"season_1"
@@ -6337,6 +6497,11 @@
   },
   "1115":{
     "characterId":1115, "characterType":"common", "characterName":"モブF 花女", "ruby":"もぶえふ(S)", "firstName":"花女", "lastName":"モブF", "sdAssetBundleName":"01115", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1115, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01115_summer", "live2dAssetBundleName":"1115", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1115, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01115", "live2dAssetBundleName":"1115", "seasonType":"season_1"
@@ -6367,6 +6532,11 @@
   },
   "1116":{
     "characterId":1116, "characterType":"common", "characterName":"モブF 羽丘女子学園1年冬服", "ruby":"もぶえふ(S)", "firstName":"羽丘女子学園1年冬服", "lastName":"モブF", "sdAssetBundleName":"01116", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1116, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01116_summer", "live2dAssetBundleName":"1116", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1116, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01116", "live2dAssetBundleName":"1116", "seasonType":"season_1"
@@ -6397,6 +6567,11 @@
   },
   "1117":{
     "characterId":1117, "characterType":"common", "characterName":"モブF 羽丘女子学園2年冬服", "ruby":"もぶえふ(S)", "firstName":"羽丘女子学園2年冬服", "lastName":"モブF", "sdAssetBundleName":"01117", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1117, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01117_summer", "live2dAssetBundleName":"1117", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1117, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01117", "live2dAssetBundleName":"1117", "seasonType":"season_1"
@@ -6427,6 +6602,11 @@
   },
   "1118":{
     "characterId":1118, "characterType":"common", "characterName":"モブF 中等部服", "ruby":"もぶえふ(S)", "firstName":"中等部服", "lastName":"モブF", "sdAssetBundleName":"01118", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1118, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01118_summer", "live2dAssetBundleName":"1118", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1118, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01118", "live2dAssetBundleName":"1118", "seasonType":"season_1"
@@ -6727,6 +6907,11 @@
   },
   "1128":{
     "characterId":1128, "characterType":"common", "characterName":"モブG 花女", "ruby":"もぶじー(S)", "firstName":"花女", "lastName":"モブG", "sdAssetBundleName":"01128", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1128, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01128_summer", "live2dAssetBundleName":"1128", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1128, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01128", "live2dAssetBundleName":"1128", "seasonType":"season_1"
@@ -6757,6 +6942,11 @@
   },
   "1129":{
     "characterId":1129, "characterType":"common", "characterName":"モブG 羽丘女子学園1年冬服", "ruby":"もぶじー(S)", "firstName":"羽丘女子学園1年冬服", "lastName":"モブG", "sdAssetBundleName":"01129", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1129, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01129_summer", "live2dAssetBundleName":"1129", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1129, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01129", "live2dAssetBundleName":"1129", "seasonType":"season_1"
@@ -6787,6 +6977,11 @@
   },
   "1130":{
     "characterId":1130, "characterType":"common", "characterName":"モブG 羽丘女子学園2年冬服", "ruby":"もぶじー(S)", "firstName":"羽丘女子学園2年冬服", "lastName":"モブG", "sdAssetBundleName":"01130", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1130, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01130_summer", "live2dAssetBundleName":"1130", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1130, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01130", "live2dAssetBundleName":"1130", "seasonType":"season_1"
@@ -6817,6 +7012,11 @@
   },
   "1131":{
     "characterId":1131, "characterType":"common", "characterName":"モブG 中等部服", "ruby":"もぶじー(S)", "firstName":"中等部服", "lastName":"モブG", "sdAssetBundleName":"01131", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1131, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01131_summer", "live2dAssetBundleName":"1131", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1131, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01131", "live2dAssetBundleName":"1131", "seasonType":"season_1"
@@ -7117,6 +7317,11 @@
   },
   "1141":{
     "characterId":1141, "characterType":"common", "characterName":"モブH 花女", "ruby":"もぶえいち(S)", "firstName":"花女", "lastName":"モブH", "sdAssetBundleName":"01141", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1141, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01141_summer", "live2dAssetBundleName":"1141", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1141, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01141", "live2dAssetBundleName":"1141", "seasonType":"season_1"
@@ -7147,6 +7352,11 @@
   },
   "1142":{
     "characterId":1142, "characterType":"common", "characterName":"モブH 羽丘女子学園1年冬服", "ruby":"もぶえいち(S)", "firstName":"羽丘女子学園1年冬服", "lastName":"モブH", "sdAssetBundleName":"01142", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1142, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01142_summer", "live2dAssetBundleName":"1142", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1142, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01142", "live2dAssetBundleName":"1142", "seasonType":"season_1"
@@ -7177,6 +7387,11 @@
   },
   "1143":{
     "characterId":1143, "characterType":"common", "characterName":"モブH 羽丘女子学園2年冬服", "ruby":"もぶえいち(S)", "firstName":"羽丘女子学園2年冬服", "lastName":"モブH", "sdAssetBundleName":"01143", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1143, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01143_summer", "live2dAssetBundleName":"1143", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1143, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01143", "live2dAssetBundleName":"1143", "seasonType":"season_1"
@@ -7207,6 +7422,11 @@
   },
   "1144":{
     "characterId":1144, "characterType":"common", "characterName":"モブH 中等部服", "ruby":"もぶえいち(S)", "firstName":"中等部服", "lastName":"モブH", "sdAssetBundleName":"01144", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1144, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01144_summer", "live2dAssetBundleName":"1144", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1144, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01144", "live2dAssetBundleName":"1144", "seasonType":"season_1"
@@ -7507,6 +7727,11 @@
   },
   "1154":{
     "characterId":1154, "characterType":"common", "characterName":"モブI 花女", "ruby":"もぶあい(S)", "firstName":"花女", "lastName":"モブI", "sdAssetBundleName":"01154", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1154, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01154_summer", "live2dAssetBundleName":"1154", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1154, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01154", "live2dAssetBundleName":"1154", "seasonType":"season_1"
@@ -7537,6 +7762,11 @@
   },
   "1155":{
     "characterId":1155, "characterType":"common", "characterName":"モブI 羽丘女子学園1年冬服", "ruby":"もぶあい(S)", "firstName":"羽丘女子学園1年冬服", "lastName":"モブI", "sdAssetBundleName":"01155", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1155, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01155_summer", "live2dAssetBundleName":"1155", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1155, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01155", "live2dAssetBundleName":"1155", "seasonType":"season_1"
@@ -7567,6 +7797,11 @@
   },
   "1156":{
     "characterId":1156, "characterType":"common", "characterName":"モブI 羽丘女子学園2年冬服", "ruby":"もぶあい(S)", "firstName":"羽丘女子学園2年冬服", "lastName":"モブI", "sdAssetBundleName":"01156", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1156, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01156_summer", "live2dAssetBundleName":"1156", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1156, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01156", "live2dAssetBundleName":"1156", "seasonType":"season_1"
@@ -7597,6 +7832,11 @@
   },
   "1157":{
     "characterId":1157, "characterType":"common", "characterName":"モブI 中等部服", "ruby":"もぶあい(S)", "firstName":"中等部服", "lastName":"モブI", "sdAssetBundleName":"01157", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1157, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01157_summer", "live2dAssetBundleName":"1158", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1157, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01157", "live2dAssetBundleName":"1157", "seasonType":"season_1"
@@ -7897,6 +8137,11 @@
   },
   "1167":{
     "characterId":1167, "characterType":"common", "characterName":"モブJ 花女", "ruby":"もぶじぇい(S)", "firstName":"花女", "lastName":"モブJ", "sdAssetBundleName":"01167", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1167, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01167_summer", "live2dAssetBundleName":"1167", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1167, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01167", "live2dAssetBundleName":"1167", "seasonType":"season_1"
@@ -7927,6 +8172,11 @@
   },
   "1168":{
     "characterId":1168, "characterType":"common", "characterName":"モブJ 羽丘女子学園1年冬服", "ruby":"もぶじぇい(S)", "firstName":"羽丘女子学園1年冬服", "lastName":"モブJ", "sdAssetBundleName":"01168", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1168, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01168_summer", "live2dAssetBundleName":"1168", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1168, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01168", "live2dAssetBundleName":"1168", "seasonType":"season_1"
@@ -7957,6 +8207,11 @@
   },
   "1169":{
     "characterId":1169, "characterType":"common", "characterName":"モブJ 羽丘女子学園2年冬服", "ruby":"もぶじぇい(S)", "firstName":"羽丘女子学園2年冬服", "lastName":"モブJ", "sdAssetBundleName":"01169", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1169, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01169_summer", "live2dAssetBundleName":"1169", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1169, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01169", "live2dAssetBundleName":"1169", "seasonType":"season_1"
@@ -7987,6 +8242,11 @@
   },
   "1170":{
     "characterId":1170, "characterType":"common", "characterName":"モブJ 中等部服", "ruby":"もぶじぇい(S)", "firstName":"中等部服", "lastName":"モブJ", "sdAssetBundleName":"01170", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1170, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01170_summer", "live2dAssetBundleName":"1170", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1170, "basicSeasonId":1, "costumeType":"CASUAL", "seasonCostumeType":"CASUAL_SPRING", "sdAssetBundleName":"01170", "live2dAssetBundleName":"1170", "seasonType":"season_1"
@@ -8053,6 +8313,11 @@
   },
   "1173":{
     "characterId":1173, "characterType":"common", "characterName":"モブA1 月ノ森制服", "ruby":"もぶえー", "firstName":"月ノ森制服", "lastName":"モブA", "sdAssetBundleName":"01173", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1173, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01173_summer", "live2dAssetBundleName":"1173", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1173, "basicSeasonId":1, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"01173", "live2dAssetBundleName":"1173", "seasonType":"season_1"
@@ -8071,6 +8336,11 @@
   },
   "1174":{
     "characterId":1174, "characterType":"common", "characterName":"モブB1 月ノ森制服", "ruby":"もぶびー", "firstName":"月ノ森制服", "lastName":"モブB", "sdAssetBundleName":"01174", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1174, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01174_summer", "live2dAssetBundleName":"1174", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1174, "basicSeasonId":1, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"01174", "live2dAssetBundleName":"1174", "seasonType":"season_1"
@@ -8089,6 +8359,11 @@
   },
   "1175":{
     "characterId":1175, "characterType":"common", "characterName":"モブC1 月ノ森制服", "ruby":"もぶしー", "firstName":"月ノ森制服", "lastName":"モブC", "sdAssetBundleName":"01175", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1175, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01175_summer", "live2dAssetBundleName":"1175", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1175, "basicSeasonId":1, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"01175", "live2dAssetBundleName":"1175", "seasonType":"season_1"
@@ -8107,6 +8382,11 @@
   },
   "1176":{
     "characterId":1176, "characterType":"common", "characterName":"モブA2 月ノ森制服", "ruby":"もぶえー", "firstName":"月ノ森制服", "lastName":"モブA", "sdAssetBundleName":"01176", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1176, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01176_summer", "live2dAssetBundleName":"1176", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1176, "basicSeasonId":1, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"01176", "live2dAssetBundleName":"1176", "seasonType":"season_1"
@@ -8125,6 +8405,11 @@
   },
   "1177":{
     "characterId":1177, "characterType":"common", "characterName":"モブB2 月ノ森制服", "ruby":"もぶびー", "firstName":"月ノ森制服", "lastName":"モブB", "sdAssetBundleName":"01177", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1177, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01177_summer", "live2dAssetBundleName":"1177", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1177, "basicSeasonId":1, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"01177", "live2dAssetBundleName":"1177", "seasonType":"season_1"
@@ -8143,6 +8428,11 @@
   },
   "1178":{
     "characterId":1178, "characterType":"common", "characterName":"モブC2 月ノ森制服", "ruby":"もぶしー", "firstName":"月ノ森制服", "lastName":"モブC", "sdAssetBundleName":"01178", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1178, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01178_summer", "live2dAssetBundleName":"1178", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1178, "basicSeasonId":1, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"01178", "live2dAssetBundleName":"1178", "seasonType":"season_1"
@@ -8161,6 +8451,11 @@
   },
   "1179":{
     "characterId":1179, "characterType":"common", "characterName":"モブA3 月ノ森制服", "ruby":"もぶえー", "firstName":"月ノ森制服", "lastName":"モブA", "sdAssetBundleName":"01179", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1179, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01179_summer", "live2dAssetBundleName":"1179", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1179, "basicSeasonId":1, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"01179", "live2dAssetBundleName":"1179", "seasonType":"season_1"
@@ -8179,6 +8474,11 @@
   },
   "1180":{
     "characterId":1180, "characterType":"common", "characterName":"モブB3 月ノ森制服", "ruby":"もぶびー", "firstName":"月ノ森制服", "lastName":"モブB", "sdAssetBundleName":"01180", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1180, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01180_summer", "live2dAssetBundleName":"1180", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1180, "basicSeasonId":1, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"01180", "live2dAssetBundleName":"1180", "seasonType":"season_1"
@@ -8197,6 +8497,11 @@
   },
   "1181":{
     "characterId":1181, "characterType":"common", "characterName":"モブC3 月ノ森制服", "ruby":"もぶしー", "firstName":"月ノ森制服", "lastName":"モブC", "sdAssetBundleName":"01181", "seasonCostumeListMap":{
+      "season_3":[
+        {
+          "characterId":1181, "basicSeasonId":2, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_SUMMER", "sdAssetBundleName":"01181_summer", "live2dAssetBundleName":"1181", "seasonType":"season_3"
+        }
+      ],
       "season_1":[
         {
           "characterId":1181, "basicSeasonId":1, "costumeType":"UNIFORM", "seasonCostumeType":"UNIFORM_WINTER", "sdAssetBundleName":"01181", "live2dAssetBundleName":"1181", "seasonType":"season_1"
