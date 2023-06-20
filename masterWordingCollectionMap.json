@@ -156,7 +156,7 @@
     "name":"generalElection_snsShare_message_pastelPalettes", "wording":"「第3回ガールズバンド総選挙」開催中___4pyo___\\nPastel＊Palettesに投票したよ♪みんなと一緒にとびっきりかわいいライブをしよう___4p2j___"
   },
   "missionLiveEvent_result_deckBonus":{
-    "name":"missionLiveEvent_result_deckBonus", "wording":"編成ボーナス"
+    "name":"missionLiveEvent_result_deckBonus", "wording":"イベントボーナス"
   },
   "dialog_sort_skillSortDamageGuardWithScoreUp":{
     "name":"dialog_sort_skillSortDamageGuardWithScoreUp", "wording":"スコアアップ付き\\nライフ減少無効"
@@ -530,6 +530,9 @@
   "dialog_mvViewPause_title":{
     "name":"dialog_mvViewPause_title", "wording":"一時停止"
   },
+  "word_bonus":{
+    "name":"word_bonus", "wording":"ボーナス"
+  },
   "gachaTop_haveGachaSeal":{
     "name":"gachaTop_haveGachaSeal", "wording":"所持ガチャシール"
   },
@@ -861,7 +864,7 @@
     "name":"medleyEvent_randomSelect_button", "wording":"一括おまかせ\\n楽曲選択"
   },
   "dialog_deckRecommend_priorityMember":{
-    "name":"dialog_deckRecommend_priorityMember", "wording":"メンバー"
+    "name":"dialog_deckRecommend_priorityMember", "wording":"キャラクター"
   },
   "dialog_areaItemChange_button":{
     "name":"dialog_areaItemChange_button", "wording":"置き換える"
@@ -1235,6 +1238,9 @@
   "dialog_premiumMissionPassPurchaseConfirm_contentsText1":{
     "name":"dialog_premiumMissionPassPurchaseConfirm_contentsText1", "wording":"[505050]購入したタイミングで、即時[-]\\n[FF3B72]「有償スター×1200」を獲得できます。[-]"
   },
+  "dialog_gachaBonusDetailInformation_titleAttention":{
+    "name":"dialog_gachaBonusDetailInformation_titleAttention", "wording":"注意事項"
+  },
   "deckEdit_parameterBonus":{
     "name":"deckEdit_parameterBonus", "wording":"さらに両方一致で"
   },
@@ -1309,12 +1315,6 @@
   },
   "dialog_expiredExchangePeriod_description":{
     "name":"dialog_expiredExchangePeriod_description", "wording":"交換期限が切れているため交換できません。"
-  },
-  "dialog_gachaSealInheritDIalog_captionMessage2":{
-    "name":"dialog_gachaSealInheritDIalog_captionMessage2", "wording":"ガチャシールが\\n以下のように引き継がれました。"
-  },
-  "dialog_gachaSealInheritDIalog_captionMessage1":{
-    "name":"dialog_gachaSealInheritDIalog_captionMessage1", "wording":"交換に使用できない分のガチャシールが\\n以下のように引き継がれました。"
   },
   "word_stampPeriodLimited":{
     "name":"word_stampPeriodLimited", "wording":"期間限定スタンプ"
@@ -1574,6 +1574,9 @@
   "teamLiveFestival_teamSelectDialog_random":{
     "name":"teamLiveFestival_teamSelectDialog_random", "wording":"おまかせ"
   },
+  "eventBonusTarget_caption_situationType":{
+    "name":"eventBonusTarget_caption_situationType", "wording":"タイプ"
+  },
   "costume_tab_live2d":{
     "name":"costume_tab_live2d", "wording":"Live2D"
   },
@@ -1636,6 +1639,9 @@
   },
   "matching_bandRoomChangeCaution_text":{
     "name":"matching_bandRoomChangeCaution_text", "wording":"バンドが切り替わったため、このルームに新しいメンバーは入ってきません"
+  },
+  "storyEvent_result_memberBonus":{
+    "name":"storyEvent_result_memberBonus", "wording":"イベントボーナス"
   },
   "graphicalInfo_title_limitedMusic_yusho":{
     "name":"graphicalInfo_title_limitedMusic_yusho", "wording":"「優勝 feat.Afterglow」が期間限定で登場！"
@@ -1901,6 +1907,9 @@
   "word_profileEdit":{
     "name":"word_profileEdit", "wording":"設定"
   },
+  "dialog_gachaBonusDetailInformation_titleDescription":{
+    "name":"dialog_gachaBonusDetailInformation_titleDescription", "wording":"ガチャボーナス概要"
+  },
   "tryLiveEvent_tryTargetDialogInfoCell_eventFinish":{
     "name":"tryLiveEvent_tryTargetDialogInfoCell_eventFinish", "wording":"イベントは終了いたしました。\\n残りのトライ目標に挑戦することはできません。"
   },
@@ -2012,11 +2021,17 @@
   "dialog_teamLiveFestivalTop_eventFinishedTitle":{
     "name":"dialog_teamLiveFestivalTop_eventFinishedTitle", "wording":"エラー"
   },
+  "eventBonusTarget_caption_situation":{
+    "name":"eventBonusTarget_caption_situation", "wording":"メンバー"
+  },
   "multiPlay_room_roomLimit":{
     "name":"multiPlay_room_roomLimit", "wording":"ルーム制限"
   },
   "dialog_gacha_characterAlbum_text_unable":{
     "name":"dialog_gacha_characterAlbum_text_unable", "wording":"「{0}」の新メンバーです。\\n現在、開催中のガチャでは出現していません。"
+  },
+  "word_eventBonus":{
+    "name":"word_eventBonus", "wording":"イベントボーナス"
   },
   "dialog_eventRewardBoxGacha_resetConfirmDescription":{
     "name":"dialog_eventRewardBoxGacha_resetConfirmDescription", "wording":"{0}箱の中身をリセットし、\\n次の{0}箱へ進みます。\\nよろしいですか？"
@@ -2077,6 +2092,9 @@
   },
   "dialog_mainBandSelected_areaItemChange":{
     "name":"dialog_mainBandSelected_areaItemChange", "wording":"{0}\\n\\nメインバンドの総合力が最も高くなるように\\nエリアアイテムを置き換えますか？\\n"
+  },
+  "eventBonusTarget_caption_character":{
+    "name":"eventBonusTarget_caption_character", "wording":"キャラクター"
   },
   "dialog_liveSettings_3dCutInModeDarkness":{
     "name":"dialog_liveSettings_3dCutInModeDarkness", "wording":"3Dカットインモード明るさ"
@@ -2276,11 +2294,17 @@
   "collaboOriginalMusic_receiveDialog_topText":{
     "name":"collaboOriginalMusic_receiveDialog_topText", "wording":"期間限定楽曲"
   },
+  "gachaBonus_fixed_the_5_star_bonus":{
+    "name":"gachaBonus_fixed_the_5_star_bonus", "wording":"新登場★5メンバー確定"
+  },
   "limitedMission_finish_note":{
     "name":"limitedMission_finish_note", "wording":"すべての{0}ミッションが終了しました。"
   },
   "dialog_notEnoughStarSeal_description":{
     "name":"dialog_notEnoughStarSeal_description", "wording":"※スターシールは、ガチャ開催期間終了時の\\nガチャシールからの自動変換や、獲得済み★4以上のメンバーの\\nガチャでの再獲得などにより獲得可能です。\\nまた、各種ガチャシール交換所からも交換ができます。"
+  },
+  "gacha_result_omakeContent":{
+    "name":"gacha_result_omakeContent", "wording":"獲得しました。"
   },
   "dialog_characterRankUpTransition_live":{
     "name":"dialog_characterRankUpTransition_live", "wording":"ライブをクリアして\\nキャラランクEXPを獲得"
@@ -2321,6 +2345,9 @@
   "dialog_miracleTicketExchangeSearchFavoriteMember_cancelButton":{
     "name":"dialog_miracleTicketExchangeSearchFavoriteMember_cancelButton", "wording":"探さない"
   },
+  "dialog_receivedStamp_alreadyHave":{
+    "name":"dialog_receivedStamp_alreadyHave", "wording":"※既に獲得済みのスタンプです。"
+  },
   "word_exchangeCell_remain":{
     "name":"word_exchangeCell_remain", "wording":"残り"
   },
@@ -2355,7 +2382,7 @@
     "name":"dialog_MVDownload_LiveSetting", "wording":"MVライブ：{0}"
   },
   "dialog_editProfileCategoryDialog_publishingSettingButtonLabel":{
-    "name":"dialog_editProfileCategoryDialog_publishingSettingButtonLabel", "wording":"公開・SNS"
+    "name":"dialog_editProfileCategoryDialog_publishingSettingButtonLabel", "wording":"公開設定"
   },
   "dialog_limitBreakPractice_description":{
     "name":"dialog_limitBreakPractice_description", "wording":"{0}を{1}個利用して\\nマスター練習します。\\nよろしいですか？"
@@ -2558,6 +2585,9 @@
   "dialog_sealExchange_filterMainItem":{
     "name":"dialog_sealExchange_filterMainItem", "wording":"主要アイテム"
   },
+  "band_sortingKind_eventBonus":{
+    "name":"band_sortingKind_eventBonus", "wording":"イベントボーナス"
+  },
   "dialog_newYearCardTextureShare_title":{
     "name":"dialog_newYearCardTextureShare_title", "wording":"ゆく年くる年 年賀状キャンペーン"
   },
@@ -2584,6 +2614,9 @@
   },
   "cell_cdLiveAllReward_limitAnnotation":{
     "name":"cell_cdLiveAllReward_limitAnnotation", "wording":"報酬は2021/1/1 0:10に配布されます。"
+  },
+  "challengeEvent_common_deckBonus":{
+    "name":"challengeEvent_common_deckBonus", "wording":"イベントボーナス"
   },
   "word_today":{
     "name":"word_today", "wording":"本日"
@@ -3027,7 +3060,7 @@
     "name":"dialog_mvLiveSelect_message", "wording":"※画質の設定はオプションのライブ演出・音量設定から変更できます。"
   },
   "dialog_deckRecommend_captionBand":{
-    "name":"dialog_deckRecommend_captionBand", "wording":"優先するメンバー"
+    "name":"dialog_deckRecommend_captionBand", "wording":"優先するキャラクター"
   },
   "graphicalInfo_title_limitedMusic_luminous":{
     "name":"graphicalInfo_title_limitedMusic_luminous", "wording":"「もういちど ルミナス（コラボver）」が期間限定で登場！"
@@ -3061,6 +3094,9 @@
   },
   "dialog_teamLiveFestivalTop_eventFinishedMessage":{
     "name":"dialog_teamLiveFestivalTop_eventFinishedMessage", "wording":"イベントは終了しています。"
+  },
+  "word_hyphen":{
+    "name":"word_hyphen", "wording":"-"
   },
   "dialog_musicSortFilter_highScore":{
     "name":"dialog_musicSortFilter_highScore", "wording":"ハイスコア順"
@@ -3203,6 +3239,9 @@
   "comicTop_message_selectComic":{
     "name":"comicTop_message_selectComic", "wording":"見たいコミックを選択してください"
   },
+  "graphicalInfo_title_event_2306":{
+    "name":"graphicalInfo_title_event_2306", "wording":"イベントがアップデート！"
+  },
   "dialog_generalElection_voteBandSelect_caption":{
     "name":"dialog_generalElection_voteBandSelect_caption", "wording":"バンド選択"
   },
@@ -3214,6 +3253,9 @@
   },
   "dialog_systemSettings_captionSystemVolume":{
     "name":"dialog_systemSettings_captionSystemVolume", "wording":"システム音量"
+  },
+  "word_eventBonusNotApplicable":{
+    "name":"word_eventBonusNotApplicable", "wording":"ボーナスなし"
   },
   "newYearHolidaysPage_newYear_lotteryAppealText":{
     "name":"newYearHolidaysPage_newYear_lotteryAppealText", "wording":"1月3日まで\\n毎日ひけるよ!"
@@ -3289,6 +3331,9 @@
   },
   "dialog_liveSettings_inGameModeDisable":{
     "name":"dialog_liveSettings_inGameModeDisable", "wording":"※この端末では協力ライブでLive2Dモードを利用できません。詳しくはFAQをご覧ください。"
+  },
+  "dialog_gachaInheritResultDialogBonus_remain":{
+    "name":"dialog_gachaInheritResultDialogBonus_remain", "wording":"あと{0}"
   },
   "mission_friendInvite_tabNameInviteCodeInput":{
     "name":"mission_friendInvite_tabNameInviteCodeInput", "wording":"招待コード入力"
@@ -3400,6 +3445,9 @@
   },
   "dialog_gachaSealExchangeGuide_exchangeButton":{
     "name":"dialog_gachaSealExchangeGuide_exchangeButton", "wording":"交換所へ"
+  },
+  "word_scoreBorder":{
+    "name":"word_scoreBorder", "wording":"スコアボーダー"
   },
   "newYearHolidaysPage_endOfYear_emaAppealText":{
     "name":"newYearHolidaysPage_endOfYear_emaAppealText", "wording":"好きなバンドを選ぼう!"
@@ -3647,9 +3695,6 @@
   "transitionButton_button_gacha":{
     "name":"transitionButton_button_gacha", "wording":"ガチャ"
   },
-  "dialog_gachaSealInheritDialog_footerDescription":{
-    "name":"dialog_gachaSealInheritDialog_footerDescription", "wording":"{0}ガチャシールと\\n{1}ガチャシールの\\nガチャシール交換所において\\n同じメンバーが交換対象に含まれるため、ガチャシールが引き継がれました。"
-  },
   "dialog_fewStorage_eventPage":{
     "name":"dialog_fewStorage_eventPage", "wording":"端末の空き容量が不足しているため、\\nイベントページが表示できません。\\n"
   },
@@ -3803,6 +3848,9 @@
   "caption_mission_degreename":{
     "name":"caption_mission_degreename", "wording":"称号「{0}」"
   },
+  "word_voiceStamp":{
+    "name":"word_voiceStamp", "wording":"レアスタンプ(ボイス付き)"
+  },
   "dialog_liveBoostFullUse_fullUsableCountShortage":{
     "name":"dialog_liveBoostFullUse_fullUsableCountShortage", "wording":"本日分は終了しました。\\n毎日4:00にリセットされます。"
   },
@@ -3810,7 +3858,7 @@
     "name":"dialog_AprilFool2021StoryUnlock_message", "wording":"イヴの天下トーイツ！\\n{0}ストーリーが解放されました！"
   },
   "popup_eventSupportBand_description":{
-    "name":"popup_eventSupportBand_description", "wording":"イベントサポートバンドは、編成ボーナスを加えた総合力が\n最も高くなるメンバーが自動的に選出されます。\nイベントサポートバンドによって獲得できるイベントPは、\nイベントサポートバンド総合力によって算出されます。"
+    "name":"popup_eventSupportBand_description", "wording":"[505050]イベントサポートバンドは、[-][FF3B72]イベントボーナス[505050]を加えた[-][FF3B72]総合力[-][505050]が\n最も高くなるメンバーが自動的に選出されます。\nイベントサポートバンドによって獲得できるイベントPは、\nイベントサポートバンド総合力によって算出されます。[-]"
   },
   "starShopWindowGarupaPass_nextRewardCount":{
     "name":"starShopWindowGarupaPass_nextRewardCount", "wording":"あと{0}回購入でもらえる！"
@@ -4142,6 +4190,9 @@
   "teamLiveFestival_eventPointResult_bonusLive":{
     "name":"teamLiveFestival_eventPointResult_bonusLive", "wording":"ボーナスライブ"
   },
+  "dialog_gachaBonusDetailInformation_titleMemberInformation":{
+    "name":"dialog_gachaBonusDetailInformation_titleMemberInformation", "wording":"出現ボーナスメンバー"
+  },
   "storyEvent_story_appeal":{
     "name":"storyEvent_story_appeal", "wording":"限定ストーリーをみよう!"
   },
@@ -4291,6 +4342,9 @@
   },
   "dialog_gachaSealDetailInformation_titleCost":{
     "name":"dialog_gachaSealDetailInformation_titleCost", "wording":"ガチャシール獲得方法"
+  },
+  "dialog_gachaInheritResultDialog_description":{
+    "name":"dialog_gachaInheritResultDialog_description", "wording":"以下のように引き継がれました。"
   },
   "dialog_areaOutOfTime_title":{
     "name":"dialog_areaOutOfTime_title", "wording":"エリア準備中"
@@ -4604,6 +4658,9 @@
   "dialog_panelmission_miracleticket_receive_title":{
     "name":"dialog_panelmission_miracleticket_receive_title", "wording":"報酬を受け取りました！"
   },
+  "dialog_gachaDetail_tabGachaBonus":{
+    "name":"dialog_gachaDetail_tabGachaBonus", "wording":"ガチャボーナス"
+  },
   "dialog_newYearCardTextureShareInfo_title":{
     "name":"dialog_newYearCardTextureShareInfo_title", "wording":"{0}について"
   },
@@ -4671,7 +4728,7 @@
     "name":"teamLiveFestival_top_ruleSlideTransitionButton", "wording":"チーム選択"
   },
   "dialog_publishConfig_title":{
-    "name":"dialog_publishConfig_title", "wording":"公開・SNS設定"
+    "name":"dialog_publishConfig_title", "wording":"公開設定"
   },
   "word_lbUseBadge_spendCount":{
     "name":"word_lbUseBadge_spendCount", "wording":"({0}消費)"
@@ -4690,6 +4747,9 @@
   },
   "dialog_liveSettings_changeSonicSyncDialog_title":{
     "name":"dialog_liveSettings_changeSonicSyncDialog_title", "wording":"確認"
+  },
+  "dialog_deckRecommend_eventBonusDescription":{
+    "name":"dialog_deckRecommend_eventBonusDescription", "wording":"※イベントボーナスを最優先にしている場合、他の設定は不要です。"
   },
   "dialog_gachaShortage_title":{
     "name":"dialog_gachaShortage_title", "wording":"{0}不足"
@@ -4891,6 +4951,9 @@
   },
   "situationDetail_tab_status":{
     "name":"situationDetail_tab_status", "wording":"ステータス"
+  },
+  "dialog_deckRecommend_captionPriority":{
+    "name":"dialog_deckRecommend_captionPriority", "wording":"最優先"
   },
   "dialog_buddyInviteRegistered_title":{
     "name":"dialog_buddyInviteRegistered_title", "wording":"バディ招待成立"
@@ -5207,6 +5270,9 @@
   "dialog_pendingPurchaseExist_message":{
     "name":"dialog_pendingPurchaseExist_message", "wording":"前回の購入が正常に終了していません。\\nすでに請求が発生している可能性がございます。\\n再度購入を試さずサポートよりお問い合わせください。\\n\\n※再度購入をお試しいただくと、\\n重複して購入されてしまう可能性があるのでご注意ください。"
   },
+  "tutorial_slideTitle_gachaBonus":{
+    "name":"tutorial_slideTitle_gachaBonus", "wording":"ガチャボーナスについて"
+  },
   "snsShare_tGame_title":{
     "name":"snsShare_tGame_title", "wording":"シェア機能について"
   },
@@ -5245,6 +5311,9 @@
   },
   "eventRewardBoxGacha_autoStopDialog_medalName":{
     "name":"eventRewardBoxGacha_autoStopDialog_medalName", "wording":"所持{0}"
+  },
+  "dialog_voiceStamp_description":{
+    "name":"dialog_voiceStamp_description", "wording":"使用時にボイスが再生されるスタンプです。\\n\n※獲得後、ボイス無しの同じスタンプも所持している場合、ボイス付きのみ有効となります。"
   },
   "dialog_musicSortFilter_notFullCombo":{
     "name":"dialog_musicSortFilter_notFullCombo", "wording":"未フルコンボ"
@@ -5369,6 +5438,9 @@
   "bandtop_button_biography":{
     "name":"bandtop_button_biography", "wording":"キャラ図鑑"
   },
+  "dialog_gachaInheritResultDialog_title":{
+    "name":"dialog_gachaInheritResultDialog_title", "wording":"引き継ぎ"
+  },
   "dialog_ towerGameMaintenance_message":{
     "name":"dialog_ towerGameMaintenance_message", "wording":"ただいまがるぱタワーバトルの\\nメンテナンス中です。\\n恐れ入りますが、\\n終了までしばらくお待ちください。"
   },
@@ -5491,6 +5563,9 @@
   },
   "newYearCard_receivePresentDialog_periodLimit":{
     "name":"newYearCard_receivePresentDialog_periodLimit", "wording":"閲覧期間 {0}まで"
+  },
+  "graphicalInfo_title_mission_2306":{
+    "name":"graphicalInfo_title_mission_2306", "wording":"ミッション開催中！"
   },
   "gacha_top_spinExecuted":{
     "name":"gacha_top_spinExecuted", "wording":"限定分は\\n引き終わりました。"
@@ -5861,6 +5936,9 @@
   "word_liveDownloadAlready":{
     "name":"word_liveDownloadAlready", "wording":"現在追加データは\\nありません"
   },
+  "word_eventPBorder":{
+    "name":"word_eventPBorder", "wording":"イベントPボーダー"
+  },
   "dialog_executingRecovery_message":{
     "name":"dialog_executingRecovery_message", "wording":"購入処理の復元を行なっています。"
   },
@@ -5875,9 +5953,6 @@
   },
   "dialog_rhythmgameRetire_title":{
     "name":"dialog_rhythmgameRetire_title", "wording":"中断"
-  },
-  "dialog_gachaSealInheritDialog_title":{
-    "name":"dialog_gachaSealInheritDialog_title", "wording":"ガチャシール引き継ぎ"
   },
   "gachaTop_appealBalloon_setLabel":{
     "name":"gachaTop_appealBalloon_setLabel", "wording":"セットで\\nもらえる"
@@ -6148,6 +6223,9 @@
   },
   "mission_rewardReceiveFailed_messageNone":{
     "name":"mission_rewardReceiveFailed_messageNone", "wording":"受け取れるミッション報酬はありません。"
+  },
+  "graphicalInfo_title_gacha_2306":{
+    "name":"graphicalInfo_title_gacha_2306", "wording":"新機能を追加！"
   },
   "dialog_interactionTalkCharaSet_confirmButton":{
     "name":"dialog_interactionTalkCharaSet_confirmButton", "wording":"衣装を設定する"
@@ -7079,6 +7157,9 @@
   "overlayNotice_snsInviteLive_bottom":{
     "name":"overlayNotice_snsInviteLive_bottom", "wording":"ホームからライブに参加しよう"
   },
+  "dialog_deckRecommend_priorityEventBonus":{
+    "name":"dialog_deckRecommend_priorityEventBonus", "wording":"イベントボーナス"
+  },
   "dialog_costume3DDressUnlocked_cancelButton":{
     "name":"dialog_costume3DDressUnlocked_cancelButton", "wording":"変更しない"
   },
@@ -7107,7 +7188,7 @@
     "name":"dialog_medleyIntermediatePageRest_title", "wording":"休憩"
   },
   "gachaResult_toExchange_buttonTitle":{
-    "name":"gachaResult_toExchange_buttonTitle", "wording":"交換所へ"
+    "name":"gachaResult_toExchange_buttonTitle", "wording":"交換所"
   },
   "dialog_shopRecommend_cancel":{
     "name":"dialog_shopRecommend_cancel", "wording":"あとで"
@@ -7365,7 +7446,7 @@
     "name":"newYearCard_errorDialog_messageOutOfReceiveTerm", "wording":"ゆく年くる年キャンペーンは終了しました。"
   },
   "dialog_gachaDetail_tabGachaSeal":{
-    "name":"dialog_gachaDetail_tabGachaSeal", "wording":"ガチャシール説明"
+    "name":"dialog_gachaDetail_tabGachaSeal", "wording":"ガチャシール"
   },
   "dialog_characterIllustFilter_title":{
     "name":"dialog_characterIllustFilter_title", "wording":"イラスト一覧 キャラクター絞り込み"
@@ -7465,6 +7546,9 @@
   },
   "multiPlay_userCell_notSelectState":{
     "name":"multiPlay_userCell_notSelectState", "wording":"選択中･･･"
+  },
+  "word_gachaBonus":{
+    "name":"word_gachaBonus", "wording":"ガチャボーナス"
   },
   "dialog_trailerMovieConfirm_title":{
     "name":"dialog_trailerMovieConfirm_title", "wording":"データダウンロード"
