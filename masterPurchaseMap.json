@@ -78,7 +78,11 @@
         "purchaseId":1027, "seq":12, "resourceType":"item", "resourceId":12, "quantity":50
       }
     ],
-    "seq":19, "purchaseMenuId":2, "homeBalloonPriority":35, "homeBalloonMessage":"クリスマスセット販売中♪", "recommendAssetBundleName":"\n\u0011item_set_2022xmas\u0010\u000f"
+    "seq":19, "purchaseMenuId":2, "homeBalloonPriority":35, "homeBalloonMessage":"クリスマスセット販売中♪", "recommends":[
+      {
+        "assetBundleName":"item_set_2022xmas", "seq":15
+      }
+    ]
   },
   "3":{
     "purchaseId":3, "purchaseCategory":"star", "productName":"スターC", "description":"[505050FF]７６０個[-]", "publishedAt":1488294000000, "closedAt":1569855599000, "detail":[
@@ -166,7 +170,11 @@
         "purchaseId":8, "seq":1, "resourceType":"premium_pass", "quantity":1
       }
     ],
-    "seq":100, "purchaseMenuId":1, "homeBalloonPriority":50, "homeBalloonMessage":"プレミアムハッピーBOX♪", "recommendAssetBundleName":"\n\thappy_box\u0010\u001e"
+    "seq":100, "purchaseMenuId":1, "homeBalloonPriority":50, "homeBalloonMessage":"プレミアムハッピーBOX♪", "recommends":[
+      {
+        "assetBundleName":"happy_box", "seq":30
+      }
+    ]
   },
   "1033":{
     "purchaseId":1033, "purchaseCategory":"limited_term", "productName":"毎月買えるお得なスター③", "description":"[505050FF]６０００個（４０５０個 [-][FF3B72FF]＋ １９５０個[-][505050FF]）[-]", "label":"毎月2回限定", "purchaseLimit":2, "publishedAt":1672466400000, "closedAt":1675144799000, "detail":[
@@ -193,7 +201,11 @@
         "purchaseId":1034, "seq":2, "resourceType":"miracle_ticket", "resourceId":38, "quantity":1
       }
     ],
-    "seq":12, "purchaseMenuId":2, "homeBalloonPriority":10, "homeBalloonMessage":"ドリフェス★4ミラチケセット♪", "recommendAssetBundleName":"\n\u0015miracle_ticket_221231\u0010\n"
+    "seq":12, "purchaseMenuId":2, "homeBalloonPriority":10, "homeBalloonMessage":"ドリフェス★4ミラチケセット♪", "recommends":[
+      {
+        "assetBundleName":"miracle_ticket_221231", "seq":10
+      }
+    ]
   },
   "10":{
     "purchaseId":10, "purchaseCategory":"limited_term", "productName":"スターH（キャンペーン）", "description":"[505050FF]３０００個[-]", "label":"キャンペーン", "purchaseLimit":1, "publishedAt":1498456800000, "closedAt":1499061599000, "detail":[
@@ -406,7 +418,11 @@
         "purchaseId":1043, "seq":20, "resourceType":"item", "resourceId":4, "quantity":3900
       }
     ],
-    "seq":11, "purchaseMenuId":2, "homeBalloonPriority":10, "homeBalloonMessage":"6周年記念セット販売中♪", "recommendAssetBundleName":"\n\u0017item_set_6thanniversary\u0010\n"
+    "seq":11, "purchaseMenuId":2, "homeBalloonPriority":10, "homeBalloonMessage":"6周年記念セット販売中♪", "recommends":[
+      {
+        "assetBundleName":"item_set_6thanniversary", "seq":10
+      }
+    ]
   },
   "19":{
     "purchaseId":19, "purchaseCategory":"limited_term", "productName":"スターC（キャンペーン）", "description":"[505050FF]１２００個（７６０個 [-][FF3B72FF]＋ ４４０個[-][505050FF]）[-]", "label":"キャンペーン", "purchaseLimit":1, "publishedAt":1514700000000, "closedAt":1515563999000, "detail":[
@@ -766,7 +782,11 @@
         "purchaseId":1058, "seq":20, "resourceType":"item", "resourceId":4, "quantity":3900
       }
     ],
-    "seq":12, "purchaseMenuId":2, "recommendAssetBundleName":"\n\u000fitem_set_2023gw\u0010\n"
+    "seq":12, "purchaseMenuId":2, "recommends":[
+      {
+        "assetBundleName":"item_set_2023gw", "seq":10
+      }
+    ]
   },
   "1059":{
     "purchaseId":1059, "purchaseCategory":"limited_term", "productName":"毎月買えるお得なスター①", "description":"[505050FF]１２２０個（７８０個 [-][FF3B72FF]＋ ４４０個[-][505050FF]）[-]", "label":"毎月2回限定", "purchaseLimit":2, "publishedAt":1685512800000, "closedAt":1688104799000, "detail":[
@@ -909,7 +929,11 @@
         "purchaseId":40, "seq":1, "resourceType":"paid_star", "quantity":360
       }
     ],
-    "seq":10, "purchaseMenuId":3, "recommendAssetBundleName":"\n\u000bgarupa_pass\u0010\u0014"
+    "seq":10, "purchaseMenuId":3, "recommends":[
+      {
+        "assetBundleName":"garupa_pass", "seq":20
+      }
+    ]
   },
   "41":{
     "purchaseId":41, "purchaseCategory":"limited_term", "productName":"スターC（特別キャンペーン）", "description":"[505050FF]１２００個（７６０個 [-][FF3B72FF]＋ ４４０個[-][505050FF]）[-]", "label":"キャンペーン", "purchaseLimit":2, "publishedAt":1564552800000, "closedAt":1567403999000, "detail":[
@@ -973,7 +997,11 @@
         "purchaseId":49, "seq":1, "resourceType":"premium_pass", "quantity":1
       }
     ],
-    "seq":50, "purchaseMenuId":1, "homeBalloonPriority":40, "homeBalloonMessage":"３周年記念ハッピーBOX♪", "recommendAssetBundleName":"\n\u0018happy_box_3rdanniversary\u0010\n"
+    "seq":50, "purchaseMenuId":1, "homeBalloonPriority":40, "homeBalloonMessage":"３周年記念ハッピーBOX♪", "recommends":[
+      {
+        "assetBundleName":"happy_box_3rdanniversary", "seq":10
+      }
+    ]
   },
   "50":{
     "purchaseId":50, "purchaseCategory":"item_set", "productName":"App Store ＆ iTunes ギフトカード購入特典A", "publishedAt":1584259200000, "detail":[
@@ -1258,7 +1286,11 @@
         "purchaseId":73, "seq":17, "resourceType":"item", "resourceId":12, "quantity":21
       }
     ],
-    "seq":13, "purchaseMenuId":2, "homeBalloonPriority":10, "homeBalloonMessage":"お正月だけのお得な福袋♪", "recommendAssetBundleName":"\n\u0014hukubukuro_2021matsu\u0010\t"
+    "seq":13, "purchaseMenuId":2, "homeBalloonPriority":10, "homeBalloonMessage":"お正月だけのお得な福袋♪", "recommends":[
+      {
+        "assetBundleName":"hukubukuro_2021matsu", "seq":9
+      }
+    ]
   },
   "74":{
     "purchaseId":74, "purchaseCategory":"limited_term", "productName":"特別キャンペーン①", "description":"[505050FF]１２００個（７６０個 [-][FF3B72FF]＋ ４４０個[-][505050FF]）[-]", "label":"キャンペーン", "purchaseLimit":2, "publishedAt":1615795200000, "closedAt":1617688799000, "detail":[
@@ -1290,7 +1322,11 @@
         "purchaseId":77, "seq":1, "resourceType":"premium_pass", "quantity":1
       }
     ],
-    "seq":25, "purchaseMenuId":1, "homeBalloonPriority":40, "homeBalloonMessage":"４周年記念ハッピーBOX♪", "recommendAssetBundleName":"\n\u0018happy_box_4thanniversary\u0010\n"
+    "seq":25, "purchaseMenuId":1, "homeBalloonPriority":40, "homeBalloonMessage":"４周年記念ハッピーBOX♪", "recommends":[
+      {
+        "assetBundleName":"happy_box_4thanniversary", "seq":10
+      }
+    ]
   },
   "78":{
     "purchaseId":78, "purchaseCategory":"limited_term", "productName":"特別キャンペーン①", "description":"[505050FF]１２００個（７６０個 [-][FF3B72FF]＋ ４４０個[-][505050FF]）[-]", "label":"キャンペーン", "purchaseLimit":2, "publishedAt":1619676000000, "closedAt":1620626399000, "detail":[
@@ -1392,7 +1428,11 @@
         "purchaseId":89, "seq":2, "resourceType":"star", "quantity":1700
       }
     ],
-    "seq":14, "purchaseMenuId":2, "homeBalloonPriority":30, "homeBalloonMessage":"4.5周年記念スターセット販売中♪", "recommendAssetBundleName":"\n\fstar_set2109\u0010\n"
+    "seq":14, "purchaseMenuId":2, "homeBalloonPriority":30, "homeBalloonMessage":"4.5周年記念スターセット販売中♪", "recommends":[
+      {
+        "assetBundleName":"star_set2109", "seq":10
+      }
+    ]
   },
   "90":{
     "purchaseId":90, "purchaseCategory":"limited_term", "productName":"特別キャンペーン①", "description":"[505050FF]１２００個（７６０個 [-][FF3B72FF]＋ ４４０個[-][505050FF]）[-]", "label":"キャンペーン", "purchaseLimit":2, "publishedAt":1632981600000, "closedAt":1633845599000, "detail":[
@@ -1475,7 +1515,11 @@
         "purchaseId":99, "seq":2, "resourceType":"miracle_ticket", "resourceId":27, "quantity":1
       }
     ],
-    "seq":12, "purchaseMenuId":2, "homeBalloonPriority":10, "homeBalloonMessage":"スターセット＆ミラチケセット♪", "recommendAssetBundleName":"\n\u0015miracle_ticket_211231\u0010\t"
+    "seq":12, "purchaseMenuId":2, "homeBalloonPriority":10, "homeBalloonMessage":"スターセット＆ミラチケセット♪", "recommends":[
+      {
+        "assetBundleName":"miracle_ticket_211231", "seq":9
+      }
+    ]
   },
   "102":{
     "purchaseId":102, "purchaseCategory":"star", "productName":"スターB", "description":"[505050FF]３６０個[-]", "publishedAt":1569855600000, "closedAt":1664895599000, "detail":[
@@ -1545,7 +1589,11 @@
         "purchaseId":109, "seq":2, "resourceType":"star", "quantity":1700
       }
     ],
-    "seq":14, "purchaseMenuId":2, "homeBalloonPriority":30, "homeBalloonMessage":"新春記念スターセット販売中♪", "recommendAssetBundleName":"\n\fstar_set2112\u0010\n"
+    "seq":14, "purchaseMenuId":2, "homeBalloonPriority":30, "homeBalloonMessage":"新春記念スターセット販売中♪", "recommends":[
+      {
+        "assetBundleName":"star_set2112", "seq":10
+      }
+    ]
   },
   "110":{
     "purchaseId":110, "purchaseCategory":"limited_term", "productName":"特別キャンペーン①", "description":"[505050FF]１２００個（７６０個 [-][FF3B72FF]＋ ４４０個[-][505050FF]）[-]", "label":"キャンペーン", "purchaseLimit":2, "publishedAt":1643608800000, "closedAt":1644472799000, "detail":[
@@ -1604,7 +1652,11 @@
         "purchaseId":116, "seq":2, "resourceType":"miracle_ticket", "resourceId":28, "quantity":1
       }
     ],
-    "seq":12, "purchaseMenuId":2, "homeBalloonPriority":10, "homeBalloonMessage":"ドリフェス★4ミラチケセット♪", "recommendAssetBundleName":"\n\u0015miracle_ticket_220312\u0010\t"
+    "seq":12, "purchaseMenuId":2, "homeBalloonPriority":10, "homeBalloonMessage":"ドリフェス★4ミラチケセット♪", "recommends":[
+      {
+        "assetBundleName":"miracle_ticket_220312", "seq":9
+      }
+    ]
   },
   "117":{
     "purchaseId":117, "purchaseCategory":"item_set", "productName":"5周年記念★3期間限定ミラクルチケットセット", "description":"[505050FF]４９０個 [-][FF3B72FF]＋★3期間限定ミラクルチケット[-][505050FF][-]", "label":"キャンペーン", "purchaseLimit":3, "publishedAt":1646985600000, "closedAt":1650434399000, "detail":[
@@ -1635,7 +1687,11 @@
         "purchaseId":118, "seq":2, "resourceType":"miracle_ticket", "resourceId":32, "quantity":1
       }
     ],
-    "seq":11, "purchaseMenuId":2, "homeBalloonPriority":10, "homeBalloonMessage":"★4期間限定ミラチケセット♪", "recommendAssetBundleName":"\n\u0015miracle_ticket_220318\u0010\n"
+    "seq":11, "purchaseMenuId":2, "homeBalloonPriority":10, "homeBalloonMessage":"★4期間限定ミラチケセット♪", "recommends":[
+      {
+        "assetBundleName":"miracle_ticket_220318", "seq":10
+      }
+    ]
   },
   "119":{
     "purchaseId":119, "purchaseCategory":"limited_term", "productName":"特別キャンペーン①", "description":"[505050FF]１２００個（７６０個 [-][FF3B72FF]＋ ４４０個[-][505050FF]）[-]", "label":"キャンペーン", "purchaseLimit":2, "publishedAt":1651125600000, "closedAt":1652162399000, "detail":[
@@ -1790,7 +1846,11 @@
         "purchaseId":137, "seq":2, "resourceType":"miracle_ticket", "resourceId":35, "quantity":1
       }
     ],
-    "seq":12, "purchaseMenuId":2, "homeBalloonPriority":10, "homeBalloonMessage":"ドリフェス★4ミラチケセット♪", "recommendAssetBundleName":"\n\u0015miracle_ticket_220912\u0010\n"
+    "seq":12, "purchaseMenuId":2, "homeBalloonPriority":10, "homeBalloonMessage":"ドリフェス★4ミラチケセット♪", "recommends":[
+      {
+        "assetBundleName":"miracle_ticket_220912", "seq":10
+      }
+    ]
   },
   "139":{
     "purchaseId":139, "purchaseCategory":"limited_once_month_item_set", "productName":"キラキラセット", "description":"毎月1回限定のお得なセット", "publishedAt":1569855600000, "closedAt":1664895599000, "detail":[
@@ -2005,7 +2065,11 @@
         "purchaseId":1012, "seq":1, "resourceType":"premium_pass", "quantity":1
       }
     ],
-    "seq":100, "purchaseMenuId":1, "homeBalloonPriority":50, "homeBalloonMessage":"プレミアムハッピーBOX♪", "recommendAssetBundleName":"\n\thappy_box\u0010\u001e"
+    "seq":100, "purchaseMenuId":1, "homeBalloonPriority":50, "homeBalloonMessage":"プレミアムハッピーBOX♪", "recommends":[
+      {
+        "assetBundleName":"happy_box", "seq":30
+      }
+    ]
   },
   "1013":{
     "purchaseId":1013, "purchaseCategory":"limited_term", "productName":"コラボ開催記念お得なスター①", "description":"[505050FF]１２２０個（７８０個 [-][FF3B72FF]＋ ４４０個[-][505050FF]）[-]", "label":"キャンペーン", "purchaseLimit":2, "publishedAt":1667023200000, "closedAt":1667887199000, "detail":[

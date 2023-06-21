@@ -1207,6 +1207,95 @@
     "eventAttributeAndCharacterBonus":{
       "eventId":225, "pointPercent":20, "parameterPercent":0
     },
-    "UNKNOWN_208":"<byte> 0a3b080112370a09080110001d000000000a09080110011dcdcc4c3e0a09080110021d9a99993e0a09080110031dcdcccc3e0a09080110041d0000003f0a3b080212370a09080210001d000000000a09080210011dcdcccc3e0a09080210021d9a99193f0a09080210031dcdcc4c3f0a09080210041d0000803f0a3b080312370a09080310001d000000000a09080310011d0000803f0a09080310021d000000400a09080310031d000040400a09080310041d000080400a3b080412370a09080410001d000000000a09080410011d000040400a09080410021d000080400a09080410031d0000a0400a09080410041d0000c0400a3b080512370a09080510001d000000000a09080510011d000040410a09080510021d000050410a09080510031d000060410a09080510041d00007041", "UNKNOWN_209":"<guessed string> \n\blive_try\u00102\u0018F"
+    "limitBreaks":{
+      "1":[
+        {
+          "rarity":1, "rank":0, "percent":0
+        },
+        {
+          "rarity":1, "rank":1, "percent":0.20000000298023224
+        },
+        {
+          "rarity":1, "rank":2, "percent":0.30000001192092896
+        },
+        {
+          "rarity":1, "rank":3, "percent":0.4000000059604645
+        },
+        {
+          "rarity":1, "rank":4, "percent":0.5
+        }
+      ],
+      "2":[
+        {
+          "rarity":2, "rank":0, "percent":0
+        },
+        {
+          "rarity":2, "rank":1, "percent":0.4000000059604645
+        },
+        {
+          "rarity":2, "rank":2, "percent":0.6000000238418579
+        },
+        {
+          "rarity":2, "rank":3, "percent":0.800000011920929
+        },
+        {
+          "rarity":2, "rank":4, "percent":1
+        }
+      ],
+      "3":[
+        {
+          "rarity":3, "rank":0, "percent":0
+        },
+        {
+          "rarity":3, "rank":1, "percent":1
+        },
+        {
+          "rarity":3, "rank":2, "percent":2
+        },
+        {
+          "rarity":3, "rank":3, "percent":3
+        },
+        {
+          "rarity":3, "rank":4, "percent":4
+        }
+      ],
+      "4":[
+        {
+          "rarity":4, "rank":0, "percent":0
+        },
+        {
+          "rarity":4, "rank":1, "percent":3
+        },
+        {
+          "rarity":4, "rank":2, "percent":4
+        },
+        {
+          "rarity":4, "rank":3, "percent":5
+        },
+        {
+          "rarity":4, "rank":4, "percent":6
+        }
+      ],
+      "5":[
+        {
+          "rarity":5, "rank":0, "percent":0
+        },
+        {
+          "rarity":5, "rank":1, "percent":12
+        },
+        {
+          "rarity":5, "rank":2, "percent":13
+        },
+        {
+          "rarity":5, "rank":3, "percent":14
+        },
+        {
+          "rarity":5, "rank":4, "percent":15
+        }
+      ]
+    },
+    "threshold":{
+      "eventType":"live_try", "threshold1":50, "threshold2":70
+    }
   }
 }
