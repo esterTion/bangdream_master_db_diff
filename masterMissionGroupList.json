@@ -7244,6 +7244,91 @@
     "type":"ex_mission"
   },
   {
+    "missionGroupId":544, "missionResetType":"none", "startAt":1688104800000, "endAt":1688817599000, "rewardEndAt":1688968799000, "eventId":227, "homeEffectType":"collabo", "tabLabel":"コラボ", "missionList":[
+      {
+        "missionId":10000341, "transitionMethod":"none", "transitionId":0, "seq":10, "detailList":[
+          {
+            "seq":1, "title":"全てのコラボミッションをクリアしよう", "description":"全てのコラボミッションをクリアしよう", "maxProgress":7, "reward":{
+              "UNKNOWN_1":10000341, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"degree_set", "resourceId":5, "quantity":1
+            }
+          }
+        ],
+        "labelText":"コラボ", "typeIndex":44
+      },
+      {
+        "missionId":10000342, "transitionMethod":"event_top", "transitionId":227, "seq":20, "detailList":[
+          {
+            "seq":1, "title":"イベントストーリーのオープニングを読もう", "description":"イベントTOPに移動して、イベントストーリーのオープニングを読もう", "maxProgress":1, "valueId":200148, "reward":{
+              "UNKNOWN_1":10000342, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"costume", "resourceId":1746, "quantity":1
+            }
+          }
+        ],
+        "labelText":"コラボ", "typeIndex":45
+      },
+      {
+        "missionId":10000343, "transitionMethod":"live", "transitionId":0, "seq":30, "detailList":[
+          {
+            "seq":1, "title":"カバー楽曲「CHAINSAW BLOOD」を1回クリアしよう", "description":"フリーライブもしくは、協力ライブの楽曲選択画面で「CHAINSAW BLOOD」を選択してライブをクリアしよう", "maxProgress":1, "valueId":200149, "reward":{
+              "UNKNOWN_1":10000343, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"coin", "resourceId":0, "quantity":10000
+            }
+          }
+        ],
+        "labelText":"コラボ", "typeIndex":28
+      },
+      {
+        "missionId":10000344, "transitionMethod":"live", "transitionId":0, "seq":40, "detailList":[
+          {
+            "seq":1, "title":"カバー楽曲「ファイトソング」を1回クリアしよう", "description":"フリーライブもしくは、協力ライブの楽曲選択画面で「ファイトソング」を選択してライブをクリアしよう", "maxProgress":1, "valueId":200150, "reward":{
+              "UNKNOWN_1":10000344, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"coin", "resourceId":0, "quantity":10000
+            }
+          }
+        ],
+        "labelText":"コラボ", "typeIndex":28
+      },
+      {
+        "missionId":10000345, "transitionMethod":"event_top", "transitionId":227, "seq":50, "detailList":[
+          {
+            "seq":1, "title":"「G.D.S. 本部」で「悪魔の肉片」を渡してアイテムを1個交換しよう", "description":"ライブで集めた「悪魔の肉片」を渡して、「G.D.S. 本部」でアイテムを1個交換しよう", "maxProgress":1, "valueId":200148, "reward":{
+              "UNKNOWN_1":10000345, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"live_boost_recovery_item", "resourceId":45, "quantity":1
+            }
+          }
+        ],
+        "labelText":"コラボ", "typeIndex":36
+      },
+      {
+        "missionId":10000346, "transitionMethod":"event_top", "transitionId":227, "seq":60, "detailList":[
+          {
+            "seq":1, "title":"イベントストーリーを全話読もう", "description":"イベントTOPに移動して、イベントストーリーを最後まで読もう", "maxProgress":7, "valueId":200148, "reward":{
+              "UNKNOWN_1":10000346, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"deco_pins_set", "resourceId":42, "quantity":1
+            }
+          }
+        ],
+        "labelText":"コラボ", "typeIndex":45
+      },
+      {
+        "missionId":10000347, "transitionMethod":"event_top", "transitionId":227, "seq":70, "detailList":[
+          {
+            "seq":1, "title":"累計イベントP報酬で★4[怯懦の悪魔狩り・リミ]牛込りみを獲得しよう", "description":"フリーライブもしくは、協力ライブでイベントPを集めて、累計イベントP300000の報酬★4[怯懦の悪魔狩り・リミ]牛込りみを獲得しよう", "maxProgress":300000, "reward":{
+              "UNKNOWN_1":10000347, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"live_boost_recovery_item", "resourceId":45, "quantity":1
+            }
+          }
+        ],
+        "labelText":"コラボ", "typeIndex":39
+      },
+      {
+        "missionId":10000348, "transitionMethod":"event_top", "transitionId":227, "seq":80, "detailList":[
+          {
+            "seq":1, "title":"累計イベントP報酬で★4[調和の悪魔狩り・ルイ]八潮瑠唯を獲得しよう", "description":"フリーライブもしくは、協力ライブでイベントPを集めて、累計イベントP500000の報酬★4[調和の悪魔狩り・ルイ]八潮瑠唯を獲得しよう", "maxProgress":500000, "reward":{
+              "UNKNOWN_1":10000348, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"live_boost_recovery_item", "resourceId":45, "quantity":1
+            }
+          }
+        ],
+        "labelText":"コラボ", "typeIndex":39
+      }
+    ],
+    "type":"limited"
+  },
+  {
     "missionGroupId":545, "missionResetType":"none", "startAt":1687327200000, "endAt":1688929199000, "rewardEndAt":1688929199000, "missionList":[
       {
         "missionId":10000349, "transitionMethod":"live", "transitionId":0, "seq":10, "detailList":[
@@ -7359,36 +7444,181 @@
     "type":"limited"
   },
   {
-    "missionGroupId":546, "missionResetType":"none", "startAt":1687327200000, "endAt":1687931999000, "rewardEndAt":1687931999000, "missionList":[
+    "missionGroupId":1038, "missionResetType":"none", "startAt":1688104800000, "endAt":1688817599000, "rewardEndAt":1688968799000, "eventId":227, "tabLabel":"イベント", "missionList":[
       {
-        "missionId":10000360, "transitionMethod":"live", "transitionId":0, "seq":5, "detailList":[
+        "missionId":10256, "transitionMethod":"live", "transitionId":0, "seq":1020, "detailList":[
           {
-            "seq":1, "title":"楽曲「ティアドロップス」を3Dライブモードで1回クリアしよう", "description":"楽曲「ティアドロップス」を3Dライブモードで1回クリアしよう", "maxProgress":1, "valueId":200151, "reward":{
-              "UNKNOWN_1":10000360, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":25
+            "seq":1, "title":"FULL COMBOを1回達成しよう", "description":"FULL COMBOを1回達成しよう", "maxProgress":1, "reward":{
+              "UNKNOWN_1":10256, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"live_boost_recovery_item", "resourceId":1, "quantity":5
+            }
+          },
+          {
+            "seq":2, "title":"FULL COMBOを3回達成しよう", "description":"FULL COMBOを3回達成しよう", "maxProgress":3, "reward":{
+              "UNKNOWN_1":10256, "UNKNOWN_2":2, "UNKNOWN_3":1, "resourceType":"live_boost_recovery_item", "resourceId":1, "quantity":5
+            }
+          },
+          {
+            "seq":3, "title":"FULL COMBOを5回達成しよう", "description":"FULL COMBOを5回達成しよう", "maxProgress":5, "reward":{
+              "UNKNOWN_1":10256, "UNKNOWN_2":3, "UNKNOWN_3":1, "resourceType":"live_boost_recovery_item", "resourceId":1, "quantity":5
             }
           }
         ],
-        "labelText":"期間限定", "typeIndex":98
+        "typeIndex":31
       },
       {
-        "missionId":10000361, "transitionMethod":"live", "transitionId":0, "seq":6, "detailList":[
+        "missionId":10257, "transitionMethod":"live", "transitionId":0, "seq":1030, "detailList":[
           {
-            "seq":1, "title":"楽曲「ティアドロップス」を3Dライブモードで3回クリアしよう", "description":"楽曲「ティアドロップス」を3Dライブモードで3回クリアしよう", "maxProgress":3, "valueId":200151, "reward":{
-              "UNKNOWN_1":10000361, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":25
+            "seq":1, "title":"ライブを1回クリアしよう", "description":"ライブを1回クリアしよう", "maxProgress":1, "reward":{
+              "UNKNOWN_1":10257, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":25
+            }
+          },
+          {
+            "seq":2, "title":"ライブを3回クリアしよう", "description":"ライブを3回クリアしよう", "maxProgress":3, "reward":{
+              "UNKNOWN_1":10257, "UNKNOWN_2":2, "UNKNOWN_3":1, "resourceType":"practice_ticket", "resourceId":3, "quantity":5
+            }
+          },
+          {
+            "seq":3, "title":"ライブを5回クリアしよう", "description":"ライブを5回クリアしよう", "maxProgress":5, "reward":{
+              "UNKNOWN_1":10257, "UNKNOWN_2":3, "UNKNOWN_3":1, "resourceType":"practice_ticket", "resourceId":3, "quantity":5
+            }
+          },
+          {
+            "seq":4, "title":"ライブを10回クリアしよう", "description":"ライブを10回クリアしよう", "maxProgress":10, "reward":{
+              "UNKNOWN_1":10257, "UNKNOWN_2":4, "UNKNOWN_3":1, "resourceType":"practice_ticket", "resourceId":3, "quantity":5
+            }
+          },
+          {
+            "seq":5, "title":"ライブを20回クリアしよう", "description":"ライブを20回クリアしよう", "maxProgress":20, "reward":{
+              "UNKNOWN_1":10257, "UNKNOWN_2":5, "UNKNOWN_3":1, "resourceType":"practice_ticket", "resourceId":3, "quantity":10
+            }
+          },
+          {
+            "seq":6, "title":"ライブを30回クリアしよう", "description":"ライブを30回クリアしよう", "maxProgress":30, "reward":{
+              "UNKNOWN_1":10257, "UNKNOWN_2":6, "UNKNOWN_3":1, "resourceType":"practice_ticket", "resourceId":3, "quantity":10
+            }
+          },
+          {
+            "seq":7, "title":"ライブを40回クリアしよう", "description":"ライブを40回クリアしよう", "maxProgress":40, "reward":{
+              "UNKNOWN_1":10257, "UNKNOWN_2":7, "UNKNOWN_3":1, "resourceType":"practice_ticket", "resourceId":3, "quantity":10
+            }
+          },
+          {
+            "seq":8, "title":"ライブを50回クリアしよう", "description":"ライブを50回クリアしよう", "maxProgress":50, "reward":{
+              "UNKNOWN_1":10257, "UNKNOWN_2":8, "UNKNOWN_3":1, "resourceType":"practice_ticket", "resourceId":3, "quantity":10
             }
           }
         ],
-        "labelText":"期間限定", "typeIndex":98
+        "typeIndex":40
       },
       {
-        "missionId":10000362, "transitionMethod":"live", "transitionId":0, "seq":7, "detailList":[
+        "missionId":10258, "transitionMethod":"live", "transitionId":0, "seq":1040, "detailList":[
           {
-            "seq":1, "title":"3Dライブモードを5回クリアしよう", "description":"3Dライブモードを5回クリアしよう", "maxProgress":5, "reward":{
-              "UNKNOWN_1":10000362, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"costume_3d_making_item", "resourceId":1, "quantity":5
+            "seq":1, "title":"リズムアイコンを合計50回タップしよう", "description":"リズムアイコンを合計50回タップしよう", "maxProgress":50, "reward":{
+              "UNKNOWN_1":10258, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":25
+            }
+          },
+          {
+            "seq":2, "title":"リズムアイコンを合計500回タップしよう", "description":"リズムアイコンを合計500回タップしよう", "maxProgress":500, "reward":{
+              "UNKNOWN_1":10258, "UNKNOWN_2":2, "UNKNOWN_3":1, "resourceType":"coin", "resourceId":0, "quantity":5000
+            }
+          },
+          {
+            "seq":3, "title":"リズムアイコンを合計1500回タップしよう", "description":"リズムアイコンを合計1500回タップしよう", "maxProgress":1500, "reward":{
+              "UNKNOWN_1":10258, "UNKNOWN_2":3, "UNKNOWN_3":1, "resourceType":"coin", "resourceId":0, "quantity":10000
+            }
+          },
+          {
+            "seq":4, "title":"リズムアイコンを合計3000回タップしよう", "description":"リズムアイコンを合計3000回タップしよう", "maxProgress":3000, "reward":{
+              "UNKNOWN_1":10258, "UNKNOWN_2":4, "UNKNOWN_3":1, "resourceType":"coin", "resourceId":0, "quantity":10000
+            }
+          },
+          {
+            "seq":5, "title":"リズムアイコンを合計5000回タップしよう", "description":"リズムアイコンを合計5000回タップしよう", "maxProgress":5000, "reward":{
+              "UNKNOWN_1":10258, "UNKNOWN_2":5, "UNKNOWN_3":1, "resourceType":"coin", "resourceId":0, "quantity":20000
+            }
+          },
+          {
+            "seq":6, "title":"リズムアイコンを合計7000回タップしよう", "description":"リズムアイコンを合計7000回タップしよう", "maxProgress":7000, "reward":{
+              "UNKNOWN_1":10258, "UNKNOWN_2":6, "UNKNOWN_3":1, "resourceType":"coin", "resourceId":0, "quantity":20000
+            }
+          },
+          {
+            "seq":7, "title":"リズムアイコンを合計10000回タップしよう", "description":"リズムアイコンを合計10000回タップしよう", "maxProgress":10000, "reward":{
+              "UNKNOWN_1":10258, "UNKNOWN_2":7, "UNKNOWN_3":1, "resourceType":"coin", "resourceId":0, "quantity":20000
+            }
+          },
+          {
+            "seq":8, "title":"リズムアイコンを合計13000回タップしよう", "description":"リズムアイコンを合計13000回タップしよう", "maxProgress":13000, "reward":{
+              "UNKNOWN_1":10258, "UNKNOWN_2":8, "UNKNOWN_3":1, "resourceType":"coin", "resourceId":0, "quantity":30000
+            }
+          },
+          {
+            "seq":9, "title":"リズムアイコンを合計16000回タップしよう", "description":"リズムアイコンを合計16000回タップしよう", "maxProgress":16000, "reward":{
+              "UNKNOWN_1":10258, "UNKNOWN_2":9, "UNKNOWN_3":1, "resourceType":"coin", "resourceId":0, "quantity":30000
+            }
+          },
+          {
+            "seq":10, "title":"リズムアイコンを合計20000回タップしよう", "description":"リズムアイコンを合計20000回タップしよう", "maxProgress":20000, "reward":{
+              "UNKNOWN_1":10258, "UNKNOWN_2":10, "UNKNOWN_3":1, "resourceType":"coin", "resourceId":0, "quantity":30000
             }
           }
         ],
-        "labelText":"期間限定", "typeIndex":98
+        "typeIndex":32
+      },
+      {
+        "missionId":10259, "transitionMethod":"live", "transitionId":0, "seq":1050, "detailList":[
+          {
+            "seq":1, "title":"リズムアイコンをPERFECTで40回タップしよう", "description":"リズムアイコンをPERFECTで40回タップしよう", "maxProgress":40, "reward":{
+              "UNKNOWN_1":10259, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":25
+            }
+          },
+          {
+            "seq":2, "title":"リズムアイコンをPERFECTで400回タップしよう", "description":"リズムアイコンをPERFECTで400回タップしよう", "maxProgress":400, "reward":{
+              "UNKNOWN_1":10259, "UNKNOWN_2":2, "UNKNOWN_3":1, "resourceType":"coin", "resourceId":0, "quantity":5000
+            }
+          },
+          {
+            "seq":3, "title":"リズムアイコンをPERFECTで1000回タップしよう", "description":"リズムアイコンをPERFECTで1000回タップしよう", "maxProgress":1000, "reward":{
+              "UNKNOWN_1":10259, "UNKNOWN_2":3, "UNKNOWN_3":1, "resourceType":"coin", "resourceId":0, "quantity":10000
+            }
+          },
+          {
+            "seq":4, "title":"リズムアイコンをPERFECTで2000回タップしよう", "description":"リズムアイコンをPERFECTで2000回タップしよう", "maxProgress":2000, "reward":{
+              "UNKNOWN_1":10259, "UNKNOWN_2":4, "UNKNOWN_3":1, "resourceType":"coin", "resourceId":0, "quantity":10000
+            }
+          },
+          {
+            "seq":5, "title":"リズムアイコンをPERFECTで4000回タップしよう", "description":"リズムアイコンをPERFECTで4000回タップしよう", "maxProgress":4000, "reward":{
+              "UNKNOWN_1":10259, "UNKNOWN_2":5, "UNKNOWN_3":1, "resourceType":"coin", "resourceId":0, "quantity":20000
+            }
+          },
+          {
+            "seq":6, "title":"リズムアイコンをPERFECTで6000回タップしよう", "description":"リズムアイコンをPERFECTで6000回タップしよう", "maxProgress":6000, "reward":{
+              "UNKNOWN_1":10259, "UNKNOWN_2":6, "UNKNOWN_3":1, "resourceType":"coin", "resourceId":0, "quantity":20000
+            }
+          },
+          {
+            "seq":7, "title":"リズムアイコンをPERFECTで8000回タップしよう", "description":"リズムアイコンをPERFECTで8000回タップしよう", "maxProgress":8000, "reward":{
+              "UNKNOWN_1":10259, "UNKNOWN_2":7, "UNKNOWN_3":1, "resourceType":"coin", "resourceId":0, "quantity":20000
+            }
+          },
+          {
+            "seq":8, "title":"リズムアイコンをPERFECTで10000回タップしよう", "description":"リズムアイコンをPERFECTで10000回タップしよう", "maxProgress":10000, "reward":{
+              "UNKNOWN_1":10259, "UNKNOWN_2":8, "UNKNOWN_3":1, "resourceType":"coin", "resourceId":0, "quantity":30000
+            }
+          },
+          {
+            "seq":9, "title":"リズムアイコンをPERFECTで12000回タップしよう", "description":"リズムアイコンをPERFECTで12000回タップしよう", "maxProgress":12000, "reward":{
+              "UNKNOWN_1":10259, "UNKNOWN_2":9, "UNKNOWN_3":1, "resourceType":"coin", "resourceId":0, "quantity":30000
+            }
+          },
+          {
+            "seq":10, "title":"リズムアイコンをPERFECTで15000回タップしよう", "description":"リズムアイコンをPERFECTで15000回タップしよう", "maxProgress":15000, "reward":{
+              "UNKNOWN_1":10259, "UNKNOWN_2":10, "UNKNOWN_3":1, "resourceType":"coin", "resourceId":0, "quantity":30000
+            }
+          }
+        ],
+        "typeIndex":33
       }
     ],
     "type":"limited"
