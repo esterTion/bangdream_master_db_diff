@@ -1003,6 +1003,57 @@
     ],
     "seq":27, "purchaseMenuId":4, "homeBalloonPriority":60, "homeBalloonMessage":"毎月買えるお得なスター♪"
   },
+  "1068":{
+    "purchaseId":1068, "purchaseCategory":"item_set", "productName":"エンジョイサマー！アイテムセット", "description":"2023年の夏を記念したお得なアイテムセット", "purchaseLimit":1, "publishedAt":1689314400000, "closedAt":1691992799000, "detail":[
+      {
+        "purchaseId":1068, "seq":1, "resourceType":"paid_star", "quantity":2500
+      },
+      {
+        "purchaseId":1068, "seq":2, "resourceType":"limit_break_item", "resourceId":1, "quantity":100
+      },
+      {
+        "purchaseId":1068, "seq":3, "resourceType":"costume_3d_making_item", "resourceId":1, "quantity":100
+      },
+      {
+        "purchaseId":1068, "seq":4, "resourceType":"practice_ticket", "resourceId":4, "quantity":50
+      },
+      {
+        "purchaseId":1068, "seq":5, "resourceType":"practice_ticket", "resourceId":7, "quantity":15
+      },
+      {
+        "purchaseId":1068, "seq":6, "resourceType":"item", "resourceId":14, "quantity":10
+      },
+      {
+        "purchaseId":1068, "seq":7, "resourceType":"item", "resourceId":9, "quantity":50
+      },
+      {
+        "purchaseId":1068, "seq":8, "resourceType":"item", "resourceId":10, "quantity":50
+      },
+      {
+        "purchaseId":1068, "seq":9, "resourceType":"item", "resourceId":11, "quantity":50
+      },
+      {
+        "purchaseId":1068, "seq":10, "resourceType":"item", "resourceId":12, "quantity":50
+      },
+      {
+        "purchaseId":1068, "seq":11, "resourceType":"item", "resourceId":5, "quantity":500
+      },
+      {
+        "purchaseId":1068, "seq":12, "resourceType":"item", "resourceId":6, "quantity":500
+      },
+      {
+        "purchaseId":1068, "seq":13, "resourceType":"item", "resourceId":7, "quantity":500
+      },
+      {
+        "purchaseId":1068, "seq":14, "resourceType":"item", "resourceId":8, "quantity":500
+      }
+    ],
+    "seq":12, "purchaseMenuId":2, "recommends":[
+      {
+        "assetBundleName":"item_set_2023summer", "seq":10
+      }
+    ]
+  },
   "44":{
     "purchaseId":44, "purchaseCategory":"limited_term", "productName":"ハッピーハロウィンキャンペーン", "description":"[505050FF]２０００個[-]", "label":"キャンペーン", "purchaseLimit":5, "publishedAt":1569823200000, "closedAt":1570514399000, "detail":[
       {
