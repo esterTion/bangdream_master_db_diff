@@ -7452,5 +7452,40 @@
       }
     ],
     "type":"limited"
+  },
+  {
+    "missionGroupId":550, "missionResetType":"none", "startAt":1693461600000, "endAt":1694066399000, "rewardEndAt":1694066399000, "missionList":[
+      {
+        "missionId":10000408, "transitionMethod":"live", "transitionId":0, "seq":5, "detailList":[
+          {
+            "seq":1, "title":"楽曲「灼熱 Bonfire!」を3Dライブモードで1回クリアしよう", "description":"楽曲「灼熱 Bonfire!」を3Dライブモードで1回クリアしよう", "maxProgress":1, "valueId":200173, "reward":{
+              "UNKNOWN_1":10000408, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":25
+            }
+          }
+        ],
+        "labelText":"3Dライブ", "typeIndex":98
+      },
+      {
+        "missionId":10000409, "transitionMethod":"live", "transitionId":0, "seq":6, "detailList":[
+          {
+            "seq":1, "title":"楽曲「灼熱 Bonfire!」を3Dライブモードで3回クリアしよう", "description":"楽曲「灼熱 Bonfire!」を3Dライブモードで3回クリアしよう", "maxProgress":3, "valueId":200173, "reward":{
+              "UNKNOWN_1":10000409, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":25
+            }
+          }
+        ],
+        "labelText":"3Dライブ", "typeIndex":98
+      },
+      {
+        "missionId":10000410, "transitionMethod":"live", "transitionId":0, "seq":7, "detailList":[
+          {
+            "seq":1, "title":"3Dライブモードを5回クリアしよう", "description":"3Dライブモードを5回クリアしよう", "maxProgress":5, "reward":{
+              "UNKNOWN_1":10000410, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"costume_3d_making_item", "resourceId":1, "quantity":5
+            }
+          }
+        ],
+        "labelText":"3Dライブ", "typeIndex":98
+      }
+    ],
+    "type":"limited"
   }
 ]
