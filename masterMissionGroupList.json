@@ -7229,36 +7229,131 @@
     "type":"ex_mission"
   },
   {
-    "missionGroupId":550, "missionResetType":"none", "startAt":1693461600000, "endAt":1694066399000, "rewardEndAt":1694066399000, "missionList":[
+    "missionGroupId":551, "missionResetType":"none", "startAt":1694152800000, "endAt":1694757599000, "rewardEndAt":1694757599000, "missionList":[
       {
-        "missionId":10000408, "transitionMethod":"live", "transitionId":0, "seq":5, "detailList":[
+        "missionId":10000411, "transitionMethod":"live", "transitionId":0, "seq":5, "detailList":[
           {
-            "seq":1, "title":"楽曲「灼熱 Bonfire!」を3Dライブモードで1回クリアしよう", "description":"楽曲「灼熱 Bonfire!」を3Dライブモードで1回クリアしよう", "maxProgress":1, "valueId":200173, "reward":{
-              "UNKNOWN_1":10000408, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":25
+            "seq":1, "title":"楽曲「Ringing Bloom」を3Dライブモードで1回クリアしよう", "description":"楽曲「Ringing Bloom」を3Dライブモードで1回クリアしよう", "maxProgress":1, "valueId":200174, "reward":{
+              "UNKNOWN_1":10000411, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":25
             }
           }
         ],
         "labelText":"3Dライブ", "typeIndex":98
       },
       {
-        "missionId":10000409, "transitionMethod":"live", "transitionId":0, "seq":6, "detailList":[
+        "missionId":10000412, "transitionMethod":"live", "transitionId":0, "seq":6, "detailList":[
           {
-            "seq":1, "title":"楽曲「灼熱 Bonfire!」を3Dライブモードで3回クリアしよう", "description":"楽曲「灼熱 Bonfire!」を3Dライブモードで3回クリアしよう", "maxProgress":3, "valueId":200173, "reward":{
-              "UNKNOWN_1":10000409, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":25
+            "seq":1, "title":"楽曲「Ringing Bloom」を3Dライブモードで3回クリアしよう", "description":"楽曲「Ringing Bloom」を3Dライブモードで3回クリアしよう", "maxProgress":3, "valueId":200174, "reward":{
+              "UNKNOWN_1":10000412, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":25
             }
           }
         ],
         "labelText":"3Dライブ", "typeIndex":98
       },
       {
-        "missionId":10000410, "transitionMethod":"live", "transitionId":0, "seq":7, "detailList":[
+        "missionId":10000413, "transitionMethod":"live", "transitionId":0, "seq":7, "detailList":[
           {
             "seq":1, "title":"3Dライブモードを5回クリアしよう", "description":"3Dライブモードを5回クリアしよう", "maxProgress":5, "reward":{
-              "UNKNOWN_1":10000410, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"costume_3d_making_item", "resourceId":1, "quantity":5
+              "UNKNOWN_1":10000413, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"costume_3d_making_item", "resourceId":1, "quantity":5
             }
           }
         ],
         "labelText":"3Dライブ", "typeIndex":98
+      }
+    ],
+    "type":"limited"
+  },
+  {
+    "missionGroupId":552, "missionResetType":"none", "startAt":1694152800000, "endAt":1695967199000, "rewardEndAt":1695967199000, "missionList":[
+      {
+        "missionId":10000414, "transitionMethod":"live", "transitionId":0, "seq":20, "detailList":[
+          {
+            "seq":1, "title":"オリジナル楽曲「音がえしのセレナーデ」を1回クリアしよう", "description":"オリジナル楽曲「音がえしのセレナーデ」を1回クリアしよう", "maxProgress":1, "valueId":200175, "reward":{
+              "UNKNOWN_1":10000414, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"coin", "resourceId":0, "quantity":25000
+            }
+          }
+        ],
+        "labelText":"期間限定", "typeIndex":28
+      },
+      {
+        "missionId":10000415, "transitionMethod":"live", "transitionId":0, "seq":30, "detailList":[
+          {
+            "seq":1, "title":"カバー楽曲「祝福」を1回クリアしよう", "description":"カバー楽曲「祝福」を1回クリアしよう", "maxProgress":1, "valueId":200176, "reward":{
+              "UNKNOWN_1":10000415, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"coin", "resourceId":0, "quantity":25000
+            }
+          }
+        ],
+        "labelText":"期間限定", "typeIndex":28
+      },
+      {
+        "missionId":10000416, "transitionMethod":"live", "transitionId":0, "startAt":1694239200000, "seq":40, "detailList":[
+          {
+            "seq":1, "title":"カバー楽曲「可愛くてごめん」を1回クリアしよう", "description":"カバー楽曲「可愛くてごめん」を1回クリアしよう", "maxProgress":1, "valueId":200177, "reward":{
+              "UNKNOWN_1":10000416, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"coin", "resourceId":0, "quantity":25000
+            }
+          }
+        ],
+        "labelText":"期間限定", "typeIndex":28
+      },
+      {
+        "missionId":10000417, "transitionMethod":"live", "transitionId":0, "startAt":1694325600000, "seq":50, "detailList":[
+          {
+            "seq":1, "title":"カバー楽曲「エゴロック」を1回クリアしよう", "description":"カバー楽曲「エゴロック」を1回クリアしよう", "maxProgress":1, "valueId":200178, "reward":{
+              "UNKNOWN_1":10000417, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"coin", "resourceId":0, "quantity":25000
+            }
+          }
+        ],
+        "labelText":"期間限定", "typeIndex":28
+      },
+      {
+        "missionId":10000418, "transitionMethod":"live", "transitionId":0, "startAt":1694412000000, "seq":60, "detailList":[
+          {
+            "seq":1, "title":"カバー楽曲「D-tecnoLife」を1回クリアしよう", "description":"カバー楽曲「D-tecnoLife」を1回クリアしよう", "maxProgress":1, "valueId":200179, "reward":{
+              "UNKNOWN_1":10000418, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"coin", "resourceId":0, "quantity":25000
+            }
+          }
+        ],
+        "labelText":"期間限定", "typeIndex":28
+      },
+      {
+        "missionId":10000419, "transitionMethod":"live", "transitionId":0, "startAt":1694498400000, "seq":70, "detailList":[
+          {
+            "seq":1, "title":"カバー楽曲「サウダージ」を1回クリアしよう", "description":"カバー楽曲「サウダージ」を1回クリアしよう", "maxProgress":1, "valueId":200180, "reward":{
+              "UNKNOWN_1":10000419, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"coin", "resourceId":0, "quantity":25000
+            }
+          }
+        ],
+        "labelText":"期間限定", "typeIndex":28
+      },
+      {
+        "missionId":10000420, "transitionMethod":"live", "transitionId":0, "startAt":1694584800000, "seq":80, "detailList":[
+          {
+            "seq":1, "title":"カバー楽曲「ヒバナ-Reloaded-」を1回クリアしよう", "description":"カバー楽曲「ヒバナ-Reloaded-」を1回クリアしよう", "maxProgress":1, "valueId":200181, "reward":{
+              "UNKNOWN_1":10000420, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"coin", "resourceId":0, "quantity":25000
+            }
+          }
+        ],
+        "labelText":"期間限定", "typeIndex":28
+      },
+      {
+        "missionId":10000421, "transitionMethod":"live", "transitionId":0, "startAt":1694671200000, "seq":90, "detailList":[
+          {
+            "seq":1, "title":"カバー楽曲「トウキョウ・シャンディ・ランデヴ」を1回クリアしよう", "description":"カバー楽曲「トウキョウ・シャンディ・ランデヴ」を1回クリアしよう", "maxProgress":1, "valueId":200182, "reward":{
+              "UNKNOWN_1":10000421, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"coin", "resourceId":0, "quantity":25000
+            }
+          }
+        ],
+        "labelText":"期間限定", "typeIndex":28
+      },
+      {
+        "missionId":10000422, "transitionMethod":"live", "transitionId":0, "startAt":1694757600000, "seq":100, "detailList":[
+          {
+            "seq":1, "title":"オリジナル楽曲「Be born」を1回クリアしよう", "description":"オリジナル楽曲「Be born」を1回クリアしよう", "maxProgress":1, "valueId":200183, "reward":{
+              "UNKNOWN_1":10000422, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"coin", "resourceId":0, "quantity":25000
+            }
+          }
+        ],
+        "labelText":"期間限定", "typeIndex":28
       }
     ],
     "type":"limited"
