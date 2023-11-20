@@ -1,1 +1,202 @@
-[]
+{
+  "241":{
+    "eventId":241, "attributes":[
+      {
+        "eventId":241, "attribute":"cool", "percent":10
+      }
+    ],
+    "characters":[
+      {
+        "eventId":241, "characterId":1, "percent":20, "seq":2
+      },
+      {
+        "eventId":241, "characterId":2, "percent":20, "seq":1
+      },
+      {
+        "eventId":241, "characterId":3, "percent":20, "seq":4
+      },
+      {
+        "eventId":241, "characterId":4, "percent":20, "seq":5
+      },
+      {
+        "eventId":241, "characterId":5, "percent":20, "seq":3
+      }
+    ],
+    "stories":[
+      {
+        "eventId":241, "seq":0, "caption":"オープニング", "title":"違和感", "synopsis":"蔵で差し入れのパンを食べるポピパ。いつも\n通りパンをほおばるたえだったが……？", "scenarioId":"event241-01", "coverImage":"241_0", "backgroundImage":"0", "releasePt":0, "releaseConditions":"オープニングシナリオ", "backgroundImageId":39, "mainStoryId":0, "rewards":[
+          {
+            "id":3726, "eventId":241, "seq":0, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3727, "eventId":241, "seq":0, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":241, "seq":1, "caption":"第１話", "title":"たえの悩みごと", "synopsis":"朝から様子がおかしいたえ。香澄たちが\n心配するなか、衝撃の事実を告げる。", "scenarioId":"event241-02", "coverImage":"241_1", "backgroundImage":"0", "releasePt":3000, "releaseConditions":"3000イベントP達成", "backgroundImageId":105, "mainStoryId":0, "rewards":[
+          {
+            "id":3728, "eventId":241, "seq":1, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3729, "eventId":241, "seq":1, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":241, "seq":2, "caption":"第２話", "title":"香澄の思いつき", "synopsis":"怖くて歯医者に行けないというたえ。\nたえのために香澄たちが立ち上がり――", "scenarioId":"event241-03", "coverImage":"241_2", "backgroundImage":"0", "releasePt":6000, "releaseConditions":"6000イベントP達成", "backgroundImageId":39, "mainStoryId":0, "rewards":[
+          {
+            "id":3730, "eventId":241, "seq":2, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3731, "eventId":241, "seq":2, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":241, "seq":3, "caption":"第３話", "title":"ハンバーグの上の目玉焼き", "synopsis":"歯医者の克服方法を探すポピパ一同。だが、\n何をしてもたえは怖がっていて……？", "scenarioId":"event241-04", "coverImage":"241_3", "backgroundImage":"0", "releasePt":15000, "releaseConditions":"15000イベントP達成", "backgroundImageId":39, "mainStoryId":0, "rewards":[
+          {
+            "id":3732, "eventId":241, "seq":3, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3733, "eventId":241, "seq":3, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":241, "seq":4, "caption":"第４話", "title":"絶好の歯医者日和", "synopsis":"ドリルの音を克服し、意気揚々と\n歯医者に向かうたえだったが――", "scenarioId":"event241-05", "coverImage":"241_4", "backgroundImage":"0", "releasePt":28000, "releaseConditions":"28000イベントP達成", "backgroundImageId":5, "mainStoryId":0, "rewards":[
+          {
+            "id":3734, "eventId":241, "seq":4, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3735, "eventId":241, "seq":4, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":241, "seq":5, "caption":"第５話", "title":"がんばれ、おたえ！", "synopsis":"ついに虫歯を治すことを決心したたえ。\n前日、みんなでたえの家にお泊りをする。", "scenarioId":"event241-06", "coverImage":"241_5", "backgroundImage":"0", "releasePt":40000, "releaseConditions":"40000イベントP達成", "backgroundImageId":220, "mainStoryId":0, "rewards":[
+          {
+            "id":3736, "eventId":241, "seq":5, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3737, "eventId":241, "seq":5, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":241, "seq":6, "caption":"エンディング", "title":"たえの新しい一面", "synopsis":"無事歯の治療を終えたたえ。\nみんなでたえを祝福し、喜び合う。", "scenarioId":"event241-07", "coverImage":"241_6", "backgroundImage":"0", "releasePt":55000, "releaseConditions":"55000イベントP達成", "backgroundImageId":41, "mainStoryId":0, "rewards":[
+          {
+            "id":3738, "eventId":241, "seq":6, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3739, "eventId":241, "seq":6, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      }
+    ],
+    "eventAttributeAndCharacterBonus":{
+      "eventId":241, "pointPercent":20, "parameterPercent":0
+    },
+    "members":{
+      "1857":{
+        "eventId":241, "situationId":1857, "percent":20, "seq":1
+      },
+      "1858":{
+        "eventId":241, "situationId":1858, "percent":20, "seq":2
+      },
+      "1861":{
+        "eventId":241, "situationId":1861, "percent":20, "seq":3
+      }
+    },
+    "limitBreaks":{
+      "1":[
+        {
+          "rarity":1, "rank":0, "percent":0
+        },
+        {
+          "rarity":1, "rank":1, "percent":0.2
+        },
+        {
+          "rarity":1, "rank":2, "percent":0.3
+        },
+        {
+          "rarity":1, "rank":3, "percent":0.4
+        },
+        {
+          "rarity":1, "rank":4, "percent":0.5
+        }
+      ],
+      "2":[
+        {
+          "rarity":2, "rank":0, "percent":0
+        },
+        {
+          "rarity":2, "rank":1, "percent":0.4
+        },
+        {
+          "rarity":2, "rank":2, "percent":0.6
+        },
+        {
+          "rarity":2, "rank":3, "percent":0.8
+        },
+        {
+          "rarity":2, "rank":4, "percent":1
+        }
+      ],
+      "3":[
+        {
+          "rarity":3, "rank":0, "percent":0
+        },
+        {
+          "rarity":3, "rank":1, "percent":1
+        },
+        {
+          "rarity":3, "rank":2, "percent":2
+        },
+        {
+          "rarity":3, "rank":3, "percent":3
+        },
+        {
+          "rarity":3, "rank":4, "percent":4
+        }
+      ],
+      "4":[
+        {
+          "rarity":4, "rank":0, "percent":0
+        },
+        {
+          "rarity":4, "rank":1, "percent":3
+        },
+        {
+          "rarity":4, "rank":2, "percent":4
+        },
+        {
+          "rarity":4, "rank":3, "percent":5
+        },
+        {
+          "rarity":4, "rank":4, "percent":6
+        }
+      ],
+      "5":[
+        {
+          "rarity":5, "rank":0, "percent":0
+        },
+        {
+          "rarity":5, "rank":1, "percent":12
+        },
+        {
+          "rarity":5, "rank":2, "percent":13
+        },
+        {
+          "rarity":5, "rank":3, "percent":14
+        },
+        {
+          "rarity":5, "rank":4, "percent":15
+        }
+      ]
+    },
+    "threshold":{
+      "eventType":"mission_live", "threshold1":50, "threshold2":70
+    }
+  }
+}
