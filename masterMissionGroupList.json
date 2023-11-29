@@ -7741,6 +7741,41 @@
     "type":"ex_mission"
   },
   {
+    "missionGroupId":556, "missionResetType":"none", "startAt":1701324000000, "endAt":1701928799000, "rewardEndAt":1701928799000, "tabLabel":"期間限定", "missionList":[
+      {
+        "missionId":10000448, "transitionMethod":"live", "transitionId":0, "seq":150, "detailList":[
+          {
+            "seq":1, "title":"楽曲「わちゃ・もちゃ・ぺったん行進曲」を3Dライブモードで1回クリアしよう", "description":"楽曲「わちゃ・もちゃ・ぺったん行進曲」を3Dライブモードで1回クリアしよう", "maxProgress":1, "valueId":200201, "reward":{
+              "UNKNOWN_1":10000448, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":25
+            }
+          }
+        ],
+        "labelText":"3Dライブ", "typeIndex":98
+      },
+      {
+        "missionId":10000449, "transitionMethod":"live", "transitionId":0, "seq":160, "detailList":[
+          {
+            "seq":1, "title":"楽曲「わちゃ・もちゃ・ぺったん行進曲」を3Dライブモードで3回クリアしよう", "description":"楽曲「わちゃ・もちゃ・ぺったん行進曲」を3Dライブモードで3回クリアしよう", "maxProgress":3, "valueId":200201, "reward":{
+              "UNKNOWN_1":10000449, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"star", "resourceId":0, "quantity":25
+            }
+          }
+        ],
+        "labelText":"3Dライブ", "typeIndex":98
+      },
+      {
+        "missionId":10000450, "transitionMethod":"live", "transitionId":0, "seq":170, "detailList":[
+          {
+            "seq":1, "title":"3Dライブモードを5回クリアしよう", "description":"3Dライブモードを5回クリアしよう", "maxProgress":5, "reward":{
+              "UNKNOWN_1":10000450, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"costume_3d_making_item", "resourceId":1, "quantity":5
+            }
+          }
+        ],
+        "labelText":"3Dライブ", "typeIndex":98
+      }
+    ],
+    "type":"limited"
+  },
+  {
     "missionGroupId":1041, "missionResetType":"none", "startAt":1700460000000, "endAt":1701172799000, "rewardEndAt":1701323999000, "eventId":241, "tabLabel":"イベント", "missionList":[
       {
         "missionId":10278, "transitionMethod":"live", "transitionId":0, "seq":10, "detailList":[
