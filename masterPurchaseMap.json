@@ -1608,6 +1608,14 @@
     ],
     "seq":50, "purchaseMenuId":1, "homeBalloonPriority":40, "homeBalloonMessage":"コラボ記念ハッピーBOX♪"
   },
+  "1091":{
+    "purchaseId":1091, "purchaseCategory":"limited_term", "productName":"コラボ開催記念お得なスター①", "description":"[505050FF]１２２０個（７８０個 [-][FF3B72FF]＋ ４４０個[-][505050FF]）[-]", "label":"キャンペーン", "purchaseLimit":2, "publishedAt":1701842400000, "closedAt":1707717599000, "detail":[
+      {
+        "purchaseId":1091, "seq":1, "resourceType":"paid_star", "quantity":1220
+      }
+    ],
+    "seq":22, "purchaseMenuId":4, "homeBalloonPriority":40, "homeBalloonMessage":"お得なスターキャンペーン♪"
+  },
   "67":{
     "purchaseId":67, "purchaseCategory":"limited_term", "productName":"特別キャンペーン①", "description":"[505050FF]１２００個（７６０個 [-][FF3B72FF]＋ ４４０個[-][505050FF]）[-]", "label":"キャンペーン", "purchaseLimit":2, "publishedAt":1604124000000, "closedAt":1604987999000, "detail":[
       {
@@ -1615,6 +1623,14 @@
       }
     ],
     "seq":22, "purchaseMenuId":4, "homeBalloonPriority":30, "homeBalloonMessage":"お得なスターキャンペーン♪"
+  },
+  "1092":{
+    "purchaseId":1092, "purchaseCategory":"limited_term", "productName":"コラボ開催記念お得なスター②", "description":"[505050FF]４１５０個（２７００個 [-][FF3B72FF]＋ １４５０個[-][505050FF]）[-]", "label":"キャンペーン", "purchaseLimit":2, "publishedAt":1701842400000, "closedAt":1707717599000, "detail":[
+      {
+        "purchaseId":1092, "seq":1, "resourceType":"paid_star", "quantity":4150
+      }
+    ],
+    "seq":23, "purchaseMenuId":4, "homeBalloonPriority":40, "homeBalloonMessage":"お得なスターキャンペーン♪"
   },
   "68":{
     "purchaseId":68, "purchaseCategory":"limited_term", "productName":"特別キャンペーン②", "description":"[505050FF]４０００個（２６５０個 [-][FF3B72FF]＋ １３５０個[-][505050FF]）[-]", "label":"キャンペーン", "purchaseLimit":2, "publishedAt":1604124000000, "closedAt":1604987999000, "detail":[
@@ -1624,6 +1640,14 @@
     ],
     "seq":23, "purchaseMenuId":4, "homeBalloonPriority":30, "homeBalloonMessage":"お得なスターキャンペーン♪"
   },
+  "1093":{
+    "purchaseId":1093, "purchaseCategory":"limited_term", "productName":"コラボ開催記念お得なスター③", "description":"[505050FF]６０００個（４０５０個 [-][FF3B72FF]＋ １９５０個[-][505050FF]）[-]", "label":"キャンペーン", "purchaseLimit":2, "publishedAt":1701842400000, "closedAt":1707717599000, "detail":[
+      {
+        "purchaseId":1093, "seq":1, "resourceType":"paid_star", "quantity":6000
+      }
+    ],
+    "seq":24, "purchaseMenuId":4, "homeBalloonPriority":40, "homeBalloonMessage":"お得なスターキャンペーン♪"
+  },
   "69":{
     "purchaseId":69, "purchaseCategory":"limited_term", "productName":"特別キャンペーン①", "description":"[505050FF]１２００個（７６０個 [-][FF3B72FF]＋ ４４０個[-][505050FF]）[-]", "label":"キャンペーン", "purchaseLimit":2, "publishedAt":1606716000000, "closedAt":1607234399000, "detail":[
       {
@@ -1631,6 +1655,33 @@
       }
     ],
     "seq":22, "purchaseMenuId":4, "homeBalloonPriority":30, "homeBalloonMessage":"お得なスターキャンペーン♪"
+  },
+  "1094":{
+    "purchaseId":1094, "purchaseCategory":"item_set", "productName":"第2弾ガルパ×ホロライブコラボPart1記念アイテムセット", "description":"ガルパとホロライブのコラボを記念したお得なセット", "purchaseLimit":1, "publishedAt":1701842400000, "closedAt":1707717599000, "detail":[
+      {
+        "purchaseId":1094, "seq":1, "resourceType":"paid_star", "quantity":2500
+      },
+      {
+        "purchaseId":1094, "seq":2, "resourceType":"live_boost_recovery_item", "resourceId":37, "quantity":3
+      },
+      {
+        "purchaseId":1094, "seq":3, "resourceType":"limit_break_item", "resourceId":1, "quantity":100
+      },
+      {
+        "purchaseId":1094, "seq":4, "resourceType":"costume_3d_making_item", "resourceId":1, "quantity":100
+      },
+      {
+        "purchaseId":1094, "seq":5, "resourceType":"practice_ticket", "resourceId":7, "quantity":15
+      },
+      {
+        "purchaseId":1094, "seq":6, "resourceType":"practice_ticket", "resourceId":4, "quantity":150
+      }
+    ],
+    "seq":13, "purchaseMenuId":2, "recommends":[
+      {
+        "assetBundleName":"item_set_collabo_d_1", "seq":10, "publishedAt":1701842400000, "closedAt":1703311199000
+      }
+    ]
   },
   "70":{
     "purchaseId":70, "purchaseCategory":"limited_term", "productName":"特別キャンペーン②", "description":"[505050FF]４０００個（２６５０個 [-][FF3B72FF]＋ １３５０個[-][505050FF]）[-]", "label":"キャンペーン", "purchaseLimit":2, "publishedAt":1606716000000, "closedAt":1607234399000, "detail":[
