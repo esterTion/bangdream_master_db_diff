@@ -433,6 +433,234 @@
       "eventType":"festival", "threshold1":50, "threshold2":70
     }
   },
+  "243":{
+    "eventId":243, "attributes":[
+      {
+        "eventId":243, "attribute":"pure", "percent":10
+      }
+    ],
+    "characters":[
+      {
+        "eventId":243, "characterId":21, "percent":20, "seq":5
+      },
+      {
+        "eventId":243, "characterId":22, "percent":20, "seq":2
+      },
+      {
+        "eventId":243, "characterId":23, "percent":20, "seq":3
+      },
+      {
+        "eventId":243, "characterId":24, "percent":20, "seq":1
+      },
+      {
+        "eventId":243, "characterId":25, "percent":20, "seq":4
+      }
+    ],
+    "stories":[
+      {
+        "eventId":243, "seq":0, "caption":"オープニング", "title":"新たな協力者？", "synopsis":"２ndアルバムの制作が決まり喜ぶ一同。\nそこに晴海から伝えられたのは……？", "scenarioId":"event243-01", "coverImage":"243_0", "backgroundImage":"0", "releasePt":0, "releaseConditions":"オープニングシナリオ", "backgroundImageId":801, "mainStoryId":0, "rewards":[
+          {
+            "id":3754, "eventId":243, "seq":0, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3755, "eventId":243, "seq":0, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":243, "seq":1, "caption":"第１話", "title":"因縁", "synopsis":"レーベルの新担当と出会った友希那は、\n彼と自分の父の間にあった過去を語る――", "scenarioId":"event243-02", "coverImage":"243_1", "backgroundImage":"0", "releasePt":2000, "releaseConditions":"2000イベントP達成", "backgroundImageId":801, "mainStoryId":0, "rewards":[
+          {
+            "id":3756, "eventId":243, "seq":1, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3757, "eventId":243, "seq":1, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":243, "seq":2, "caption":"第２話", "title":"心の声に耳を閉ざして", "synopsis":"２つの道の前で揺れ動く心。\nプロとして。友希那の出した答えは……", "scenarioId":"event243-03", "coverImage":"243_2", "backgroundImage":"0", "releasePt":6000, "releaseConditions":"6000イベントP達成", "backgroundImageId":84, "mainStoryId":0, "rewards":[
+          {
+            "id":3758, "eventId":243, "seq":2, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3759, "eventId":243, "seq":2, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":243, "seq":3, "caption":"第３話", "title":"迷いを抱く夜", "synopsis":"友希那の出した答え。\nそれを聞いた紗夜たちは何を思うのか――", "scenarioId":"event243-04", "coverImage":"243_3", "backgroundImage":"0", "releasePt":12000, "releaseConditions":"12000イベントP達成", "backgroundImageId":48, "mainStoryId":0, "rewards":[
+          {
+            "id":3760, "eventId":243, "seq":3, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3761, "eventId":243, "seq":3, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":243, "seq":4, "caption":"第４話", "title":"選択の行く末は", "synopsis":"燐子の家に泊まりに来たあこは、\n抱えていた悩みを燐子に伝える。", "scenarioId":"event243-05", "coverImage":"243_4", "backgroundImage":"0", "releasePt":22000, "releaseConditions":"22000イベントP達成", "backgroundImageId":46, "mainStoryId":0, "rewards":[
+          {
+            "id":3762, "eventId":243, "seq":4, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3763, "eventId":243, "seq":4, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":243, "seq":5, "caption":"第５話", "title":"叫ぶ心", "synopsis":"新担当との会食。一同の緊張とは裏腹に、\n思いのほか和やかに進むが……？", "scenarioId":"event243-06", "coverImage":"243_5", "backgroundImage":"0", "releasePt":30000, "releaseConditions":"30000イベントP達成", "backgroundImageId":776, "mainStoryId":0, "rewards":[
+          {
+            "id":3764, "eventId":243, "seq":5, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3765, "eventId":243, "seq":5, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":243, "seq":6, "caption":"エンディング", "title":"選び取るべき未来", "synopsis":"無事わだかまりも解消された一同。\nあこは会食での自分の行動を謝るが……", "scenarioId":"event243-07", "coverImage":"243_6", "backgroundImage":"0", "releasePt":50000, "releaseConditions":"50000イベントP達成", "backgroundImageId":884, "mainStoryId":0, "rewards":[
+          {
+            "id":3766, "eventId":243, "seq":6, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3767, "eventId":243, "seq":6, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      }
+    ],
+    "eventAttributeAndCharacterBonus":{
+      "eventId":243, "pointPercent":0, "parameterPercent":20
+    },
+    "teamList":[
+      {
+        "eventId":243, "teamId":1, "teamName":"寿司", "iconFileName":"img_team_1_red", "themeTitle":"高級料理店で食べるなら？"
+      },
+      {
+        "eventId":243, "teamId":2, "teamName":"ステーキ", "iconFileName":"img_team_2_blue", "themeTitle":"高級料理店で食べるなら？"
+      }
+    ],
+    "teamRewards":[
+      {
+        "festivalResultType":"lose", "seq":1, "resourceType":"star", "quantity":100
+      },
+      {
+        "festivalResultType":"lose", "seq":2, "resourceType":"live_boost_recovery_item", "resourceId":1, "quantity":5
+      },
+      {
+        "festivalResultType":"win", "seq":1, "resourceType":"star", "quantity":100
+      },
+      {
+        "festivalResultType":"win", "seq":2, "resourceType":"live_boost_recovery_item", "resourceId":2, "quantity":1
+      },
+      {
+        "festivalResultType":"win", "seq":3, "resourceType":"michelle_seal", "quantity":50
+      }
+    ],
+    "themeTitle":"高級料理店で食べるなら？", "eventCharacterParameterBonus":{
+      "eventId":243, "performance":0, "technique":0, "visual":50
+    },
+    "members":{
+      "1872":{
+        "eventId":243, "situationId":1872, "percent":20, "seq":1
+      },
+      "1873":{
+        "eventId":243, "situationId":1873, "percent":20, "seq":2
+      },
+      "1876":{
+        "eventId":243, "situationId":1876, "percent":20, "seq":3
+      }
+    },
+    "limitBreaks":{
+      "1":[
+        {
+          "rarity":1, "rank":0, "percent":0
+        },
+        {
+          "rarity":1, "rank":1, "percent":0.2
+        },
+        {
+          "rarity":1, "rank":2, "percent":0.3
+        },
+        {
+          "rarity":1, "rank":3, "percent":0.4
+        },
+        {
+          "rarity":1, "rank":4, "percent":0.5
+        }
+      ],
+      "2":[
+        {
+          "rarity":2, "rank":0, "percent":0
+        },
+        {
+          "rarity":2, "rank":1, "percent":0.4
+        },
+        {
+          "rarity":2, "rank":2, "percent":0.6
+        },
+        {
+          "rarity":2, "rank":3, "percent":0.8
+        },
+        {
+          "rarity":2, "rank":4, "percent":1
+        }
+      ],
+      "3":[
+        {
+          "rarity":3, "rank":0, "percent":0
+        },
+        {
+          "rarity":3, "rank":1, "percent":1
+        },
+        {
+          "rarity":3, "rank":2, "percent":2
+        },
+        {
+          "rarity":3, "rank":3, "percent":3
+        },
+        {
+          "rarity":3, "rank":4, "percent":4
+        }
+      ],
+      "4":[
+        {
+          "rarity":4, "rank":0, "percent":0
+        },
+        {
+          "rarity":4, "rank":1, "percent":3
+        },
+        {
+          "rarity":4, "rank":2, "percent":4
+        },
+        {
+          "rarity":4, "rank":3, "percent":5
+        },
+        {
+          "rarity":4, "rank":4, "percent":6
+        }
+      ],
+      "5":[
+        {
+          "rarity":5, "rank":0, "percent":0
+        },
+        {
+          "rarity":5, "rank":1, "percent":12
+        },
+        {
+          "rarity":5, "rank":2, "percent":13
+        },
+        {
+          "rarity":5, "rank":3, "percent":14
+        },
+        {
+          "rarity":5, "rank":4, "percent":15
+        }
+      ]
+    },
+    "threshold":{
+      "eventType":"festival", "threshold1":50, "threshold2":70
+    }
+  },
   "195":{
     "eventId":195, "attributes":[
       {
