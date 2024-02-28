@@ -1,5 +1,20 @@
 [
   {
+    "missionGroupId":27, "missionResetType":"daily", "startAt":1709272800000, "endAt":1710514799000, "rewardEndAt":1710529199000, "tabLabel":"デイリー", "missionList":[
+      {
+        "missionId":1000037, "transitionMethod":"live", "transitionId":0, "seq":10, "detailList":[
+          {
+            "seq":1, "title":"1日1回ライブをクリアしよう", "description":"1日1回ライブをクリアしよう", "maxProgress":1, "reward":{
+              "UNKNOWN_1":1000037, "UNKNOWN_2":1, "UNKNOWN_3":1, "resourceType":"limited_item", "resourceId":21, "quantity":5000
+            }
+          }
+        ],
+        "labelText":"デイリー", "typeIndex":40
+      }
+    ],
+    "type":"limited"
+  },
+  {
     "missionGroupId":101, "missionResetType":"none", "startAt":1500397200000, "endAt":4087299600000, "rewardEndAt":4087299600000, "missionList":[
       {
         "missionId":1, "transitionMethod":"live", "transitionId":0, "seq":30, "detailList":[
