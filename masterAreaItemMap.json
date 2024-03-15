@@ -6418,5 +6418,68 @@
       45
     ],
     "flavorText":"MyGO!!!!!の立希が愛用しているドラム。立希の会話が発生する。", "seq":4080, "areaItemCategoryType":"buff_item"
+  },
+  "765":{
+    "areaItemId":765, "categoryId":66, "level":8, "areaItemName":"足湯", "areaId":1, "spawnPoint":"spawn-point14", "life":0, "performance":16, "technique":16, "visual":16, "valueType":"rate", "targetAttributes":[
+      "cool"
+    ],
+    "resourceId":66, "description":"クールタイプのメンバーの全てのパラメータが16%ＵＰ", "targetBandIds":[
+      1, 2, 3, 4, 5, 21, 18, 45
+    ],
+    "flavorText":"温泉地にあってもおかしくない本格的な足湯。ライブ後に疲れた足を癒やしてくれること間違いなし！", "seq":2, "areaItemCategoryType":"buff_item"
+  },
+  "766":{
+    "areaItemId":766, "categoryId":67, "level":8, "areaItemName":"ミッシェルの銅像", "areaId":1, "spawnPoint":"spawn-point14", "life":0, "performance":16, "technique":16, "visual":16, "valueType":"rate", "targetAttributes":[
+      "happy"
+    ],
+    "resourceId":67, "description":"ハッピータイプのメンバーの全てのパラメータが16%ＵＰ", "targetBandIds":[
+      1, 2, 3, 4, 5, 21, 18, 45
+    ],
+    "flavorText":"弦巻家の財力により、なぜかつくられたミッシェルの銅像。インパクトはある。", "seq":3, "areaItemCategoryType":"buff_item"
+  },
+  "767":{
+    "areaItemId":767, "categoryId":69, "level":8, "areaItemName":"噴水", "areaId":1, "spawnPoint":"spawn-point14", "life":0, "performance":16, "technique":16, "visual":16, "valueType":"rate", "targetAttributes":[
+      "pure"
+    ],
+    "resourceId":69, "description":"ピュアタイプのメンバーの全てのパラメータが16%ＵＰ", "targetBandIds":[
+      1, 2, 3, 4, 5, 21, 18, 45
+    ],
+    "flavorText":"よく公園にある噴水。あるだけで庭が豪華に見えると思います。", "seq":4, "areaItemCategoryType":"buff_item"
+  },
+  "768":{
+    "areaItemId":768, "categoryId":70, "level":8, "areaItemName":"ヤシの木", "areaId":1, "spawnPoint":"spawn-point14", "life":0, "performance":16, "technique":16, "visual":16, "valueType":"rate", "targetAttributes":[
+      "powerful"
+    ],
+    "resourceId":70, "description":"パワフルタイプのメンバーの全てのパラメータが16%ＵＰ", "targetBandIds":[
+      1, 2, 3, 4, 5, 21, 18, 45
+    ],
+    "flavorText":"本物のヤシの木。たまに実が落ちてくるので大変危険です。", "seq":1, "areaItemCategoryType":"buff_item"
+  },
+  "769":{
+    "areaItemId":769, "categoryId":80, "level":8, "areaItemName":"映画雑誌", "areaId":4, "spawnPoint":"spawn-point8", "life":0, "performance":22, "technique":0, "visual":0, "valueType":"rate", "targetAttributes":[
+      "powerful", "pure", "cool", "happy"
+    ],
+    "resourceId":80, "description":"全てのメンバーのパフォーマンスが22%ＵＰ", "targetBandIds":[
+      1, 2, 3, 4, 5, 21, 18, 45
+    ],
+    "flavorText":"色々な映画情報が掲載されている雑誌。誰でも自由に読める。", "seq":8390, "areaItemCategoryType":"buff_item"
+  },
+  "770":{
+    "areaItemId":770, "categoryId":81, "level":8, "areaItemName":"音楽雑誌", "areaId":4, "spawnPoint":"spawn-point8", "life":0, "performance":0, "technique":22, "visual":0, "valueType":"rate", "targetAttributes":[
+      "powerful", "pure", "cool", "happy"
+    ],
+    "resourceId":81, "description":"全てのメンバーのテクニックが22%ＵＰ", "targetBandIds":[
+      1, 2, 3, 4, 5, 21, 18, 45
+    ],
+    "flavorText":"色々な音楽情報が掲載されている雑誌。誰でも自由に読める。", "seq":8690, "areaItemCategoryType":"buff_item"
+  },
+  "771":{
+    "areaItemId":771, "categoryId":82, "level":8, "areaItemName":"ファッション雑誌", "areaId":4, "spawnPoint":"spawn-point8", "life":0, "performance":0, "technique":0, "visual":22, "valueType":"rate", "targetAttributes":[
+      "powerful", "pure", "cool", "happy"
+    ],
+    "resourceId":82, "description":"全てのメンバーのビジュアルが22%ＵＰ", "targetBandIds":[
+      1, 2, 3, 4, 5, 21, 18, 45
+    ],
+    "flavorText":"色々なファッション情報が掲載されている雑誌。誰でも自由に読める。", "seq":8990, "areaItemCategoryType":"buff_item"
   }
 }
