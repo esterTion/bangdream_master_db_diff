@@ -1,4 +1,232 @@
 {
+  "256":{
+    "eventId":256, "attributes":[
+      {
+        "eventId":256, "attribute":"powerful", "percent":10
+      }
+    ],
+    "characters":[
+      {
+        "eventId":256, "characterId":31, "percent":20, "seq":3
+      },
+      {
+        "eventId":256, "characterId":32, "percent":20, "seq":4
+      },
+      {
+        "eventId":256, "characterId":33, "percent":20, "seq":5
+      },
+      {
+        "eventId":256, "characterId":34, "percent":20, "seq":1
+      },
+      {
+        "eventId":256, "characterId":35, "percent":20, "seq":2
+      }
+    ],
+    "stories":[
+      {
+        "eventId":256, "seq":0, "caption":"オープニング", "title":"振り落とされた音", "synopsis":"ある日、片付けを終えたパレオを\nチュチュが呼び止めて……", "scenarioId":"event256-01", "coverImage":"256_0", "backgroundImage":"0", "releasePt":0, "releaseConditions":"オープニングシナリオ", "backgroundImageId":499, "mainStoryId":0, "rewards":[
+          {
+            "id":3922, "eventId":256, "seq":0, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3923, "eventId":256, "seq":0, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":256, "seq":1, "caption":"第１話", "title":"残響に馳せる想い", "synopsis":"チュチュからの提案に悩むパレオ。\nパレオが出す答えとは――", "scenarioId":"event256-02", "coverImage":"256_1", "backgroundImage":"0", "releasePt":2000, "releaseConditions":"2000イベントP達成", "backgroundImageId":24, "mainStoryId":0, "rewards":[
+          {
+            "id":3924, "eventId":256, "seq":1, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3925, "eventId":256, "seq":1, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":256, "seq":2, "caption":"第２話", "title":"追いかけっこ", "synopsis":"新編成での練習が始まるが、レイヤたちは\nなかなか調子が出ないようで……", "scenarioId":"event256-03", "coverImage":"256_2", "backgroundImage":"0", "releasePt":6000, "releaseConditions":"6000イベントP達成", "backgroundImageId":499, "mainStoryId":0, "rewards":[
+          {
+            "id":3926, "eventId":256, "seq":2, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3927, "eventId":256, "seq":2, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":256, "seq":3, "caption":"第３話", "title":"鍵盤に残るぬくもり", "synopsis":"パレオは順調に仕事をこなしている。\nそれでいいはずなのに、チュチュは……", "scenarioId":"event256-04", "coverImage":"256_3", "backgroundImage":"0", "releasePt":12000, "releaseConditions":"12000イベントP達成", "backgroundImageId":499, "mainStoryId":0, "rewards":[
+          {
+            "id":3928, "eventId":256, "seq":3, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3929, "eventId":256, "seq":3, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":256, "seq":4, "caption":"第４話", "title":"それは紛れもなく、", "synopsis":"レイヤたちの想いを受けてチュチュが覚悟を\n決めた頃、令王那は……", "scenarioId":"event256-05", "coverImage":"256_4", "backgroundImage":"0", "releasePt":22000, "releaseConditions":"22000イベントP達成", "backgroundImageId":546, "mainStoryId":0, "rewards":[
+          {
+            "id":3930, "eventId":256, "seq":4, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3931, "eventId":256, "seq":4, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":256, "seq":5, "caption":"第５話", "title":"涙の重さは", "synopsis":"バイクの行先は加茂川。それぞれの想いを\n胸に、チュチュとパレオが対峙して――", "scenarioId":"event256-06", "coverImage":"256_5", "backgroundImage":"0", "releasePt":30000, "releaseConditions":"30000イベントP達成", "backgroundImageId":544, "mainStoryId":0, "rewards":[
+          {
+            "id":3932, "eventId":256, "seq":5, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3933, "eventId":256, "seq":5, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":256, "seq":6, "caption":"エンディング", "title":"柔らかな夜風に乗って", "synopsis":"互いの気持ちをぶつけ合った後、\nチュチュとパレオは夜空を見上げて……", "scenarioId":"event256-07", "coverImage":"256_6", "backgroundImage":"0", "releasePt":50000, "releaseConditions":"50000イベントP達成", "backgroundImageId":544, "mainStoryId":0, "rewards":[
+          {
+            "id":3934, "eventId":256, "seq":6, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3935, "eventId":256, "seq":6, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      }
+    ],
+    "eventAttributeAndCharacterBonus":{
+      "eventId":256, "pointPercent":0, "parameterPercent":20
+    },
+    "teamList":[
+      {
+        "eventId":256, "teamId":1, "teamName":"自転車", "iconFileName":"img_team_1_red", "themeTitle":"通学に使うなら？"
+      },
+      {
+        "eventId":256, "teamId":2, "teamName":"電車", "iconFileName":"img_team_2_blue", "themeTitle":"通学に使うなら？"
+      }
+    ],
+    "teamRewards":[
+      {
+        "festivalResultType":"lose", "seq":1, "resourceType":"star", "quantity":100
+      },
+      {
+        "festivalResultType":"lose", "seq":2, "resourceType":"live_boost_recovery_item", "resourceId":1, "quantity":5
+      },
+      {
+        "festivalResultType":"win", "seq":1, "resourceType":"star", "quantity":100
+      },
+      {
+        "festivalResultType":"win", "seq":2, "resourceType":"live_boost_recovery_item", "resourceId":2, "quantity":1
+      },
+      {
+        "festivalResultType":"win", "seq":3, "resourceType":"michelle_seal", "quantity":50
+      }
+    ],
+    "themeTitle":"通学に使うなら？", "eventCharacterParameterBonus":{
+      "eventId":256, "performance":50, "technique":0, "visual":0
+    },
+    "members":{
+      "1970":{
+        "eventId":256, "situationId":1970, "percent":20, "seq":1
+      },
+      "1971":{
+        "eventId":256, "situationId":1971, "percent":20, "seq":2
+      },
+      "1974":{
+        "eventId":256, "situationId":1974, "percent":20, "seq":3
+      }
+    },
+    "limitBreaks":{
+      "1":[
+        {
+          "rarity":1, "rank":0, "percent":0
+        },
+        {
+          "rarity":1, "rank":1, "percent":0.2
+        },
+        {
+          "rarity":1, "rank":2, "percent":0.3
+        },
+        {
+          "rarity":1, "rank":3, "percent":0.4
+        },
+        {
+          "rarity":1, "rank":4, "percent":0.5
+        }
+      ],
+      "2":[
+        {
+          "rarity":2, "rank":0, "percent":0
+        },
+        {
+          "rarity":2, "rank":1, "percent":0.4
+        },
+        {
+          "rarity":2, "rank":2, "percent":0.6
+        },
+        {
+          "rarity":2, "rank":3, "percent":0.8
+        },
+        {
+          "rarity":2, "rank":4, "percent":1
+        }
+      ],
+      "3":[
+        {
+          "rarity":3, "rank":0, "percent":0
+        },
+        {
+          "rarity":3, "rank":1, "percent":1
+        },
+        {
+          "rarity":3, "rank":2, "percent":2
+        },
+        {
+          "rarity":3, "rank":3, "percent":3
+        },
+        {
+          "rarity":3, "rank":4, "percent":4
+        }
+      ],
+      "4":[
+        {
+          "rarity":4, "rank":0, "percent":0
+        },
+        {
+          "rarity":4, "rank":1, "percent":3
+        },
+        {
+          "rarity":4, "rank":2, "percent":4
+        },
+        {
+          "rarity":4, "rank":3, "percent":5
+        },
+        {
+          "rarity":4, "rank":4, "percent":6
+        }
+      ],
+      "5":[
+        {
+          "rarity":5, "rank":0, "percent":0
+        },
+        {
+          "rarity":5, "rank":1, "percent":12
+        },
+        {
+          "rarity":5, "rank":2, "percent":13
+        },
+        {
+          "rarity":5, "rank":3, "percent":14
+        },
+        {
+          "rarity":5, "rank":4, "percent":15
+        }
+      ]
+    },
+    "threshold":{
+      "eventType":"festival", "threshold1":50, "threshold2":70
+    }
+  },
   "176":{
     "eventId":176, "attributes":[
       {
@@ -1003,6 +1231,234 @@
     ],
     "themeTitle":"アルバイトするならどっち？", "eventCharacterParameterBonus":{
       "eventId":163, "performance":0, "technique":50, "visual":0
+    },
+    "limitBreaks":{
+      "1":[
+        {
+          "rarity":1, "rank":0, "percent":0
+        },
+        {
+          "rarity":1, "rank":1, "percent":0.2
+        },
+        {
+          "rarity":1, "rank":2, "percent":0.3
+        },
+        {
+          "rarity":1, "rank":3, "percent":0.4
+        },
+        {
+          "rarity":1, "rank":4, "percent":0.5
+        }
+      ],
+      "2":[
+        {
+          "rarity":2, "rank":0, "percent":0
+        },
+        {
+          "rarity":2, "rank":1, "percent":0.4
+        },
+        {
+          "rarity":2, "rank":2, "percent":0.6
+        },
+        {
+          "rarity":2, "rank":3, "percent":0.8
+        },
+        {
+          "rarity":2, "rank":4, "percent":1
+        }
+      ],
+      "3":[
+        {
+          "rarity":3, "rank":0, "percent":0
+        },
+        {
+          "rarity":3, "rank":1, "percent":1
+        },
+        {
+          "rarity":3, "rank":2, "percent":2
+        },
+        {
+          "rarity":3, "rank":3, "percent":3
+        },
+        {
+          "rarity":3, "rank":4, "percent":4
+        }
+      ],
+      "4":[
+        {
+          "rarity":4, "rank":0, "percent":0
+        },
+        {
+          "rarity":4, "rank":1, "percent":3
+        },
+        {
+          "rarity":4, "rank":2, "percent":4
+        },
+        {
+          "rarity":4, "rank":3, "percent":5
+        },
+        {
+          "rarity":4, "rank":4, "percent":6
+        }
+      ],
+      "5":[
+        {
+          "rarity":5, "rank":0, "percent":0
+        },
+        {
+          "rarity":5, "rank":1, "percent":12
+        },
+        {
+          "rarity":5, "rank":2, "percent":13
+        },
+        {
+          "rarity":5, "rank":3, "percent":14
+        },
+        {
+          "rarity":5, "rank":4, "percent":15
+        }
+      ]
+    },
+    "threshold":{
+      "eventType":"festival", "threshold1":50, "threshold2":70
+    }
+  },
+  "261":{
+    "eventId":261, "attributes":[
+      {
+        "eventId":261, "attribute":"pure", "percent":10
+      }
+    ],
+    "characters":[
+      {
+        "eventId":261, "characterId":1, "percent":20, "seq":3
+      },
+      {
+        "eventId":261, "characterId":2, "percent":20, "seq":2
+      },
+      {
+        "eventId":261, "characterId":3, "percent":20, "seq":4
+      },
+      {
+        "eventId":261, "characterId":4, "percent":20, "seq":1
+      },
+      {
+        "eventId":261, "characterId":5, "percent":20, "seq":5
+      }
+    ],
+    "stories":[
+      {
+        "eventId":261, "seq":0, "caption":"オープニング", "title":"次の頁を捲る前に", "synopsis":"放課後、クラスメイトの有志とフェスの\n準備を進めるポピパメンバーだったが……", "scenarioId":"event261-01", "coverImage":"261_0", "backgroundImage":"0", "releasePt":0, "releaseConditions":"オープニングシナリオ", "backgroundImageId":2, "mainStoryId":0, "rewards":[
+          {
+            "id":3992, "eventId":261, "seq":0, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3993, "eventId":261, "seq":0, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":261, "seq":1, "caption":"第１話", "title":"今は目の前のことを", "synopsis":"フェスに集中しようとする有咲だったが、\nどうしても頭から離れないことがあって……", "scenarioId":"event261-02", "coverImage":"261_1", "backgroundImage":"0", "releasePt":2000, "releaseConditions":"2000イベントP達成", "backgroundImageId":71, "mainStoryId":0, "rewards":[
+          {
+            "id":3994, "eventId":261, "seq":1, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3995, "eventId":261, "seq":1, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":261, "seq":2, "caption":"第２話", "title":"言葉にできなくて", "synopsis":"有咲の様子が気になった香澄は\n直接事情を聞こうとする。", "scenarioId":"event261-03", "coverImage":"261_2", "backgroundImage":"0", "releasePt":6000, "releaseConditions":"6000イベントP達成", "backgroundImageId":1, "mainStoryId":0, "rewards":[
+          {
+            "id":3996, "eventId":261, "seq":2, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3997, "eventId":261, "seq":2, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":261, "seq":3, "caption":"第３話", "title":"すれ違う想い", "synopsis":"RiNGのカフェで働く香澄と沙綾。\n有咲のことが気になる２人は……", "scenarioId":"event261-04", "coverImage":"261_3", "backgroundImage":"0", "releasePt":12000, "releaseConditions":"12000イベントP達成", "backgroundImageId":919, "mainStoryId":0, "rewards":[
+          {
+            "id":3998, "eventId":261, "seq":3, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":3999, "eventId":261, "seq":3, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":261, "seq":4, "caption":"第４話", "title":"悲しさに触れて", "synopsis":"りみは有咲の気持ちを考え、\n将来について思い悩む。", "scenarioId":"event261-05", "coverImage":"261_4", "backgroundImage":"0", "releasePt":22000, "releaseConditions":"22000イベントP達成", "backgroundImageId":758, "mainStoryId":0, "rewards":[
+          {
+            "id":4000, "eventId":261, "seq":4, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":4001, "eventId":261, "seq":4, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":261, "seq":5, "caption":"第５話", "title":"約束だから", "synopsis":"有咲のもとにやってきた香澄は、\n気持ちを打ち明ける。", "scenarioId":"event261-06", "coverImage":"261_5", "backgroundImage":"0", "releasePt":30000, "releaseConditions":"30000イベントP達成", "backgroundImageId":39, "mainStoryId":0, "rewards":[
+          {
+            "id":4002, "eventId":261, "seq":5, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":4003, "eventId":261, "seq":5, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":261, "seq":6, "caption":"エンディング", "title":"明日のために", "synopsis":"みんなの想いを受け止めた有咲は、\n気持ちを切り替えてフェスの準備を進める。", "scenarioId":"event261-07", "coverImage":"261_6", "backgroundImage":"0", "releasePt":50000, "releaseConditions":"50000イベントP達成", "backgroundImageId":39, "mainStoryId":0, "rewards":[
+          {
+            "id":4004, "eventId":261, "seq":6, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":4005, "eventId":261, "seq":6, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      }
+    ],
+    "eventAttributeAndCharacterBonus":{
+      "eventId":261, "pointPercent":0, "parameterPercent":20
+    },
+    "teamList":[
+      {
+        "eventId":261, "teamId":1, "teamName":"傘", "iconFileName":"img_team_1_red", "themeTitle":"雨の日に使うなら？"
+      },
+      {
+        "eventId":261, "teamId":2, "teamName":"レインコート", "iconFileName":"img_team_2_blue", "themeTitle":"雨の日に使うなら？"
+      }
+    ],
+    "teamRewards":[
+      {
+        "festivalResultType":"lose", "seq":1, "resourceType":"star", "quantity":100
+      },
+      {
+        "festivalResultType":"lose", "seq":2, "resourceType":"live_boost_recovery_item", "resourceId":1, "quantity":5
+      },
+      {
+        "festivalResultType":"win", "seq":1, "resourceType":"star", "quantity":100
+      },
+      {
+        "festivalResultType":"win", "seq":2, "resourceType":"live_boost_recovery_item", "resourceId":2, "quantity":1
+      },
+      {
+        "festivalResultType":"win", "seq":3, "resourceType":"michelle_seal", "quantity":50
+      }
+    ],
+    "themeTitle":"雨の日に使うなら？", "eventCharacterParameterBonus":{
+      "eventId":261, "performance":0, "technique":0, "visual":50
+    },
+    "members":{
+      "2000":{
+        "eventId":261, "situationId":2000, "percent":20, "seq":1
+      },
+      "2001":{
+        "eventId":261, "situationId":2001, "percent":20, "seq":2
+      },
+      "2004":{
+        "eventId":261, "situationId":2004, "percent":20, "seq":3
+      }
     },
     "limitBreaks":{
       "1":[
