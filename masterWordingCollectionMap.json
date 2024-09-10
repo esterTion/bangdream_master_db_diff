@@ -119,6 +119,9 @@
   "word_filter":{
     "name":"word_filter", "wording":"絞り込み"
   },
+  "dialog_liveSettings_highFrequencyModeCaution":{
+    "name":"dialog_liveSettings_highFrequencyModeCaution", "wording":"※ご利用端末によっては設定したフレームレートで動作しない場合があります。"
+  },
   "musicSelect_musicNameFilter_columnMA":{
     "name":"musicSelect_musicNameFilter_columnMA", "wording":"ま行"
   },
@@ -171,7 +174,7 @@
     "name":"dialog_sort_skillSortDamageGuardWithScoreUp", "wording":"スコアアップ付き\\nライフ減少無効"
   },
   "dialog_twitter_not_install_for_url_description2":{
-    "name":"dialog_twitter_not_install_for_url_description2", "wording":"※「Twitterで招待」を利用するためには、\\n公式のTwitterアプリのインストールが必要です。"
+    "name":"dialog_twitter_not_install_for_url_description2", "wording":"※「Xで招待」を利用するためには、\\n公式のXアプリのインストールが必要です。"
   },
   "dialog_liveClearAPIError_notStartedLive":{
     "name":"dialog_liveClearAPIError_notStartedLive", "wording":"通信エラーが発生しました。\\nタイトルに戻ります。"
@@ -240,13 +243,16 @@
     "name":"biography_characterProfile_school", "wording":"学校"
   },
   "albumMission_complete_notice":{
-    "name":"albumMission_complete_notice", "wording":"キャラクターミッション達成！"
+    "name":"albumMission_complete_notice", "wording":"キャラミッション達成！"
   },
   "dialog_stageChallengeMismatchMember_message":{
     "name":"dialog_stageChallengeMismatchMember_message", "wording":"編成しているメンバーが条件と合っていません。\nバンド編成条件に合わせて\nバンドを編成してください。"
   },
   "generalElection_errorMessage_outsideElection":{
     "name":"generalElection_errorMessage_outsideElection", "wording":"総選挙イベントは終了しました。"
+  },
+  "character_selecting":{
+    "name":"character_selecting", "wording":"選択中"
   },
   "word_exMission":{
     "name":"word_exMission", "wording":"EXミッション"
@@ -377,6 +383,9 @@
   "dialog_privateRoomEntrance_titleVersus":{
     "name":"dialog_privateRoomEntrance_titleVersus", "wording":"ルーム検索"
   },
+  "word_recommendDeck_new_line":{
+    "name":"word_recommendDeck_new_line", "wording":"おすすめ\n編成"
+  },
   "newYearHolidaysPage_additionalMusicButton_caption":{
     "name":"newYearHolidaysPage_additionalMusicButton_caption", "wording":"楽曲追加"
   },
@@ -415,6 +424,9 @@
   },
   "word_fractionFormat":{
     "name":"word_fractionFormat", "wording":"{0} / {1}"
+  },
+  "word_picturebook":{
+    "name":"word_picturebook", "wording":"キャラミッション"
   },
   "dialog_lackItemGainMethod_title":{
     "name":"dialog_lackItemGainMethod_title", "wording":"不足アイテムの獲得先"
@@ -740,8 +752,14 @@
   "newYearHolidaysPage_emaShowButton_caption":{
     "name":"newYearHolidaysPage_emaShowButton_caption", "wording":"絵馬を見る"
   },
+  "replace_off_no_line_breaks":{
+    "name":"replace_off_no_line_breaks", "wording":"並び替えOFF"
+  },
   "dialog_decoFrameConditionsList_annotationMessage":{
     "name":"dialog_decoFrameConditionsList_annotationMessage", "wording":"※ピンズは空いている枠に自由に設定できます。\n同じフレームを1つ獲得することでピンズ枠が1つ開放されます。（最大5個）"
+  },
+  "dialog_liveSettings_enableSuddenlane":{
+    "name":"dialog_liveSettings_enableSuddenlane", "wording":"レーンを表示位置に合わせる"
   },
   "dialog_exMissionHint_title":{
     "name":"dialog_exMissionHint_title", "wording":"EXミッションのヒント"
@@ -809,6 +827,9 @@
   "generalElection_voteUnit":{
     "name":"generalElection_voteUnit", "wording":"票"
   },
+  "header_subTitle_loginStoryList":{
+    "name":"header_subTitle_loginStoryList", "wording":"一覧"
+  },
   "dialog_starRecall_title":{
     "name":"dialog_starRecall_title", "wording":"返金分有償スター回収"
   },
@@ -834,7 +855,7 @@
     "name":"starShopWindowGarupaPass_expiredBalloon", "wording":"有効期間が\\n切れています"
   },
   "dialog_bandDeckRankUp_description":{
-    "name":"dialog_bandDeckRankUp_description", "wording":"所持メンバー、及びエリアアイテムのレベル等をもとに算出される数値です。\n4タイプの評価値の合計がバンド総合評価値となります。\n評価値はライブで高いスコアを獲得する上での指標となります。\n\n■編成されるメンバーについて\n所持しているメンバー、及びエリアアイテムの状況をもとに自動で編成が行われます。\n\n■編成ランクについて\n評価値に応じて編成ランクが決定されます。\nまた、4タイプの評価値の合計に基づき、バンド総合編成ランクが決定します。\n\n■評価値を上げるには？\nメンバーの総合力、スキルの効果、エリアアイテムの効果が高いほど評価値が上がります。\n・総合力の高いメンバーを獲得する。\n・ライブや練習などを行いメンバーのレベルを上げる。\n・スキル練習を行い、スキルLv.を上げる。\n・エリアアイテムの購入、及びレベルアップを行う。\n・マスター練習を行い、マスターランクを上げる。\n・キャラランクを上げ、ポテンシャル解放を行う。"
+    "name":"dialog_bandDeckRankUp_description", "wording":"所持メンバー、及びエリアアイテムのレベル等をもとに算出される数値です。\n4タイプの評価値の合計がバンド総合評価値となります。\n評価値はライブで高いスコアを獲得する上での指標となります。\n\n■編成されるメンバーについて\n所持しているメンバー、及びエリアアイテムの状況をもとに自動で編成が行われます。\n\n■編成ランクについて\n評価値に応じて編成ランクが決定されます。\nまた、4タイプの評価値の合計に基づき、バンド総合編成ランクが決定します。\n\n■評価値を上げるには？\nメンバーの総合力、スキルの効果、エリアアイテムの効果が高いほど評価値が上がります。\n・総合力の高いメンバーを獲得する。\n・ライブや練習などを行いメンバーのレベルを上げる。\n・スキル練習を行い、スキルLv.を上げる。\n・エリアアイテムの購入、及びレベルアップを行う。\n・マスター練習を行い、マスターランクを上げる。\n・キャラランクを上げ、ポテンシャル解放を行う。\n・キャラミッションを達成する。"
   },
   "biography_areaTalk_tab_memorial":{
     "name":"biography_areaTalk_tab_memorial", "wording":"思い出の会話"
@@ -1041,7 +1062,7 @@
     "name":"dialog_mvGet_description", "wording":"{0}を獲得しました！"
   },
   "word_twitter":{
-    "name":"word_twitter", "wording":"Twitter"
+    "name":"word_twitter", "wording":"X"
   },
   "word_hairstyle":{
     "name":"word_hairstyle", "wording":"ヘア・アクセ"
@@ -1310,6 +1331,9 @@
   "dialog_liveSettings_soundTap":{
     "name":"dialog_liveSettings_soundTap", "wording":"タップ音"
   },
+  "transitionButton_button_costume_3d":{
+    "name":"transitionButton_button_costume_3d", "wording":"3D衣装"
+  },
   "dialog_mainBandSetDialog_checkbox":{
     "name":"dialog_mainBandSetDialog_checkbox", "wording":"メインバンドに合わせてエリアアイテムを設置"
   },
@@ -1345,6 +1369,9 @@
   },
   "dialog_expiredExchangePeriod_description":{
     "name":"dialog_expiredExchangePeriod_description", "wording":"交換期限が切れているため交換できません。"
+  },
+  "dialog_liveSettings_Frequency60fps":{
+    "name":"dialog_liveSettings_Frequency60fps", "wording":"60FPS"
   },
   "word_stampPeriodLimited":{
     "name":"word_stampPeriodLimited", "wording":"期間限定スタンプ"
@@ -1657,6 +1684,9 @@
   },
   "customizeDecoration_appeal_delete":{
     "name":"customizeDecoration_appeal_delete", "wording":"解除"
+  },
+  "dialog_acquisitionCharacterBonus_content":{
+    "name":"dialog_acquisitionCharacterBonus_content", "wording":"報酬を獲得しました！"
   },
   "appealCategory_bandRank_label":{
     "name":"appealCategory_bandRank_label", "wording":"バンドランク"
@@ -2144,6 +2174,9 @@
   "dialog_mainBandSelected_areaItemChange":{
     "name":"dialog_mainBandSelected_areaItemChange", "wording":"{0}\\n\\nメインバンドの総合力が最も高くなるように\\nエリアアイテムを置き換えますか？\\n"
   },
+  "dialog_liveSettings_Frequency120fps":{
+    "name":"dialog_liveSettings_Frequency120fps", "wording":"120FPS"
+  },
   "eventBonusTarget_caption_character":{
     "name":"eventBonusTarget_caption_character", "wording":"キャラクター"
   },
@@ -2333,6 +2366,9 @@
   "appealCategory_clearCount_label":{
     "name":"appealCategory_clearCount_label", "wording":"クリア回数"
   },
+  "transitionButton_button_costume_live_2d":{
+    "name":"transitionButton_button_costume_live_2d", "wording":"Live2D衣装"
+  },
   "header_subTitle_exchange":{
     "name":"header_subTitle_exchange", "wording":"ミッシェルシール交換所"
   },
@@ -2434,6 +2470,9 @@
   },
   "dialog_editProfileCategoryDialog_publishingSettingButtonLabel":{
     "name":"dialog_editProfileCategoryDialog_publishingSettingButtonLabel", "wording":"公開設定"
+  },
+  "dialog_liveSettings_FrequencyCaption":{
+    "name":"dialog_liveSettings_FrequencyCaption", "wording":"フレームレート"
   },
   "dialog_limitBreakPractice_description":{
     "name":"dialog_limitBreakPractice_description", "wording":"{0}を{1}個利用して\\nマスター練習します。\\nよろしいですか？"
@@ -2705,6 +2744,9 @@
   "dialog_selectSelfIntroductionEpisode_label":{
     "name":"dialog_selectSelfIntroductionEpisode_label", "wording":"自己紹介エピソード"
   },
+  "appeal_clear_count_word":{
+    "name":"appeal_clear_count_word", "wording":"回"
+  },
   "dialog_missionDetail_dailyMission_note":{
     "name":"dialog_missionDetail_dailyMission_note", "wording":"※デイリーミッションは、毎日4:00に達成状況・受け取り状況がリセットされます。"
   },
@@ -2835,7 +2877,7 @@
     "name":"dialog_specialSkinDetailSetting_title", "wording":"期間限定スキン個別設定"
   },
   "dialog_hiSpeedSetting_neverDisplayMessage2":{
-    "name":"dialog_hiSpeedSetting_neverDisplayMessage2", "wording":"※リズムアイコンの速さの設定はライブ設定から\\n　ダイアログ表示の設定はシステム・通知設定か\\n　ら変更できます。"
+    "name":"dialog_hiSpeedSetting_neverDisplayMessage2", "wording":"各種設定はオプション画面から設定できます。"
   },
   "dialog_characterRankUpTransition_limitBreak":{
     "name":"dialog_characterRankUpTransition_limitBreak", "wording":"マスター練習で\\nキャラランクEXPを獲得"
@@ -2864,6 +2906,9 @@
   "tryLiveEvent_tryTargetDialogCell_level":{
     "name":"tryLiveEvent_tryTargetDialogCell_level", "wording":"レベル"
   },
+  "replace_on":{
+    "name":"replace_on", "wording":"並び替え\nON"
+  },
   "dialog_notEnoughCoin_needCoin":{
     "name":"dialog_notEnoughCoin_needCoin", "wording":"必要 コイン"
   },
@@ -2883,10 +2928,10 @@
     "name":"dialog_medleyIntermediatePageRest_ok", "wording":"休憩する"
   },
   "dialog_twitter_not_install_description1":{
-    "name":"dialog_twitter_not_install_description1", "wording":"公式のTwitterアプリが\\nインストールされていません。"
+    "name":"dialog_twitter_not_install_description1", "wording":"公式のXアプリが\\nインストールされていません。"
   },
   "dialog_twitter_not_install_description2":{
-    "name":"dialog_twitter_not_install_description2", "wording":"※シェア機能を利用するためには、\\n公式のTwitterアプリのインストールが必要となります。"
+    "name":"dialog_twitter_not_install_description2", "wording":"※シェア機能を利用するためには、\\n公式のXアプリのインストールが必要となります。"
   },
   "dialog_billingPenalty_titleRecallFailed":{
     "name":"dialog_billingPenalty_titleRecallFailed", "wording":"返金分有償スター不足警告"
@@ -2926,6 +2971,9 @@
   },
   "dialog_backstageMaintenance_message":{
     "name":"dialog_backstageMaintenance_message", "wording":"ただいまラウンジ機能のメンテナンス中です。\\n恐れ入りますが、\\n終了までしばらくお待ちください。"
+  },
+  "word_other":{
+    "name":"word_other", "wording":"その他"
   },
   "word_performance":{
     "name":"word_performance", "wording":"パフォーマンス"
@@ -2989,6 +3037,9 @@
   },
   "dialog_termsNavigation_pexternalDataTransfer":{
     "name":"dialog_termsNavigation_pexternalDataTransfer", "wording":"利用者情報の\\n外部送信について"
+  },
+  "word_collection":{
+    "name":"word_collection", "wording":"収集"
   },
   "dialog_twitterConnectFinish_title":{
     "name":"dialog_twitterConnectFinish_title", "wording":"連携完了"
@@ -3178,6 +3229,9 @@
   },
   "dialog_rhythmgameRetire_annotatedChallengeLive":{
     "name":"dialog_rhythmgameRetire_annotatedChallengeLive", "wording":"※中断した場合、ライブ報酬を獲得できません。\\n消費したチャレンジPも戻りません。"
+  },
+  "appealCategory_allPerfectMusic_label2":{
+    "name":"appealCategory_allPerfectMusic_label2", "wording":"オールパーフェクト達成"
   },
   "dialog_termsOfServiceAndPurchaseGarupaPassDialog_termsOfServiceButton":{
     "name":"dialog_termsOfServiceAndPurchaseGarupaPassDialog_termsOfServiceButton", "wording":"利用規約"
@@ -4280,6 +4334,9 @@
   "teamLiveFestival_eventPointResult_bonusLive":{
     "name":"teamLiveFestival_eventPointResult_bonusLive", "wording":"ボーナスライブ"
   },
+  "customizeDecorationNoCreate":{
+    "name":"customizeDecorationNoCreate", "wording":"このアピールは作成済みです"
+  },
   "dialog_gachaBonusDetailInformation_titleMemberInformation":{
     "name":"dialog_gachaBonusDetailInformation_titleMemberInformation", "wording":"出現ボーナスメンバー"
   },
@@ -4300,6 +4357,9 @@
   },
   "dialog_stageChallengeMismatchMember_title":{
     "name":"dialog_stageChallengeMismatchMember_title", "wording":"メンバー確認"
+  },
+  "word_michelleSealExchange_memberFilter_notExist":{
+    "name":"word_michelleSealExchange_memberFilter_notExist", "wording":"表示可能なメンバーはいません。"
   },
   "dialog_missionDetail_limitedMission_note":{
     "name":"dialog_missionDetail_limitedMission_note", "wording":"※報酬の受け取り可能期間は、MM月dd日 H:59までです。"
@@ -4988,6 +5048,9 @@
   "dailyMission_receivedLimit_balloon":{
     "name":"dailyMission_receivedLimit_balloon", "wording":"MM/dd H:59"
   },
+  "word_character_training":{
+    "name":"word_character_training", "wording":"育成"
+  },
   "dialog_generalElection_snsShareReward_description":{
     "name":"dialog_generalElection_snsShareReward_description", "wording":"初回シェアボーナスを受け取りました！"
   },
@@ -5447,6 +5510,9 @@
   "menuSlideNotice_complete_label":{
     "name":"menuSlideNotice_complete_label", "wording":"達成!"
   },
+  "header_mainTitle_loginStory":{
+    "name":"header_mainTitle_loginStory", "wording":"ログインストーリー"
+  },
   "graphicalInfo_title_home_live":{
     "name":"graphicalInfo_title_home_live", "wording":"期間限定ミッション追加!!"
   },
@@ -5495,6 +5561,9 @@
   "dialog_expendTicketImmediate_caution":{
     "name":"dialog_expendTicketImmediate_caution", "wording":"・チケットは即時消費されます"
   },
+  "word_sort_label":{
+    "name":"word_sort_label", "wording":"並び替えるメンバーを選択しよう！"
+  },
   "word_liveP":{
     "name":"word_liveP", "wording":"ライブP"
   },
@@ -5534,6 +5603,9 @@
   "exMission_complete_notice":{
     "name":"exMission_complete_notice", "wording":"EXミッション達成！"
   },
+  "dialog_liveSettings_standardSuddenRate":{
+    "name":"dialog_liveSettings_standardSuddenRate", "wording":"リズムアイコンの表示位置"
+  },
   "dialog_getStarSeal_annotation":{
     "name":"dialog_getStarSeal_annotation", "wording":"※重複して獲得したメンバーは自動的に控室へ送られます。"
   },
@@ -5541,7 +5613,7 @@
     "name":"header_subTitle_decorationAppealBand", "wording":"バンド"
   },
   "dialog_twitter_cancel_warning":{
-    "name":"dialog_twitter_cancel_warning", "wording":"※シェアをするTwitterアカウントを変更したい場合、\\n一度アカウント連携を解除した上で、\\n再度アカウント連携が必要となります。"
+    "name":"dialog_twitter_cancel_warning", "wording":"※シェアをするXアカウントを変更したい場合、\\n一度アカウント連携を解除した上で、\\n再度アカウント連携が必要となります。"
   },
   "dialog_getCostume3D_dressDescription":{
     "name":"dialog_getCostume3D_dressDescription", "wording":"新しい3D衣装を入手しました！"
@@ -5655,7 +5727,7 @@
     "name":"dialog_twitter_error_description2", "wording":"本現象が改善しない場合は、\\n画面右上「メニュー」>「サポート」より\\nお問い合わせください。"
   },
   "dialog_twitter_error_description1":{
-    "name":"dialog_twitter_error_description1", "wording":"Twitterアプリの起動に失敗しました。"
+    "name":"dialog_twitter_error_description1", "wording":"Xアプリの起動に失敗しました。"
   },
   "word_howToGetMusic":{
     "name":"word_howToGetMusic", "wording":"入手方法"
@@ -5709,13 +5781,16 @@
     "name":"collaboMission_complete_notice", "wording":"コラボミッション達成！"
   },
   "tutorial_slideTitle_potentialPractice":{
-    "name":"tutorial_slideTitle_potentialPractice", "wording":"ポテンシャル解放をしよう！"
+    "name":"tutorial_slideTitle_potentialPractice", "wording":"メンバーのパラメータを上げよう！"
   },
   "header_subTitle_stageChallengeStageLevelSelect":{
     "name":"header_subTitle_stageChallengeStageLevelSelect", "wording":"ステージ選択"
   },
   "newMusicIntroduction_musicInfo_tagOriginal":{
     "name":"newMusicIntroduction_musicInfo_tagOriginal", "wording":"オリジナル"
+  },
+  "dialog_acquisitionCharacterBonus_titleBulk":{
+    "name":"dialog_acquisitionCharacterBonus_titleBulk", "wording":"一括受け取り完了"
   },
   "dialog_stageChallengeFriendRanking_title":{
     "name":"dialog_stageChallengeFriendRanking_title", "wording":"フレンド達成状況"
@@ -5855,6 +5930,9 @@
   "dialog_sort_characterAlbum_training_before":{
     "name":"dialog_sort_characterAlbum_training_before", "wording":"特訓前"
   },
+  "word_tab_chara_mission":{
+    "name":"word_tab_chara_mission", "wording":"キャラミッション"
+  },
   "word_requestCancel":{
     "name":"word_requestCancel", "wording":"申請\\n取り消し"
   },
@@ -5981,6 +6059,9 @@
   "word_live":{
     "name":"word_live", "wording":"ライブ"
   },
+  "word_tab_potential":{
+    "name":"word_tab_potential", "wording":"ポテンシャル"
+  },
   "dialog_liveSettings_comboPositionVertical":{
     "name":"dialog_liveSettings_comboPositionVertical", "wording":"コンボ数表示位置　縦"
   },
@@ -6080,6 +6161,9 @@
   "dialog_rhythmgameRetire_title":{
     "name":"dialog_rhythmgameRetire_title", "wording":"中断"
   },
+  "word_michelleSealExchange_costumeFilter_notExist":{
+    "name":"word_michelleSealExchange_costumeFilter_notExist", "wording":"表示可能な衣装はありません。"
+  },
   "gachaTop_appealBalloon_setLabel":{
     "name":"gachaTop_appealBalloon_setLabel", "wording":"セットで\\nもらえる"
   },
@@ -6142,6 +6226,9 @@
   },
   "dialog_profileCharacterIllustConfirm_message":{
     "name":"dialog_profileCharacterIllustConfirm_message", "wording":"[{0}] {1}をプロフィールイラストに設定しますか？"
+  },
+  "special_traning_dialog_ticket":{
+    "name":"special_traning_dialog_ticket", "wording":"選択したチケットと特訓に必要なアイテムを消費します。"
   },
   "dialog_liveSettings_comboDisplay":{
     "name":"dialog_liveSettings_comboDisplay", "wording":"コンボ数表示"
@@ -6401,6 +6488,9 @@
   "word_stampBlacklistEdit_description":{
     "name":"word_stampBlacklistEdit_description", "wording":"非表示スタンプを設定すると、他プレイヤーが使用したスタンプが画面に表示されなくなります。最大10個まで設定可能です。"
   },
+  "replace_off":{
+    "name":"replace_off", "wording":"並び替え\nOFF"
+  },
   "tutorial_slideTitle_bikeCollabo":{
     "name":"tutorial_slideTitle_bikeCollabo", "wording":"集会所でプレゼントをもらおう！"
   },
@@ -6439,6 +6529,9 @@
   },
   "generalElection_description_preOpen":{
     "name":"generalElection_description_preOpen", "wording":"投票期間開始まで\\nしばらくお待ち下さい。"
+  },
+  "dialog_acquisitionCharacterBonus_title":{
+    "name":"dialog_acquisitionCharacterBonus_title", "wording":"受け取り完了"
   },
   "word_playSimple":{
     "name":"word_playSimple", "wording":"再生"
@@ -6698,6 +6791,9 @@
   "transitionButton_button_areaItem":{
     "name":"transitionButton_button_areaItem", "wording":"エリアアイテム"
   },
+  "word_asterisk":{
+    "name":"word_asterisk", "wording":"※"
+  },
   "teamLiveFestival_stageSelect_rotationUpdateRestTimeFormat":{
     "name":"teamLiveFestival_stageSelect_rotationUpdateRestTimeFormat", "wording":"%h'時間'mm'分'"
   },
@@ -6757,6 +6853,9 @@
   },
   "dialog_eventRewardBoxGacha_startContinueConfirm_message":{
     "name":"dialog_eventRewardBoxGacha_startContinueConfirm_message", "wording":"{0}{1}{2}を渡して\\n{3}{4}個と交換します。\\nよろしいですか？"
+  },
+  "word_michelleSealExchange_costumeFilter_title":{
+    "name":"word_michelleSealExchange_costumeFilter_title", "wording":"キャラクター絞り込み"
   },
   "dialog_frameDetail_title":{
     "name":"dialog_frameDetail_title", "wording":"フレーム詳細"
@@ -6938,6 +7037,9 @@
   "mission_progressGauge_labelFormat":{
     "name":"mission_progressGauge_labelFormat", "wording":"{0}/{1}"
   },
+  "loginStoryList_selectButton":{
+    "name":"loginStoryList_selectButton", "wording":"再生する"
+  },
   "dialog_twitter_logout_button":{
     "name":"dialog_twitter_logout_button", "wording":"アカウント連携を解除"
   },
@@ -7103,6 +7205,9 @@
   "dialog_liveSettings_lightModeCaution":{
     "name":"dialog_liveSettings_lightModeCaution", "wording":"※軽量モードを選択するとライブの背景がバンドに編成したいずれかのメンバーのイラストになります。"
   },
+  "word_michelleSealExchange_allFilter_notExist":{
+    "name":"word_michelleSealExchange_allFilter_notExist", "wording":"絞り込み条件に該当する項目がありません。"
+  },
   "newYearHolidaysPage_broadcastProgramButton_caption":{
     "name":"newYearHolidaysPage_broadcastProgramButton_caption", "wording":"コンテンツ情報"
   },
@@ -7255,6 +7360,9 @@
   },
   "miracleTicketExchange_exchangeWithSelectMember_sortDialogNotice":{
     "name":"miracleTicketExchange_exchangeWithSelectMember_sortDialogNotice", "wording":"※「気になるメンバーを探す」から絞り込みをしている間は、バンド別絞り込みは適用できません。"
+  },
+  "auto_specialTraining":{
+    "name":"auto_specialTraining", "wording":"自動で特訓"
   },
   "event_continuousPlay_titleFormat":{
     "name":"event_continuousPlay_titleFormat", "wording":"{0}　{1}"
@@ -7583,6 +7691,9 @@
   "word_dateFormat_yyyyMMDD_br_HHmm":{
     "name":"word_dateFormat_yyyyMMDD_br_HHmm", "wording":"yyyy/MM/dd\\nHH:mm"
   },
+  "replace_on_no_line_breaks":{
+    "name":"replace_on_no_line_breaks", "wording":"並び替えON"
+  },
   "transitionButton_button_characterrank":{
     "name":"transitionButton_button_characterrank", "wording":"キャラランク"
   },
@@ -7793,6 +7904,9 @@
   "customizeDecorationAppeal_categorySelect_bandDescription":{
     "name":"customizeDecorationAppeal_categorySelect_bandDescription", "wording":"ランク・成績"
   },
+  "word_live2D":{
+    "name":"word_live2D", "wording":"Live2D"
+  },
   "biography_areaTalk":{
     "name":"biography_areaTalk", "wording":"エリア会話"
   },
@@ -8002,6 +8116,12 @@
   },
   "garupaCup_topTeamEntry_playerIndex":{
     "name":"garupaCup_topTeamEntry_playerIndex", "wording":"プレイヤー{0}"
+  },
+  "tutorial_slideTitle_sudden_plus":{
+    "name":"tutorial_slideTitle_sudden_plus", "wording":"リズムアイコンの表示位置を変更してみよう"
+  },
+  "word_situation_parameter_description":{
+    "name":"word_situation_parameter_description", "wording":"{0}+{1}%アップ"
   },
   "medley_intermediatePage_scoreCaption":{
     "name":"medley_intermediatePage_scoreCaption", "wording":"トータルスコア"
