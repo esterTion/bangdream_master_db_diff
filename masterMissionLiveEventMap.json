@@ -1,1 +1,202 @@
-[]
+{
+  "271":{
+    "eventId":271, "attributes":[
+      {
+        "eventId":271, "attribute":"happy", "percent":10
+      }
+    ],
+    "characters":[
+      {
+        "eventId":271, "characterId":1, "percent":20, "seq":3
+      },
+      {
+        "eventId":271, "characterId":2, "percent":20, "seq":2
+      },
+      {
+        "eventId":271, "characterId":7, "percent":20, "seq":5
+      },
+      {
+        "eventId":271, "characterId":10, "percent":20, "seq":4
+      },
+      {
+        "eventId":271, "characterId":26, "percent":20, "seq":1
+      }
+    ],
+    "stories":[
+      {
+        "eventId":271, "seq":0, "caption":"オープニング", "title":"run,run,fun", "synopsis":"商店街でのマシュラビワードラリーに\n参加したましろは、迷っていた。", "scenarioId":"event271-01", "coverImage":"271_0", "backgroundImage":"0", "releasePt":0, "releaseConditions":"オープニングシナリオ", "backgroundImageId":17, "mainStoryId":0, "rewards":[
+          {
+            "id":4132, "eventId":271, "seq":0, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":4133, "eventId":271, "seq":0, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":271, "seq":1, "caption":"第１話", "title":"falling,falling,feeling", "synopsis":"たえに一緒に商店街を回ろうと誘われた\nましろ。悩みつつも、ましろの答えは……", "scenarioId":"event271-02", "coverImage":"271_1", "backgroundImage":"0", "releasePt":3000, "releaseConditions":"3000イベントP達成", "backgroundImageId":42, "mainStoryId":0, "rewards":[
+          {
+            "id":4134, "eventId":271, "seq":1, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":4135, "eventId":271, "seq":1, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":271, "seq":2, "caption":"第２話", "title":"play,play,stray", "synopsis":"たえと共に商店街に戻るましろ。\nそこは、知っているけれど知らない場所。", "scenarioId":"event271-03", "coverImage":"271_2", "backgroundImage":"0", "releasePt":6000, "releaseConditions":"6000イベントP達成", "backgroundImageId":65, "mainStoryId":0, "rewards":[
+          {
+            "id":4136, "eventId":271, "seq":2, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":4137, "eventId":271, "seq":2, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":271, "seq":3, "caption":"第３話", "title":"change,change,strange", "synopsis":"ヒントに従い羽沢珈琲店へやってきた２人。\nけれどここにも不思議の欠片は落ちていた。", "scenarioId":"event271-04", "coverImage":"271_3", "backgroundImage":"0", "releasePt":15000, "releaseConditions":"15000イベントP達成", "backgroundImageId":1089, "mainStoryId":0, "rewards":[
+          {
+            "id":4138, "eventId":271, "seq":3, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":4139, "eventId":271, "seq":3, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":271, "seq":4, "caption":"第４話", "title":"feeling,feeling,calling", "synopsis":"羽沢珈琲店を出た２人の前に現れる人々。\n知っている顔だけど、どこか違うその姿。", "scenarioId":"event271-05", "coverImage":"271_4", "backgroundImage":"0", "releasePt":28000, "releaseConditions":"28000イベントP達成", "backgroundImageId":17, "mainStoryId":0, "rewards":[
+          {
+            "id":4140, "eventId":271, "seq":4, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":4141, "eventId":271, "seq":4, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":271, "seq":5, "caption":"第５話", "title":"sing,sing,think", "synopsis":"香澄とライブをすることになったましろ。\nましろは考える。このままでいいのかと。", "scenarioId":"event271-06", "coverImage":"271_5", "backgroundImage":"0", "releasePt":40000, "releaseConditions":"40000イベントP達成", "backgroundImageId":26, "mainStoryId":0, "rewards":[
+          {
+            "id":4142, "eventId":271, "seq":5, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":4143, "eventId":271, "seq":5, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":271, "seq":6, "caption":"エンディング", "title":"Good morning", "synopsis":"目を覚ますましろとたえ。\n目覚めた先の世界は……", "scenarioId":"event271-07", "coverImage":"271_6", "backgroundImage":"0", "releasePt":55000, "releaseConditions":"55000イベントP達成", "backgroundImageId":72, "mainStoryId":0, "rewards":[
+          {
+            "id":4144, "eventId":271, "seq":6, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":4145, "eventId":271, "seq":6, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      }
+    ],
+    "eventAttributeAndCharacterBonus":{
+      "eventId":271, "pointPercent":20, "parameterPercent":0
+    },
+    "members":{
+      "2058":{
+        "eventId":271, "situationId":2058, "percent":20, "seq":1
+      },
+      "2059":{
+        "eventId":271, "situationId":2059, "percent":20, "seq":2
+      },
+      "2062":{
+        "eventId":271, "situationId":2062, "percent":20, "seq":3
+      }
+    },
+    "limitBreaks":{
+      "1":[
+        {
+          "rarity":1, "rank":0, "percent":0
+        },
+        {
+          "rarity":1, "rank":1, "percent":0.2
+        },
+        {
+          "rarity":1, "rank":2, "percent":0.3
+        },
+        {
+          "rarity":1, "rank":3, "percent":0.4
+        },
+        {
+          "rarity":1, "rank":4, "percent":0.5
+        }
+      ],
+      "2":[
+        {
+          "rarity":2, "rank":0, "percent":0
+        },
+        {
+          "rarity":2, "rank":1, "percent":0.4
+        },
+        {
+          "rarity":2, "rank":2, "percent":0.6
+        },
+        {
+          "rarity":2, "rank":3, "percent":0.8
+        },
+        {
+          "rarity":2, "rank":4, "percent":1
+        }
+      ],
+      "3":[
+        {
+          "rarity":3, "rank":0, "percent":0
+        },
+        {
+          "rarity":3, "rank":1, "percent":1
+        },
+        {
+          "rarity":3, "rank":2, "percent":2
+        },
+        {
+          "rarity":3, "rank":3, "percent":3
+        },
+        {
+          "rarity":3, "rank":4, "percent":4
+        }
+      ],
+      "4":[
+        {
+          "rarity":4, "rank":0, "percent":0
+        },
+        {
+          "rarity":4, "rank":1, "percent":3
+        },
+        {
+          "rarity":4, "rank":2, "percent":4
+        },
+        {
+          "rarity":4, "rank":3, "percent":5
+        },
+        {
+          "rarity":4, "rank":4, "percent":6
+        }
+      ],
+      "5":[
+        {
+          "rarity":5, "rank":0, "percent":0
+        },
+        {
+          "rarity":5, "rank":1, "percent":12
+        },
+        {
+          "rarity":5, "rank":2, "percent":13
+        },
+        {
+          "rarity":5, "rank":3, "percent":14
+        },
+        {
+          "rarity":5, "rank":4, "percent":15
+        }
+      ]
+    },
+    "threshold":{
+      "eventType":"mission_live", "threshold1":50, "threshold2":70
+    }
+  }
+}
