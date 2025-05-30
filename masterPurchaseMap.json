@@ -414,6 +414,9 @@
       },
       {
         "assetBundleName":"monthly_mission_2505", "seq":15, "publishedAt":1746025200000, "closedAt":1748703599000
+      },
+      {
+        "assetBundleName":"monthly_mission_2506", "seq":15, "publishedAt":1748703600000, "closedAt":1751295599000
       }
     ]
   },
@@ -4822,6 +4825,188 @@
     "purchaseId":1209, "purchaseCategory":"limited_term", "productName":"毎月買えるお得なスター③", "description":"[505050FF]６０００個（４０５０個 [-][FF3B72FF]＋ １９５０個[-][505050FF]）[-]", "label":"毎月2回限定", "purchaseLimit":2, "publishedAt":1745906400000, "closedAt":1748671199000, "detail":[
       {
         "purchaseId":1209, "seq":1, "resourceType":"paid_star", "quantity":6000
+      }
+    ],
+    "seq":27, "purchaseMenuId":4, "homeBalloonPriority":60, "homeBalloonMessage":"毎月買えるお得なスター♪"
+  },
+  "1210":{
+    "purchaseId":1210, "purchaseCategory":"item_set", "productName":"リリース3000日記念プレミアムセット", "description":"リリース3000日を記念したお得なプレミアムセット", "purchaseLimit":1, "publishedAt":1748671200000, "closedAt":1750399199000, "detail":[
+      {
+        "purchaseId":1210, "seq":1, "resourceType":"paid_star", "quantity":8400
+      },
+      {
+        "purchaseId":1210, "seq":2, "resourceType":"gacha_ticket", "resourceId":31, "quantity":1
+      },
+      {
+        "purchaseId":1210, "seq":3, "resourceType":"limit_break_item", "resourceId":2, "quantity":1
+      },
+      {
+        "purchaseId":1210, "seq":4, "resourceType":"costume_3d_making_item", "resourceId":1, "quantity":1000
+      },
+      {
+        "purchaseId":1210, "seq":5, "resourceType":"coin", "quantity":1500000
+      },
+      {
+        "purchaseId":1210, "seq":6, "resourceType":"practice_ticket", "resourceId":4, "quantity":50
+      },
+      {
+        "purchaseId":1210, "seq":7, "resourceType":"practice_ticket", "resourceId":8, "quantity":30
+      },
+      {
+        "purchaseId":1210, "seq":8, "resourceType":"item", "resourceId":14, "quantity":10
+      },
+      {
+        "purchaseId":1210, "seq":9, "resourceType":"item", "resourceId":9, "quantity":450
+      },
+      {
+        "purchaseId":1210, "seq":10, "resourceType":"item", "resourceId":10, "quantity":450
+      },
+      {
+        "purchaseId":1210, "seq":11, "resourceType":"item", "resourceId":11, "quantity":450
+      },
+      {
+        "purchaseId":1210, "seq":12, "resourceType":"item", "resourceId":12, "quantity":450
+      },
+      {
+        "purchaseId":1210, "seq":13, "resourceType":"item", "resourceId":5, "quantity":2400
+      },
+      {
+        "purchaseId":1210, "seq":14, "resourceType":"item", "resourceId":6, "quantity":2400
+      },
+      {
+        "purchaseId":1210, "seq":15, "resourceType":"item", "resourceId":7, "quantity":2400
+      },
+      {
+        "purchaseId":1210, "seq":16, "resourceType":"item", "resourceId":8, "quantity":2400
+      },
+      {
+        "purchaseId":1210, "seq":17, "resourceType":"item", "resourceId":1, "quantity":3900
+      },
+      {
+        "purchaseId":1210, "seq":18, "resourceType":"item", "resourceId":2, "quantity":3900
+      },
+      {
+        "purchaseId":1210, "seq":19, "resourceType":"item", "resourceId":3, "quantity":3900
+      },
+      {
+        "purchaseId":1210, "seq":20, "resourceType":"item", "resourceId":4, "quantity":3900
+      }
+    ],
+    "seq":11, "purchaseMenuId":2, "homeBalloonPriority":10, "homeBalloonMessage":"3000日記念セット販売中♪", "recommends":[
+      {
+        "assetBundleName":"item_set_3000day", "seq":8, "publishedAt":1748671200000, "closedAt":1750399199000
+      }
+    ]
+  },
+  "1211":{
+    "purchaseId":1211, "purchaseCategory":"item_set", "productName":"リリース3000日記念アイテムセット", "description":"リリース3000日を記念したお得なアイテムセット", "purchaseLimit":1, "publishedAt":1748671200000, "closedAt":1750399199000, "detail":[
+      {
+        "purchaseId":1211, "seq":1, "resourceType":"paid_star", "quantity":4050
+      },
+      {
+        "purchaseId":1211, "seq":2, "resourceType":"gacha_ticket", "resourceId":32, "quantity":1
+      },
+      {
+        "purchaseId":1211, "seq":3, "resourceType":"limit_break_item", "resourceId":1, "quantity":400
+      },
+      {
+        "purchaseId":1211, "seq":4, "resourceType":"costume_3d_making_item", "resourceId":1, "quantity":400
+      },
+      {
+        "purchaseId":1211, "seq":5, "resourceType":"coin", "quantity":1500000
+      },
+      {
+        "purchaseId":1211, "seq":6, "resourceType":"practice_ticket", "resourceId":4, "quantity":50
+      },
+      {
+        "purchaseId":1211, "seq":7, "resourceType":"practice_ticket", "resourceId":7, "quantity":100
+      },
+      {
+        "purchaseId":1211, "seq":8, "resourceType":"item", "resourceId":14, "quantity":10
+      },
+      {
+        "purchaseId":1211, "seq":9, "resourceType":"item", "resourceId":9, "quantity":450
+      },
+      {
+        "purchaseId":1211, "seq":10, "resourceType":"item", "resourceId":10, "quantity":450
+      },
+      {
+        "purchaseId":1211, "seq":11, "resourceType":"item", "resourceId":11, "quantity":450
+      },
+      {
+        "purchaseId":1211, "seq":12, "resourceType":"item", "resourceId":12, "quantity":450
+      },
+      {
+        "purchaseId":1211, "seq":13, "resourceType":"item", "resourceId":5, "quantity":2400
+      },
+      {
+        "purchaseId":1211, "seq":14, "resourceType":"item", "resourceId":6, "quantity":2400
+      },
+      {
+        "purchaseId":1211, "seq":15, "resourceType":"item", "resourceId":7, "quantity":2400
+      },
+      {
+        "purchaseId":1211, "seq":16, "resourceType":"item", "resourceId":8, "quantity":2400
+      },
+      {
+        "purchaseId":1211, "seq":17, "resourceType":"item", "resourceId":1, "quantity":3900
+      },
+      {
+        "purchaseId":1211, "seq":18, "resourceType":"item", "resourceId":2, "quantity":3900
+      },
+      {
+        "purchaseId":1211, "seq":19, "resourceType":"item", "resourceId":3, "quantity":3900
+      },
+      {
+        "purchaseId":1211, "seq":20, "resourceType":"item", "resourceId":4, "quantity":3900
+      }
+    ],
+    "seq":12, "purchaseMenuId":2
+  },
+  "1212":{
+    "purchaseId":1212, "purchaseCategory":"limited_term", "productName":"リリース3000日記念お得なスター①", "description":"[505050FF]１２２０個（７８０個 [-][FF3B72FF]＋ ４４０個[-][505050FF]）[-]", "label":"キャンペーン", "purchaseLimit":2, "publishedAt":1748671200000, "closedAt":1750399199000, "detail":[
+      {
+        "purchaseId":1212, "seq":1, "resourceType":"paid_star", "quantity":1220
+      }
+    ],
+    "seq":22, "purchaseMenuId":4, "homeBalloonPriority":40, "homeBalloonMessage":"お得なスターキャンペーン♪"
+  },
+  "1213":{
+    "purchaseId":1213, "purchaseCategory":"limited_term", "productName":"リリース3000日記念お得なスター②", "description":"[505050FF]４１５０個（２７００個 [-][FF3B72FF]＋ １４５０個[-][505050FF]）[-]", "label":"キャンペーン", "purchaseLimit":2, "publishedAt":1748671200000, "closedAt":1750399199000, "detail":[
+      {
+        "purchaseId":1213, "seq":1, "resourceType":"paid_star", "quantity":4150
+      }
+    ],
+    "seq":23, "purchaseMenuId":4, "homeBalloonPriority":40, "homeBalloonMessage":"お得なスターキャンペーン♪"
+  },
+  "1214":{
+    "purchaseId":1214, "purchaseCategory":"limited_term", "productName":"リリース3000日記念お得なスター③", "description":"[505050FF]６０００個（４０５０個 [-][FF3B72FF]＋ １９５０個[-][505050FF]）[-]", "label":"キャンペーン", "purchaseLimit":2, "publishedAt":1748671200000, "closedAt":1750399199000, "detail":[
+      {
+        "purchaseId":1214, "seq":1, "resourceType":"paid_star", "quantity":6000
+      }
+    ],
+    "seq":24, "purchaseMenuId":4, "homeBalloonPriority":40, "homeBalloonMessage":"お得なスターキャンペーン♪"
+  },
+  "1215":{
+    "purchaseId":1215, "purchaseCategory":"limited_term", "productName":"毎月買えるお得なスター①", "description":"[505050FF]１２２０個（７８０個 [-][FF3B72FF]＋ ４４０個[-][505050FF]）[-]", "label":"毎月2回限定", "purchaseLimit":2, "publishedAt":1748671200000, "closedAt":1751176799000, "detail":[
+      {
+        "purchaseId":1215, "seq":1, "resourceType":"paid_star", "quantity":1220
+      }
+    ],
+    "seq":25, "purchaseMenuId":4, "homeBalloonPriority":60, "homeBalloonMessage":"毎月買えるお得なスター♪"
+  },
+  "1216":{
+    "purchaseId":1216, "purchaseCategory":"limited_term", "productName":"毎月買えるお得なスター②", "description":"[505050FF]４１５０個（２７００個 [-][FF3B72FF]＋ １４５０個[-][505050FF]）[-]", "label":"毎月2回限定", "purchaseLimit":2, "publishedAt":1748671200000, "closedAt":1751176799000, "detail":[
+      {
+        "purchaseId":1216, "seq":1, "resourceType":"paid_star", "quantity":4150
+      }
+    ],
+    "seq":26, "purchaseMenuId":4, "homeBalloonPriority":60, "homeBalloonMessage":"毎月買えるお得なスター♪"
+  },
+  "1217":{
+    "purchaseId":1217, "purchaseCategory":"limited_term", "productName":"毎月買えるお得なスター③", "description":"[505050FF]６０００個（４０５０個 [-][FF3B72FF]＋ １９５０個[-][505050FF]）[-]", "label":"毎月2回限定", "purchaseLimit":2, "publishedAt":1748671200000, "closedAt":1751176799000, "detail":[
+      {
+        "purchaseId":1217, "seq":1, "resourceType":"paid_star", "quantity":6000
       }
     ],
     "seq":27, "purchaseMenuId":4, "homeBalloonPriority":60, "homeBalloonMessage":"毎月買えるお得なスター♪"
