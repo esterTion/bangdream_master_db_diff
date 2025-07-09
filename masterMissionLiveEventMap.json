@@ -1,1 +1,202 @@
-[]
+{
+  "300":{
+    "eventId":300, "attributes":[
+      {
+        "eventId":300, "attribute":"powerful", "percent":10
+      }
+    ],
+    "characters":[
+      {
+        "eventId":300, "characterId":16, "percent":20, "seq":5
+      },
+      {
+        "eventId":300, "characterId":17, "percent":20, "seq":4
+      },
+      {
+        "eventId":300, "characterId":18, "percent":20, "seq":2
+      },
+      {
+        "eventId":300, "characterId":19, "percent":20, "seq":1
+      },
+      {
+        "eventId":300, "characterId":20, "percent":20, "seq":3
+      }
+    ],
+    "stories":[
+      {
+        "eventId":300, "seq":0, "caption":"オープニング", "title":"パスパレ絶好調！", "synopsis":"グループでもソロでも仕事が途切れない\nパスパレに、新たなオファーが……！？", "scenarioId":"event300-01", "coverImage":"300_0", "backgroundImage":"0", "releasePt":0, "releaseConditions":"オープニングシナリオ", "backgroundImageId":55, "mainStoryId":0, "rewards":[
+          {
+            "id":4548, "eventId":300, "seq":0, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":4549, "eventId":300, "seq":0, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":300, "seq":1, "caption":"第１話", "title":"麻弥先生のクイズ講座", "synopsis":"人気クイズ番組に出演が決定したパスパレは\n麻弥を中心にクイズの特訓をすることに。", "scenarioId":"event300-02", "coverImage":"300_1", "backgroundImage":"0", "releasePt":3000, "releaseConditions":"3000イベントP達成", "backgroundImageId":55, "mainStoryId":0, "rewards":[
+          {
+            "id":4550, "eventId":300, "seq":1, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":4551, "eventId":300, "seq":1, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":300, "seq":2, "caption":"第２話", "title":"『かがやけ☆クイズスター！』", "synopsis":"迎えた番組収録当日。メンバーたちは\n全力でクイズに挑んでいくが……？", "scenarioId":"event300-03", "coverImage":"300_2", "backgroundImage":"0", "releasePt":6000, "releaseConditions":"6000イベントP達成", "backgroundImageId":1185, "mainStoryId":0, "rewards":[
+          {
+            "id":4552, "eventId":300, "seq":2, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":4553, "eventId":300, "seq":2, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":300, "seq":3, "caption":"第３話", "title":"思わぬ落とし穴！？", "synopsis":"滑り出しは順調だったパスパレ。しかし、\nめぐり合わせ悪く徐々に苦戦し始めて……", "scenarioId":"event300-04", "coverImage":"300_3", "backgroundImage":"0", "releasePt":15000, "releaseConditions":"15000イベントP達成", "backgroundImageId":1185, "mainStoryId":0, "rewards":[
+          {
+            "id":4554, "eventId":300, "seq":3, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":4555, "eventId":300, "seq":3, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":300, "seq":4, "caption":"第４話", "title":"潜んでいた違和感", "synopsis":"後半戦、なんとか巻き返そうとする中、\n麻弥は自分なりに回答を導き出すが……", "scenarioId":"event300-05", "coverImage":"300_4", "backgroundImage":"0", "releasePt":28000, "releaseConditions":"28000イベントP達成", "backgroundImageId":1185, "mainStoryId":0, "rewards":[
+          {
+            "id":4556, "eventId":300, "seq":4, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":4557, "eventId":300, "seq":4, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":300, "seq":5, "caption":"第５話", "title":"主役になる勇気", "synopsis":"番組の最後を飾るのはジェスチャークイズ。\nパスパレから代表者として選ばれたのは――", "scenarioId":"event300-06", "coverImage":"300_5", "backgroundImage":"0", "releasePt":40000, "releaseConditions":"40000イベントP達成", "backgroundImageId":1185, "mainStoryId":0, "rewards":[
+          {
+            "id":4558, "eventId":300, "seq":5, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":4559, "eventId":300, "seq":5, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":300, "seq":6, "caption":"エンディング", "title":"今日のMVP", "synopsis":"優勝は逃したものの、しっかり爪痕を残した\nパスパレ。その活躍の立役者はもちろん――", "scenarioId":"event300-07", "coverImage":"300_6", "backgroundImage":"0", "releasePt":55000, "releaseConditions":"55000イベントP達成", "backgroundImageId":28, "mainStoryId":0, "rewards":[
+          {
+            "id":4560, "eventId":300, "seq":6, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":4561, "eventId":300, "seq":6, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      }
+    ],
+    "eventAttributeAndCharacterBonus":{
+      "eventId":300, "pointPercent":20, "parameterPercent":0
+    },
+    "members":{
+      "2248":{
+        "eventId":300, "situationId":2248, "percent":20, "seq":1
+      },
+      "2249":{
+        "eventId":300, "situationId":2249, "percent":20, "seq":2
+      },
+      "2252":{
+        "eventId":300, "situationId":2252, "percent":20, "seq":3
+      }
+    },
+    "limitBreaks":{
+      "1":[
+        {
+          "rarity":1, "rank":0, "percent":0
+        },
+        {
+          "rarity":1, "rank":1, "percent":0.2
+        },
+        {
+          "rarity":1, "rank":2, "percent":0.3
+        },
+        {
+          "rarity":1, "rank":3, "percent":0.4
+        },
+        {
+          "rarity":1, "rank":4, "percent":0.5
+        }
+      ],
+      "2":[
+        {
+          "rarity":2, "rank":0, "percent":0
+        },
+        {
+          "rarity":2, "rank":1, "percent":0.4
+        },
+        {
+          "rarity":2, "rank":2, "percent":0.6
+        },
+        {
+          "rarity":2, "rank":3, "percent":0.8
+        },
+        {
+          "rarity":2, "rank":4, "percent":1
+        }
+      ],
+      "3":[
+        {
+          "rarity":3, "rank":0, "percent":0
+        },
+        {
+          "rarity":3, "rank":1, "percent":1
+        },
+        {
+          "rarity":3, "rank":2, "percent":2
+        },
+        {
+          "rarity":3, "rank":3, "percent":3
+        },
+        {
+          "rarity":3, "rank":4, "percent":4
+        }
+      ],
+      "4":[
+        {
+          "rarity":4, "rank":0, "percent":0
+        },
+        {
+          "rarity":4, "rank":1, "percent":3
+        },
+        {
+          "rarity":4, "rank":2, "percent":4
+        },
+        {
+          "rarity":4, "rank":3, "percent":5
+        },
+        {
+          "rarity":4, "rank":4, "percent":6
+        }
+      ],
+      "5":[
+        {
+          "rarity":5, "rank":0, "percent":0
+        },
+        {
+          "rarity":5, "rank":1, "percent":12
+        },
+        {
+          "rarity":5, "rank":2, "percent":13
+        },
+        {
+          "rarity":5, "rank":3, "percent":14
+        },
+        {
+          "rarity":5, "rank":4, "percent":15
+        }
+      ]
+    },
+    "threshold":{
+      "eventType":"mission_live", "threshold1":50, "threshold2":70
+    }
+  }
+}
