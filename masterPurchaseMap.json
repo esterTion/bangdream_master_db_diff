@@ -438,6 +438,9 @@
       },
       {
         "assetBundleName":"monthly_mission_2601", "seq":15, "publishedAt":1767193200000, "closedAt":1769871599000
+      },
+      {
+        "assetBundleName":"monthly_mission_2602", "seq":15, "publishedAt":1769871600000, "closedAt":1772290799000
       }
     ]
   },
@@ -6032,6 +6035,49 @@
       },
       {
         "purchaseId":1279, "seq":2, "resourceType":"live_boost_recovery_item", "resourceId":1, "quantity":3
+      }
+    ],
+    "seq":999, "purchaseMenuId":999
+  },
+  "1280":{
+    "purchaseId":1280, "purchaseCategory":"limited_term", "productName":"毎月買えるお得なスター①", "description":"[505050FF]１２２０個（７８０個 [-][FF3B72FF]＋ ４４０個[-][505050FF]）[-]", "label":"毎月2回限定", "purchaseLimit":2, "publishedAt":1769839200000, "closedAt":1772171999000, "detail":[
+      {
+        "purchaseId":1280, "seq":1, "resourceType":"paid_star", "quantity":1220
+      }
+    ],
+    "seq":25, "purchaseMenuId":4, "homeBalloonPriority":60, "homeBalloonMessage":"毎月買えるお得なスター♪"
+  },
+  "1281":{
+    "purchaseId":1281, "purchaseCategory":"limited_term", "productName":"毎月買えるお得なスター②", "description":"[505050FF]４１５０個（２７００個 [-][FF3B72FF]＋ １４５０個[-][505050FF]）[-]", "label":"毎月2回限定", "purchaseLimit":2, "publishedAt":1769839200000, "closedAt":1772171999000, "detail":[
+      {
+        "purchaseId":1281, "seq":1, "resourceType":"paid_star", "quantity":4150
+      }
+    ],
+    "seq":26, "purchaseMenuId":4, "homeBalloonPriority":60, "homeBalloonMessage":"毎月買えるお得なスター♪"
+  },
+  "1282":{
+    "purchaseId":1282, "purchaseCategory":"limited_term", "productName":"毎月買えるお得なスター③", "description":"[505050FF]６０００個（４０５０個 [-][FF3B72FF]＋ １９５０個[-][505050FF]）[-]", "label":"毎月2回限定", "purchaseLimit":2, "publishedAt":1769839200000, "closedAt":1772171999000, "detail":[
+      {
+        "purchaseId":1282, "seq":1, "resourceType":"paid_star", "quantity":6000
+      }
+    ],
+    "seq":27, "purchaseMenuId":4, "homeBalloonPriority":60, "homeBalloonMessage":"毎月買えるお得なスター♪"
+  },
+  "1283":{
+    "purchaseId":1283, "purchaseCategory":"limited_term", "productName":"毎月買えるお得なスター④", "description":"[505050FF]７３５０個（５０００個 [-][FF3B72FF]＋ ２３５０個[-][505050FF]）[-]", "label":"毎月2回限定", "purchaseLimit":2, "publishedAt":1769839200000, "closedAt":1772171999000, "detail":[
+      {
+        "purchaseId":1283, "seq":1, "resourceType":"paid_star", "quantity":7350
+      }
+    ],
+    "seq":28, "purchaseMenuId":999
+  },
+  "1284":{
+    "purchaseId":1284, "purchaseCategory":"item_set", "productName":"プレゼントコード", "description":"プレゼントコードでもらえるお得なセット", "purchaseLimit":1, "publishedAt":1769839200000, "closedAt":1772171999000, "detail":[
+      {
+        "purchaseId":1284, "seq":1, "resourceType":"star", "quantity":100
+      },
+      {
+        "purchaseId":1284, "seq":2, "resourceType":"live_boost_recovery_item", "resourceId":1, "quantity":3
       }
     ],
     "seq":999, "purchaseMenuId":999
