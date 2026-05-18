@@ -20,6 +20,9 @@
   "dialog_liveSettings_liveVolumeCaption":{
     "name":"dialog_liveSettings_liveVolumeCaption", "wording":"ライブ音量"
   },
+  "nfo_data_reset_annotation":{
+    "name":"nfo_data_reset_annotation", "wording":"※ミッションの達成状況はリセットされません。"
+  },
   "dialog_profileIllustSelectUseMainBandLeader_message":{
     "name":"dialog_profileIllustSelectUseMainBandLeader_message", "wording":"イラストが\nメインバンドのリーダーに変更されます。\nよろしいですか？"
   },
@@ -2169,7 +2172,7 @@
     "name":"graphicalInfo_title_limitedMusic_hell_or_hell", "wording":"ガルパ運営からの挑戦状！"
   },
   "dialog_selfpickup_gacha_select_description_1":{
-    "name":"dialog_selfpickup_gacha_select_description_1", "wording":"以下のメンバーがガチャの出現率UP、\nおよびガチャシール交換の対象となります。"
+    "name":"dialog_selfpickup_gacha_select_description_1", "wording":"以下のメンバーがピックアップ対象となります。"
   },
   "dialog_buddyInviteRegistered_description":{
     "name":"dialog_buddyInviteRegistered_description", "wording":"バディ招待報酬をプレゼントボックスに送りました。\\n一緒にバディミッションを進めることで\\nミッション報酬を獲得することができます。"
@@ -2333,6 +2336,9 @@
   "dialog_premiumPassPurchaseConfirm_serialCode":{
     "name":"dialog_premiumPassPurchaseConfirm_serialCode", "wording":"※シリアルコードは5/10 15:00以降に公開を予定しているホーム画面左下の専用ページバナーからご確認いただけます。\n※詳細は改めてお知らせでご案内させていただきます。"
   },
+  "dialog_nfoGameClose_message":{
+    "name":"dialog_nfoGameClose_message", "wording":"ゲームは現在終了しています。"
+  },
   "newYearCard_errorDialog_messageOutOfTerm":{
     "name":"newYearCard_errorDialog_messageOutOfTerm", "wording":"日付が変わりました。\\nタイトルに戻ります。"
   },
@@ -2347,6 +2353,9 @@
   },
   "dialog_photostudio_setting_Blur":{
     "name":"dialog_photostudio_setting_Blur", "wording":"ぼかしの強さ"
+  },
+  "nfo_tutorial_title":{
+    "name":"nfo_tutorial_title", "wording":"遊び方"
   },
   "dialog_billingPenalty_accountStopWarning":{
     "name":"dialog_billingPenalty_accountStopWarning", "wording":"※悪質な行為と判断された場合、アカウントの停止措置を実施します。"
@@ -4526,6 +4535,9 @@
   "teamLiveFestival_matching_noticeSameTeamMatching":{
     "name":"teamLiveFestival_matching_noticeSameTeamMatching", "wording":"相手チームが見つからなかったため、同じチームも含めてマッチング中..."
   },
+  "nfo_data_retire_annotation":{
+    "name":"nfo_data_retire_annotation", "wording":"※リタイアした場合、獲得したコインや図鑑の\n　登録状況は保存されません。"
+  },
   "dialog_rhythmgameRetire_annotatedLB":{
     "name":"dialog_rhythmgameRetire_annotatedLB", "wording":"※中断した場合、ライブ報酬を獲得できません。"
   },
@@ -6320,6 +6332,9 @@
   "starShop_itemSetBalloon_weeklyReset":{
     "name":"starShop_itemSetBalloon_weeklyReset", "wording":"毎週月曜リセット"
   },
+  "nfo_return_title_text":{
+    "name":"nfo_return_title_text", "wording":"タイトルへ"
+  },
   "dialog_billingPenalty_titleBillingStop":{
     "name":"dialog_billingPenalty_titleBillingStop", "wording":"スターショップへの課金停止"
   },
@@ -6574,6 +6589,9 @@
   },
   "word_notSetFavoriteMessage_description":{
     "name":"word_notSetFavoriteMessage_description", "wording":"お気に入りスタンプは協力ライブのルーム選択画面から設定することができます。"
+  },
+  "nfo_cancel_text":{
+    "name":"nfo_cancel_text", "wording":"キャンセル"
   },
   "dialog_profile_twitterUrlJump_message":{
     "name":"dialog_profile_twitterUrlJump_message", "wording":"連携されているTwitterアカウントに\\n移動します。"
@@ -7461,7 +7479,7 @@
     "name":"graphicalInfo_title_morfonica", "wording":"新バンド登場！"
   },
   "dialog_userHistoryPageConfirm_message":{
-    "name":"dialog_userHistoryPageConfirm_message", "wording":"この先、\\nバンドリ！ ガールズバンドパーティ！9周年特設Webページに移動します。\\n移動に伴い、以下の情報を株式会社ブシロードのサーバーへ送信します。"
+    "name":"dialog_userHistoryPageConfirm_message", "wording":"この先、\\nバンドリ！ ガールズバンドパーティ！特設Webページに移動します。\\n移動に伴い、以下の情報を株式会社ブシロードのサーバーへ送信します。"
   },
   "header_subTitle_decorationAppealPlayer":{
     "name":"header_subTitle_decorationAppealPlayer", "wording":"プレイヤー"
@@ -8099,6 +8117,9 @@
   "dialog_potentialPracticeConfirm_levelOneContent":{
     "name":"dialog_potentialPracticeConfirm_levelOneContent", "wording":"レベルアップします。\\nよろしいですか？"
   },
+  "dialog_nfoGameClose_title":{
+    "name":"dialog_nfoGameClose_title", "wording":"通知"
+  },
   "dialog_batteryCaution_checkBox":{
     "name":"dialog_batteryCaution_checkBox", "wording":"翌日の{0}時まで表示しない"
   },
@@ -8690,6 +8711,9 @@
   "stageChallengeIdSelect_achievementCompleted_caption":{
     "name":"stageChallengeIdSelect_achievementCompleted_caption", "wording":"すべての報酬を獲得しました。"
   },
+  "nfo_second_retry_text":{
+    "name":"nfo_second_retry_text", "wording":"プレイしたデータは\n保存されません。\nタイトルへ戻りますか？"
+  },
   "dialog_button_transition_monthly_ranking":{
     "name":"dialog_button_transition_monthly_ranking", "wording":"月間ランキングへ"
   },
@@ -8773,6 +8797,9 @@
   },
   "teamLiveFestival_teamSelectDialog_theme":{
     "name":"teamLiveFestival_teamSelectDialog_theme", "wording":"今回のお題"
+  },
+  "nfo_retry_text":{
+    "name":"nfo_retry_text", "wording":"リトライ"
   },
   "missionTitle_accountSnsInherit_android":{
     "name":"missionTitle_accountSnsInherit_android", "wording":"データ引き継ぎ画面からGoogle Playとデータ連携をしよう"
@@ -8887,6 +8914,9 @@
   },
   "medley_intermediatePage_scoreCaption":{
     "name":"medley_intermediatePage_scoreCaption", "wording":"トータルスコア"
+  },
+  "nof_mission_reward_receive":{
+    "name":"nof_mission_reward_receive", "wording":"報酬を獲得しました！\n受け取った報酬は\nプレゼントでご確認ください。"
   },
   "dialog_stepUpGachaStepResetNotify_title":{
     "name":"dialog_stepUpGachaStepResetNotify_title", "wording":"ガチャ回数リセット"
