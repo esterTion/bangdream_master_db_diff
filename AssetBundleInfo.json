@@ -1,5 +1,5 @@
 {
-  "version":"10.1.0.280", "bundles":{
+  "version":"10.1.0.290", "bundles":{
     "actionset/group0":{
       "bundleName":"actionset/group0", "hash":"d3e2031a3f5943e36a320dec43c19b4cbb9fa2f9e157d254bf4c792a14cb05b9", "category":"StartApp", "crc":2528061075, "fileSize":15794
     },
@@ -31353,6 +31353,9 @@
     "event/loginbonus/bandori_chan_stamp_2608":{
       "bundleName":"event/loginbonus/bandori_chan_stamp_2608", "hash":"0e9f93eeb26e7820d2527f23a44047049734335f087e15a2586a0394e2a45ab3", "category":"AsNeeded", "crc":2101639950, "fileSize":465457
     },
+    "event/loginbonus/bandori_chan_stamp_2609":{
+      "bundleName":"event/loginbonus/bandori_chan_stamp_2609", "hash":"e3676977ee3b2ed2a83660338b0ccb86fa176bd61f44fcb43b735dd24b49a96a", "category":"AsNeeded", "crc":2952466030, "fileSize":459942
+    },
     "event/loginbonus/bandori_day_2020":{
       "bundleName":"event/loginbonus/bandori_day_2020", "hash":"2b3352aac80674798b7ecf7d4afd96a4e7258b7e6342f71dacf5791005475b0e", "category":"AsNeeded", "crc":3936570380, "fileSize":820581
     },
@@ -44258,6 +44261,9 @@
     },
     "graphicalinfo/info_stage_challenge_187":{
       "bundleName":"graphicalinfo/info_stage_challenge_187", "hash":"7a3110e49be9658630c7e6ade334494893a228ce9cb98bb4609736eab5a895ce", "category":"AsNeeded", "crc":15646699, "fileSize":98709
+    },
+    "graphicalinfo/info_stage_challenge_188":{
+      "bundleName":"graphicalinfo/info_stage_challenge_188", "hash":"218caf1ae52428764c587685cd2f058bebb0373598410055149f5b19c0cc20ba", "category":"AsNeeded", "crc":819872402, "fileSize":99365
     },
     "graphicalinfo/info_yusho2_slide":{
       "bundleName":"graphicalinfo/info_yusho2_slide", "hash":"1042683e18f65c5578ea65d5c514fb26fe121ac9521ac44341aeee1337e53e7f", "category":"AsNeeded", "crc":1496385634, "fileSize":158807
@@ -57772,10 +57778,10 @@
       "bundleName":"musicscore/musicscore800", "hash":"bfa2f9ab354a21c703fa658f81ff60110a486c67f6e244447a46ba4591ca703b", "category":"StartApp", "crc":1209652287, "fileSize":3165364
     },
     "musicscore/musicscore810":{
-      "bundleName":"musicscore/musicscore810", "hash":"9a743895fce1fb5d56384895fc1ebbe62e43093b62e01e124986b364a41bfd2c", "category":"StartApp", "crc":3678400641, "fileSize":3068012
+      "bundleName":"musicscore/musicscore810", "hash":"10aef3965631065ccc1e71dd1a507aa02e43093b62e01e124986b364a41bfd2c", "category":"StartApp", "crc":3678400641, "fileSize":3068012
     },
     "musicscore/musicscore820":{
-      "bundleName":"musicscore/musicscore820", "hash":"53c3619cb51bc1cd151f32783823600b9d005a55b1bf02bc685f7c63b0b255a7", "category":"StartApp", "crc":2116336841, "fileSize":390457
+      "bundleName":"musicscore/musicscore820", "hash":"f746619e4c7c9e0c0ef79aa5c90dd7979d005a55b1bf02bc685f7c63b0b255a7", "category":"StartApp", "crc":2116336841, "fileSize":390457
     },
     "musicscore/musicscore90":{
       "bundleName":"musicscore/musicscore90", "hash":"1c5a2a41dd5d61f15c8f6832cb20eb7c3f005a7e9fcf1f802a7706793afb06f5", "category":"StartApp", "crc":1104297021, "fileSize":2919451
@@ -69718,10 +69724,10 @@
       "bundleName":"sound/bgm809", "hash":"c9add13af5332bef09467d801cee42f9a0d1635b600fa7f35f8ac3d18b5a6cba", "category":"AsNeeded", "crc":132805133, "fileSize":3997174
     },
     "sound/bgm810":{
-      "bundleName":"sound/bgm810", "hash":"2a2a4e48c13e487469ad70030d62425518d3608f61d5db5551241a380a7e248f", "category":"AsNeeded", "crc":3213858948, "fileSize":3388641
+      "bundleName":"sound/bgm810", "hash":"51d025304c9c4b4b3d0c93d36e658b5e18d3608f61d5db5551241a380a7e248f", "category":"AsNeeded", "crc":3213858948, "fileSize":3388641
     },
     "sound/bgm811":{
-      "bundleName":"sound/bgm811", "hash":"4be3d88c90d979170ff739811b37842d6f7f4db69518d925be73db7d668a9cc2", "category":"AsNeeded", "crc":2664214326, "fileSize":3558974
+      "bundleName":"sound/bgm811", "hash":"ad3b06de5c4697bb38a2c2fb4de02a776f7f4db69518d925be73db7d668a9cc2", "category":"AsNeeded", "crc":2664214326, "fileSize":3558974
     },
     "sound/common":{
       "bundleName":"sound/common", "hash":"345f5e7291820d99d5aca501fde97095976046ccb221619c8fd6c9c66deeaabe", "category":"StartApp", "crc":4262380979, "fileSize":1210887
@@ -89319,11 +89325,14 @@
     "stage_challenge_187":{
       "bundleName":"stage_challenge_187", "hash":"d9af58d4f2d9821c9a9c02b501e7effbd6b3d905672241198609edb56fbc0850", "category":"AsNeeded", "crc":403799175, "fileSize":78220
     },
+    "stage_challenge_188":{
+      "bundleName":"stage_challenge_188", "hash":"c79eb6783184a0362fa5a2af71a237f8e84b82c695272c4e8321f23b27af85ef", "category":"AsNeeded", "crc":2052504009, "fileSize":78395
+    },
     "stamp/01":{
-      "bundleName":"stamp/01", "hash":"2f70446a7b0ad8f6cf820e6a892e770db4177963bd21045df2aff8a399646f87", "category":"StartApp", "crc":3120179925, "fileSize":24045790
+      "bundleName":"stamp/01", "hash":"b180fe428c1548899fef41b2586b5d80b4177963bd21045df2aff8a399646f87", "category":"StartApp", "crc":3995274136, "fileSize":24104585
     },
     "stampatlas":{
-      "bundleName":"stampatlas", "hash":"1f01dd061f7ccb7d6d999cb5c802ad4157be9051b50df4d4c764dbd496577275", "category":"StartApp", "crc":1722363380, "fileSize":26728301
+      "bundleName":"stampatlas", "hash":"a41090c3afe395435dd257d81ea20bca57be9051b50df4d4c764dbd496577275", "category":"StartApp", "crc":805371955, "fileSize":26789038
     },
     "star3d/background/00001":{
       "bundleName":"star3d/background/00001", "hash":"717104db26f9ec8acb4e05f83b186b9aeb6e4164392057e24bbf655291db5665", "category":"AsNeeded", "crc":852885182, "dependencies":[
@@ -111310,7 +111319,7 @@
       "bundleName":"thumb/deco/pins", "hash":"6a3079837d57b649c90a6b426c16cde80e1f650ff1fe429368d23d2f8685426a", "category":"StartApp", "crc":788502017, "fileSize":491600
     },
     "thumb/degree":{
-      "bundleName":"thumb/degree", "hash":"21636333c29ef97c3ee77812d6ca9c7f648c817e9312e03f87482718238ba937", "category":"StartApp", "crc":2587326662, "fileSize":5926643
+      "bundleName":"thumb/degree", "hash":"56c26dd437d2779ed1af9e48676c1622648c817e9312e03f87482718238ba937", "category":"StartApp", "crc":2124285182, "fileSize":5933794
     },
     "thumb/eventbadge":{
       "bundleName":"thumb/eventbadge", "hash":"3e01393c52dd26ae063fc1d28ceb56ba302a37176595477e17bf40120992fccf", "category":"StartApp", "crc":405703185, "fileSize":20593
