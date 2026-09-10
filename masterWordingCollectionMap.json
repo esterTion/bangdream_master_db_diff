@@ -323,6 +323,9 @@
   "bandStoryChapterSpecialPage_maintenanceDialog_title":{
     "name":"bandStoryChapterSpecialPage_maintenanceDialog_title", "wording":"特設ページメンテナンス中"
   },
+  "screen_subTitle_friendLiveClearGift":{
+    "name":"screen_subTitle_friendLiveClearGift", "wording":"一覧"
+  },
   "dialog_teamLiveFestivalStageDescription_title":{
     "name":"dialog_teamLiveFestivalStageDescription_title", "wording":"ルールの説明"
   },
@@ -369,7 +372,7 @@
     "name":"dialog_liveSettings_3dLiveModeQuality_normal", "wording":"標準"
   },
   "transitionButton_button_story":{
-    "name":"transitionButton_button_story", "wording":"ストーリー"
+    "name":"transitionButton_button_story", "wording":"ストーリーへ"
   },
   "transitionButton_button_decorationCustomize":{
     "name":"transitionButton_button_decorationCustomize", "wording":"デコレーション"
@@ -1302,7 +1305,7 @@
     "name":"dialog_productBuyableCountOverError_messageProductName", "wording":"{0}は\\n"
   },
   "dialog_liveBoostFullUse_title":{
-    "name":"dialog_liveBoostFullUse_title", "wording":"全消費"
+    "name":"dialog_liveBoostFullUse_title", "wording":"最大消費"
   },
   "decoration_settingIcon_text":{
     "name":"decoration_settingIcon_text", "wording":"設定中"
@@ -2420,6 +2423,9 @@
   "word_limited":{
     "name":"word_limited", "wording":"限定"
   },
+  "no_friendLiveClearGift_history_text":{
+    "name":"no_friendLiveClearGift_history_text", "wording":"受け取った差し入れはありません。"
+  },
   "dialog_loginDLDataOnlyDownload_description":{
     "name":"dialog_loginDLDataOnlyDownload_description", "wording":"基本データのみ"
   },
@@ -3069,7 +3075,7 @@
     "name":"appealCategory_fullComboMusic_label", "wording":"フルコンボ達成"
   },
   "dialog_liveBoostFullUse_caution":{
-    "name":"dialog_liveBoostFullUse_caution", "wording":"※ライブスタート時の所持数すべてを消費します。（最大10）"
+    "name":"dialog_liveBoostFullUse_caution", "wording":"※所持数が10に満たない場合、所持数すべてを消費します。"
   },
   "gachaTop_allMemberGachaStep1_partLabel":{
     "name":"gachaTop_allMemberGachaStep1_partLabel", "wording":"ボーカル"
@@ -3265,6 +3271,9 @@
   },
   "dialog_userHistoryPageConfirm_info_list":{
     "name":"dialog_userHistoryPageConfirm_info_list", "wording":"・プレイヤーID\\n・プレイヤー名\\n・登録年月日\\n・ログイン日数\\n・最初に引いたメンバー\\n・各難易度毎の最初にフルコンボした楽曲\\n・獲得したメンバー数\\n・最も多くメンバーを獲得したキャラクター\\n・各難易度毎の楽曲クリア率\\n・初めてランキング10000位に入賞したイベントと\\n　その時の順位\\n・各ストーリーにおける読破済みストーリー数\\n・ラウンジ会話の累計読破数\\n・あなたの登録日と一番公開日が近い楽曲"
+  },
+  "screen_mainTitle_friendLiveClearGift":{
+    "name":"screen_mainTitle_friendLiveClearGift", "wording":"差し入れ"
   },
   "dialog_specialSkinDetailSetting_tapEffect":{
     "name":"dialog_specialSkinDetailSetting_tapEffect", "wording":"期間限定タップエフェクト"
@@ -4133,6 +4142,9 @@
   "generalElection_votePeriod":{
     "name":"generalElection_votePeriod", "wording":"投票期間"
   },
+  "friendLiveClearGift_receive_lefttime":{
+    "name":"friendLiveClearGift_receive_lefttime", "wording":"受け取り期限"
+  },
   "header_mainTitle_aprilfool2021SpecialPage":{
     "name":"header_mainTitle_aprilfool2021SpecialPage", "wording":"イヴの天下トーイツ！　遊び方"
   },
@@ -4168,6 +4180,9 @@
   },
   "screen_missionListCell_comebackInviteMission":{
     "name":"screen_missionListCell_comebackInviteMission", "wording":"カムバック招待\\nミッション"
+  },
+  "friendLiveClearGift_send_count_text":{
+    "name":"friendLiveClearGift_send_count_text", "wording":"フレンドに差し入れを送りました！\\n（本日残り{0}回）"
   },
   "dialog_garupaPassRestoreError_communicationFailedMessage":{
     "name":"dialog_garupaPassRestoreError_communicationFailedMessage", "wording":"通信に失敗しました。"
@@ -4429,6 +4444,9 @@
   },
   "header_mainTitle_characterRank":{
     "name":"header_mainTitle_characterRank", "wording":"キャラランク"
+  },
+  "friendLiveClearGift_received":{
+    "name":"friendLiveClearGift_received", "wording":"差し入れを受け取りました"
   },
   "dialog_starShopSubscriptionNeedRecoveryCheck_failedMessage":{
     "name":"dialog_starShopSubscriptionNeedRecoveryCheck_failedMessage", "wording":"通信エラーが発生しました。\\nタイトルに戻ります。"
@@ -5516,6 +5534,9 @@
   "starShopWindowGarupaPass_purchase":{
     "name":"starShopWindowGarupaPass_purchase", "wording":"購入"
   },
+  "friendLiveClearGift_receive_list":{
+    "name":"friendLiveClearGift_receive_list", "wording":"獲得アイテム一覧"
+  },
   "twitter_newYearCard_tweetText_choice":{
     "name":"twitter_newYearCard_tweetText_choice", "wording":"___4pyS___年賀状キャンペーン開催中___4pyo___\\nお正月に選んだバンドからの年賀状を見よう___4pyJ___\\n{0}を選んだよ___4p2j___\\nみんなも年賀状を見たいバンドを選ぼう♪\\nhttps://bang-dream-gbp.onelink.me/qbvS/12d92f8 \\n"
   },
@@ -5589,7 +5610,7 @@
     "name":"dialog_rhythmgameRetry_buttonRetry", "wording":"リトライ"
   },
   "word_liveBoost_fullUse":{
-    "name":"word_liveBoost_fullUse", "wording":"全消費"
+    "name":"word_liveBoost_fullUse", "wording":"最大消費"
   },
   "dialog_liveSettings_standard":{
     "name":"dialog_liveSettings_standard", "wording":"標準"
@@ -6002,6 +6023,9 @@
   "bandStoryChapterSpecialPage_caption_precedingStory":{
     "name":"bandStoryChapterSpecialPage_caption_precedingStory", "wording":"第1話先行公開"
   },
+  "friendLiveClearGift_receive_date":{
+    "name":"friendLiveClearGift_receive_date", "wording":"受け取り日時"
+  },
   "dialog_displayGachaScreenTerm_caution":{
     "name":"dialog_displayGachaScreenTerm_caution", "wording":"・開催期間はガチャ画面に表示しています"
   },
@@ -6013,6 +6037,9 @@
   },
   "dialog_voiceStamp_description":{
     "name":"dialog_voiceStamp_description", "wording":"使用時にボイスが再生されるスタンプです。\\n\n※獲得後、ボイス無しの同じスタンプも所持している場合、ボイス付きのみ有効となります。"
+  },
+  "friendLiveClearGift_receive_limit_format":{
+    "name":"friendLiveClearGift_receive_limit_format", "wording":"あと {0}"
   },
   "dialog_musicSortFilter_notFullCombo":{
     "name":"dialog_musicSortFilter_notFullCombo", "wording":"未フルコンボ"
@@ -6128,6 +6155,9 @@
   "exMission_complete_notice":{
     "name":"exMission_complete_notice", "wording":"EXミッション達成！"
   },
+  "friendLiveClearGift_history_limit_text":{
+    "name":"friendLiveClearGift_history_limit_text", "wording":"※受け取り履歴は直近の360件まで表示されます"
+  },
   "dialog_liveSettings_standardSuddenRate":{
     "name":"dialog_liveSettings_standardSuddenRate", "wording":"リズムアイコンの表示位置"
   },
@@ -6157,6 +6187,9 @@
   },
   "bandtop_button_biography":{
     "name":"bandtop_button_biography", "wording":"キャラ図鑑"
+  },
+  "friendLiveClearGift_can_receive":{
+    "name":"friendLiveClearGift_can_receive", "wording":"受け取り可能な差し入れ"
   },
   "dialog_gachaInheritResultDialog_title":{
     "name":"dialog_gachaInheritResultDialog_title", "wording":"引き継ぎ"
@@ -7082,6 +7115,9 @@
   "result_button_retryLive":{
     "name":"result_button_retryLive", "wording":"もう1回ライブ"
   },
+  "friendLiveClearGift_deletedUser":{
+    "name":"friendLiveClearGift_deletedUser", "wording":"削除されたプレイヤーです。"
+  },
   "dialog_musicSortFilter_musicLevel":{
     "name":"dialog_musicSortFilter_musicLevel", "wording":"楽曲レベル順"
   },
@@ -7449,7 +7485,7 @@
     "name":"teamLiveFestival_stageSelect_rotationUpdateRestTimeFormat", "wording":"%h'時間'mm'分'"
   },
   "dialog_favoriteStampEdit_resetMessage":{
-    "name":"dialog_favoriteStampEdit_resetMessage", "wording":"お気に入りスタンプをリセットします。\\nよろしいですか？"
+    "name":"dialog_favoriteStampEdit_resetMessage", "wording":"表示中のお気に入りスタンプを\\nリセットします。\\nよろしいですか？"
   },
   "collaboOriginalMusic_receiveDialog_detail":{
     "name":"collaboOriginalMusic_receiveDialog_detail", "wording":"[505050]期間限定楽曲を獲得しました。\\n[FF3B72] {0} [-]までプレイすることができます。[-]"
@@ -7499,6 +7535,9 @@
   "word_technique":{
     "name":"word_technique", "wording":"テクニック"
   },
+  "friendLiveClearGift_ui_limit_text":{
+    "name":"friendLiveClearGift_ui_limit_text", "wording":"※直近の100件まで表示しています。\\n全ての獲得アイテムは「詳細」よりご確認ください。"
+  },
   "aprilFool2021_regionDialog_description":{
     "name":"aprilFool2021_regionDialog_description", "wording":"※限定スキンを使用してライブをする度に、ランダムでいずれかの\\n　地方の後編ストーリーが解放されます。\n※解放された後編ストーリーは、前編ストーリーを読んだ後に\\n　読むことができます。"
   },
@@ -7513,6 +7552,9 @@
   },
   "dialog_frameDetail_title":{
     "name":"dialog_frameDetail_title", "wording":"フレーム詳細"
+  },
+  "no_friend_text":{
+    "name":"no_friend_text", "wording":"フレンドがいません。"
   },
   "dialog_sort_costumeConditionSortFavorite":{
     "name":"dialog_sort_costumeConditionSortFavorite", "wording":"お気に入り衣装のみ表示"
@@ -7754,6 +7796,9 @@
   "dialog_stampBlacklistEdit_resetMessage":{
     "name":"dialog_stampBlacklistEdit_resetMessage", "wording":"非表示スタンプをリセットします。\\nよろしいですか？"
   },
+  "btn_friendLiveClearGift_detail":{
+    "name":"btn_friendLiveClearGift_detail", "wording":"詳細"
+  },
   "snsShare_fortuneTextureTemplete_normalLuckMessage":{
     "name":"snsShare_fortuneTextureTemplete_normalLuckMessage", "wording":"#ガルパゆく年くる年___4piA___\\n新春おみくじキャンペーン2020___4pyo___\\n\\n今日は{0}だったよ___4pmq___\\n\\nガルパでおみくじを引いて、ゲーム内アイテムをもらおう___4p2j___\\n1月3日23:59まで、1日1回引けますよ___4pi6___\\n\\n___4pyo___おみくじを引きに行く___4qyH___\\nhttps://bit.ly/2EleuoS\\n"
   },
@@ -7867,6 +7912,9 @@
   },
   "dialog_purchaseError_existingPurchasePendingMessage":{
     "name":"dialog_purchaseError_existingPurchasePendingMessage", "wording":"\\n正常に終了していない購入処理があります。\\n購入の復元をお試しください。"
+  },
+  "friendLiveClearGift_send_text":{
+    "name":"friendLiveClearGift_send_text", "wording":"差し入れ成功！"
   },
   "dialog_privateRoomEntrance_title":{
     "name":"dialog_privateRoomEntrance_title", "wording":"ルーム検索"
@@ -8355,7 +8403,7 @@
     "name":"area_shop_transitionShopButton", "wording":"ショップへ"
   },
   "word_liveBoost_fullUse_live_startButton":{
-    "name":"word_liveBoost_fullUse_live_startButton", "wording":"全消費："
+    "name":"word_liveBoost_fullUse_live_startButton", "wording":"最大消費："
   },
   "dialog_privateRoomEntrance_searchNearRoomButton":{
     "name":"dialog_privateRoomEntrance_searchNearRoomButton", "wording":"近くのルーム"
@@ -8374,6 +8422,9 @@
   },
   "tutorial_slideTitle_judgement_b":{
     "name":"tutorial_slideTitle_judgement_b", "wording":"判定のタイミングを調節しよう！"
+  },
+  "tutorial_slideTitle_friendLiveClearGift":{
+    "name":"tutorial_slideTitle_friendLiveClearGift", "wording":"フレンドに差し入れを送ろう！"
   },
   "generalElection_description_interimReport":{
     "name":"generalElection_description_interimReport", "wording":"公式ページにて中間結果発表中！"
@@ -8422,6 +8473,9 @@
   },
   "garupaCup_word_individualMatch":{
     "name":"garupaCup_word_individualMatch", "wording":"個人戦"
+  },
+  "no_friendLiveClearGift_text":{
+    "name":"no_friendLiveClearGift_text", "wording":"受け取れる差し入れはありません。"
   },
   "garupaCup_tutorialSlideFirst_title":{
     "name":"garupaCup_tutorialSlideFirst_title", "wording":"ガルパ杯 1次予選に参加しよう！"

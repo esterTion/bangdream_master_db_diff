@@ -78,7 +78,7 @@
     "commonConfigId":29, "commonConfigType":"event_new_badge_disabling_date", "value":"TRUE", "startAt":1533729600000, "endAt":4102412400000
   },
   "30":{
-    "commonConfigId":30, "commonConfigType":"limit_live_boost", "value":"10", "startAt":946652400000, "endAt":4102412400000
+    "commonConfigId":30, "commonConfigType":"limit_live_boost", "value":"25", "startAt":946652400000, "endAt":4102412400000
   },
   "31":{
     "commonConfigId":31, "commonConfigType":"recover_live_boost_minute", "value":"30", "startAt":946652400000, "endAt":4102412400000
@@ -99,7 +99,7 @@
     "commonConfigId":36, "commonConfigType":"premium_pass_expired_days", "value":"30", "startAt":946652400000, "endAt":4102412400000
   },
   "40":{
-    "commonConfigId":40, "commonConfigType":"limit_live_boost_stack", "value":"89", "startAt":946652400000, "endAt":4102412400000
+    "commonConfigId":40, "commonConfigType":"limit_live_boost_stack", "value":"74", "startAt":946652400000, "endAt":4102412400000
   },
   "41":{
     "commonConfigId":41, "commonConfigType":"introduction", "value":"よろしくお願いします！", "startAt":946652400000, "endAt":4102412400000
@@ -348,7 +348,7 @@
     "commonConfigId":150, "commonConfigType":"deck_rank_rate", "value":"2.5", "startAt":946652400000, "endAt":4102412400000
   },
   "151":{
-    "commonConfigId":151, "commonConfigType":"live_boost_full_use", "value":"1", "startAt":946652400000, "endAt":4102412400000
+    "commonConfigId":151, "commonConfigType":"live_boost_full_use", "value":"2", "startAt":946652400000, "endAt":4102412400000
   },
   "152":{
     "commonConfigId":152, "commonConfigType":"deck_rank_rate_recalc_in_login_enable", "value":"TRUE", "startAt":946652400000, "endAt":4102412400000
@@ -418,5 +418,20 @@
   },
   "175":{
     "commonConfigId":175, "commonConfigType":"is_nfo_event_key", "value":"TRUE", "startAt":1777442400000, "endAt":4102412400000
+  },
+  "176":{
+    "commonConfigId":176, "commonConfigType":"friend_live_clear_gift_login_condition", "value":"14", "startAt":1775023200000, "endAt":4102412400000
+  },
+  "177":{
+    "commonConfigId":177, "commonConfigType":"friend_live_clear_gift_one_day_limit", "value":"3", "startAt":1775023200000, "endAt":4102412400000
+  },
+  "178":{
+    "commonConfigId":178, "commonConfigType":"friend_live_clear_gift_expire_hour", "value":"24", "startAt":1775023200000, "endAt":4102412400000
+  },
+  "179":{
+    "commonConfigId":179, "commonConfigType":"friend_live_clear_gift_one_day_limit_receive", "value":"360", "startAt":1775023200000, "endAt":4102412400000
+  },
+  "180":{
+    "commonConfigId":180, "commonConfigType":"limit_live_boost_change_at", "value":"2026/09/10 13:30:00", "startAt":1775023200000, "endAt":4102412400000
   }
 }
