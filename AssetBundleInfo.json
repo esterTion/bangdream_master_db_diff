@@ -1,5 +1,5 @@
 {
-  "version":"10.2.0.140", "bundles":{
+  "version":"10.2.0.150", "bundles":{
     "actionset/group0":{
       "bundleName":"actionset/group0", "hash":"d3e2031a3f5943e36a320dec43c19b4cbb9fa2f9e157d254bf4c792a14cb05b9", "category":"StartApp", "crc":2528061075, "fileSize":15794
     },
@@ -34906,7 +34906,7 @@
       "bundleName":"eventcommon", "hash":"ac0f00fb91211b374b128dd7906ad55baf9da3c27d9c7be418c0a211873bf3b2", "category":"StartApp", "crc":1795151884, "fileSize":19536
     },
     "exchange/images":{
-      "bundleName":"exchange/images", "hash":"dc6b4f97ccd7f1ee7e486df2d0cd3eb82a1d290dd68241d18e448f933ce0d329", "category":"AsNeeded", "crc":3103848961, "fileSize":2479335
+      "bundleName":"exchange/images", "hash":"b7af7e6608a66514b13c5fa0cd6297ed2a1d290dd68241d18e448f933ce0d329", "category":"AsNeeded", "crc":2993868775, "fileSize":2486652
     },
     "exchange/miracleticket/bandselect/001":{
       "bundleName":"exchange/miracleticket/bandselect/001", "hash":"206795f99b35f78e0ed26107e65d9f321c5bce40d43955cf986a33e5e1a0f6d0", "category":"StartApp", "crc":3265922810, "fileSize":1416969
@@ -40053,6 +40053,12 @@
       ],
       "fileSize":2053174
     },
+    "gacha/screen/gacha1974":{
+      "bundleName":"gacha/screen/gacha1974", "hash":"434b1e876de1f19c391c747f49e5023a740ca7ec78609bef11cb4ee4847d9591", "category":"AsNeeded", "crc":1946464997, "dependencies":[
+        "effect/common_materials"
+      ],
+      "fileSize":2257061
+    },
     "gacha/screen/gacha1977":{
       "bundleName":"gacha/screen/gacha1977", "hash":"285fd449a65f9a68488dae6f6188035cfb35f9da9f21bca5ba42b2d913ebf2c4", "category":"AsNeeded", "crc":3862327861, "dependencies":[
         "effect/common_materials"
@@ -44802,6 +44808,9 @@
     "graphicalinfo/info_stage_challenge_189":{
       "bundleName":"graphicalinfo/info_stage_challenge_189", "hash":"2f51fe9006d69d0867847085432c90c098f8d92329af5fb1ebb34471701731f3", "category":"AsNeeded", "crc":2570373453, "fileSize":109266
     },
+    "graphicalinfo/info_stage_challenge_190":{
+      "bundleName":"graphicalinfo/info_stage_challenge_190", "hash":"164a422b3e5a3b422ee63ff3fd0c3309ca30799833255e507784581ffa4a9afb", "category":"AsNeeded", "crc":541845354, "fileSize":111632
+    },
     "graphicalinfo/info_yusho2_slide":{
       "bundleName":"graphicalinfo/info_yusho2_slide", "hash":"1042683e18f65c5578ea65d5c514fb26fe121ac9521ac44341aeee1337e53e7f", "category":"AsNeeded", "crc":1496385634, "fileSize":158807
     },
@@ -44959,7 +44968,7 @@
       "bundleName":"graphicalinfo/qualify_2025_slide", "hash":"cbef7377df76c6d9654cff4ff4825d4c5f36a2aaf1e79714936ff53932f074a6", "category":"AsNeeded", "crc":1535428929, "fileSize":197691
     },
     "homebanner":{
-      "bundleName":"homebanner", "hash":"c2faa903c210a7d095ad14fc26fba8fc578e1801cf37bea8d19805e333aba690", "category":"StartApp", "crc":362150156, "fileSize":49336019
+      "bundleName":"homebanner", "hash":"5a20f926204d6bb8f55f0d8ab035b0cc578e1801cf37bea8d19805e333aba690", "category":"StartApp", "crc":395632119, "fileSize":49350411
     },
     "ingameskin/bgskin/habahiro":{
       "bundleName":"ingameskin/bgskin/habahiro", "hash":"564ce615abbd1e72b46996bc04a043243f91f1343bc7ee4cc04232cda53d5826", "category":"AsNeeded", "crc":3267161361, "fileSize":945202
@@ -90297,6 +90306,9 @@
     "stage_challenge_189":{
       "bundleName":"stage_challenge_189", "hash":"abed36bb574f7d48e36931c8aa011e352cbdeff66551e4da3ac4cd384376d601", "category":"AsNeeded", "crc":2982003331, "fileSize":90975
     },
+    "stage_challenge_190":{
+      "bundleName":"stage_challenge_190", "hash":"02e0a11b2ff29dad2b71c80c70bed9f23d4313745d1ba2d8370986b1e77b5c09", "category":"AsNeeded", "crc":2533806481, "fileSize":51796
+    },
     "stamp/01":{
       "bundleName":"stamp/01", "hash":"241996fea96b4d5a74ef87543cdea29ab4177963bd21045df2aff8a399646f87", "category":"StartApp", "crc":3023398436, "fileSize":24491447
     },
@@ -112585,13 +112597,13 @@
       "bundleName":"thumb/deco/pins", "hash":"6a3079837d57b649c90a6b426c16cde80e1f650ff1fe429368d23d2f8685426a", "category":"StartApp", "crc":788502017, "fileSize":491600
     },
     "thumb/degree":{
-      "bundleName":"thumb/degree", "hash":"95c88d1eef3f20c4f34432c3a7dcc63d648c817e9312e03f87482718238ba937", "category":"StartApp", "crc":1044698021, "fileSize":5974145
+      "bundleName":"thumb/degree", "hash":"ea24cb3f165266aeb84198764255b56c648c817e9312e03f87482718238ba937", "category":"StartApp", "crc":832747195, "fileSize":5981162
     },
     "thumb/eventbadge":{
       "bundleName":"thumb/eventbadge", "hash":"3e01393c52dd26ae063fc1d28ceb56ba302a37176595477e17bf40120992fccf", "category":"StartApp", "crc":405703185, "fileSize":20593
     },
     "thumb/exchangeicon":{
-      "bundleName":"thumb/exchangeicon", "hash":"fa1343401f34e57f8b935022692ae9a320b575af376e5912f2c2c3cf1a5e3436", "category":"StartApp", "crc":3181839713, "fileSize":81636
+      "bundleName":"thumb/exchangeicon", "hash":"8efa354c5157047dc3a0f72016a5830920b575af376e5912f2c2c3cf1a5e3436", "category":"StartApp", "crc":2120165687, "fileSize":81677
     },
     "thumb/limiteditem":{
       "bundleName":"thumb/limiteditem", "hash":"006eb566d1d0708e39c3290fe66126c60a364cd9cee45f69fe22a7018d454089", "category":"StartApp", "crc":3893149126, "fileSize":653491
