@@ -1,1 +1,202 @@
-[]
+{
+  "348":{
+    "eventId":348, "attributes":[
+      {
+        "eventId":348, "attribute":"cool", "percent":10
+      }
+    ],
+    "characters":[
+      {
+        "eventId":348, "characterId":31, "percent":20, "seq":2
+      },
+      {
+        "eventId":348, "characterId":32, "percent":20, "seq":1
+      },
+      {
+        "eventId":348, "characterId":33, "percent":20, "seq":3
+      },
+      {
+        "eventId":348, "characterId":34, "percent":20, "seq":4
+      },
+      {
+        "eventId":348, "characterId":35, "percent":20, "seq":5
+      }
+    ],
+    "stories":[
+      {
+        "eventId":348, "seq":0, "caption":"オープニング", "title":"夜空に浮かぶは", "synopsis":"ハードなバンド練習を終えたRAS。\nロックはレイヤに声を掛け――", "scenarioId":"event348-01", "coverImage":"348_0", "backgroundImage":"0", "releasePt":0, "releaseConditions":"オープニングシナリオ", "backgroundImageId":499, "mainStoryId":0, "rewards":[
+          {
+            "id":5226, "eventId":348, "seq":0, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":5227, "eventId":348, "seq":0, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":348, "seq":1, "caption":"第１話", "title":"手放したもの", "synopsis":"自室で練習中のロックのもとに\n電話を掛けてきたのは意外な人物で……", "scenarioId":"event348-02", "coverImage":"348_1", "backgroundImage":"0", "releasePt":3000, "releaseConditions":"3000イベントP達成", "backgroundImageId":1312, "mainStoryId":0, "rewards":[
+          {
+            "id":5228, "eventId":348, "seq":1, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":5229, "eventId":348, "seq":1, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":348, "seq":2, "caption":"第２話", "title":"日々を繋いで", "synopsis":"今のRASのためにできること――\n考えたロックは、ある提案をする。", "scenarioId":"event348-03", "coverImage":"348_2", "backgroundImage":"0", "releasePt":6000, "releaseConditions":"6000イベントP達成", "backgroundImageId":499, "mainStoryId":0, "rewards":[
+          {
+            "id":5230, "eventId":348, "seq":2, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":5231, "eventId":348, "seq":2, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":348, "seq":3, "caption":"第３話", "title":"私たちの休日", "synopsis":"ショッピングモールにやって来たRAS。\nそこにはたくさんの笑顔が咲いて――", "scenarioId":"event348-04", "coverImage":"348_3", "backgroundImage":"0", "releasePt":15000, "releaseConditions":"15000イベントP達成", "backgroundImageId":76, "mainStoryId":0, "rewards":[
+          {
+            "id":5232, "eventId":348, "seq":3, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":5233, "eventId":348, "seq":3, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":348, "seq":4, "caption":"第４話", "title":"小さなこぐま", "synopsis":"プラネタリウムで解説を聞くロック。\n強く輝く星に寄り添うのは……", "scenarioId":"event348-05", "coverImage":"348_4", "backgroundImage":"0", "releasePt":28000, "releaseConditions":"28000イベントP達成", "backgroundImageId":1313, "mainStoryId":0, "rewards":[
+          {
+            "id":5234, "eventId":348, "seq":4, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":5235, "eventId":348, "seq":4, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":348, "seq":5, "caption":"第５話", "title":"『ロック』", "synopsis":"夜。なんとなく別れがたいRASが\n向かった先は、思い出の場所。", "scenarioId":"event348-06", "coverImage":"348_5", "backgroundImage":"0", "releasePt":40000, "releaseConditions":"40000イベントP達成", "backgroundImageId":601, "mainStoryId":0, "rewards":[
+          {
+            "id":5236, "eventId":348, "seq":5, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":5237, "eventId":348, "seq":5, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      },
+      {
+        "eventId":348, "seq":6, "caption":"エンディング", "title":"最強のファイブマンセル", "synopsis":"胸に秘めるはあの日の決意。\nそれは力強く、いつまでも輝いている。", "scenarioId":"event348-07", "coverImage":"348_6", "backgroundImage":"0", "releasePt":55000, "releaseConditions":"55000イベントP達成", "backgroundImageId":601, "mainStoryId":0, "rewards":[
+          {
+            "id":5238, "eventId":348, "seq":6, "rewardType":"item", "rewardId":13, "rewardQuantity":1
+          },
+          {
+            "id":5239, "eventId":348, "seq":6, "rewardType":"star", "rewardQuantity":50
+          }
+        ]
+      }
+    ],
+    "eventAttributeAndCharacterBonus":{
+      "eventId":348, "pointPercent":20, "parameterPercent":0
+    },
+    "members":{
+      "2554":{
+        "eventId":348, "situationId":2554, "percent":20, "seq":1
+      },
+      "2555":{
+        "eventId":348, "situationId":2555, "percent":20, "seq":2
+      },
+      "2558":{
+        "eventId":348, "situationId":2558, "percent":20, "seq":3
+      }
+    },
+    "limitBreaks":{
+      "1":[
+        {
+          "rarity":1, "rank":0, "percent":0
+        },
+        {
+          "rarity":1, "rank":1, "percent":0.2
+        },
+        {
+          "rarity":1, "rank":2, "percent":0.3
+        },
+        {
+          "rarity":1, "rank":3, "percent":0.4
+        },
+        {
+          "rarity":1, "rank":4, "percent":0.5
+        }
+      ],
+      "2":[
+        {
+          "rarity":2, "rank":0, "percent":0
+        },
+        {
+          "rarity":2, "rank":1, "percent":0.4
+        },
+        {
+          "rarity":2, "rank":2, "percent":0.6
+        },
+        {
+          "rarity":2, "rank":3, "percent":0.8
+        },
+        {
+          "rarity":2, "rank":4, "percent":1
+        }
+      ],
+      "3":[
+        {
+          "rarity":3, "rank":0, "percent":0
+        },
+        {
+          "rarity":3, "rank":1, "percent":1
+        },
+        {
+          "rarity":3, "rank":2, "percent":2
+        },
+        {
+          "rarity":3, "rank":3, "percent":3
+        },
+        {
+          "rarity":3, "rank":4, "percent":4
+        }
+      ],
+      "4":[
+        {
+          "rarity":4, "rank":0, "percent":0
+        },
+        {
+          "rarity":4, "rank":1, "percent":3
+        },
+        {
+          "rarity":4, "rank":2, "percent":4
+        },
+        {
+          "rarity":4, "rank":3, "percent":5
+        },
+        {
+          "rarity":4, "rank":4, "percent":6
+        }
+      ],
+      "5":[
+        {
+          "rarity":5, "rank":0, "percent":0
+        },
+        {
+          "rarity":5, "rank":1, "percent":12
+        },
+        {
+          "rarity":5, "rank":2, "percent":13
+        },
+        {
+          "rarity":5, "rank":3, "percent":14
+        },
+        {
+          "rarity":5, "rank":4, "percent":15
+        }
+      ]
+    },
+    "threshold":{
+      "eventType":"mission_live", "threshold1":50, "threshold2":70
+    }
+  }
+}
